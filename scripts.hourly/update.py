@@ -4,8 +4,6 @@ import requests
 import bs4
 from datetime import datetime
 
-t = open('case-locations.md', 'w')
-
 url = 'https://www.health.nsw.gov.au/Infectious/covid-19/Pages/case-locations-and-alerts.aspx'
 soup = bs4.BeautifulSoup(requests.get(url, verify=True).text, 'html.parser')
 
@@ -21,9 +19,10 @@ headerSizes = [
 ]
 
 fmt = '| {} |\n'.format(' | '.join(map(lambda x: '{:' + str(x[1]) + '}', headerSizes)))
-t.write(fmt.format(*map(lambda x: x[0], headerSizes)))
+mdHeader = []
+mdHeader.append(fmt.format(*map(lambda x: x[0], headerSizes)))
 
-t.write('| {} |\n'.format(' | '.join(['---'] * len(headerSizes))))
+mdHeader.append('| {} |\n'.format(' | '.join(['---'] * len(headerSizes))))
 
 def mapType(t):
     if 'Get tested immediately. Self-isolate until you get a negative result.' in t:
@@ -41,7 +40,8 @@ rows = []
 for row in caseLocationTable:
     cells = list(map(lambda x: x.text, row.find_all('td')))
     rowHash = dict(zip(header, cells))
-
+    if 'Type' not in rowHash:
+        print(rowHash)
     rowHash['Type'] = mapType(rowHash['Type'])
     rows.append(rowHash)
 
@@ -49,8 +49,16 @@ for row in caseLocationTable:
 def parseDate(date):
     return datetime.strptime(date, '%d/%m/%Y')
 
-rows.sort(key=lambda x: (x['Suburb'], x['Venue'], parseDate(x['Last updated'])))
-rows.reverse()
+def dump(filename, rows, key, reverse=False):
+    rows = rows[:]
+    with open(filename, 'w') as t:
+        for h in mdHeader:
+            t.write(h)
+        rows.sort(key=key)
+        if reverse:
+            rows.reverse()
+        for rowHash in rows:
+            t.write(fmt.format(*map(lambda x: rowHash[x[0]].replace('\n', ''), headerSizes)))
 
-for rowHash in rows:
-    t.write(fmt.format(*map(lambda x: rowHash[x[0]].replace('\n', ''), headerSizes)))
+dump('case-locations-by-updated.md', rows, key=lambda x: (parseDate(x['Last updated']), x['Suburb'], x['Venue']), reverse=True)
+dump('case-locations-by-suburb.md', rows, key=lambda x: (x['Suburb'], x['Venue'], parseDate(x['Last updated'])))
