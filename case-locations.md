@@ -28,7 +28,7 @@
 | 11/07/2021      | Casual Contact       | Kogarah         | Kogarah Golden Chopsticks | 4:15pm to 4:45pm on Wednesday 7 July 2021                    |
 | 11/07/2021      | Casual Contact       | Kogarah         | Kogarah Fish Market       | 1pm to 2pm on Wednesday 7 July 2021                          |
 | 11/07/2021      | Casual Contact       | Kogarah         | Cafe 959                  | 9:30am to 10am on Monday 5 July 2021                         |
-| 11/07/2021      | Casual Contact       | Kareela         | El Portico Chicken        | 5:$5pm to 6:10pm on Wednesday 7 July 2021                    |
+| 11/07/2021      | Casual Contact       | Kareela         | El Portico Chicken        | 5:45pm to 6:10pm on Wednesday 7 July 2021                    |
 | 11/07/2021      | Casual Contact       | Hurstville      | N and G Mechanical Repairs (including the shared car park with Speedy Tyres) | 1:30pm to 2pm on Saturday 3 July 2021                        |
 | 11/07/2021      | Casual Contact       | Hurstville      | Coles Westfield Hurstville  | 10:15pm to 10:30pm on Wednesday 7 July 2021                  |
 | 11/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville Station  | 10:30pm to 10:45pm on Tuesday 6 July 2021                    |
@@ -45,7 +45,6 @@
 | 11/07/2021      | Casual Contact       | Fairfield       | Kmart Fairfield Forum     | 7pm to 7:20pm on Wednesday 7 July 20218pm to 8:10pm on Wednesday 7 July 2021 |
 | 11/07/2021      | Casual Contact       | Fairfield       | Fairfield Forum Pharmacy  | 10:45am to 12:15pm on Wednesday 7 July 202112:50pm to 5pm on Thursday 8 July 202110am to 10:30am on Saturday 10 July 2021 |
 | 11/07/2021      | Casual Contact       | Fairfield       | Aldi Fairfield Forum      | 10am to 10:15am on Sunday 11 July 2021                       |
-| 11/07/2021      | Casual Contact       | Faiirfield      | Coles Fairfield Forum     | 10:15am to 10:30am on Sunday 11 July 2021                    |
 | 11/07/2021      | Casual Contact       | Eastgardens     | Ribs and Burgers Westfield Eastgardens | 5:30pm to 9:30pm on Wednesday 7 July 2021                    |
 | 11/07/2021      | Casual Contact       | Dural           | Caltex Petrol Station     | 5:10pm to 5:20pm on Tuesday 6 July 2021                      |
 | 11/07/2021      | Casual Contact       | Chippendale     | Budget Petrol Chippendale | 7pm to 7:10pm on Tuesday 6 July 2021                         |
@@ -204,7 +203,7 @@
 | 07/07/2021      | Casual Contact       | Maroubra        | Freshworld Fruit Market Pacific Square | 1:15pm to 2:15pm on Monday 5 July 2021                       |
 | 07/07/2021      | Casual Contact       | Maroubra        | Coles Maroubra Junction   | 7:10am to 8:20am on Monday 28 June 202111pm to 11:45pm on Tuesday 29 June 20211:15pm to 2pm on Friday 2 July 2021 |
 | 07/07/2021      | Casual Contact       | Granville       | Chemist Warehouse Granville | 11:15am to 11:30am on Wednesday 30 June 2021                 |
-| 07/07/2021      | Casual Contact       | Fairfield       | Coles Fairfield Forum     | 12:10pm to 12:30pm on Saturday 3 July 20217:20pm to 7:35pm on Wednesday 7 July 20218:20pm to 8:30pm on Wednesday 7 July 2021 |
+| 07/07/2021      | Casual Contact       | Fairfield       | Coles Fairfield Forum     | 12:10pm to 12:30pm on Saturday 3 July 20217:20pm to 7:35pm on Wednesday 7 July 20218:20pm to 8:30pm on Wednesday 7 July 2021 10:15am to 10:30am on Sunday 11 July 2021 |
 | 07/07/2021      | Casual Contact       | Eastlakes       | Woolworths Eastlakes Shopping Centre | 1pm to 2pm on Wednesday 30 June 2021                         |
 | 07/07/2021      | Casual Contact       | Condell Park    | Metro Petroleum Condell Park | 11:30am to 11:35am on Monday 5 July 2021                     |
 | 07/07/2021      | Casual Contact       | Casula          | Costco Casula             | 7:50pm to 9pm on Tuesday 29 June 202112pm (noon) to 1pm on Sunday 4 July 2021 |
