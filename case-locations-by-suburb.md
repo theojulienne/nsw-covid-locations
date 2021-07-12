@@ -274,7 +274,8 @@
 | 02/07/2021      | Close Contact        | Rockdale        | Volkswagon Rockdale       | 2:30pm to 4pm on Monday 28 June 2021                         |
 | 12/07/2021      | Casual Contact       | Roselands       | Coles Roselands           | 3:15pm to 4:05pm on Wednesday 7 July 202110:30am to 11am on Monday 5 July 20217:15am to 7:45am on Saturday 3 July 202110:30am to 11am on Thursday 1 July 202110:30am to 11am on Wednesday 30 June 20214:45pm to 5:45pm on Wednesday 30 June 20217:45am to 7:50am on Wednesday 30 June 2021 |
 | 06/07/2021      | Close Contact        | Roselands       | Commonwealth Bank Roselands | 8am to 3:30pm on Wednesday 30 June 20218am to 5pm on Tuesday 29 June 20218am to 5pm on Monday 28 June 2021 |
-| 12/07/2021      | Casual Contact       | Roselands       | Fruit World Roselands     | 4pm to 4:15pm on Wednesday 7 July 20211:55pm to 2:05pm on Wednesday 30 June 20211:55pm to 2:05pm on Tuesday 29 June 20211:55pm to 2:05pm on Monday 28 June 2021 |
+| 12/07/2021      | Casual Contact       | Roselands       | Fruit World Roselands     | 1:55pm to 2:05pm on Wednesday 30 June 20211:55pm to 2:05pm on Tuesday 29 June 20211:55pm to 2:05pm on Monday 28 June 2021 |
+| 12/07/2021      | Close Contact        | Roselands       | Fruit World Roselands     | 4pm to 4:15pm on Wednesday 7 July 2021                       |
 | 10/07/2021      | Casual Contact       | Roselands       | Kmart Roselands           | 10:45am to 11:15am on Saturday 3 July 20214:35pm to 4:50pm on Tuesday 29 June 2021 |
 | 12/07/2021      | Close Contact        | Roselands       | Mrs Fields Roselands Shopping Centre | 10:30am to 10:45am on Monday 5 July 20217am to 7:10am on Saturday 3 July 202110:30am to 10:45am on Thursday 1 July 202110:30am to 10:45am on Wednesday 30 June 2021 |
 | 04/07/2021      | Casual Contact       | Roselands       | Priceline Roselands       | 4:40pm to 4:55pm on Tuesday 29 June 2021                     |
