@@ -36,7 +36,6 @@ jobs:
         git pull # get any data pushed by previous steps
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data_cache
         git commit -m "Add latest dataset" -a || true
     - name: Push changes
       uses: ad-m/github-push-action@v0.5.0
