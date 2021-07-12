@@ -49,7 +49,7 @@ for row in caseLocationTable:
 def parseDate(date):
     return datetime.strptime(date, '%d/%m/%Y')
 
-rows.sort(key=lambda x: (parseDate(x['Last updated']), x['Type'], x['Suburb']))
+rows.sort(key=lambda x: (x['Suburb'], x['Venue'], parseDate(x['Last updated'])))
 rows.reverse()
 
 for rowHash in rows:
