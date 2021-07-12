@@ -7,7 +7,7 @@ name: Update
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     # Every hour *not* on the hour (to save NSW Health's poor servers)
     # (Run at 55 minutes past so that the follow-on cron job in the main repo
