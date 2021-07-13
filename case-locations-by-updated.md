@@ -1,17 +1,36 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 13/07/2021      | Casual Contact       | Windsor         | Coles Windsor             | 1:20pm to 3pm on Saturday 10 July 2021                       |
+| 13/07/2021      | Casual Contact       | Ramsgate Beach  | Health Save Pharmacy Ramsgate | 5pm to 5:40pm on Wednesday 7 July 2021                       |
+| 13/07/2021      | Casual Contact       | Pyrmont         | Coles Pyrmont             | 1pm to 1:20pm on Monday 5 July 20216pm to 6:15pm on Monday 5 July 2021 |
+| 13/07/2021      | Casual Contact       | Penrith         | Woolworths Penrith        | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
+| 13/07/2021      | Casual Contact       | Penrith         | Westfield Penrith Plaza, Ground floor food court  | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
+| 13/07/2021      | Casual Contact       | Penrith         | Trims Fruit Shop Penrith  | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
 | 13/07/2021      | Monitor for symptoms | Miranda         | Miranda Shopping Centre   | 10:45am to 12:30pm on Wednesday 7 July 2021                  |
 | 13/07/2021      | Casual Contact       | Marulan         | Hungry Jacks Marulan      | 5pm to 5:30pm on Saturday 10 July 2021                       |
-| 13/07/2021      | Close Contact        | Fairfield       | Coles Fairfield           | 7am to 12pm on Friday 9 July 202112pm to 5:30pm on Saturday 10 July 20217am to 3pm on Sunday 11 July 2021 |
+| 13/07/2021      | Casual Contact       | Jamisontown     | Penrith Pies and Pastries  | 11:50am to 12:20pm on Friday 9 July 2021                     |
+| 13/07/2021      | Casual Contact       | Guildford       | Dan Murphys Guildford     | 6pm to 6:45pm on Wednesday 7 July 2021                       |
+| 13/07/2021      | Casual Contact       | Greenacre       | Shell Coles Express Roberts Road West | 6:10am to 6:40am on Thursday 8 July 2021                     |
+| 13/07/2021      | Casual Contact       | Granville       | Woolworths Granville      | 6:15pm to 7pm on Wednesday 7 July 2021                       |
+| 13/07/2021      | Casual Contact       | Fairfield East  | BP Carrington             | 4:45pm to 5pm on Thursday 8 July 2021                        |
+| 13/07/2021      | Casual Contact       | Fairfield       | Aldi Fairfield            | 1:55pm to 2:15pm on Friday 9 July 2021                       |
+| 13/07/2021      | Close Contact        | Fairfield       | Coles Fairfield           | 7am to 3pm on Sunday 11 July 202112pm to 5:30pm on Saturday 10 July 20217am to 12pm on Friday 9 July 2021 |
+| 13/07/2021      | Casual Contact       | Fairfield       | Chemist Warehouse Fairfield  | 2:45pm to 3:40pm on Wednesday 7 July 2021                    |
+| 13/07/2021      | Casual Contact       | Emu Plains      | McDonalds Emu Plains      | 2pm to 2:30pm on Thursday 8 July 2021                        |
+| 13/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu Plains  | 3:40pm to 4:30pm on Friday 9 July 2021                       |
+| 13/07/2021      | Close Contact        | Edensor Park    | Freds One Stop Shopping   | 2pm to 3pm on Friday 9 July 2021                             |
+| 13/07/2021      | Close Contact        | Condell Park    | IGA Condell Park          | 8:55am to 9:10am on Monday 12 July 2021                      |
 | 13/07/2021      | Monitor for symptoms | Chippendale     | Central Park Shopping Centre | 2:30pm to 3:15pm on Thursday 8 July 2021                     |
-| 13/07/2021      | Monitor for symptoms | Bondi Junction  | Woolworths Bondi Junction | 8:20am to 8:35am on Friday 9 July 20213:30pm to 3:45pm on Saturday 10 July 2021 |
-| 13/07/2021      | Monitor for symptoms | Bondi Junction  | The Cook and Baker        | 11am to 11:30am on Thursday 8 July 20212:20pm to 2:40pm on Saturday 10 July 2021 |
+| 13/07/2021      | Monitor for symptoms | Bondi Junction  | Woolworths Bondi Junction  | 6pm to 7pm on Friday 9 July 2021                             |
+| 13/07/2021      | Monitor for symptoms | Bondi Junction  | Woolworths Bondi Junction | 3:30pm to 3:45pm on Saturday 10 July 20218:20am to 8:35am on Friday 9 July 2021 |
+| 13/07/2021      | Monitor for symptoms | Bondi Junction  | The Cook and Baker        | 2:20pm to 2:40pm on Saturday 10 July 202111am to 11:30am on Thursday 8 July 2021 |
 | 13/07/2021      | Monitor for symptoms | Bondi Junction  | O Superfood               | 6:50am to 7:15am on Friday 9 July 2021                       |
 | 13/07/2021      | Monitor for symptoms | Bondi Junction  | Kmart Bondi Junction      | 1:15pm to 2pm on Thursday 8 July 2021                        |
 | 13/07/2021      | Monitor for symptoms | Bondi Junction  | Dominos Bondi Junction    | 1:50pm to 2:10pm on Friday 9 July 2021                       |
+| 13/07/2021      | Casual Contact       | Bondi Junction  | Chemist Warehouse Bondi Junction  | 12:45pm to 1:15pm on Monday 5 July 2021                      |
 | 13/07/2021      | Casual Contact       | Bondi Junction  | Blooms the Chemist Eastgate Bondi Junction | 12:05pm to 12:15pm on Friday 9 July 2021                     |
 | 13/07/2021      | Monitor for symptoms | Bondi Junction  | BWS Bondi Junction        | 6:20pm to 6:30pm on Friday 9 July 2021                       |
+| 13/07/2021      | Casual Contact       | Bankstown       | Sydney Sand and Cement    | 7am to 7:15am on Monday 5 July 2021                          |
 | 12/07/2021      | Close Contact        | Yagoona         | Cedar Valley Meats        | 1:30pm to 2pm on Saturday 10 July 2021                       |
 | 12/07/2021      | Casual Contact       | Windsor         | Windsor Riverview Shopping Centre | 1:30pm to 3pm on Wednesday 7 July 2021                       |
 | 12/07/2021      | Casual Contact       | Wetherill Park  | Woolworths Wetherill Park | 12pm to 12:35pm on Saturday 10 July 20213pm to 3:15pm on Friday 9 July 2021 |
