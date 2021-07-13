@@ -33,15 +33,16 @@ def mapType(t):
         return 'Monitor for symptoms'
     elif 'Get tested immediately. People with no symptoms do not need to isolate while waiting for their test result.' in t:
         return 'Test (isolate w/ symptoms)'
-    assert False, t
+    assert False, "Invalid type: " + repr(t)
 
 caseLocationTable = soup.select('#tbl-case-locations tbody tr')
 rows = []
 for row in caseLocationTable:
     cells = list(map(lambda x: x.text, row.find_all('td')))
     rowHash = dict(zip(header, cells))
-    if 'Type' not in rowHash:
+    if 'Type' not in rowHash or rowHash['Type'] == '':
         print(rowHash)
+        continue
     rowHash['Type'] = mapType(rowHash['Type'])
     rows.append(rowHash)
 
