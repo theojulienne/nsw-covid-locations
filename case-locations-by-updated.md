@@ -8,7 +8,7 @@
 | 14/07/2021      | Monitor for symptoms | Sydney          | Paddy's Market Haymarket  | 11:50am to 12:10pm on Saturday 10 July 2021                  |
 | 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy        | 3:40pm to 4pm on Thursday, 8 July 2021                       |
 | 14/07/2021      | Casual Contact       | Strathfield South | 7 Eleven Strathfield South  | 5:25pm to 5:40pm on Thursday, 8 July 202112:40am to 12:50am on Thursday, 8 July 202112:15am to 12:30am on Friday, 9 July 20215:45pm to 5:55pm on Friday, 9 July 2021 |
-| 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express Gundagai | 1am to 1:30am on Saturday, 10 July 2021                      |
+| 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express Gundagai | 1am to 1:30am on Thursday, 8 July 2021                       |
 | 14/07/2021      | Close Contact        | Smithfield      | G James Glass             | 7am to 6pm on Friday 9 July 20217am to 6pm on Thursday 8 July 20217am to 6pm on Wednesday 7 July 20217am to 6pm on Tuesday 6 July 2021 |
 | 14/07/2021      | Monitor for symptoms | Rosebery        | Woolworths Metro Roseberry | 9am to 9:30am on Saturday, 10 July 2021                      |
 | 14/07/2021      | Casual Contact       | Rosebery        | Woolworths Metro Roseberry | 8:30am to 9:40am on Monday, 5 July 2021                      |
@@ -36,7 +36,7 @@
 | 14/07/2021      | Casual Contact       | Hurstville      | Starbucks Westfield Hurstville  | 8am to 8:10am on Wednesday, 7 July 202112:10pm to 12:15pm on Sunday, 11 July 202112pm to 12:05pm on Saturday, 10 July 2021 |
 | 14/07/2021      | Casual Contact       | Hurstville      | Oporto Westfield Hurstville  | 5pm to 5:15pm on Friday, 9 July 2021                         |
 | 14/07/2021      | Casual Contact       | Hurstville      | Adams Kebabs and Pizza Pide | 2am to 2:20am on Friday 9 July 2021                          |
-| 14/07/2021      | Casual Contact       | Hay             | Shell Hay                 | 7:30am to 8am on Thursday, 8 July 2021                       |
+| 14/07/2021      | Casual Contact       | Hay             | Shell Hay                 | 7:30am to 8am on Saturday, 10 July 2021                      |
 | 14/07/2021      | Casual Contact       | Greenacre       | McDonalds Greenacre North  | 2:30pm to 3pm on Monday, 12 July 2021                        |
 | 14/07/2021      | Close Contact        | Greenacre       | Hanson Concrete Australia |  on Thursday 1 July                                          |
 | 14/07/2021      | Close Contact        | Greenacre       | D and M Excavations and Asphalting |  on Thursday 1 July                                          |

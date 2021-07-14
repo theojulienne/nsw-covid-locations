@@ -186,7 +186,7 @@
 | 10/07/2021      | Casual Contact       | Greenacre       | Your Discount Chemist Greenacre | 1:55pm to 2:05pm on Tuesday 6 July 20212pm to 2:15pm on Monday 5 July 2021 |
 | 13/07/2021      | Casual Contact       | Guildford       | Dan Murphy's Guildford    | 6pm to 6:45pm on Wednesday 7 July 2021                       |
 | 09/07/2021      | Casual Contact       | Haberfield      | UTS Haberfield Rowers Club | 12:15pm to 12:45pm on Sunday 4 July 2021                     |
-| 14/07/2021      | Casual Contact       | Hay             | Shell Hay                 | 7:30am to 8am on Thursday, 8 July 2021                       |
+| 14/07/2021      | Casual Contact       | Hay             | Shell Hay                 | 7:30am to 8am on Saturday, 10 July 2021                      |
 | 13/07/2021      | Monitor for symptoms | Haymarket       | Pontip Thai Market        | 12:10pm to 12:20pm on Saturday 10 July 2021                  |
 | 13/07/2021      | Monitor for symptoms | Haymarket       | Tong Li Supermarket Chinatown | 5:35pm to 5:50pm on Wednesday 7 July 2021                    |
 | 06/07/2021      | Casual Contact       | Hillsdale       | Woolworths Hillsdale      | 3:15pm to 4:45pm on Friday 2 July 2021                       |
@@ -353,7 +353,7 @@
 | 08/07/2021      | Close Contact        | Smithfield      | Oregano's Lebanese Bakery and Cafe | 2pm to 2:30pm on Monday 5 July 2021                          |
 | 13/07/2021      | Casual Contact       | Smithfield      | Sydney Tools Smithfield   | 12pm to 1:35pm on Wednesday 7 July 2021                      |
 | 07/07/2021      | Casual Contact       | South Granville | Speedway South Granville Petrol Station | 8:45am to 9am on Thursday 1 July 2021                        |
-| 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express Gundagai | 1am to 1:30am on Saturday, 10 July 2021                      |
+| 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express Gundagai | 1am to 1:30am on Thursday, 8 July 2021                       |
 | 09/07/2021      | Close Contact        | St Andrews      | St Andrews Pharmacy       | 8:30am to 3:30pm on Wednesday 7 July 2021                    |
 | 13/07/2021      | Casual Contact       | St Ives         | O'Loughlins Medical Pharmacy | 6pm to 6:30pm on Friday 9 July 2021                          |
 | 13/07/2021      | Casual Contact       | St Ives         | Oscars Chargrill          | 5:20pm to 5:45pm on Monday 12 July 2021                      |
