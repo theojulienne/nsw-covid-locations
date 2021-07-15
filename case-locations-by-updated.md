@@ -4,7 +4,7 @@
 | 14/07/2021      | Casual Contact       | Wetherill Park  | Woolworths Wetherill Park | 1pm to 2pm on Saturday 10 July 202112pm to 12:35pm on Saturday 10 July 20214:15pm to 5:15pm on Saturday 10 July 20213pm to 3:15pm on Friday 9 July 2021 |
 | 14/07/2021      | Casual Contact       | Wetherill Park  | Priceline Pharmacy Wetherill Park | 1pm to 2pm on Saturday 10 July 2021                          |
 | 14/07/2021      | Casual Contact       | Waterloo        | Aldi Waterloo             | 9:30am to 10am on Saturday 10 July 2021                      |
-| 14/07/2021      | Monitor for symptoms | Sylvania        | Southgate Pharmacy        | 11:05am to 11:20am on Sunday 11 July 2021                    |
+| 14/07/2021      | Monitor for symptoms | Sylvania        | Southgate Pharmacy        | 11:05am to 11:20am on Tuesday 6 July 2021                    |
 | 14/07/2021      | Monitor for symptoms | Sydney          | Paddy's Market Haymarket  | 11:50am to 12:10pm on Saturday 10 July 2021                  |
 | 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland | 3:40pm to 4pm on Thursday 8 July 2021                        |
 | 14/07/2021      | Casual Contact       | Strathfield South | 7-Eleven Strathfield South | 12:15am to 12:30am on Friday 9 July 20215:45pm to 5:55pm on Friday 9 July 20215:25pm to 5:40pm on Thursday 8 July 202112:40am to 12:50am on Thursday 8 July 2021 |

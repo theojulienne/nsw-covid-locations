@@ -344,7 +344,7 @@
 | 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland | 3:40pm to 4pm on Thursday 8 July 2021                        |
 | 14/07/2021      | Monitor for symptoms | Sydney          | Paddy's Market Haymarket  | 11:50am to 12:10pm on Saturday 10 July 2021                  |
 | 11/07/2021      | Casual Contact       | Sydney          | Priceline Pharmacy World Square | 5:30pm to 6pm on Thursday 8 July 2021                        |
-| 14/07/2021      | Monitor for symptoms | Sylvania        | Southgate Pharmacy        | 11:05am to 11:20am on Sunday 11 July 2021                    |
+| 14/07/2021      | Monitor for symptoms | Sylvania        | Southgate Pharmacy        | 11:05am to 11:20am on Tuesday 6 July 2021                    |
 | 10/07/2021      | Casual Contact       | Sylvania        | Sushi Hub Southgate       | 2pm to 2:05pm on Sunday 4 July 2021                          |
 | 09/07/2021      | Casual Contact       | Taren Point     | McDonalds Taren Point     | 1:35pm to 1:55pm on Monday 5 July 20219:10am to 9:30am on Sunday 4 July 2021 |
 | 08/07/2021      | Casual Contact       | Telopea         | The Valley Pharmacy       | 3pm to 3:30pm on Tuesday 6 July 2021                         |
