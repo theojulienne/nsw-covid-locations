@@ -274,7 +274,7 @@
 | 10/07/2021      | Casual Contact       | Moorebank       | 7-Eleven Moorebank102 Heathcote Road | 9pm to 9:15pm on Tuesday 6 July 2021                         |
 | 10/07/2021      | Close Contact        | Moorebank       | Butcher ShedMoorebank Shopping Centre, Shop 16/42 Stockton Avenue | 1pm to 1:15pm on Tuesday 6 July 2021                         |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Filter Cafe3A Morts Road  | 1:20pm to 1:35pm on Friday 9 July 20217:45am to 8am on Friday 9 July 2021 |
-| 14/07/2021      | Monitor for symptoms | Mortdale        | Fuel Espresso and Juice3/84D Roberts Avenue | 12pm to 12:05am on Saturday 10 July 2021                     |
+| 15/07/2021      | Monitor for symptoms | Mortdale        | Fuel Espresso and Juice3/84D Roberts Avenue | 12pm to 12:05pm on Saturday 10 July 2021                     |
 | 12/07/2021      | Casual Contact       | Mortdale        | Lazezza Kebab Bakery Grills8 Morts Road | 2:25pm to 3pm on Wednesday 7 July 2021                       |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Mamma Barone Italian Restaurant27A Morts Road | 7:25pm to 7:45pm on Sunday 11 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Woolworths MortdaleMortdale Plaza, 84D Roberts Avenue | 11:45am to 12:05pm on Saturday 10 July 20214:50pm to 5:20pm on Friday 9 July 2021 |
@@ -330,7 +330,7 @@
 | 10/07/2021      | Casual Contact       | Rockdale        | The Roll Japanese RestaurantShop 8/10 King Street | 4:30pm to 4:45pm on Wednesday 7 July 2021                    |
 | 14/07/2021      | Close Contact        | Rosebery        | Ampol Foodary Rosebery321 Gardeners Road | 2:30pm to 2:45pm on Monday 12 July 2021                      |
 | 14/07/2021      | Casual Contact       | Rosebery        | Valentino Place residential apartment complex1, 5, 9 Rothschild Avenue, 2, 4, 6, Spring Street and 2, 4 Stedman Street | All day on Monday 12 July 2021All day on Sunday 11 July 2021All day on Saturday 10 July 2021All day on Friday 9 July 2021All day on Thursday 8 July 2021 |
-| 14/07/2021      | Monitor for symptoms | Rosebery        | Woolworths Metro Roseberry32 Confectioners Way | 9am to 9:30am on Saturday 10 July 20218:30am to 9:40am on Monday 5 July 2021 |
+| 15/07/2021      | Monitor for symptoms | Rosebery        | Woolworths Metro Roseberry32 Confectioners Way | 9am to 9:30am on Sunday 11 July 20218:30am to 9:40am on Monday 5 July 2021 |
 | 12/07/2021      | Casual Contact       | Roselands       | Coles RoselandsRoselands Shopping Centre, 24 Roselands Drive | 3:15pm to 4:05pm on Wednesday 7 July 202110:30am to 11am on Monday 5 July 20217:15am to 7:45am on Saturday 3 July 202110:30am to 11am on Thursday 1 July 202110:30am to 11am on Wednesday 30 June 20214:45pm to 5:45pm on Wednesday 30 June 20217:45am to 7:50am on Wednesday 30 June 2021 |
 | 12/07/2021      | Close Contact        | Roselands       | Fruit World RoselandsRoselands Shopping Centre, 24 Roselands Drive | 4pm to 4:15pm on Wednesday 7 July 2021                       |
 | 10/07/2021      | Casual Contact       | Roselands       | Kmart RoselandsRoselands Shopping Centre, 24 Roselands Drive | 10:45am to 11:15am on Saturday 3 July 20214:35pm to 4:50pm on Tuesday 29 June 2021 |

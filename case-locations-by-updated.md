@@ -3,6 +3,7 @@
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
 | 15/07/2021      | Monitor for symptoms | Sydney          | Cafe de Casablanca137/139 Bathurst Street | 1pm to 3pm on Tuesday 13 July 2021                           |
 | 15/07/2021      | Casual Contact       | Smithfield      | Speedway Petrol Station Smithfield26-28 Cumberland Highway | 11:45am to 12pm (noon) on Tuesday 13 July 2021               |
+| 15/07/2021      | Monitor for symptoms | Rosebery        | Woolworths Metro Roseberry32 Confectioners Way | 9am to 9:30am on Sunday 11 July 20218:30am to 9:40am on Monday 5 July 2021 |
 | 15/07/2021      | Casual Contact       | Riverwood       | Woolworths RiverwoodRiverwood Plaza, 247 Belmore Road | 10:55am to 11:10am on Monday 12 July 202112pm to 12:30pm on Wednesday 7 July 202110:45am to 12:15pm on Monday 5 July 2021 |
 | 15/07/2021      | Monitor for symptoms | Riverwood       | Aldi RiverwoodRiverwood Plaza 247/253 Belmore Road  | 10:45am to 10:55am on Monday 12 July 20217:45pm to 7:50pm on Sunday 11 July 2021 |
 | 15/07/2021      | Casual Contact       | Revesby         | Terry White Chemist Revesby Shop 16/19-29 Marco Avenue | 10:05am to 10:10am on Wednesday 14 July 2021                 |
@@ -10,6 +11,7 @@
 | 15/07/2021      | Close Contact        | Punchbowl       | McDonalds Punchbowl (drive thru only) 1171 Canterbury Road | 6am to 4pm on Thursday 8 July 2021                           |
 | 15/07/2021      | Close Contact        | Punchbowl       | Chemist Warehouse Punchbowl18/1 Broadway | 2:30pm to 3pm on Thursday 8 July 20219:20am to 9:40am on Thursday 8 July 2021 |
 | 15/07/2021      | Monitor for symptoms | Oatley          | Coles Oatley WestVillage Square, 47 Mulga Road | 4:25pm to 4:40pm on Sunday 11 July 20214:10pm to 4:30pm on Saturday 10 July 2021 |
+| 15/07/2021      | Monitor for symptoms | Mortdale        | Fuel Espresso and Juice3/84D Roberts Avenue | 12pm to 12:05pm on Saturday 10 July 2021                     |
 | 15/07/2021      | Casual Contact       | Miller          | Blooms The Chemist MillerMiller Central, 90 Cartwright Avenue | 12:30pm to 1:30pm on Monday 12 July 2021                     |
 | 15/07/2021      | Casual Contact       | Miller          | Aldi Miller90 Cartwright Avenue | 12pm to 12:30pm on Monday 12 July 2021                       |
 | 15/07/2021      | Casual Contact       | Merrylands      | Red Lea MerrylandsStocklands Merrylands185 Pitt Street | 2pm to 2:30pm on Saturday 10 July 2021                       |
@@ -41,7 +43,6 @@
 | 14/07/2021      | Casual Contact       | Strathfield South | 7-Eleven Strathfield South572 Liverpool Road | 12:15am to 12:30am on Friday 9 July 20215:45pm to 5:55pm on Friday 9 July 20215:25pm to 5:40pm on Thursday 8 July 202112:40am to 12:50am on Thursday 8 July 2021 |
 | 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express GundagaiCorner Mount Street and Middle Street | 1am to 1:30am on Thursday 8 July 2021                        |
 | 14/07/2021      | Close Contact        | Smithfield      | G James Glass26 Long Street | 7am to 6pm on Friday 9 July 20217am to 6pm on Thursday 8 July 20217am to 6pm on Wednesday 7 July 20217am to 6pm on Tuesday 6 July 2021 |
-| 14/07/2021      | Monitor for symptoms | Rosebery        | Woolworths Metro Roseberry32 Confectioners Way | 9am to 9:30am on Saturday 10 July 20218:30am to 9:40am on Monday 5 July 2021 |
 | 14/07/2021      | Casual Contact       | Rosebery        | Valentino Place residential apartment complex1, 5, 9 Rothschild Avenue, 2, 4, 6, Spring Street and 2, 4 Stedman Street | All day on Monday 12 July 2021All day on Sunday 11 July 2021All day on Saturday 10 July 2021All day on Friday 9 July 2021All day on Thursday 8 July 2021 |
 | 14/07/2021      | Close Contact        | Rosebery        | Ampol Foodary Rosebery321 Gardeners Road | 2:30pm to 2:45pm on Monday 12 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Riverwood       | Woolworths Riverwood Riverwood Plaza, 247 Belmore Road | 3:30pm to 4:10pm on Friday 9 July 2021                       |
@@ -53,7 +54,6 @@
 | 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks318-336 North Rocks Road | 10pm to 10:40pm on Friday 9 July 2021                        |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Woolworths MortdaleMortdale Plaza, 84D Roberts Avenue | 11:45am to 12:05pm on Saturday 10 July 20214:50pm to 5:20pm on Friday 9 July 2021 |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Mamma Barone Italian Restaurant27A Morts Road | 7:25pm to 7:45pm on Sunday 11 July 2021                      |
-| 14/07/2021      | Monitor for symptoms | Mortdale        | Fuel Espresso and Juice3/84D Roberts Avenue | 12pm to 12:05am on Saturday 10 July 2021                     |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Filter Cafe3A Morts Road  | 1:20pm to 1:35pm on Friday 9 July 20217:45am to 8am on Friday 9 July 2021 |
 | 14/07/2021      | Casual Contact       | Merrylands      | Woolworths Merrylands209 Pitt Street | 2:15pm to 3:45pm on Saturday 10 July 2021                    |
 | 14/07/2021      | Casual Contact       | Merrylands      | Asal Sweet PatisserieShop 4, 196-200 Merrylands Road | 4pm to 7pm on Thursday 8 July 2021                           |
