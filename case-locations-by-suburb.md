@@ -269,7 +269,7 @@
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Woolworths Mortdale       | 11:45am to 12:05pm on Saturday 10 July 20214:50pm to 5:20pm on Friday 9 July 2021 |
 | 09/07/2021      | Casual Contact       | Mosman          | BP Connect Mosman         | 3:15pm to 3:35pm on Sunday 4 July 2021                       |
 | 09/07/2021      | Casual Contact       | Mt Druitt       | Woolworths Mt Druitt      | 5:15pm to 5:45pm on Saturday 3 July 2021                     |
-| 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks         | 10am to 10:40am on Friday 9 July 2021                        |
+| 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks         | 10pm to 10:40pm on Friday 9 July 2021                        |
 | 12/07/2021      | Casual Contact       | Oran Park       | Woolworths Oran Park      | 6am to 11:20am on Sunday 11 July 20216am to 4pm on Saturday 10 July 20216am to 2pm on Friday 9 July 2021 |
 | 10/07/2021      | Casual Contact       | Padstow         | Bunnings Padstow          | 3:45pm to 3:55pm on Sunday 4 July 2021                       |
 | 07/07/2021      | Casual Contact       | Pagewood        | Shell Coles Express Pagewood | 9:55am to 10am on Saturday 3 July 202111am to 11:30am on Wednesday 23 June 2021 |

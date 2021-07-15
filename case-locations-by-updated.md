@@ -20,7 +20,7 @@
 | 14/07/2021      | Casual Contact       | Punchbowl       | Ampol Foodary Punchbowl   | 4:20pm to 4:35pm on Monday 12 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Peakhurst       | Metro Petroleum Peakhurst | 10:20am to 10:30am on Thursday 8 July 2021                   |
 | 14/07/2021      | Monitor for symptoms | Panania         | Butchers Pantry           | 2:25pm to 2:35pm on Friday 9 July 2021                       |
-| 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks         | 10am to 10:40am on Friday 9 July 2021                        |
+| 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks         | 10pm to 10:40pm on Friday 9 July 2021                        |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Woolworths Mortdale       | 11:45am to 12:05pm on Saturday 10 July 20214:50pm to 5:20pm on Friday 9 July 2021 |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Mamma Barone Italian Restaurant | 7:25pm to 7:45pm on Sunday 11 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Fuel Espresso and Juice   | 12pm to 12:05am on Saturday 10 July 2021                     |
