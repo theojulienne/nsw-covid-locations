@@ -1,6 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 16/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu PlainsCorner Great Western Highway and 1 Pyramid Street | 3:45pm to 4pm on Saturday 10 July 2021                       |
+| 16/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu PlainsCorner Great Western Highway and 1 Pyramid Street | 3:45pm to 4:45pm on Saturday 10 July 2021                    |
 | 15/07/2021      | Casual Contact       | Wetherill Park  | XS Espresso Wetherill Park9A, 1183-1187 The Horsley Drive | 10am to 10:30am on Sunday 4 July 2021                        |
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
 | 15/07/2021      | Monitor for symptoms | Sydney          | Cafe de Casablanca137/139 Bathurst Street | 1pm to 3pm on Tuesday 13 July 2021                           |
@@ -43,7 +43,7 @@
 | 15/07/2021      | Casual Contact       | Fairfield       | Chemist Warehouse Fairfield8 Kenyon Street | 2:45pm to 3:40pm on Wednesday 7 July 202112pm to 2pm on Monday 5 July 2021 |
 | 15/07/2021      | Casual Contact       | Fairfield       | Aldi FairfieldFairfield Forum Shopping Centre, 8-36 Station Street | 10am to 10:15am on Sunday 11 July 202110am to 10:15am on Saturday 10 July 20211:55pm to 2:15pm on Friday 9 July 202112:30pm to 12:50pm on Monday 5 July 2021 |
 | 15/07/2021      | Monitor for symptoms | Engadine        | Cincotta Chemist Engadine1097 Old Princes Highway | 12:25pm to 12:40pm on Monday 12 July 2021                    |
-| 15/07/2021      | Monitor for symptoms | Emu Plains      | Aldi Lennox VillageCorner of Great Western Highway and Lawson Street | 1:45pm to 2:45pm on Saturday 10 July 2021                    |
+| 15/07/2021      | Monitor for symptoms | Emu Plains      | Aldi Lennox VillageCorner of Great Western Highway and Lawson Street | 3:45pm to 4pm on Saturday 10 July 2021                       |
 | 15/07/2021      | Casual Contact       | Edensor Park    | Coles Edensor ParkEdensor Road and Allambie Road | 10:10am to 10:50am on Saturday 10 July 202110:10am to 10:50am on Sunday 4 July 2021 |
 | 15/07/2021      | Casual Contact       | Condell Park    | Condell Park Discount Drug Store50 Simmat Avenue | 11:25am to 11:35am on Monday 12 July 2021                    |
 | 15/07/2021      | Monitor for symptoms | Bondi Junction  | Chemist Warehouse Bondi Junction 135 Oxford Street | 9:15am to 9:25am on Saturday 10 July 2021                    |
