@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 16/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu PlainsCorner Great Western Highway and 1 Pyramid Street | 3:45pm to 4:45pm on Saturday 10 July 2021                    |
+| 16/07/2021      | Monitor for symptoms | Bellevue Hill   | Tucker98G Bellevue Road   | 12:25pm to 12:30pm on Saturday 10 July 2021                  |
 | 15/07/2021      | Casual Contact       | Wetherill Park  | XS Espresso Wetherill Park9A, 1183-1187 The Horsley Drive | 10am to 10:30am on Sunday 4 July 2021                        |
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
 | 15/07/2021      | Monitor for symptoms | Sydney          | Cafe de Casablanca137/139 Bathurst Street | 1pm to 3pm on Tuesday 13 July 2021                           |
@@ -118,7 +119,6 @@
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | Bellagio Tuckshop60 Bronte Road | 12:10pm to 12:20pm on Sunday 11 July 2021                    |
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | BWS Bondi JunctionWestfield Bondi Junction, 530 Oxford Street | 3:45pm to 3:50pm on Saturday 10 July 2021                    |
 | 14/07/2021      | Monitor for symptoms | Bexley          | 7-Eleven Bexley611-615 Forest Road | 7pm to 8pm on Saturday 10 July 2021                          |
-| 14/07/2021      | Monitor for symptoms | Bellevue Hill   | Tucker98G Bellevue Road   | 12:25pm to 12:30pm on Friday 9 July 2021                     |
 | 14/07/2021      | Monitor for symptoms | Barangaroo      | Bourke Street Bakery Barangaroo4/23 Barangaroo Avenue | 1:20pm to 1:35pm on Tuesday 6 July 2021                      |
 | 13/07/2021      | Casual Contact       | Yagoona         | Mina Bakery7/50 Dargan Street | 1:30pm to 2pm on Saturday 10 July 2021                       |
 | 13/07/2021      | Close Contact        | Yagoona         | Kaffeine and Co7/44 Dargan Street | 1:30pm to 2pm on Saturday 10 July 2021                       |

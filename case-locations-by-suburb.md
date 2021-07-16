@@ -23,7 +23,7 @@
 | 11/07/2021      | Casual Contact       | Bass Hill       | Kmart Bass HillBass Hill Plaza, 753 Hume Highway | 3pm to 4:30pm on Wednesday 7 July 2021                       |
 | 10/07/2021      | Casual Contact       | Bass Hill       | Speedway Bass Hill Petrol Station966/972 Hume Highway | 2:30pm to 2:35pm on Wednesday 7 July 2021                    |
 | 11/07/2021      | Casual Contact       | Bass Hill       | Woolworths Bass Hill753 Hume Highway | 1:30pm to 2:10pm on Saturday 3 July 2021                     |
-| 14/07/2021      | Monitor for symptoms | Bellevue Hill   | Tucker98G Bellevue Road   | 12:25pm to 12:30pm on Friday 9 July 2021                     |
+| 16/07/2021      | Monitor for symptoms | Bellevue Hill   | Tucker98G Bellevue Road   | 12:25pm to 12:30pm on Saturday 10 July 2021                  |
 | 12/07/2021      | Close Contact        | Belmore         | Belmore Medical Centre481 Burwood Avenue | 10am to 11am on Monday 5 July 20216:30pm to 7:15pm on Monday 5 July 2021 |
 | 08/07/2021      | Casual Contact       | Belmore         | YouiesShop 2/512 Burwood Road | 8:30am to 2pm on Sunday 4 July 20218:30am to 1pm on Saturday 3 July 2021 |
 | 13/07/2021      | Casual Contact       | Belrose         | Belrose Hotel Bottle Shop5 Hews Parade | 4:45pm to 5:15pm on Sunday 11 July 20217:20pm to 7:45pm on Thursday 8 July 2021 |
