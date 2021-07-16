@@ -164,7 +164,6 @@
 | 15/07/2021      | Casual Contact       | Fairfield Heights | Boulevarde Pharmacy176 The Boulevarde | 10am to 11am on Tuesday 13 July 20219am to 10am on Saturday 10 July 2021 |
 | 15/07/2021      | Casual Contact       | Fairfield Heights | Fairfield Heights Pharmacy 275 The Boulevarde | 4:30pm to 6pm on Monday 12 July 20215:30pm to 6pm on Tuesday 6 July 2021 |
 | 11/07/2021      | Close Contact        | Fairfield Heights | Fairfield Heights Pharmacy275 The Boulevarde | 11:45am to 12:30pm on Tuesday 6 July 2021                    |
-| 11/07/2021      | Close Contact        | Fairfield Heights | Fairfield Heights Primary Health GP265 The Boulevarde | 9:45pm to 12:15pm on Tuesday 6 July 2021                     |
 | 11/07/2021      | Close Contact        | Fairfield Heights | S K Market Fairfield Heights2/154 The Boulevarde | 7am to 12pm (noon) on Friday 9 July 20217am to 11am on Thursday 8 July 20217am to 11am on Wednesday 7 July 20217am to 11am on Tuesday 6 July 2021 |
 | 15/07/2021      | Casual Contact       | Fairfield Heights | Woolworths Fairfield HeightsFairfield Heights Shopping Mall, 186 The Boulevarde | 9pm to 9:30pm on Sunday 11 July 20218pm to 8:25pm on Sunday 11 July 20219:35pm to 10pm on Saturday 10 July 202111:10am to 11:40am on Friday 9 July 20215:40pm to 7pm on Thursday 8 July 202112:40pm to 12:55pm on Thursday 8 July 20216:45pm to 7:15pm on Wednesday 7 July 2021 |
 | 12/07/2021      | Casual Contact       | Fairfield West  | Coles Fairfield WestMarkey Plaza, 386 Hamilton Road | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
@@ -381,7 +380,7 @@
 | 07/07/2021      | Monitor for symptoms | Strathfield     | Return and Earn TOMRA Reverse Vending MachineStrathfield Train Station car park, 5 Churchill Avenue | 2pm to 2:10pm on Saturday 3 July 2021                        |
 | 14/07/2021      | Casual Contact       | Strathfield South | 7-Eleven Strathfield South572 Liverpool Road | 12:15am to 12:30am on Friday 9 July 20215:45pm to 5:55pm on Friday 9 July 20215:25pm to 5:40pm on Thursday 8 July 202112:40am to 12:50am on Thursday 8 July 2021 |
 | 07/07/2021      | Close Contact        | Strathfield South | Dan Murphy's Strathfield350-360 Liverpool Road | 5:45pm to 6pm on Saturday 3 July 2021                        |
-| 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland764 Old Princess Highway | 3:40pm to 4pm on Thursday 8 July 2021                        |
+| 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland764 Old Princess Highway | 3:40pm to 4pm on Monday 12 July 2021                         |
 | 15/07/2021      | Monitor for symptoms | Sydney          | Cafe de Casablanca137/139 Bathurst Street | 1pm to 3pm on Tuesday 13 July 2021                           |
 | 14/07/2021      | Monitor for symptoms | Sydney          | Paddy's Market Haymarket9-13 Hay Street | 11:50am to 12:10pm on Saturday 10 July 2021                  |
 | 11/07/2021      | Casual Contact       | Sydney          | Priceline Pharmacy World SquareGround Level 9/644 George Street World Square | 5:30pm to 6pm on Thursday 8 July 2021                        |

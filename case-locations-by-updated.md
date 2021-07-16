@@ -81,7 +81,7 @@
 | 14/07/2021      | Casual Contact       | Waterloo        | Aldi Waterloo20A Danks Street | 9:30am to 10am on Saturday 10 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Sylvania        | Southgate PharmacySouthgate Shopping Centre, Princes Highway and Port Hacking Road | 11:05am to 11:20am on Tuesday 6 July 2021                    |
 | 14/07/2021      | Monitor for symptoms | Sydney          | Paddy's Market Haymarket9-13 Hay Street | 11:50am to 12:10pm on Saturday 10 July 2021                  |
-| 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland764 Old Princess Highway | 3:40pm to 4pm on Thursday 8 July 2021                        |
+| 14/07/2021      | Monitor for symptoms | Sutherland      | Priceline Pharmacy Sutherland764 Old Princess Highway | 3:40pm to 4pm on Monday 12 July 2021                         |
 | 14/07/2021      | Casual Contact       | Strathfield South | 7-Eleven Strathfield South572 Liverpool Road | 12:15am to 12:30am on Friday 9 July 20215:45pm to 5:55pm on Friday 9 July 20215:25pm to 5:40pm on Thursday 8 July 202112:40am to 12:50am on Thursday 8 July 2021 |
 | 14/07/2021      | Close Contact        | South Gundagai  | Shell Coles Express GundagaiCorner Mount Street and Middle Street | 1am to 1:30am on Thursday 8 July 2021                        |
 | 14/07/2021      | Close Contact        | Smithfield      | G James Glass26 Long Street | 7am to 6pm on Friday 9 July 20217am to 6pm on Thursday 8 July 20217am to 6pm on Wednesday 7 July 20217am to 6pm on Tuesday 6 July 2021 |
@@ -269,7 +269,6 @@
 | 11/07/2021      | Casual Contact       | Georges Hall    | 7-Eleven Georges Hall48 Surrey Avenue | 5:45pm to 6:15pm on Sunday 4 July 2021                       |
 | 11/07/2021      | Casual Contact       | Fairy Meadow    | McDonalds Fairy Meadow1 Princes Highway | 9am to 10am on Saturday 10 July 2021                         |
 | 11/07/2021      | Close Contact        | Fairfield Heights | S K Market Fairfield Heights2/154 The Boulevarde | 7am to 12pm (noon) on Friday 9 July 20217am to 11am on Thursday 8 July 20217am to 11am on Wednesday 7 July 20217am to 11am on Tuesday 6 July 2021 |
-| 11/07/2021      | Close Contact        | Fairfield Heights | Fairfield Heights Primary Health GP265 The Boulevarde | 9:45pm to 12:15pm on Tuesday 6 July 2021                     |
 | 11/07/2021      | Close Contact        | Fairfield Heights | Fairfield Heights Pharmacy275 The Boulevarde | 11:45am to 12:30pm on Tuesday 6 July 2021                    |
 | 11/07/2021      | Close Contact        | Fairfield       | MyHealth FairfieldShop G13 Neeta City Shopping Centre, 54 Smart Street | 12:30pm to 1pm on Thursday 8 July 2021                       |
 | 11/07/2021      | Close Contact        | Fairfield       | Guirguis Family Medical Practice29 Station Street | 1:30pm to 2:30pm on Friday 9 July 2021                       |
