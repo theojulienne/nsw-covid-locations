@@ -23,6 +23,7 @@
 | 11/07/2021      | Casual Contact       | Bass Hill       | Kmart Bass HillBass Hill Plaza, 753 Hume Highway | 3pm to 4:30pm on Wednesday 7 July 2021                       |
 | 10/07/2021      | Casual Contact       | Bass Hill       | Speedway Bass Hill Petrol Station966/972 Hume Highway | 2:30pm to 2:35pm on Wednesday 7 July 2021                    |
 | 11/07/2021      | Casual Contact       | Bass Hill       | Woolworths Bass Hill753 Hume Highway | 1:30pm to 2:10pm on Saturday 3 July 2021                     |
+| 16/07/2021      | Casual Contact       | Belfield        | BP Petrol Station Belfield53-57 Punchbowl Road | 12:25pm to 12:45pm on Sunday 11 July 2021                    |
 | 16/07/2021      | Monitor for symptoms | Bellevue Hill   | Tucker98G Bellevue Road   | 12:25pm to 12:30pm on Saturday 10 July 2021                  |
 | 12/07/2021      | Close Contact        | Belmore         | Belmore Medical Centre481 Burwood Avenue | 10am to 11am on Monday 5 July 20216:30pm to 7:15pm on Monday 5 July 2021 |
 | 08/07/2021      | Casual Contact       | Belmore         | YouiesShop 2/512 Burwood Road | 8:30am to 2pm on Sunday 4 July 20218:30am to 1pm on Saturday 3 July 2021 |
@@ -46,10 +47,10 @@
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | BWS Bondi JunctionWestfield Bondi Junction, 530 Oxford Street | 3:45pm to 3:50pm on Saturday 10 July 2021                    |
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | Bellagio Tuckshop60 Bronte Road | 12:10pm to 12:20pm on Sunday 11 July 2021                    |
 | 13/07/2021      | Casual Contact       | Bondi Junction  | Blooms the Chemist Bondi JunctionEastgate Bondi Junction, 71/91 Spring Street | 12:05pm to 12:15pm on Friday 9 July 2021                     |
-| 15/07/2021      | Monitor for symptoms | Bondi Junction  | Chemist Warehouse Bondi Junction 135 Oxford Street | 9:15am to 9:25am on Saturday 10 July 2021                    |
+| 16/07/2021      | Monitor for symptoms | Bondi Junction  | Chemist Warehouse Bondi Junction 135 Oxford Street | 8am to 8:30am on Wednesday 14 July 20219:15am to 9:25am on Saturday 10 July 2021 |
 | 13/07/2021      | Casual Contact       | Bondi Junction  | Chemist Warehouse Bondi Junction135 Oxford Street | 12:45pm to 1:15pm on Monday 5 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | Coles Bondi EastgateEastgate Shopping Centre, Spring Street and Newland Street | 1pm to 1:35pm on Monday 12 July 20213:45pm to 4pm on Friday 9 July 20211pm to 1:30pm on Sunday 4 July 2021 |
-| 14/07/2021      | Monitor for symptoms | Bondi Junction  | Coles Bondi WestfieldWestfield Bondi Junction, 500 Oxford Street | 1:40pm to 1:50pm on Saturday 10 July 202112:50pm to 1:10pm on Friday 9 July 2021 |
+| 16/07/2021      | Monitor for symptoms | Bondi Junction  | Coles Bondi WestfieldWestfield Bondi Junction, 500 Oxford Street | 8am to 8:30am on Wednesday 14 July 20211:40pm to 1:50pm on Saturday 10 July 202112:50pm to 1:10pm on Friday 9 July 2021 |
 | 14/07/2021      | Monitor for symptoms | Bondi Junction  | David Jones Bondi JunctionWestfield Bondi Junction, 500 Oxford Street | 1:10pm to 1:30pm on Saturday 10 July 2021                    |
 | 13/07/2021      | Monitor for symptoms | Bondi Junction  | Dominos Bondi Junction2/282 Oxford Street | 1:50pm to 2:10pm on Friday 9 July 2021                       |
 | 14/07/2021      | Casual Contact       | Bondi Junction  | EzyMart Bondi Junction26 Bronte Road | 11:50am to 12:20pm on Friday 9 July 2021                     |
@@ -85,6 +86,7 @@
 | 09/07/2021      | Casual Contact       | Campbelltown    | Nick Scali Furniture9 Blaxland Road | 2:50pm to 3:20pm on Sunday 4 July 2021                       |
 | 09/07/2021      | Casual Contact       | Campbelltown    | Oz Design FurnitureShop 7/17 Blaxland Serviceway | 2:15pm to 2:40pm on Sunday 4 July 2021                       |
 | 12/07/2021      | Casual Contact       | Camperdown      | 7-Eleven Camperdown2/10 Missendon Road | 10am to 10:20am on Tuesday 6 July 2021                       |
+| 16/07/2021      | Casual Contact       | Canley Heights  | Tobacconist and Gifts57 Peel Street | 9am to 9:15am on Sunday 11 July 2021                         |
 | 11/07/2021      | Casual Contact       | Caringbah       | Freedom Hearing6/296-300 Kingsway | 9am to 10:15am on Tuesday 6 July 2021                        |
 | 11/07/2021      | Casual Contact       | Caringbah       | Woolworths CaringbahCaringbah Shopping Village, 58 President Avenue | 7:15pm to 8pm on Sunday 4 July 2021                          |
 | 08/07/2021      | Casual Contact       | Carlingford     | Carlingford Court Shopping CentrePennant Hills Road and Carlingford Road | 3:15pm to 5:15pm on Wednesday 7 July 2021                    |
@@ -96,7 +98,8 @@
 | 10/07/2021      | Casual Contact       | Carlingford     | Ximi VoguePennant Hills Road and Carlingford Road | 3:40pm to 3:55pm on Wednesday 7 July 2021                    |
 | 14/07/2021      | Casual Contact       | Carlton         | Aldi Carlton74 Edward Street | 2:10pm to 3pm on Friday 9 July 2021                          |
 | 14/07/2021      | Monitor for symptoms | Casula          | Chemist Warehouse CasulaCrossroads Homemaker Centre, 15/5 Parkers Farm Place | 1:20pm to 1:30pm on Monday 12 July 2021                      |
-| 14/07/2021      | Casual Contact       | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 12:50pm to 2pm on Wednesday 7 July 202112pm (noon) to 1pm on Sunday 4 July 20217:50pm to 9pm on Tuesday 29 June 2021 |
+| 16/07/2021      | Monitor for symptoms | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 1:35pm to 2:10pm on Friday 9 July 2021                       |
+| 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 12:50pm to 4pm on Wednesday 7 July 202112pm (noon) to 1pm on Sunday 4 July 20217:50pm to 9pm on Tuesday 29 June 2021 |
 | 12/07/2021      | Casual Contact       | Casula          | Kmart CasulaCasula Mall S/C, Kurrajong Road | 6pm to 6:45pm on Thursday 8 July 2021                        |
 | 12/07/2021      | Casual Contact       | Centennial Park | Centennial Homestead Cafe1 Grand Drive | 12pm to 12:30pm on Wednesday 7 July 20212:40pm to 3:15pm on Saturday 3 July 2021 |
 | 11/07/2021      | Casual Contact       | Chippendale     | Budget Petrol Chippendale70 Regent Street | 7pm to 7:10pm on Tuesday 6 July 2021                         |
@@ -108,25 +111,30 @@
 | 13/07/2021      | Close Contact        | Condell Park    | IGA Condell ParkShop 1/63-77 Simmat Avenue | 8:55am to 9:10am on Monday 12 July 2021                      |
 | 07/07/2021      | Casual Contact       | Condell Park    | Metro Petroleum Condell Park149 Eldridge Road | 11:30am to 11:35am on Monday 5 July 2021                     |
 | 09/07/2021      | Casual Contact       | Coogee          | Barzura62 Carr Street     | 9:30am to 9:35am on Saturday 3 July 2021                     |
+| 16/07/2021      | Monitor for symptoms | Coogee          | Maloneys Grocer Coogee214 Coogee Bay Road | 5:35pm to 6pm on Monday 12 July 2021                         |
 | 09/07/2021      | Casual Contact       | Coogee          | Morning Glory CafeCoogee Pavilion, 128-130 Beach Street | 10:40am to 10:50am on Saturday 3 July 2021                   |
+| 16/07/2021      | Monitor for symptoms | Coogee          | Woolworths Metro CoogeeCoogee Bay Village, 184-196 Coogee Bay Road | 5:40pm to 6pm on Monday 12 July 2021                         |
 | 14/07/2021      | Monitor for symptoms | Double Bay      | ARTE Bianca Pizza Restaurant51 Bay Street | 5:15pm to 8:30pm on Tuesday 6 July 2021                      |
 | 11/07/2021      | Casual Contact       | Dural           | Caltex Petrol Station Dural532 Old Northern Road | 5:10pm to 5:20pm on Tuesday 6 July 2021                      |
+| 16/07/2021      | Casual Contact       | East Greenacre  | Hungry Jacks East Greenacre9-11 Roberts Road | 7:40pm to 8:10pm on Thursday 8 July 2021                     |
 | 11/07/2021      | Casual Contact       | Eastgardens     | Ribs and Burgers EastgardensWestfield Eastgardens, 152 Bunnerong Road | 5:30pm to 9:30pm on Wednesday 7 July 2021                    |
 | 15/07/2021      | Casual Contact       | Edensor Park    | Coles Edensor ParkEdensor Road and Allambie Road | 10:10am to 10:50am on Saturday 10 July 202110:10am to 10:50am on Sunday 4 July 2021 |
 | 11/07/2021      | Close Contact        | Edensor Park    | Fred's Fruit Market707 Smithfield Road | 2pm to 3pm on Friday 9 July 2021                             |
 | 14/07/2021      | Casual Contact       | Edensor Park    | Fred's One Stop Shopping 661-671 Smithfield Road | 4:15pm to 4:30pm on Sunday 11 July 20211:30pm to 3:30pm on Sunday 4 July 2021 |
 | 13/07/2021      | Close Contact        | Edensor Park    | Fred's One Stop Shopping661-671 Smithfield Road | 2pm to 3pm on Friday 9 July 2021                             |
 | 05/07/2021      | Close Contact        | Edmondson Park  | Frango Charcoal Chicken Edmondson Park8/2074 Camden Valley Way | 9am to 3pm on Friday 2 July 2021                             |
-| 15/07/2021      | Monitor for symptoms | Emu Plains      | Aldi Lennox VillageCorner of Great Western Highway and Lawson Street | 3:45pm to 4pm on Saturday 10 July 2021                       |
+| 16/07/2021      | Monitor for symptoms | Emu Plains      | Aldi Lennox VillageCorner of Great Western Highway and Lawson Street | 3:45pm to 4pm on Saturday 10 July 2021                       |
 | 12/07/2021      | Casual Contact       | Emu Plains      | Cafe at Lewers86 River Road | 9am to 9:30am on Friday 9 July 20219am to 9:30am on Thursday 8 July 20219am to 9:30am on Wednesday 7 July 20219am to 9:30am on Tuesday 6 July 2021 |
 | 13/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu Plains Corner Great Western Highway and 1 Pyramid Street | 3:40pm to 4:30pm on Friday 9 July 2021                       |
+| 16/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu PlainsCorner Great Western Highway and 1 Pyramid Street | 3:45pm to 4:45pm on Saturday 10 July 2021                    |
 | 13/07/2021      | Casual Contact       | Emu Plains      | McDonalds Emu PlainsCorner Old Bathurst Road and Russell Street | 2pm to 2:30pm on Thursday 8 July 2021                        |
 | 12/07/2021      | Casual Contact       | Emu Plains      | Woolworths Emu PlainsLennox Village, Corner Great Western Highway and Lawson Street | 4pm to 4:30pm on Tuesday 6 July 2021                         |
-| 16/07/2021      | Casual Contact       | Emu Plains      | Lennox Village Emu PlainsCorner Great Western Highway and 1 Pyramid Street | 3:45pm to 4:45pm on Saturday 10 July 2021                    |
+| 16/07/2021      | Close Contact        | Emu Plains      | Woolworths Lennox Shopping CentreCorner Great Western Highway and Lawson Street | 4pm to 4:45pm on Saturday 10 July 2021                       |
 | 15/07/2021      | Monitor for symptoms | Engadine        | Cincotta Chemist Engadine1097 Old Princes Highway | 12:25pm to 12:40pm on Monday 12 July 2021                    |
 | 15/07/2021      | Casual Contact       | Fairfield       | Aldi FairfieldFairfield Forum Shopping Centre, 8-36 Station Street | 10am to 10:15am on Sunday 11 July 202110am to 10:15am on Saturday 10 July 20211:55pm to 2:15pm on Friday 9 July 202112:30pm to 12:50pm on Monday 5 July 2021 |
 | 12/07/2021      | Close Contact        | Fairfield       | Australian Visa Now2A/4 Alan Street | 9:30am to 4:30am on Saturday 10 July 20219:30am to 4:30am on Friday 9 July 20219:30am to 4:30am on Thursday 8 July 20219:30am to 4:30am on Wednesday 7 July 20219:30am to 4:30am on Tuesday 6 July 20219:30am to 4:30am on Monday 5 July 2021 |
 | 15/07/2021      | Casual Contact       | Fairfield       | Chemist Warehouse Fairfield8 Kenyon Street | 2:45pm to 3:40pm on Wednesday 7 July 202112pm to 2pm on Monday 5 July 2021 |
+| 16/07/2021      | Casual Contact       | Fairfield       | Coles Fairfield ForumFairfield Forum, 8/36 Station Street | 3:30pm to 3:45pm on Sunday 11 July 2021                      |
 | 11/07/2021      | Casual Contact       | Fairfield       | Coles FairfieldFairfield Forum, 8/36 Station Street | 7:20pm to 7:35pm on Wednesday 7 July 20218:20pm to 8:30pm on Wednesday 7 July 202112:10pm to 12:30pm on Saturday 3 July 2021 |
 | 13/07/2021      | Close Contact        | Fairfield       | Coles FairfieldFairfield Forum, 8/36 Station Street | 7am to 3pm on Sunday 11 July 202112pm to 5:30pm on Saturday 10 July 20217am to 12pm on Friday 9 July 2021 |
 | 14/07/2021      | Casual Contact       | Fairfield       | Elias Pharmacy37-41 Ware Street | 3:30pm to 3:35pm on Thursday 8 July 2021                     |
@@ -137,7 +145,7 @@
 | 14/07/2021      | Casual Contact       | Fairfield       | FruitmaniaFairfield Forum, 8/36 Station Street | 3pm to 4pm on Saturday 10 July 2021                          |
 | 11/07/2021      | Close Contact        | Fairfield       | Guirguis Family Medical Practice29 Station Street | 1:30pm to 2:30pm on Friday 9 July 2021                       |
 | 14/07/2021      | Casual Contact       | Fairfield       | Horizon Mobile Centre9/104-106 Ware Street | 2:35pm to 3:05pm on Friday 9 July 202112:30pm to 1:30pm on Tuesday 6 July 2021 |
-| 14/07/2021      | Casual Contact       | Fairfield       | KFC Fairfield352-354 The Horsley Drive | 4pm to 8:30pm on Saturday 10 July 20214pm to 8:30pm on Saturday 10 July 20213pm to 8:30pm on Tuesday 6 July 2021 |
+| 16/07/2021      | Casual Contact       | Fairfield       | KFC Fairfield352-354 The Horsley Drive | 9am to 8:30pm on Sunday 11 July 20213:30pm to 11:30pm on Saturday 10 July 20213pm to 9pm on Tuesday 6 July 2021 |
 | 14/07/2021      | Casual Contact       | Fairfield       | Kmart FairfieldFairfield Forum, 8/36 Station Street | 2:05pm to 2:15pm on Friday 9 July 20217pm to 7:20pm on Wednesday 7 July 20218pm to 8:10pm on Wednesday 7 July 2021 |
 | 14/07/2021      | Monitor for symptoms | Fairfield       | Kmart FairfieldFairfield Forum, 8/36 Station Street | 2:45pm to 3:05pm on Friday 9 July 2021                       |
 | 12/07/2021      | Close Contact        | Fairfield       | Law and Order Office Work31 Spencer Street | 9:30am to 4:30am on Saturday 10 July 20219:30am to 4:30am on Friday 9 July 20219:30am to 4:30am on Thursday 8 July 20219:30am to 4:30am on Wednesday 7 July 20219:30am to 4:30am on Tuesday 6 July 20219:30am to 4:30am on Monday 5 July 2021 |
@@ -148,6 +156,7 @@
 | 15/07/2021      | Casual Contact       | Fairfield       | Sushi Hub FairfieldNeeta City Shopping Centre, 1/29 Court Road | 2pm to 2:30pm on Saturday 3 July 2021                        |
 | 12/07/2021      | Close Contact        | Fairfield       | Ware Street Medical PracticeShop 3/37-41 Ware Street | 2:40pm to 3:40pm on Thursday 8 July 2021                     |
 | 12/07/2021      | Close Contact        | Fairfield       | Westpac FairfieldShop G46 Neeta City Shopping Centre, 54 Smart Street | 1:20pm to 1:40pm on Thursday 8 July 2021                     |
+| 16/07/2021      | Casual Contact       | Fairfield       | Woolworths BWS Fairfield Neeta City1-29 Court Road | 3:30pm to 3:45pm on Sunday 11 July 2021                      |
 | 12/07/2021      | Close Contact        | Fairfield       | iMedic iCare Medical Centre107 Ware Street | 8:30am to 6:30pm on Saturday 10 July 20218:30am to 6:30pm on Friday 9 July 202111am to 3pm on Thursday 8 July 2021 |
 | 13/07/2021      | Casual Contact       | Fairfield East  | BP Carrington183 The Horsley Drive | 4:45pm to 5pm on Thursday 8 July 2021                        |
 | 14/07/2021      | Casual Contact       | Fairfield Heights | 7-Eleven Fairfield West234 Hamilton Road and the Boulevarde | 10:15am to 10:30am on Friday 9 July 2021                     |
@@ -199,8 +208,10 @@
 | 12/07/2021      | Monitor for symptoms | Hoxton Park     | Bunnings Hoxton ParkCorner of Cowpasture Road and Airfield Drive | 4:15pm to 4:45pm on Thursday 8 July 2021                     |
 | 14/07/2021      | Casual Contact       | Hurstville      | Adams Kebabs and Pizza Pide3/183B Forest Road | 2am to 2:20am on Friday 9 July 2021                          |
 | 10/07/2021      | Casual Contact       | Hurstville      | Chemist Warehouse HurstvilleLevel 1 Westfield Hurstville, Cross Street and Park Road | 2:45pm to 3:15pm on Tuesday 6 July 20211:30pm to 1:55pm on Friday 2 July 2021 |
+| 16/07/2021      | Monitor for symptoms | Hurstville      | Coles Hurstville Station 225 Forest Road | 10:30pm to 11am on Wednesday 14 July 20213:25pm to 3:35pm on Tuesday 13 July 20213:35pm to 3:45pm on Monday 12 July 2021 |
 | 11/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville Station225 Forest Road | 10:30pm to 10:45pm on Tuesday 6 July 2021                    |
 | 15/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville WestfieldLevel 1, Westfield Hurstville, Cross Street and Park Road | 12pm to 5:15pm on Sunday 11 July 202112pm to 5pm on Saturday 10 July 202110:30am to 3pm on Friday 9 July 202110:15pm to 10:30pm on Wednesday 7 July 20215am to 10am on Wednesday 7 July 20211:30pm to 1:50pm on Friday 2 July 2021 |
+| 16/07/2021      | Casual Contact       | Hurstville      | Coles HurstvilleWestfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 20219:15am to 4pm on Thursday 8 July 2021 |
 | 08/07/2021      | Casual Contact       | Hurstville      | King Tea HurstvilleShop 432 Westfield Hurstville, Cross Street and Park Road | 2pm to 3:15pm on Tuesday 6 July 2021                         |
 | 15/07/2021      | Monitor for symptoms | Hurstville      | Muffin Break HurstvilleWestfield Hurstville, Cross Street and Park Road | 9:45am to 9:55am on Tuesday 13 July 20219:45am to 9:55am on Monday 12 July 2021 |
 | 11/07/2021      | Casual Contact       | Hurstville      | N and G Mechanical Repairs (including the shared car park with Speedy Tyres)67 Forest Road | 1:30pm to 2pm on Saturday 3 July 2021                        |
@@ -208,8 +219,10 @@
 | 14/07/2021      | Casual Contact       | Hurstville      | Oporto HurstvilleWestfield Hurstville, Cross Street and Park Road | 5pm to 5:15pm on Friday 9 July 2021                          |
 | 14/07/2021      | Casual Contact       | Hurstville      | Ren de tang Chinese Medicine232 Forrest Road | 3:35pm to 3:55pm on Tuesday 6 July 2021                      |
 | 14/07/2021      | Casual Contact       | Hurstville      | Starbucks HurstvilleWestfield Hurstville, Cross Street and Park Road | 12:10pm to 12:15pm on Sunday 11 July 202112pm to 12:05pm on Saturday 10 July 20218am to 8:10am on Wednesday 7 July 2021 |
+| 16/07/2021      | Monitor for symptoms | Hurstville      | Station MeatsWestfield Hurstville, 12/225 Forest Road | 10am to 10:20am on Wednesday 14 July 2021                    |
 | 06/07/2021      | Casual Contact       | Hurstville      | TG Farm ChickensWestfield Hurstville, Cross Street and Park Road | 1:55pm to 2:05pm on Friday 2 July 2021                       |
 | 07/07/2021      | Monitor for symptoms | Hurstville      | Westfield HurstvilleCross Street and Park Road | 1:30pm to 2:20pm on Friday 2 July 2021                       |
+| 16/07/2021      | Monitor for symptoms | Hurstville      | Woolworths Hurstville Corner Park and Cross Streets | 5:40pm to 6pm on Monday 12 July 2021                         |
 | 08/07/2021      | Casual Contact       | Hurstville      | Woolworths HurstvilleCorner Park and Cross Streets | 2:20pm to 3:30pm on Tuesday 6 July 2021                      |
 | 08/07/2021      | Casual Contact       | Illawong        | Charlie's Grill Chicken and SeafoodG17/273 Fowler Road | 2:50pm to 3:10pm on Saturday 3 July 2021                     |
 | 15/07/2021      | Casual Contact       | Jamisontown     | Bunnings Penrith2745 Wolseley Street | 9am to 10am on Saturday 10 July 2021                         |
@@ -229,14 +242,16 @@
 | 11/07/2021      | Close Contact        | Kogarah         | President Avenue Fruit World60 President Avenue | 11am to 11:15am on Monday 5 July 2021                        |
 | 11/07/2021      | Casual Contact       | Kogarah         | Pulse Espresso Bar4/26-28 Belgrave Street | 12:45pm to 1:15pm on Wednesday 7 July 2021                   |
 | 11/07/2021      | Close Contact        | Kogarah         | Supreme Pizza Kogarah29 Rocky Point Road | 3pm to 10pm on Tuesday 6 July 2021                           |
+| 16/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 1:30pm to 8pm on Sunday 11 July 20219am to 8pm on Saturday 10 July 2021 |
 | 13/07/2021      | Close Contact        | Lakemba         | BHC Medical Centre53 Railway Parade | 8:35am to 8:55am on Monday 12 July 2021                      |
 | 15/07/2021      | Casual Contact       | Lakemba         | Best Price Supermarket126 Haldon Street | 12:55pm to 1:05pm on Sunday 11 July 2021                     |
+| 16/07/2021      | Casual Contact       | Lakemba         | I Juice Plus113 Haldon Street | 4:25pm to 4:40pm on Sunday 11 July 2021                      |
 | 12/07/2021      | Close Contact        | Lakemba         | Mataam Al Mandi30B Haldon Street | 3:15pm to 3:30pm on Saturday 10 July 2021                    |
 | 09/07/2021      | Casual Contact       | Liverpool       | Big W LiverpoolWestfield Liverpool, 25 George Street | 1:10pm to 1:20pm on Monday 5 July 2021                       |
 | 15/07/2021      | Casual Contact       | Liverpool       | Krispy Kreme LiverpoolMegacenta 2, 20 Orange Grove Road | 1pm to 1:15pm on Saturday 3 July 2021                        |
 | 09/07/2021      | Casual Contact       | Liverpool       | Michels Patisserie LiverpoolKiosk 1003 Westfield Liverpool, Macquarie Street | 1:20pm to 1:30pm on Monday 5 July 2021                       |
 | 12/07/2021      | Casual Contact       | Liverpool       | PRD Real Estate Liverpool71-73 Scott Street | 8:30am to 9:15am on Saturday 10 July 20219am to 5:50pm on Friday 9 July 20219am to 5:30pm on Wednesday 7 July 2021 |
-| 15/07/2021      | Close Contact        | Liverpool       | Service NSW LiverpoolShop R19/2–18 Orange Grove Road | 10:10am to 10:25am on Monday 12 July 2021                    |
+| 16/07/2021      | Close Contact        | Liverpool       | Service NSW LiverpoolShop R19/2–18 Orange Grove Road | 10am to 10:30am on Monday 12 July 2021                       |
 | 09/07/2021      | Close Contact        | Liverpool       | Speed Medical Practice2 Speed Street | 11:15am to 1:45pm on Wednesday 7 July 2021                   |
 | 09/07/2021      | Casual Contact       | Liverpool       | Tong Li Supermarket LiverpoolShop 1008/1009 Westfield Liverpool, Macquarie Street | 12:55pm to 1:10pm on Monday 5 July 2021                      |
 | 11/07/2021      | Casual Contact       | Manly           | Gloria Jeans Coffees Manly WharfKiosk 1, Manly Wharf, E Esplanade | 1:45pm to 2pm on Saturday 3 July 2021                        |
@@ -264,13 +279,13 @@
 | 08/07/2021      | Close Contact        | Merrylands      | Australia Post Merrylands12 Memorial Avenue | 2pm to 3pm on Monday 5 July 2021                             |
 | 09/07/2021      | Close Contact        | Merrylands      | Direct TradeShop 1/150 Merrylands Road | 2:20pm to 2:50pm on Saturday 3 July 2021                     |
 | 09/07/2021      | Close Contact        | Merrylands      | Kmart Merrylands1 McFarlane Street | 2:30pm to 3:20pm on Monday 5 July 2021                       |
-| 10/07/2021      | Casual Contact       | Merrylands      | MV MeatStocklands Merrylands, 1 Pitt Street | 5:05pm to 5:15pm on Saturday 3 July 2021                     |
+| 10/07/2021      | Casual Contact       | Merrylands      | MV MeatStockland Merrylands, 1 Pitt Street | 5:05pm to 5:15pm on Saturday 3 July 2021                     |
 | 15/07/2021      | Casual Contact       | Merrylands      | Mansours BBQ124 Merrylands Road | 7pm to 8pm on Wednesday 7 July 2021                          |
-| 09/07/2021      | Casual Contact       | Merrylands      | Merrylands Stocklands Shopping Centre1 Pitt Street | 2pm to 3:30pm on Monday 5 July 2021                          |
 | 15/07/2021      | Casual Contact       | Merrylands      | Priceline Pharmacy MerrylandsStockland Mall, Shop 1090 McFarlane Street | 1pm to 2pm on Monday 12 July 2021                            |
 | 15/07/2021      | Casual Contact       | Merrylands      | Red Lea MerrylandsStockland Merrylands, 185 Pitt Street | 2pm to 2:30pm on Saturday 10 July 2021                       |
 | 08/07/2021      | Close Contact        | Merrylands      | Sadaqat Supermarket6 Memorial Avenue | 1:30pm to 2pm on Monday 5 July 2021                          |
 | 14/07/2021      | Casual Contact       | Merrylands      | Sadaqat Supermarket6 Memorial Avenue | 4pm to 7pm on Thursday 8 July 2021                           |
+| 09/07/2021      | Casual Contact       | Merrylands      | Stockland Merrylands Shopping Centre1 Pitt Street | 2pm to 3:30pm on Monday 5 July 2021                          |
 | 15/07/2021      | Monitor for symptoms | Merrylands      | Stockland Merrylands Shopping Centre1 Pitt Street | 2pm to 3:30pm on Monday 12 July 20212pm to 4pm on Saturday 10 July 2021 |
 | 10/07/2021      | Casual Contact       | Merrylands      | Trim's Fresh MerrylandsStockland Merrylands, 191-201 Pitt Street | 5:10pm to 5:20pm on Saturday 3 July 2021                     |
 | 14/07/2021      | Casual Contact       | Merrylands      | Woolworths Merrylands209 Pitt Street | 2:15pm to 3:45pm on Saturday 10 July 2021                    |
@@ -306,6 +321,7 @@
 | 13/07/2021      | Casual Contact       | Penrith         | Trim's Fresh PenrithWestfield Penrith Plaza, 585 High Street | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
 | 13/07/2021      | Casual Contact       | Penrith         | Westfield Penrith Plaza, Ground floor food court585 High Street | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
 | 13/07/2021      | Casual Contact       | Penrith         | Woolworths PenrithWestfield Penrith Plaza, 585 High Street | 12:30pm to 1:30pm on Saturday 10 July 2021                   |
+| 16/07/2021      | Casual Contact       | Prairiewood     | 7-Eleven Prairiewood485-487 Smithfield Road | 7:45am to 7:50am on Tuesday 13 July 2021                     |
 | 11/07/2021      | Casual Contact       | Prestons        | McDonalds Cartwright2 Lyn Parade | 10:50am to 11:45am on Monday 5 July 2021                     |
 | 14/07/2021      | Casual Contact       | Punchbowl       | Ampol Foodary Punchbowl1285-1289 Canterbury Road and Duncan St | 4:20pm to 4:35pm on Monday 12 July 2021                      |
 | 15/07/2021      | Close Contact        | Punchbowl       | Chemist Warehouse Punchbowl18/1 Broadway | 2:30pm to 3pm on Thursday 8 July 20219:20am to 9:40am on Thursday 8 July 2021 |
@@ -324,6 +340,7 @@
 | 07/07/2021      | Casual Contact       | Revesby         | Bakers Delight RevesbyShop 9/19-29 Marco Avenue | 12pm (noon) to 1pm on Saturday 3 July 2021                   |
 | 08/07/2021      | Close Contact        | Revesby         | Billys Cars112a Milperra Road | 10am to 11:30am on Sunday 4 July 20219am to 5pm on Saturday 3 July 20219am to 5pm on Friday 2 July 2021 |
 | 07/07/2021      | Casual Contact       | Revesby         | Cha Point RevesbyShop 7/19-29 Marco Avenue | 12pm (noon) to 1pm on Saturday 3 July 2021                   |
+| 16/07/2021      | Monitor for symptoms | Revesby         | Metro Petroleum Revesby 10-12 Milperra Road | 5:30pm to 5:40pm on Tuesday 13 July 2021                     |
 | 10/07/2021      | Casual Contact       | Revesby         | Metro Petroleum Revesby10-12 Milperra Road | 2pm to 2:05pm on Tuesday 6 July 2021                         |
 | 15/07/2021      | Casual Contact       | Revesby         | Terry White Chemist Revesby Shop 16/19-29 Marco Avenue | 10:05am to 10:10am on Wednesday 14 July 2021                 |
 | 09/07/2021      | Close Contact        | Revesby         | Terry White Chemist RevesbyShop 16/19-29 Marco Avenue | 8am to 3pm on Tuesday 6 July 2021                            |
@@ -392,6 +409,7 @@
 | 15/07/2021      | Casual Contact       | Wetherill Park  | XS Espresso Wetherill Park9A, 1183-1187 The Horsley Drive | 10am to 10:30am on Sunday 4 July 2021                        |
 | 13/07/2021      | Casual Contact       | Windsor         | Coles Windsor223 George Street | 1:20pm to 3pm on Saturday 10 July 2021                       |
 | 12/07/2021      | Casual Contact       | Windsor         | Windsor Riverview Shopping Centre227 George Street | 1:30pm to 3pm on Wednesday 7 July 2021                       |
+| 16/07/2021      | Monitor for symptoms | Wolli Creek     | Woolworths Wolli Creek78-96 Arncliffe Street | 1pm to 1:40pm on Thursday 8 July 2021                        |
 | 07/07/2021      | Casual Contact       | Woollahra       | Jim's Cellars41 Ocean Street | 10:50am to 11am on Saturday 3 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Yagoona         | 5 Stars Nuts Supermarket516-526 Hume Highway | 5pm to 5:30pm on Saturday 10 July 2021                       |
 | 12/07/2021      | Close Contact        | Yagoona         | Cedar Valley MeatsShop 1/44 Dargan Street | 1:30pm to 2pm on Saturday 10 July 2021                       |
