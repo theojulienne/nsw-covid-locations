@@ -65,7 +65,7 @@
 | 16/07/2021      | Casual Contact       | Hurstville      | Tong Li Supermarket Hurstville Central Shop T15/225 Foret Road | 4:05pm to 4:20pm on Thursday 8 July 2021                     |
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Station MeatsWestfield Hurstville, 12/225 Forest Road | 10am to 10:20am on Wednesday 14 July 2021                    |
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Coles Hurstville Station 225 Forest Road | 10:30pm to 11am on Wednesday 14 July 20213:25pm to 3:35pm on Tuesday 13 July 20213:35pm to 3:45pm on Monday 12 July 2021 |
-| 16/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
+| 16/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Wednesday 14 July 2021                   |
 | 16/07/2021      | Monitor for symptoms | Fairfield West  | Coles Fairfield West Markey Plaza, 386 Hamilton Road | 2:30pm to 3:10pm on Sunday 11 July 2021                      |
 | 16/07/2021      | Casual Contact       | Fairfield West  | Aldi Fairfield West370 Hamilton Road | 5:30pm to 6:30pm on Thursday 15 July 2021                    |
 | 16/07/2021      | Casual Contact       | Fairfield Heights | Woolworths Fairfield Heights Fairfield Heights Shopping Mall, 186 The Boulevarde | 2:20pm to 3:00pm on Thursday 15 July 2021                    |
