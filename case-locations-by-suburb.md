@@ -192,7 +192,7 @@
 | 12/07/2021      | Casual Contact       | Glebe           | Schnitz Broadway218/1 Bay Street | 6:30pm to 6:45pm on Thursday 8 July 2021                     |
 | 12/07/2021      | Casual Contact       | Glenbrook       | Cons Continental Deli Glenbrook Village31 Park Street | 1pm to 1:30pm on Tuesday 6 July 2021                         |
 | 12/07/2021      | Casual Contact       | Glenbrook       | The Take Away JointShop 6/31-33 Ross Street | 1pm to 1:30pm on Tuesday 6 July 2021                         |
-| 16/07/2021      | Close Contact        | Gordon          | Grindley Constructions 25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
+| 16/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
 | 13/07/2021      | Casual Contact       | Granville       | Woolworths Granville6 Louis Street | 6:15pm to 7pm on Wednesday 7 July 2021                       |
 | 15/07/2021      | Close Contact        | Green Valley    | Pennas Green Valley Pharmacy174 Green Valley Road | 3:15pm to 3:25pm on Sunday 11 July 20211.05pm to 1:15pm on Saturday 10 July 2021 |
 | 12/07/2021      | Close Contact        | Green Valley    | Priceline Pharmacy Green ValleyThe Valley Plaza 2, 189 Wilson Road | 2:30pm to 3:15pm on Friday 9 July 2021                       |

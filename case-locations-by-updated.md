@@ -23,7 +23,7 @@
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Station MeatsWestfield Hurstville, 12/225 Forest Road | 10am to 10:20am on Wednesday 14 July 2021                    |
 | 16/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville WestfieldLevel 1, Westfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 202112pm to 5:15pm on Sunday 11 July 202112pm to 5pm on Saturday 10 July 202110:30am to 3pm on Friday 9 July 20219:15am to 4pm on Thursday 8 July 202110:15pm to 10:30pm on Wednesday 7 July 20215am to 10am on Wednesday 7 July 20211:30pm to 1:50pm on Friday 2 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Coles Hurstville Station 225 Forest Road | 10:30pm to 11am on Wednesday 14 July 20213:25pm to 3:35pm on Tuesday 13 July 20213:35pm to 3:45pm on Monday 12 July 2021 |
-| 16/07/2021      | Close Contact        | Gordon          | Grindley Constructions 25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
+| 16/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
 | 16/07/2021      | Casual Contact       | Fairfield West  | Aldi Fairfield West370 Hamilton Road | 5:30pm to 6:30pm on Thursday 15 July 2021                    |
 | 16/07/2021      | Casual Contact       | Fairfield Heights | Woolworths Fairfield Heights Fairfield Heights Shopping Mall, 186 The Boulevarde | 2:20pm to 3:00pm on Thursday 15 July 2021                    |
 | 16/07/2021      | Casual Contact       | Fairfield Heights | Boulevarde Traditional Bakery 4/154 The Boulevarde | 9:30am to 10:30am on Sunday 11 July 2021                     |
