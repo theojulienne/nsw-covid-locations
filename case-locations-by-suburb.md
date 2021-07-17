@@ -423,7 +423,7 @@
 | 06/07/2021      | Close Contact        | Toongabbie      | Toongabbie Construction74 Aurelia Street | 7am to 5pm on Friday 2 July 20217am to 5pm on Thursday 1 July 20217am to 5pm on Wednesday 30 June 20217am to 5pm on Tuesday 29 June 20217am to 5pm on Monday 28 June 2021 |
 | 10/07/2021      | Monitor for symptoms | Ultimo          | Broadway Shopping Centre1 Bay Street | 11:30am to 1:30pm on Thursday 8 July 2021                    |
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
-| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
+| 17/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
 | 14/07/2021      | Casual Contact       | Waterloo        | Aldi Waterloo20A Danks Street | 9:30am to 10am on Saturday 10 July 2021                      |
 | 07/07/2021      | Casual Contact       | Waterloo        | Meriton Suites Waterloo30 Danks Street | 12am (midnight) to 8am on Monday 5 July 2021All day on Sunday 4 July 2021All day on Saturday 3 July 2021All day on Friday 2 July 2021All day on Thursday 1 July 2021All day on Wednesday 30 June 2021All day on Tuesday 29 June 2021All day on Monday 28 June 2021 |
 | 08/07/2021      | Close Contact        | Wetherill Park  | Beds R Us Wetherill ParkGreenway Plaza and Homemaker Greenway. Unit 70-71 1183 The Horsley Drive | 2:30pm to 3:15pm on Monday 5 July 2021                       |

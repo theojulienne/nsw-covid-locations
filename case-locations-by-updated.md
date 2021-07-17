@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 17/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
 | 17/07/2021      | Close Contact        | Mt Druitt       | Mt Druitt Medical and Dental Centre22 Jirrang Close | 11:35am to 1:15am on Wednesday 14 July 2021                  |
 | 17/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 8am to 2pm on Wednesday 14 July 20218am to 10pm on Tuesday 13 July 20218am to 10pm on Monday 12 July 20218am to 10pm on Sunday 11 July 20218am to 10pm on Saturday 10 July 20218am to 10pm on Friday 9 July 2021 |
 | 17/07/2021      | Close Contact        | Lakemba         | La Bella Patisserie42 The Boulevarde | 5pm to 5:15pm on Friday 9 July 2021                          |
@@ -14,7 +15,6 @@
 | 17/07/2021      | Close Contact        | Chester Hill    | Aya Family Healthcare AfterhoursShop 21 Chester Square, 1 Leicester Street | 8:30am to 9:20am on Wednesday 14 July 2021                   |
 | 16/07/2021      | Casual Contact       | Wollongong      | 7-Eleven West Wollongong346 Crown Street | 7:30am to 2pm on Wednesday 7 July 20217:30am to 2pm on Tuesday 6 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Wolli Creek     | Woolworths Wolli Creek78-96 Arncliffe Street | 1pm to 1:40pm on Thursday 8 July 2021                        |
-| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
 | 16/07/2021      | Casual Contact       | Thornton        | 7-Eleven Thornton1 Weakleys Drive | 12:05pm to 12:11pm on Tuesday 13 July 2021                   |
 | 16/07/2021      | Casual Contact       | Seven Hills     | Woolworths Seven Hills 224 Prospect Highway | 3:00pm to 3:45pm on Monday 5 July 2021                       |
 | 16/07/2021      | Close Contact        | Seven Hills     | Better Health Pharmacy Seven Hills Plaza, Shop 70, 224 Prospect Highway | 2:45pm to 3:15pm on Tuesday 13 July 20214:00pm to 4:30pm on Monday 12 July 202111:15am to 12:00am on Sunday 11 July 2021 |
