@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 17/07/2021      | Close Contact        | Hurstville      | Coles Hurstville WestfieldLevel 1, Westfield Hurstville, Cross Street and Park Road | 9:10am to 10am on Tuesday 13 July 20219:15pm to 6:15pm on Monday 12 July 202111:40am to 12:30pm on Saturday 10 July 2021 |
+| 17/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville Westfield Level 1, Westfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 202111:15am to 5:15pm on Sunday 11 July 202112:30pm to 5pm on Saturday 10 July 20218:00am to 5:15pm on Friday 9 July 20219:15am to 4pm on Thursday 8 July 20215am to 4pm on Wednesday 7 July 2021 |
 | 16/07/2021      | Casual Contact       | Wollongong      | 7-Eleven West Wollongong346 Crown Street | 7:30am to 2pm on Wednesday 7 July 20217:30am to 2pm on Tuesday 6 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Wolli Creek     | Woolworths Wolli Creek78-96 Arncliffe Street | 1pm to 1:40pm on Thursday 8 July 2021                        |
 | 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Monday 12 July 2021                      |
@@ -21,7 +23,6 @@
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Woolworths Hurstville Corner Park and Cross Streets | 5:40pm to 6pm on Monday 12 July 2021                         |
 | 16/07/2021      | Casual Contact       | Hurstville      | Tong Li Supermarket Hurstville Central Shop T15/225 Foret Road | 4:05pm to 4:20pm on Thursday 8 July 2021                     |
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Station MeatsWestfield Hurstville, 12/225 Forest Road | 10am to 10:20am on Wednesday 14 July 2021                    |
-| 16/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville WestfieldLevel 1, Westfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 202112pm to 5:15pm on Sunday 11 July 202112pm to 5pm on Saturday 10 July 202110:30am to 3pm on Friday 9 July 20219:15am to 4pm on Thursday 8 July 202110:15pm to 10:30pm on Wednesday 7 July 20215am to 10am on Wednesday 7 July 20211:30pm to 1:50pm on Friday 2 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Hurstville      | Coles Hurstville Station 225 Forest Road | 10:30pm to 11am on Wednesday 14 July 20213:25pm to 3:35pm on Tuesday 13 July 20213:35pm to 3:45pm on Monday 12 July 2021 |
 | 16/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Monday 12 July 2021                      |
 | 16/07/2021      | Casual Contact       | Fairfield West  | Aldi Fairfield West370 Hamilton Road | 5:30pm to 6:30pm on Thursday 15 July 2021                    |
