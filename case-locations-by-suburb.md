@@ -99,12 +99,14 @@
 | 10/07/2021      | Casual Contact       | Carlingford     | Ximi VoguePennant Hills Road and Carlingford Road | 3:40pm to 3:55pm on Wednesday 7 July 2021                    |
 | 14/07/2021      | Casual Contact       | Carlton         | Aldi Carlton74 Edward Street | 2:10pm to 3pm on Friday 9 July 2021                          |
 | 14/07/2021      | Monitor for symptoms | Casula          | Chemist Warehouse CasulaCrossroads Homemaker Centre, 15/5 Parkers Farm Place | 1:20pm to 1:30pm on Monday 12 July 2021                      |
-| 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 11:00am to 11:45am on Thursday 15 July 2021                  |
 | 16/07/2021      | Monitor for symptoms | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 1:35pm to 2:10pm on Friday 9 July 2021                       |
+| 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 11:00am to 11:45am on Thursday 15 July 2021                  |
 | 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 12:50pm to 4pm on Wednesday 7 July 202112pm (noon) to 1pm on Sunday 4 July 20217:50pm to 9pm on Tuesday 29 June 2021 |
 | 12/07/2021      | Casual Contact       | Casula          | Kmart CasulaCasula Mall S/C, Kurrajong Road | 6pm to 6:45pm on Thursday 8 July 2021                        |
 | 12/07/2021      | Casual Contact       | Centennial Park | Centennial Homestead Cafe1 Grand Drive | 12pm to 12:30pm on Wednesday 7 July 20212:40pm to 3:15pm on Saturday 3 July 2021 |
 | 16/07/2021      | Casual Contact       | Chatswood       | ANZ Chatswood 382 Victoria Avenue | 12:00pm to 1:00pm on Wednesday 14 July 2021                  |
+| 17/07/2021      | Close Contact        | Chester Hill    | Aya Family Healthcare AfterhoursShop 21 Chester Square, 1 Leicester Street | 8:30am to 9:20am on Wednesday 14 July 2021                   |
+| 17/07/2021      | Close Contact        | Chinderah       | Truck stop at the Ampol service station (northbound) near Murwillumbah turnoff, including the truck drivers’ toilets, showers and lounge, and the food court  112 Tweed Valley Way | 8:30pm to 11:59pm on Tuesday 13 July 202112am to 7:30am on Wednesday 14 July 2021 |
 | 11/07/2021      | Casual Contact       | Chippendale     | Budget Petrol Chippendale70 Regent Street | 7pm to 7:10pm on Tuesday 6 July 2021                         |
 | 13/07/2021      | Monitor for symptoms | Chippendale     | Central Park Mall28 Broadway | 2:30pm to 3:15pm on Thursday 8 July 2021                     |
 | 12/07/2021      | Casual Contact       | Chipping Norton | Benedict Recycling33-39 Riverside Road | 10:50am to 12pm on Monday 5 July 2021                        |
@@ -119,6 +121,10 @@
 | 09/07/2021      | Casual Contact       | Coogee          | Morning Glory CafeCoogee Pavilion, 128-130 Beach Street | 10:40am to 10:50am on Saturday 3 July 2021                   |
 | 16/07/2021      | Monitor for symptoms | Coogee          | Woolworths Metro CoogeeCoogee Bay Village, 184-196 Coogee Bay Road | 5:40pm to 6pm on Monday 12 July 2021                         |
 | 14/07/2021      | Monitor for symptoms | Double Bay      | ARTE Bianca Pizza Restaurant51 Bay Street | 5:15pm to 8:30pm on Tuesday 6 July 2021                      |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | Excellent Price Variety StoreGround floor, 503-507 Marrickville Road | 1:50pm to 2:10pm on Thursday 8 July 2021                     |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | Juiceria497 Marrickville Road | 1:35pm to 1:50pm on Thursday 8 July 2021                     |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | The Fold Cafe402 New Canterbury Road | 10:45am to 11am on Thursday 8 July 2021                      |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | The Larder Wine and Cheese Bar489 Marrickville Road | 1:30pm to 1:45pm on Thursday 8 July 2021                     |
 | 11/07/2021      | Casual Contact       | Dural           | Caltex Petrol Station Dural532 Old Northern Road | 5:10pm to 5:20pm on Tuesday 6 July 2021                      |
 | 16/07/2021      | Casual Contact       | East Greenacre  | Hungry Jacks East Greenacre9-11 Roberts Road | 7:40pm to 8:10pm on Thursday 8 July 2021                     |
 | 16/07/2021      | Casual Contact       | Eastern Creek   | Woolworths Eastern Creek 159 Rooty Hill Road South | 1:50pm to 2:10pm on Tuesday 13 July 2021                     |
@@ -256,11 +262,13 @@
 | 11/07/2021      | Close Contact        | Kogarah         | President Avenue Fruit World60 President Avenue | 11am to 11:15am on Monday 5 July 2021                        |
 | 11/07/2021      | Casual Contact       | Kogarah         | Pulse Espresso Bar4/26-28 Belgrave Street | 12:45pm to 1:15pm on Wednesday 7 July 2021                   |
 | 11/07/2021      | Close Contact        | Kogarah         | Supreme Pizza Kogarah29 Rocky Point Road | 3pm to 10pm on Tuesday 6 July 2021                           |
-| 16/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 1:30pm to 8pm on Sunday 11 July 20219am to 8pm on Saturday 10 July 2021 |
+| 17/07/2021      | Close Contact        | Lakemba         | Al Fayhaa Bakery137A Haldon Street | 12:50pm to 1:05pm on Sunday 11 July 2021                     |
 | 13/07/2021      | Close Contact        | Lakemba         | BHC Medical Centre53 Railway Parade | 8:35am to 8:55am on Monday 12 July 2021                      |
 | 15/07/2021      | Casual Contact       | Lakemba         | Best Price Supermarket126 Haldon Street | 12:55pm to 1:05pm on Sunday 11 July 2021                     |
 | 16/07/2021      | Casual Contact       | Lakemba         | I Juice Plus113 Haldon Street | 4:25pm to 4:40pm on Sunday 11 July 2021                      |
+| 17/07/2021      | Close Contact        | Lakemba         | La Bella Patisserie42 The Boulevarde | 5pm to 5:15pm on Friday 9 July 2021                          |
 | 12/07/2021      | Close Contact        | Lakemba         | Mataam Al Mandi30B Haldon Street | 3:15pm to 3:30pm on Saturday 10 July 2021                    |
+| 17/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 8am to 2pm on Wednesday 14 July 20218am to 10pm on Tuesday 13 July 20218am to 10pm on Monday 12 July 20218am to 10pm on Sunday 11 July 20218am to 10pm on Saturday 10 July 20218am to 10pm on Friday 9 July 2021 |
 | 16/07/2021      | Casual Contact       | Leppington      | Chemist Warehouse Emerald Hills Emerald Hills Shopping Village, 5 Emerald Hills Boulevade | 4:20pm to 4:30pm on Monday 12 July 20215:00pm to 5:15pm on Monday 12 July 2021 |
 | 16/07/2021      | Casual Contact       | Leppington      | Woolworths Emerald Hills Emerald Hills Shopping Village, 5 Emerald Hills Boulevade | 3:00pm to 3:45pm on Wednesday 14 July 2021                   |
 | 09/07/2021      | Casual Contact       | Liverpool       | Big W LiverpoolWestfield Liverpool, 25 George Street | 1:10pm to 1:20pm on Monday 5 July 2021                       |
@@ -322,6 +330,7 @@
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Mamma Barone Italian Restaurant27A Morts Road | 7:25pm to 7:45pm on Sunday 11 July 2021                      |
 | 14/07/2021      | Monitor for symptoms | Mortdale        | Woolworths MortdaleMortdale Plaza, 84D Roberts Avenue | 11:45am to 12:05pm on Saturday 10 July 20214:50pm to 5:20pm on Friday 9 July 2021 |
 | 09/07/2021      | Casual Contact       | Mosman          | BP Connect MosmanCorner Avenue Road and Cowles Road | 3:15pm to 3:35pm on Sunday 4 July 2021                       |
+| 17/07/2021      | Close Contact        | Mt Druitt       | Mt Druitt Medical and Dental Centre22 Jirrang Close | 11:35am to 1:15am on Wednesday 14 July 2021                  |
 | 09/07/2021      | Casual Contact       | Mt Druitt       | Woolworths Mt DruittWestfield Mt Druitt, 49 Carlisle Avenue | 5:15pm to 5:45pm on Saturday 3 July 2021                     |
 | 15/07/2021      | Casual Contact       | North Bridge    | Ritual Coffee Traders160 Sailors Bay Road | 8:30am to 9am on Monday 12 July 2021                         |
 | 14/07/2021      | Casual Contact       | North Rocks     | Coles North Rocks318-336 North Rocks Road | 10pm to 10:40pm on Friday 9 July 2021                        |
@@ -414,7 +423,7 @@
 | 06/07/2021      | Close Contact        | Toongabbie      | Toongabbie Construction74 Aurelia Street | 7am to 5pm on Friday 2 July 20217am to 5pm on Thursday 1 July 20217am to 5pm on Wednesday 30 June 20217am to 5pm on Tuesday 29 June 20217am to 5pm on Monday 28 June 2021 |
 | 10/07/2021      | Monitor for symptoms | Ultimo          | Broadway Shopping Centre1 Bay Street | 11:30am to 1:30pm on Thursday 8 July 2021                    |
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
-| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Monday 12 July 2021                      |
+| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
 | 14/07/2021      | Casual Contact       | Waterloo        | Aldi Waterloo20A Danks Street | 9:30am to 10am on Saturday 10 July 2021                      |
 | 07/07/2021      | Casual Contact       | Waterloo        | Meriton Suites Waterloo30 Danks Street | 12am (midnight) to 8am on Monday 5 July 2021All day on Sunday 4 July 2021All day on Saturday 3 July 2021All day on Friday 2 July 2021All day on Thursday 1 July 2021All day on Wednesday 30 June 2021All day on Tuesday 29 June 2021All day on Monday 28 June 2021 |
 | 08/07/2021      | Close Contact        | Wetherill Park  | Beds R Us Wetherill ParkGreenway Plaza and Homemaker Greenway. Unit 70-71 1183 The Horsley Drive | 2:30pm to 3:15pm on Monday 5 July 2021                       |

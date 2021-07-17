@@ -1,10 +1,20 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 17/07/2021      | Close Contact        | Mt Druitt       | Mt Druitt Medical and Dental Centre22 Jirrang Close | 11:35am to 1:15am on Wednesday 14 July 2021                  |
+| 17/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 8am to 2pm on Wednesday 14 July 20218am to 10pm on Tuesday 13 July 20218am to 10pm on Monday 12 July 20218am to 10pm on Sunday 11 July 20218am to 10pm on Saturday 10 July 20218am to 10pm on Friday 9 July 2021 |
+| 17/07/2021      | Close Contact        | Lakemba         | La Bella Patisserie42 The Boulevarde | 5pm to 5:15pm on Friday 9 July 2021                          |
+| 17/07/2021      | Close Contact        | Lakemba         | Al Fayhaa Bakery137A Haldon Street | 12:50pm to 1:05pm on Sunday 11 July 2021                     |
 | 17/07/2021      | Close Contact        | Hurstville      | Coles Hurstville WestfieldLevel 1, Westfield Hurstville, Cross Street and Park Road | 9:10am to 10am on Tuesday 13 July 20219:15pm to 6:15pm on Monday 12 July 202111:40am to 12:30pm on Saturday 10 July 2021 |
 | 17/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville Westfield Level 1, Westfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 202111:15am to 5:15pm on Sunday 11 July 202112:30pm to 5pm on Saturday 10 July 20218:00am to 5:15pm on Friday 9 July 20219:15am to 4pm on Thursday 8 July 20215am to 4pm on Wednesday 7 July 2021 |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | The Larder Wine and Cheese Bar489 Marrickville Road | 1:30pm to 1:45pm on Thursday 8 July 2021                     |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | The Fold Cafe402 New Canterbury Road | 10:45am to 11am on Thursday 8 July 2021                      |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | Juiceria497 Marrickville Road | 1:35pm to 1:50pm on Thursday 8 July 2021                     |
+| 17/07/2021      | Close Contact        | Dulwich Hill    | Excellent Price Variety StoreGround floor, 503-507 Marrickville Road | 1:50pm to 2:10pm on Thursday 8 July 2021                     |
+| 17/07/2021      | Close Contact        | Chinderah       | Truck stop at the Ampol service station (northbound) near Murwillumbah turnoff, including the truck drivers’ toilets, showers and lounge, and the food court  112 Tweed Valley Way | 8:30pm to 11:59pm on Tuesday 13 July 202112am to 7:30am on Wednesday 14 July 2021 |
+| 17/07/2021      | Close Contact        | Chester Hill    | Aya Family Healthcare AfterhoursShop 21 Chester Square, 1 Leicester Street | 8:30am to 9:20am on Wednesday 14 July 2021                   |
 | 16/07/2021      | Casual Contact       | Wollongong      | 7-Eleven West Wollongong346 Crown Street | 7:30am to 2pm on Wednesday 7 July 20217:30am to 2pm on Tuesday 6 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Wolli Creek     | Woolworths Wolli Creek78-96 Arncliffe Street | 1pm to 1:40pm on Thursday 8 July 2021                        |
-| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Monday 12 July 2021                      |
+| 16/07/2021      | Casual Contact       | Wakeley         | IGA Wakeley Lomond Street and Bulls Road | 6:00pm to 7:15pm on Tuesday 13 July 2021                     |
 | 16/07/2021      | Casual Contact       | Thornton        | 7-Eleven Thornton1 Weakleys Drive | 12:05pm to 12:11pm on Tuesday 13 July 2021                   |
 | 16/07/2021      | Casual Contact       | Seven Hills     | Woolworths Seven Hills 224 Prospect Highway | 3:00pm to 3:45pm on Monday 5 July 2021                       |
 | 16/07/2021      | Close Contact        | Seven Hills     | Better Health Pharmacy Seven Hills Plaza, Shop 70, 224 Prospect Highway | 2:45pm to 3:15pm on Tuesday 13 July 20214:00pm to 4:30pm on Monday 12 July 202111:15am to 12:00am on Sunday 11 July 2021 |
@@ -16,7 +26,6 @@
 | 16/07/2021      | Casual Contact       | Leppington      | Woolworths Emerald Hills Emerald Hills Shopping Village, 5 Emerald Hills Boulevade | 3:00pm to 3:45pm on Wednesday 14 July 2021                   |
 | 16/07/2021      | Casual Contact       | Leppington      | Chemist Warehouse Emerald Hills Emerald Hills Shopping Village, 5 Emerald Hills Boulevade | 4:20pm to 4:30pm on Monday 12 July 20215:00pm to 5:15pm on Monday 12 July 2021 |
 | 16/07/2021      | Casual Contact       | Lakemba         | I Juice Plus113 Haldon Street | 4:25pm to 4:40pm on Sunday 11 July 2021                      |
-| 16/07/2021      | Close Contact        | Lakemba         | Al Sultan Butchery130 Haldon Street | 1:30pm to 8pm on Sunday 11 July 20219am to 8pm on Saturday 10 July 2021 |
 | 16/07/2021      | Casual Contact       | Kingsford       | Randwick Oriental Anzac Parade 500 Anzac Parade Kingsford | 5:00pm to 6:00pm on Monday 12 July 2021                      |
 | 16/07/2021      | Casual Contact       | Kellyville North | Woolworths Kellyville North Corner Withers and Hezlett Roads | 3:15pm to 3:40pm on Saturday 10 July 2021                    |
 | 16/07/2021      | Casual Contact       | Kellyville      | Aldi Kellyville 92 Wrights Road | 3:00pm to 3:40pm on Saturday 10 July 2021                    |
@@ -43,8 +52,8 @@
 | 16/07/2021      | Casual Contact       | Clemton Park    | Coles Clemton Park   60 Charlotte Street and Harp Street | 11:30am to 12:00am on Monday 12 July 2021                    |
 | 16/07/2021      | Casual Contact       | Chatswood       | ANZ Chatswood 382 Victoria Avenue | 12:00pm to 1:00pm on Wednesday 14 July 2021                  |
 | 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 12:50pm to 4pm on Wednesday 7 July 202112pm (noon) to 1pm on Sunday 4 July 20217:50pm to 9pm on Tuesday 29 June 2021 |
-| 16/07/2021      | Monitor for symptoms | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 1:35pm to 2:10pm on Friday 9 July 2021                       |
 | 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 11:00am to 11:45am on Thursday 15 July 2021                  |
+| 16/07/2021      | Monitor for symptoms | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 1:35pm to 2:10pm on Friday 9 July 2021                       |
 | 16/07/2021      | Casual Contact       | Canley Heights  | Tobacconist and Gifts57 Peel Street | 9am to 9:15am on Sunday 11 July 2021                         |
 | 16/07/2021      | Monitor for symptoms | Bondi Junction  | Coles Bondi WestfieldWestfield Bondi Junction, 500 Oxford Street | 8am to 8:30am on Wednesday 14 July 20211:40pm to 1:50pm on Saturday 10 July 202112:50pm to 1:10pm on Friday 9 July 2021 |
 | 16/07/2021      | Monitor for symptoms | Bondi Junction  | Chemist Warehouse Bondi Junction 135 Oxford Street | 8am to 8:30am on Wednesday 14 July 20219:15am to 9:25am on Saturday 10 July 2021 |
