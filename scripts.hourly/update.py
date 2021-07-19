@@ -27,13 +27,14 @@ mdHeader.append('| {} |\n'.format(' | '.join(['---'] * len(headerSizes))))
 def mapType(t):
     if 'Get tested immediately. Self-isolate until you get a negative result.' in t:
         return 'Casual Contact'
-    elif 'Get tested immediately and self-isolate for 14 days' in t:
+    elif 'Get tested immediately and self-isolate for 14 days' in t or 'Get tested immediately and self-isolate until you receive further advice.' in t:
         return 'Close Contact'
     elif 'Monitor for symptoms' in t:
         return 'Monitor for symptoms'
     elif 'Get tested immediately. People with no symptoms do not need to isolate while waiting for their test result.' in t:
         return 'Test (isolate w/ symptoms)'
-    assert False, "Invalid type: " + repr(t)
+    else:
+        return 'UNKNOWN'
 
 caseLocationTable = soup.select('#tbl-case-locations tbody tr')
 rows = []
