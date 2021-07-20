@@ -86,7 +86,7 @@
 | 17/07/2021      | Casual Contact       | Hurstville      | Coles Hurstville Westfield Level 1, Westfield Hurstville, Cross Street and Park Road | 10am to 3pm on Tuesday 13 July 202111:15am to 5:15pm on Sunday 11 July 202112:30pm to 5pm on Saturday 10 July 20218:00am to 5:15pm on Friday 9 July 20219:15am to 4pm on Thursday 8 July 20215am to 4pm on Wednesday 7 July 2021 |
 | 17/07/2021      | Casual Contact       | Greenfield Park | BP Greenfield ParkLot 1, Greenfield Park Road Corner Mimosa Road | 5:10pm to 5:40pm on Tuesday 13 July 2021                     |
 | 17/07/2021      | Casual Contact       | Green Valley    | Woolworths Green Valley187 Wilson Road | 12pm to 1pm on Thursday 15 July 202110am to 10:35am on Saturday 10 July 2021 |
-| 17/07/2021      | Close Contact        | Gordon          | Grindley25 Bushlands Avenue | 7:00am to 1:30am on Wednesday 14 July 2021                   |
+| 17/07/2021      | Close Contact        | Gordon          | Grindley Constructions25 Bushlands Avenue | 7:00am to 1:30pm on Wednesday 14 July 2021                   |
 | 17/07/2021      | Casual Contact       | Glenfield       | Glenfield Station Fastfood & Delicatessen72 Railway Parade | 8:10am to 8:25am on Wednesday 14 July 2021                   |
 | 17/07/2021      | Casual Contact       | Glebe           | Kmart Broadway1 Bay Street | 6:45pm to 7pm on Thursday 8 July 20213:40pm to 4:25pm on Thursday 8 July 202112:15pm to 12:30pm on Thursday 8 July 2021 |
 | 17/07/2021      | Casual Contact       | Faulconbridge   | Shell Coles Express Faulconbridge575-581 Great Western Highway  | 12:55pm to 1:05pm on Wednesday 14 July 2021                  |
