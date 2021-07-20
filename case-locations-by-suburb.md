@@ -315,8 +315,8 @@
 | 20/07/2021      | Close Contact        | Orange          | CTC Orange NorthNorth Orange Shopping Centre, shop 8/9 Telopea Way | 1:50pm to 2pm on Saturday 17 July 2021                       |
 | 20/07/2021      | Close Contact        | Orange          | EG Fuelco Australia Orange1 Hanrahan Place | 5:45pm to 6pm on Saturday 17 July 2021                       |
 | 20/07/2021      | Close Contact        | Orange          | Officeworks Orange179/181 Byng Street | 4:35pm to 5:05pm on Saturday 17 July 2021                    |
-| 20/07/2021      | Close Contact        | Orange          | Pizza Hut Orange33 Bathurst Road | 3pm to 3:30pm on Friday 16 July 2021                         |
-| 20/07/2021      | Close Contact        | Orange          | Woolworths North OrangeNorth Orange Shopping Centre, 9 Telopea Way | 1:20pm to 1:50pm on Saturday 17 July 20214:55pm to 5:05pm on Saturday 17 July 2021 |
+| 20/07/2021      | Close Contact        | Orange          | Pizza Hut Orange33 Bathurst Road | 4:55pm to 5:05pm on Saturday 17 July 2021                    |
+| 20/07/2021      | Close Contact        | Orange          | Woolworths North OrangeNorth Orange Shopping Centre, 9 Telopea Way | 1:20pm to 1:50pm on Saturday 17 July 20213pm to 3:30pm on Friday 16 July 2021 |
 | 19/07/2021      | Close Contact        | Padstow         | Ampol Foodery Padstow115 Fairford Road | 3:45pm to 4pm on Tuesday 6 July 2021                         |
 | 14/07/2021      | Monitor for symptoms | Panania         | Butchers Pantry88 Anderson Avenue | 2:25pm to 2:35pm on Friday 9 July 2021                       |
 | 20/07/2021      | Casual Contact       | Parramatta      | Chemist Warehouse Parramatta202 Church Street | 5pm to 6:30pm on Friday 16 July 202110:30am to 11:30am on Thursday 15 July 2021 |
