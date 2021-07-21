@@ -68,7 +68,7 @@
 | 19/07/2021      | Casual Contact       | Bonnyrigg       | Fruit World BonnyriggBonnyrigg Plaza, 100 Bonnyrigg Avenue | 12:45pm to 2pm on Tuesday 13 July 2021                       |
 | 19/07/2021      | Casual Contact       | Bonnyrigg       | Priceline Pharmacy BonnyriggShop 20, Bonnyrigg Plaza, 100 Bonnyrigg Avenue | 12pm to 12:30pm on Thursday 15 July 202110:15am to 10:30am on Wednesday 14 July 20211pm to 2pm on Tuesday 13 July 2021 |
 | 19/07/2021      | Casual Contact       | Bonnyrigg       | Woolworths Bonnyrigg Plaza100 Bonnyrigg Avenue | 10am to 10:30am on Monday 12 July 20217:30pm to 8:30pm on Monday 5 July 2021 |
-| 20/07/2021      | Casual Contact       | Bonnyrigg Heights | BP Bonnyrigg Cowpasture Road and North Liverpool Road | 6:2opm to 6:30pm on Thursday 15 July 2021                    |
+| 20/07/2021      | Casual Contact       | Bonnyrigg Heights | BP Bonnyrigg Cowpasture Road and North Liverpool Road | 6:20pm to 6:30pm on Thursday 15 July 2021                    |
 | 18/07/2021      | Casual Contact       | Brookvale       | Edcon Steel Brookvale 10A/9-13 Winbourne Rd Brookvale NSW 2100 | 1:15pm to 1:30pm on Wednesday 14 July 2021                   |
 | 19/07/2021      | Casual Contact       | Burwood         | 7-Eleven BurwoodParramatta Road | 3:25pm to 3:35pm on Saturday 10 July 2021                    |
 | 14/07/2021      | Close Contact        | Cabramatta      | Cabramatta Medical and Dental Clinic201 Railway Parade | 10:30am to 11:30am on Tuesday 13 July 2021                   |
@@ -86,7 +86,7 @@
 | 16/07/2021      | Monitor for symptoms | Casula          | Costco Wholesale Casula Crossroads Homemaker Centre, 20 Parkers Farm Place | 1:35pm to 2:10pm on Friday 9 July 2021                       |
 | 16/07/2021      | Casual Contact       | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 11:00am to 11:45am on Thursday 15 July 202112:50pm to 4pm on Wednesday 7 July 20212pm to 4pm on Wednesday 7 July 202112pm (noon) to 1pm on Sunday 4 July 20217:50pm to 9pm on Tuesday 29 June 2021 |
 | 12/07/2021      | Casual Contact       | Casula          | Kmart CasulaCasula Mall S/C, Kurrajong Road | 6pm to 6:45pm on Thursday 8 July 2021                        |
-| 20/07/2021      | Casual Contact       | Cecil Hills     | Woolworths Cecil HillsCorner Sandringham Drive and Fedore Road | 10:30a, to 11:30am on Saturday 17 July 20214:15pm to 5:15pm on Friday 16 July 2021 |
+| 20/07/2021      | Casual Contact       | Cecil Hills     | Woolworths Cecil HillsCorner Sandringham Drive and Fedore Road | 10:30am to 11:30am on Saturday 17 July 20214:15pm to 5:15pm on Friday 16 July 2021 |
 | 12/07/2021      | Casual Contact       | Centennial Park | Centennial Homestead Cafe1 Grand Drive | 12pm to 12:30pm on Wednesday 7 July 20212:40pm to 3:15pm on Saturday 3 July 2021 |
 | 16/07/2021      | Casual Contact       | Chatswood       | ANZ Chatswood 382 Victoria Avenue | 12:00pm to 1:00pm on Wednesday 14 July 2021                  |
 | 17/07/2021      | Close Contact        | Chester Hill    | Aya Family Healthcare AfterhoursShop 21 Chester Square, 1 Leicester Street | 8:30pm to 9:20pm on Wednesday 14 July 2021                   |
