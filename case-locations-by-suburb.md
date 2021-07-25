@@ -107,6 +107,8 @@
 | 24/07/2021      | Casual Contact       | Casula          | Priceline Pharmacy CasulaShop 38 Casula Mall, Kurrajong Road | 1pm to 1:20pm on Friday 23 July 2021                         |
 | 21/07/2021      | Casual Contact       | Cecil Hill      | Mili and Co Cafe3/1 Lancaster Avenue | 10:30am to 11am on Friday 16 July 2021                       |
 | 20/07/2021      | Casual Contact       | Cecil Hills     | Woolworths Cecil HillsCorner Sandringham Drive and Fedore Road | 10:30am to 11:30am on Saturday 17 July 20214:15pm to 5:15pm on Friday 16 July 2021 |
+| 25/07/2021      | Casual Contact       | Charmhaven      | Bunnings Warehouse Lake HavenCorner Chelmsford Rpad and Pacific Highway | 12:25pm to 12:45pm on Saturday 24 July 20211:25pm to 1:45pm on Saturday 24 July 2021 |
+| 25/07/2021      | Casual Contact       | Charmhaven      | HipPocket Workwear5/6 Botham Close | 12:45pm to 12:55pm on Saturday 24 July 2021                  |
 | 16/07/2021      | Casual Contact       | Chatswood       | ANZ Chatswood 382 Victoria Avenue | 12pm to 1pm on Wednesday 14 July 2021                        |
 | 24/07/2021      | Casual Contact       | Chatswood       | Cherry Lane Cakes3/457 Victoria Avenue | 12:20pm to 12:30pm on Friday 16 July 2021                    |
 | 17/07/2021      | Close Contact        | Chester Hill    | Aya Family Healthcare AfterhoursShop 21 Chester Square, 1 Leicester Street | 8:30pm to 9:20pm on Wednesday 14 July 2021                   |
@@ -240,6 +242,10 @@
 | 25/07/2021      | Casual Contact       | Kingsgrove      | Woolworths Kingsgrove1 Mashman Avenue | 5pm to 6pm on Monday 19 July 2021                            |
 | 24/07/2021      | Casual Contact       | Kingswood       | Sinclair Automotive117 Great Western Highway | 8:35am to 8:40am on Tuesday 13 July 20214:20pm to 4:40pm on Tuesday 13 July 2021 |
 | 23/07/2021      | Casual Contact       | Kirrawee        | Woolworths Kirrawee 28-34 Flora Street | 3:45pm to 5:15pm on Tuesday 13 July 2021                     |
+| 25/07/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Drive | 10:15am to 10:25am on Saturday 24 July 2021                  |
+| 25/07/2021      | Casual Contact       | Lake Haven      | Lake Haven Post Office121/43 Lake Haven Drive | 10:35am to 10:50am on Saturday 24 July 2021                  |
+| 25/07/2021      | Casual Contact       | Lake Haven      | Lake Haven Shopping CentreLake Haven Drive and Goobarabah Avenue | 10:15am to 10:50am on Saturday 24 July 2021                  |
+| 25/07/2021      | Casual Contact       | Lake Haven      | Priceline Pharmacy Lake HavenLake Haven Drive and Goobarabah Avenue | 10:20am to 10:40am on Saturday 24 July 2021                  |
 | 25/07/2021      | Close Contact        | Lakemba         | A2Z Medical Centre: Vaccination Clinic 96a Haldon Street | 11am to 12pm on Wednesday 21 July 2021                       |
 | 23/07/2021      | Close Contact        | Lakemba         | Afghan Sufra Lakemba 122 Haldon Street | 12pm to 1pm on Sunday 18 July 20212:50pm to 3:15pm on Saturday 17 July 20214:30pm to 4:50pm on Friday 16 July 2021 |
 | 17/07/2021      | Close Contact        | Lakemba         | Al Fayhaa Bakery137A Haldon Street | 12:50pm to 1:05pm on Sunday 11 July 2021                     |
@@ -380,6 +386,12 @@
 | 18/07/2021      | Casual Contact       | Roselands       | Kmart RoselandsRoselands Shopping Centre, 24 Roselands Drive | 6:30pm to 7pm on Tuesday 13 July 20215:30pm to 5:45pm on Sunday 11 July 202110:45am to 11:15am on Saturday 3 July 20214:35pm to 4:50pm on Tuesday 29 June 2021 |
 | 22/07/2021      | Casual Contact       | Roselands       | PentonziRoselands Shopping Centre, Roselands Drive | 11am to 11:10am on Saturday 17 July 2021                     |
 | 24/07/2021      | Close Contact        | Roselands       | Priceline Pharmacy RoselandsShop L25 Lower Ground Floor Roselands Shopping Centre, Roselands Drive | 3:40pm to 4pm on Tuesday 20 July 2021                        |
+| 25/07/2021      | Casual Contact       | San Remo        | Charmhaven NewsagencyNorthlakes Shopping Centre, 15/17 Pacific Highway | 9:40am to 9:50am on Sunday 25 July 2021                      |
+| 25/07/2021      | Casual Contact       | San Remo        | Coles Liquor San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 1pm to 1:15pm on Saturday 24 July 20212:50pm to 3:05pm on Friday 23 July 2021 |
+| 25/07/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 9:45am to 10:15am on Sunday 25 July 20212:35pm to 2:50pm on Friday 23 July 20212:05pm to 2:20pm on Wednesday 21 July 2021 |
+| 25/07/2021      | Casual Contact       | San Remo        | Northlakes Shopping centre17-21 Pacific Highway | 9:40am to 10:15am on Sunday 25 July 20211pm to 1:15pm on Saturday 24 July 20212:20pm to 3:05pm on Friday 23 July 202111:05am to 11:30am on Thursday 22 July 20211:55pm to 2:20pm on Wednesday 21 July 2021 |
+| 25/07/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 2:20pm to 2:40pm on Friday 23 July 202111am to 11:30am on Thursday 22 July 2021 |
+| 25/07/2021      | Casual Contact       | San Remo        | Singletons Butchery San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 1:55pm to 2:05pm on Wednesday 21 July 2021                   |
 | 15/07/2021      | Close Contact        | Seven Hills     | Alpha Medical CentreShop 69/224 Prospect Highway | 8am to 5pm on Wednesday 14 July 20218am to 5pm on Tuesday 13 July 20212:15pm to 4:30pm on Monday 12 July 2021 |
 | 16/07/2021      | Casual Contact       | Seven Hills     | Anvil Lunchshop 8 Anvil Road | 9:25am to 9:35am on Monday 12 July 202112:25pm to 12:35pm on Monday 12 July 202110:05am to 10:10am on Friday 9 July 20219:10am to 9:20am on Thursday 8 July 20219:25am to 9:35am on Thursday 1 July 2021 |
 | 16/07/2021      | Close Contact        | Seven Hills     | Better Health Pharmacy Seven Hills Plaza, Shop 70, 224 Prospect Highway | 2:45pm to 3:15pm on Tuesday 13 July 20214pm to 4:30pm on Monday 12 July 202111:15am to 12am on Sunday 11 July 2021 |
@@ -416,7 +428,12 @@
 | 24/07/2021      | Casual Contact       | Toongabbie      | Pharmacy Nutrition Warehouse Toongabbie56 Aurelia Street | 5pm to 5:45pm on Monday 19 July 20218:45am to 9:30am on Saturday 17 July 2021 |
 | 25/07/2021      | Casual Contact       | Toongabbie      | Woolworths Toongabbie 17-19 Aureilia Street | 10:55am to 11:20am on Tuesday 20 July 20215:50pm to 6:15pm on Wednesday 14 July 2021 |
 | 25/07/2021      | Casual Contact       | Toongabbie      | Commonwealth Bank ToongabbieCorner of Toongabbie Road and Aurelia Street | 10:45am to 11am on Friday 16 July 2021                       |
+| 25/07/2021      | Close Contact        | Toukley         | HR Block Toukley1 /266 Main Road | 1:40pm to 2:15pm on Friday 23 July 2021                      |
 | 24/07/2021      | Casual Contact       | Tregear         | IGA Tregear155-161 Aurora Drive | 3:05pm to 3:25pm on Saturday 17 July 2021                    |
+| 25/07/2021      | Casual Contact       | Tuggerah        | Coles TuggerahWestfield Tuggerah, 50 Wyong Road | 12:30pm to 1pm on Friday 23 July 2021                        |
+| 25/07/2021      | Casual Contact       | Tuggerah        | Dan Murphys TuggerahWestfield Tuggerah, 50 Wyong Road | 12:20pm to 12:30pm on Friday 23 July 2021                    |
+| 25/07/2021      | Casual Contact       | Tuggerah        | Smokemart TuggerahWestfield Tuggerah, 50 Wyong Road | 12:25pm to 12:30pm on Friday 23 July 2021                    |
+| 25/07/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah (Coles side)50 Wyong Road | 12:20pm to 1pm on Friday 23 July 2021                        |
 | 23/07/2021      | Close Contact        | Ultimo          | MicrosecondsC2.14/22-36 Mountain Street | 1pm to 1:30pm on Monday 19 July 2021                         |
 | 18/07/2021      | Casual Contact       | Villawood       | McDonalds Villawood 794-796 Woodville Road | 4pm to 8:30pm on Tuesday 13 July 202110am to 2:30pm on Sunday 11 July 2021 |
 | 15/07/2021      | Casual Contact       | Vineyard        | United Petrol Vineyard1540 Windsor Road | 12:10pm to 12:30pm on Sunday 11 July 2021                    |
