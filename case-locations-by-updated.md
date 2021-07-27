@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 27/07/2021      | Casual Contact       | Merrylands      | National Australia Bank MerrylandsStockland Merrylands, 52 McFarlane Street | 9:30am to 10:30am on Tuesday 20 July 2021                    |
 | 26/07/2021      | Casual Contact       | Wetherill Park  | Chemistworks Wetherill ParkStockland Wetherill Park, 561-583 Polding Street | 2:40pm to 3:05pm on Wednesday 21 July 20212pm to 2:20pm on Tuesday 20 July 20213pm to 3:30pm on Thursday 15 July 2021 on Saturday 0 January 19002:15pm to 2:30pm on Thursday 15 July 20218pm to 8:15pm on Wednesday 14 July 20213:30pm to 4pm on Monday 12 July 20214:20pm to 4:45pm on Monday 12 July 20212:45pm to 3:45pm on Saturday 10 July 202111:30am to 12:15pm on Monday 5 July 20215:30pm to 6:30pm on Sunday 4 July 2021 |
 | 26/07/2021      | Casual Contact       | Werrington      | 7-Eleven Werrington 122 Dunheved Road | 12:50pm to 1:10pm on Wednesday 14 July 2021                  |
 | 26/07/2021      | Casual Contact       | Sydney          | Chinese Ginseng and Herbs75 Ultimo Road | 4pm to 4:30pm on Saturday 17 July 2021                       |
@@ -12,7 +13,6 @@
 | 26/07/2021      | Casual Contact       | Mount Druitt    | Coles Mount DruittWestfield Mount Druitt, Luxford Road and Carlisle Avenue | 8am to 9am on Friday 16 July 20211:25pm to 2pm on Tuesday 13 July 20218:20am to 9:20am on Monday 12 July 2021 |
 | 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 11:10am to 11:45am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
 | 26/07/2021      | Casual Contact       | Merrylands      | Triple 333 Medical Centre 333 Merrylands Road | 11:45am to 12:15pm on Tuesday 20 July 2021                   |
-| 26/07/2021      | Close Contact        | Merrylands      | National Australia Bank Merrylands52 McFarlane Street | 9:30am to 10:30am on Tuesday 20 July 2021                    |
 | 26/07/2021      | Casual Contact       | Mascot          | T2 Domestic AirportKeith Smith Avenue | 9:45am to 10:30am on Wednesday 14 July 2021                  |
 | 26/07/2021      | Close Contact        | Mascot          | DHL Express3 Keith Smith Avenue | 12am to 2:30am on Monday 19 July 202112:45pm to 9pm on Monday 19 July 20216:15pm to 12pm on Sunday 18 July 2021 |
 | 26/07/2021      | Casual Contact       | Lalor Park      | Lalor Park Hot Bread Shop28 Freeman Street | 11:05am to 11:15am on Sunday 18 July 2021                    |

@@ -273,12 +273,12 @@
 | 25/07/2021      | Casual Contact       | Merrylands      | Kabul House186A Merrylands Road | 12:30pm to 12:50pm on Tuesday 13 July 2021                   |
 | 21/07/2021      | Casual Contact       | Merrylands      | Kmart Merrylands1 McFarlane Street | 7:40pm to 7:55pm on Tuesday 13 July 2021                     |
 | 21/07/2021      | Casual Contact       | Merrylands      | LJ Hooker Merrylands237 Pitt Street | 1pm to 1:10pm on Wednesday 14 July 2021                      |
-| 26/07/2021      | Close Contact        | Merrylands      | National Australia Bank Merrylands52 McFarlane Street | 9:30am to 10:30am on Tuesday 20 July 2021                    |
 | 20/07/2021      | Casual Contact       | Merrylands      | Priceline Pharmacy MerrylandsStockland Merrylands, Shop 1090 McFarlane Street | 2:50pm to 3:15pm on Thursday 15 July 20211pm to 2pm on Monday 12 July 2021 |
 | 21/07/2021      | Close Contact        | Merrylands      | Star City SupermarketMerrylands Road | 12:45pm to 2:15pm on Thursday 15 July 20215:30pm to 7pm on Wednesday 14 July 20215:30pm to 7pm on Tuesday 13 July 2021 on Saturday 0 January 19006:45pm to 7pm on Monday 12 July 2021 |
 | 26/07/2021      | Casual Contact       | Merrylands      | Triple 333 Medical Centre 333 Merrylands Road | 11:45am to 12:15pm on Tuesday 20 July 2021                   |
 | 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 11:10am to 11:45am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
 | 17/07/2021      | Casual Contact       | Merrylands      | Woolworths Merrylands209 Pitt Street | 12pm to 12:15pm on Wednesday 14 July 20217pm to 7:15pm on Monday 12 July 20212:15pm to 3:45pm on Saturday 10 July 2021 |
+| 27/07/2021      | Casual Contact       | Merrylands      | National Australia Bank MerrylandsStockland Merrylands, 52 McFarlane Street | 9:30am to 10:30am on Tuesday 20 July 2021                    |
 | 16/07/2021      | Casual Contact       | Miller          | Aldi MillerMiller Central, 90 Cartwright Avenue | 11:45am to 12pm on Thursday 15 July 202112pm to 12:30pm on Monday 12 July 2021 |
 | 24/07/2021      | Casual Contact       | Miller          | Woolworths MillerMiller Community Shopping Centre, Cartwright Avenue | 10am to 10:45am on Thursday 22 July 2021                     |
 | 21/07/2021      | Casual Contact       | Milperra        | Amcal Pharmacy Milperra6 Bullecourt Avenue | 12pm to 12:15pm on Friday 16 July 2021                       |
