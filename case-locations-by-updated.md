@@ -27,7 +27,7 @@
 | 27/07/2021      | Casual Contact       | Collaroy Plateau | 5B2F Fine Foods65 Veterans Parade | 8:30am to 9am on Saturday 24 July 2021                       |
 | 27/07/2021      | Casual Contact       | Chester Hill    | Commonwealth Bank Chester Hill130-134 Waldron Road | 12:15pm to 12:30pm on Wednesday 21 July 2021                 |
 | 27/07/2021      | Close Contact        | Campsie         | Campsie Family Medical Practice248 Beamish Street | 10:10am to 11am on Thursday 22 July 2021                     |
-| 27/07/2021      | Casual Contact       | Brookvale       | Coles WarringahWestfield Warringah Mall, Pittwater Road | 7:10pm to 7:30pm on Saturday 24 July 20216:50pm to 7:10pm on Friday 23 July 20211pm to 2pm on Wednesday 21 July 2021 |
+| 27/07/2021      | Casual Contact       | Brookvale       | Coles WarringahPittwater Road, Brookvale | 7:10pm to 7:30pm on Saturday 24 July 20216:50pm to 7:10pm on Friday 23 July 20211pm to 2pm on Wednesday 21 July 2021 |
 | 27/07/2021      | Casual Contact       | Bondi Beach     | Woolworths Metro Bondi Beach184 Campbell Parade | 6pm to 6:40pm on Wednesday 21 July 2021                      |
 | 27/07/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner Bellambi Lane and Watts Lane | 11am to 11:15am on Tuesday 20 July 2021                      |
 | 27/07/2021      | Close Contact        | Ashfield        | Exodus Foundation180 Liverpool Road | 11:30am to 1pm on Friday 23 July 202111:30am to 1pm on Thursday 22 July 202111:30am to 1pm on Wednesday 21 July 20218:55am to 9:10am on Monday 12 July 202111:30am to 1pm on Tuesday 20 July 2021 |
@@ -41,7 +41,7 @@
 | 26/07/2021      | Casual Contact       | Prospect        | Woolworths ProspectCorner Flushcombe Road and Myrtle Street | 1pm to 1:20pm on Saturday 24 July 20215:30pm to 5:35pm on Saturday 24 July 20212:20pm to 3:45pm on Thursday 15 July 2021 on Saturday 0 January 190011:10am to 12pm on Monday 12 July 2021 |
 | 26/07/2021      | Casual Contact       | Parramatta      | Centrelink Parramatta2-12 Macquarie Street | 12:10pm to 12:45pm on Tuesday 20 July 2021                   |
 | 26/07/2021      | Casual Contact       | Mount Druitt    | Coles Mount DruittWestfield Mount Druitt, Luxford Road and Carlisle Avenue | 8am to 9am on Friday 16 July 20211:25pm to 2pm on Tuesday 13 July 20218:20am to 9:20am on Monday 12 July 2021 |
-| 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 11:10am to 11:45am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
+| 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 9am to 10:30am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
 | 26/07/2021      | Casual Contact       | Merrylands      | Triple 333 Medical Centre 333 Merrylands Road | 11:45am to 12:15pm on Tuesday 20 July 2021                   |
 | 26/07/2021      | Casual Contact       | Mascot          | T2 Domestic AirportKeith Smith Avenue | 9:45am to 10:30am on Wednesday 14 July 2021                  |
 | 26/07/2021      | Close Contact        | Mascot          | DHL Express3 Keith Smith Avenue | 12am to 2:30am on Monday 19 July 202112:45pm to 9pm on Monday 19 July 20216:15pm to 12pm on Sunday 18 July 2021 |

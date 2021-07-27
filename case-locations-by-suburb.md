@@ -57,7 +57,7 @@
 | 19/07/2021      | Casual Contact       | Bonnyrigg       | Priceline Pharmacy BonnyriggShop 20, Bonnyrigg Plaza, 100 Bonnyrigg Avenue | 12pm to 12:30pm on Thursday 15 July 202110:15am to 10:30am on Wednesday 14 July 20211pm to 2pm on Tuesday 13 July 2021 |
 | 22/07/2021      | Casual Contact       | Bonnyrigg       | Woolworths BonnyriggBonnyrigg Plaza, 100 Bonnyrigg Avenue | 6pm to 6:45pm on Sunday 18 July 202110am to 10:30am on Monday 12 July 20217:30pm to 8:30pm on Monday 5 July 2021 |
 | 20/07/2021      | Casual Contact       | Bonnyrigg Heights | BP BonnyriggCowpasture Road and North Liverpool Road | 6:20pm to 6:30pm on Thursday 15 July 2021                    |
-| 27/07/2021      | Casual Contact       | Brookvale       | Coles WarringahWestfield Warringah Mall, Pittwater Road | 7:10pm to 7:30pm on Saturday 24 July 20216:50pm to 7:10pm on Friday 23 July 20211pm to 2pm on Wednesday 21 July 2021 |
+| 27/07/2021      | Casual Contact       | Brookvale       | Coles WarringahPittwater Road, Brookvale | 7:10pm to 7:30pm on Saturday 24 July 20216:50pm to 7:10pm on Friday 23 July 20211pm to 2pm on Wednesday 21 July 2021 |
 | 18/07/2021      | Casual Contact       | Brookvale       | Edcon Steel Brookvale10A/9-13 Winbourne Rd Brookvale NSW 2100 | 1:15pm to 1:30pm on Wednesday 14 July 2021                   |
 | 24/07/2021      | Casual Contact       | Budgewoi        | Stockade Meats75 Scenic Drive | 3:40pm to 4pm on Thursday 22 July 2021                       |
 | 22/07/2021      | Casual Contact       | Burwood         | Coles Burwood Westfield100 Burwood Road | 11:45am to 12:20pm on Monday 19 July 2021                    |
@@ -296,7 +296,7 @@
 | 20/07/2021      | Casual Contact       | Merrylands      | Priceline Pharmacy MerrylandsStockland Merrylands, Shop 1090 McFarlane Street | 2:50pm to 3:15pm on Thursday 15 July 20211pm to 2pm on Monday 12 July 2021 |
 | 21/07/2021      | Close Contact        | Merrylands      | Star City SupermarketMerrylands Road | 12:45pm to 2:15pm on Thursday 15 July 20215:30pm to 7pm on Wednesday 14 July 20215:30pm to 7pm on Tuesday 13 July 2021 on Saturday 0 January 19006:45pm to 7pm on Monday 12 July 2021 |
 | 26/07/2021      | Casual Contact       | Merrylands      | Triple 333 Medical Centre 333 Merrylands Road | 11:45am to 12:15pm on Tuesday 20 July 2021                   |
-| 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 11:10am to 11:45am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
+| 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 9am to 10:30am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
 | 17/07/2021      | Casual Contact       | Merrylands      | Woolworths Merrylands209 Pitt Street | 12pm to 12:15pm on Wednesday 14 July 20217pm to 7:15pm on Monday 12 July 20212:15pm to 3:45pm on Saturday 10 July 2021 |
 | 16/07/2021      | Casual Contact       | Miller          | Aldi MillerMiller Central, 90 Cartwright Avenue | 11:45am to 12pm on Thursday 15 July 202112pm to 12:30pm on Monday 12 July 2021 |
 | 24/07/2021      | Casual Contact       | Miller          | Woolworths MillerMiller Community Shopping Centre, Cartwright Avenue | 10am to 10:45am on Thursday 22 July 2021                     |
