@@ -119,7 +119,6 @@
 | 20/07/2021      | Close Contact        | Chester Hill    | Woolworths Chester Hill Chester Square Shopping Centre, 1-13 Leicester Street | 4:45pm to 5:05pm on Thursday 15 July 2021                    |
 | 25/07/2021      | Casual Contact       | Chester Hill    | Woolworths Chester HillChester Square Shopping Centre, 1-13 Leicester Street | 8:50am to 9am on Sunday 25 July 20216:15pm to 7:15pm on Friday 23 July 20218am to 4pm on Monday 19 July 20211:25pm to 8:30pm on Friday 16 July 2021 |
 | 17/07/2021      | Close Contact        | Chinderah       | Truck stop at the Ampol service station (northbound) near Murwillumbah turnoff, including the truck drivers’ toilets, showers and lounge, and the food court112 Tweed Valley Way | 12am to 7:30am on Wednesday 14 July 20218:30pm to 11:59pm on Tuesday 13 July 2021 |
-| 27/07/2021      | Close Contact        | Chullora        | Madhouse Bakery22 Bellfrog Street | 8am to 6pm on Wednesday 21 July 2021                         |
 | 21/07/2021      | Close Contact        | Coffs Harbour   | Hoey Moey90 Ocean Parade  | 3:55pm to 4:20pm on Thursday 15 July 2021                    |
 | 27/07/2021      | Casual Contact       | Collaroy Plateau | 5B2F Fine Foods65 Veterans Parade | 8:30am to 9am on Saturday 24 July 2021                       |
 | 19/07/2021      | Casual Contact       | Crows Nest      | newsXpress Crows Nest25 Willoughby Road | 12:35pm to 12:45pm on Thursday 15 July 2021                  |
@@ -259,7 +258,7 @@
 | 27/07/2021      | Casual Contact       | Leichhardt      | Woolworths LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10:30am to 10:45am on Saturday 24 July 202112pm to 12:45pm on Thursday 22 July 2021 |
 | 16/07/2021      | Casual Contact       | Leppington      | Woolworths Emerald HillsEmerald Hills Shopping Village, 5 Emerald Hills Boulevade | 3pm to 3:45pm on Wednesday 14 July 2021                      |
 | 27/07/2021      | Casual Contact       | Lidcombe        | Fruitopia LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 11:20am to 11:35am on Friday 23 July 2021                    |
-| 27/07/2021      | Casual Contact       | Lidcombe        | Priceline Pharmacy LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 12pm to 12:10pm on Saturday 24 July 202111:45am to 12pm on Thursday 22 July 2021 |
+| 27/07/2021      | Casual Contact       | Lidcombe        | Priceline Pharmacy LidcombeLidcombe Shopping Centre, 92 Parramatta Road | 12pm to 12:10pm on Saturday 24 July 202111:45am to 12pm on Thursday 22 July 2021 |
 | 27/07/2021      | Casual Contact       | Lidcombe        | Woolworths LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 11am to 11:30am on Friday 23 July 202111:30am to 12pm on Thursday 22 July 2021 |
 | 18/07/2021      | Monitor for symptoms | Little Bay      | The Green OliveShop 3/1-9 Pine Avenue | 8am to 8:10am on Thursday 15 July 2021                       |
 | 23/07/2021      | Casual Contact       | Liverpool       | Aldi Liverpool Plaza165-191 Macquarie Street | 6:30pm to 7pm on Wednesday 21 July 2021                      |
@@ -306,7 +305,7 @@
 | 23/07/2021      | Casual Contact       | Mittagong       | Mittagong Cakes & Pies12B Bowral Road | 6:30am to 8am on Wednesday 21 July 2021                      |
 | 23/07/2021      | Casual Contact       | Mittagong       | Station Coffee House12 Bowral Road | 6:30am to 8am on Wednesday 21 July 2021                      |
 | 25/07/2021      | Casual Contact       | Moore Park      | Moore Park Golf ClubCleveland Street | 8:45am to 12am on Wednesday 21 July 20219am to 12pm on Tuesday 20 July 2021 |
-| 27/07/2021      | Casual Contact       | Mosman          | Grain Organic BakeryKiosk 5/1-3 Brady Street | 9am to 9:10am on Friday 23 July 2021                         |
+| 28/07/2021      | Casual Contact       | Mosman          | Grain CafeKiosk 5, Bridgepoint Shopping Centre, 1-3 Brady Street | 9am to 9:10am on Friday 23 July 2021                         |
 | 26/07/2021      | Casual Contact       | Mount Druitt    | Coles Mount DruittWestfield Mount Druitt, Luxford Road and Carlisle Avenue | 8am to 9am on Friday 16 July 20211:25pm to 2pm on Tuesday 13 July 20218:20am to 9:20am on Monday 12 July 2021 |
 | 24/07/2021      | Casual Contact       | Mount Druitt    | Kmart Mount Druitt49 Carlisle Avenue | 6:55pm to 7:20pm on Thursday 15 July 2021                    |
 | 25/07/2021      | Casual Contact       | Mount Lewis     | Sea Sweet Patisserie Mount Lewis177 Wattle Street | 8:55am to 9:05am on Thursday 15 July 2021                    |

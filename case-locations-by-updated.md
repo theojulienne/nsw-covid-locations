@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 28/07/2021      | Casual Contact       | Mosman          | Grain CafeKiosk 5, Bridgepoint Shopping Centre, 1-3 Brady Street | 9am to 9:10am on Friday 23 July 2021                         |
 | 27/07/2021      | Casual Contact       | Zetland         | Coles ZetlandEast Village Shopping Centre, O'Dea Avenue | 4pm to 4:30pm on Sunday 25 July 2021                         |
 | 27/07/2021      | Casual Contact       | Winston Hills   | TerryWhite Chemmart Winston HillsShop 20 Winston Hills Mall, Caroline Chisholm Drive | 10:15am to 10:30am on Sunday 25 July 2021                    |
 | 27/07/2021      | Casual Contact       | Wetherill Park  | Joes Fruit World1183-1185 The Horsley Drive | 12pm to 12:10pm on Friday 16 July 2021                       |
@@ -21,7 +22,6 @@
 | 27/07/2021      | Casual Contact       | North Curl Curl | Curl Curl Bakery142 Pitt Road | 9:45am to 9:55am on Saturday 24 July 2021                    |
 | 27/07/2021      | Casual Contact       | North Curl Curl | Bacino Espresso Curl Curl2/142 Pitt Road | 9am to 10am on Saturday 24 July 2021                         |
 | 27/07/2021      | Casual Contact       | Narrabeen       | Bunnings Narrabeen1307 Pittwater Road | 11am to 12pm on Wednesday 21 July 20211pm to 1:30pm on Wednesday 21 July 2021 |
-| 27/07/2021      | Casual Contact       | Mosman          | Grain Organic BakeryKiosk 5/1-3 Brady Street | 9am to 9:10am on Friday 23 July 2021                         |
 | 27/07/2021      | Casual Contact       | Miranda         | The Grocery Store MirandaWestfield Miranda, 600 Kingsway | 10:30am to 10:50am on Thursday 22 July 2021                  |
 | 27/07/2021      | Casual Contact       | Minchinbury     | 7-Eleven Minchinbury1042 Great Western Highway | 5:35am to 5:40am on Tuesday 20 July 2021                     |
 | 27/07/2021      | Casual Contact       | Merrylands      | National Australia Bank MerrylandsStockland Merrylands, 52 McFarlane Street | 9:30am to 10:30am on Tuesday 20 July 2021                    |
@@ -30,7 +30,7 @@
 | 27/07/2021      | Casual Contact       | Manly Vale      | Manly Vale Skatepark373 Condamine Street | 10am to 12pm on Saturday 24 July 2021                        |
 | 27/07/2021      | Close Contact        | Liverpool       | Trinity Health Care Centre157/161 George Street | 9:45am to 11:15am on Wednesday 21 July 2021                  |
 | 27/07/2021      | Casual Contact       | Lidcombe        | Woolworths LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 11am to 11:30am on Friday 23 July 202111:30am to 12pm on Thursday 22 July 2021 |
-| 27/07/2021      | Casual Contact       | Lidcombe        | Priceline Pharmacy LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 12pm to 12:10pm on Saturday 24 July 202111:45am to 12pm on Thursday 22 July 2021 |
+| 27/07/2021      | Casual Contact       | Lidcombe        | Priceline Pharmacy LidcombeLidcombe Shopping Centre, 92 Parramatta Road | 12pm to 12:10pm on Saturday 24 July 202111:45am to 12pm on Thursday 22 July 2021 |
 | 27/07/2021      | Casual Contact       | Lidcombe        | Fruitopia LidcombeLidcombe Shopping Centre, 92 Paramatta Road | 11:20am to 11:35am on Friday 23 July 2021                    |
 | 27/07/2021      | Casual Contact       | Leichhardt      | Woolworths LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10:30am to 10:45am on Saturday 24 July 202112pm to 12:45pm on Thursday 22 July 2021 |
 | 27/07/2021      | Casual Contact       | Leichhardt      | Commonwealth Bank LeichhardtMarketPlace Leichhardt, 122 Flood Street | 9:45am to 10am on Monday 19 July 2021                        |
@@ -53,7 +53,6 @@
 | 27/07/2021      | Close Contact        | Fairfield       | Fairfield District Medical Centre146 Polding Street | All day on Monday 19 July 2021All day on Friday 16 July 2021 |
 | 27/07/2021      | Casual Contact       | Dee Why         | Ampol Woolworths Metro Dee Why793-797 Pittwater Road | 3:45pm to 4:15pm on Friday 23 July 2021                      |
 | 27/07/2021      | Casual Contact       | Collaroy Plateau | 5B2F Fine Foods65 Veterans Parade | 8:30am to 9am on Saturday 24 July 2021                       |
-| 27/07/2021      | Close Contact        | Chullora        | Madhouse Bakery22 Bellfrog Street | 8am to 6pm on Wednesday 21 July 2021                         |
 | 27/07/2021      | Casual Contact       | Chester Hill    | Commonwealth Bank Chester Hill130-134 Waldron Road | 12:15pm to 12:30pm on Wednesday 21 July 2021                 |
 | 27/07/2021      | Casual Contact       | Chatswood East  | Caltex Chatswood East364-366 Eastern Valley Way | 11:30am to 12:30pm on Monday 19 July 202111:30am to 12:30pm on Sunday 18 July 2021 |
 | 27/07/2021      | Casual Contact       | Carnes Hill     | Woolworths Carnes HillCarnes Hill Marketplace, 245 Cowpasture Road | 11:15am to 12:10pm on Saturday 17 July 202111:20am to 12:35pm on Friday 16 July 2021 |
