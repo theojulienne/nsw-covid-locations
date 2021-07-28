@@ -47,7 +47,7 @@
 | 27/07/2021      | Casual Contact       | Granville       | Powerfuel Petrol Station101 Blaxcell Street | 2:45pm to 3pm on Friday 23 July 2021                         |
 | 27/07/2021      | Close Contact        | Granville       | Parkview Granville Place14-38 Cowper Street | 5:50am to 1:30pm on Saturday 17 July 2021                    |
 | 27/07/2021      | Casual Contact       | Gordon          | Woolworths GordonGordon Centre, 802-808 Pacific Highway | 12am (midnight) to 1am on Saturday 24 July 202112am (midnight) to 1am on Friday 23 July 20218pm to 12am (midnight) on Friday 23 July 20218pm to 12am (midnight) on Thursday 22 July 2021 |
-| 27/07/2021      | Casual Contact       | Gordon          | McDonalds Gordon 761 Pacific Highway | 1:30pm to 1:45pm on Friday 23 July 2021                      |
+| 27/07/2021      | Casual Contact       | Gordon          | McDonalds Gordon 761 Pacific Highway | 1:30am to 1:45am on Friday 23 July 2021                      |
 | 27/07/2021      | Casual Contact       | Glenfield       | Glenfield Cellars78 Railway Parade | 1pm to 2pm on Saturday 24 July 2021                          |
 | 27/07/2021      | Casual Contact       | Fairfield West  | Coles Fairfield WestMarkey Plaza, 386 Hamilton Road | 4pm to 4:10pm on Tuesday 20 July 20213:30pm to 4:30pm on Thursday 15 July 202112:30pm to 1:30pm on Saturday 10 July 2021 |
 | 27/07/2021      | Close Contact        | Fairfield       | Fairfield District Medical Centre146 Polding Street | All day on Monday 19 July 2021All day on Friday 16 July 2021 |
