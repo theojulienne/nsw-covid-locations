@@ -77,7 +77,7 @@
 | 28/07/2021      | Casual Contact       | Burwood         | Coles BurwoodShop 6, Level 3, Westfield Burwood, Corner of Wilga Street and Shaftesbury Road | 9:30pm to 9:50pm on Saturday 24 July 202111:45am to 12:20pm on Monday 19 July 2021 |
 | 28/07/2021      | Casual Contact       | Blacktown       | Kebab Express14/10 Sunnyholt Road | 8:40pm to 8:50pm on Friday 23 July 2021                      |
 | 28/07/2021      | Casual Contact       | Blacktown       | Chester and Jake's SuperSave Chemist112 Main Street | 10:35am to 10:50am on Saturday 24 July 2021                  |
-| 28/07/2021      | Close Contact        | Beverly Hiils   | Pizza Hut Beverly Hills322 King Georges Road | 1:45pm to 2:15pm on Wednesday 21 July 2021                   |
+| 28/07/2021      | Close Contact        | Beverly Hills   | Pizza Hut Beverly Hills322 King Georges Road | 1:45pm to 2:15pm on Wednesday 21 July 2021                   |
 | 28/07/2021      | Close Contact        | Belfield        | Mancini's Original Woodfired Pizza21 Burwood Road | All day on Saturday 24 July 2021                             |
 | 28/07/2021      | Casual Contact       | Bass Hill       | Woolworths Bass HillBass Hill Plaza, 753 Hume Highway | 9:05am to 9:15am on Wednesday 21 July 2021                   |
 | 28/07/2021      | Casual Contact       | Bass Hill       | Kahil MeatsShop 10/753 Hume Highway | 3:30pm to 3:55pm on Monday 19 July 2021                      |
@@ -136,7 +136,7 @@
 | 27/07/2021      | Casual Contact       | Dee Why         | Ampol Woolworths Metro Dee Why793-797 Pittwater Road | 3:45pm to 4:15pm on Friday 23 July 2021                      |
 | 27/07/2021      | Casual Contact       | Collaroy Plateau | 5B2F Fine Foods65 Veterans Parade | 8:30am to 9am on Saturday 24 July 2021                       |
 | 27/07/2021      | Casual Contact       | Chester Hill    | Commonwealth Bank Chester Hill130-134 Waldron Road | 12:15pm to 12:30pm on Wednesday 21 July 2021                 |
-| 27/07/2021      | Casual Contact       | Chatswood East  | Caltex Chatswood East364-366 Eastern Valley Way | 11:30am to 12:30pm on Monday 19 July 202111:30am to 12:30pm on Sunday 18 July 2021 |
+| 27/07/2021      | Casual Contact       | Chatswood       | Caltex Chatswood East364-366 Eastern Valley Way | 11:30am to 12:30pm on Monday 19 July 202111:30am to 12:30pm on Sunday 18 July 2021 |
 | 27/07/2021      | Casual Contact       | Carnes Hill     | Woolworths Carnes HillCarnes Hill Marketplace, 245 Cowpasture Road | 11:15am to 12:10pm on Saturday 17 July 202111:20am to 12:35pm on Friday 16 July 2021 |
 | 27/07/2021      | Close Contact        | Campsie         | The World of Fruit224 Beamish Street | All day on Friday 23 July 20217am to 7pm on Friday 23 July 2021All day on Thursday 22 July 20217am to 7pm on Thursday 22 July 202111am to 12pm (noon) on Tuesday 20 July 20213pm to 4pm on Monday 19 July 2021 |
 | 27/07/2021      | Close Contact        | Campsie         | Campsie Family Medical Practice248 Beamish Street | 10:10am to 11am on Thursday 22 July 202110am to 11am on Tuesday 20 July 2021 |

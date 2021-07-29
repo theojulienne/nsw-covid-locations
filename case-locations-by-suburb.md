@@ -44,7 +44,7 @@
 | 21/07/2021      | Close Contact        | Belrose         | Taste Baguette Glenrose VillageGlenrose Village, 56-58 Glen Street | 11:30am to 11:45am on Sunday 18 July 202110:30am to 11am on Wednesday 14 July 20218:10am to 8:20am on Tuesday 13 July 2021 |
 | 22/07/2021      | Close Contact        | Belrose         | Three Beans Cafe Glenrose VillageGlenrose Village, 56-58 Glen Street | 6:50am to 7am on Wednesday 21 July 20216:50am to 7am on Tuesday 20 July 20216:50am to 7am on Monday 19 July 20218:50am to 9:10am on Sunday 18 July 2021 |
 | 22/07/2021      | Close Contact        | Belrose         | Woolworths Glenrose VillageGlenrose Village, 56-58 Glen Street | 7am to 1:30pm on Wednesday 21 July 20217am to 4pm on Tuesday 20 July 20215:55am to 6pm on Monday 19 July 20215:55am to 4:30pm on Sunday 18 July 20215:55am to 3:10pm on Saturday 17 July 20215:55am to 4:30pm on Friday 16 July 20217:30am to 9am on Thursday 15 July 202110:30am to 11am on Wednesday 14 July 20218:30am to 8:40am on Saturday 10 July 2021 |
-| 28/07/2021      | Close Contact        | Beverly Hiils   | Pizza Hut Beverly Hills322 King Georges Road | 1:45pm to 2:15pm on Wednesday 21 July 2021                   |
+| 28/07/2021      | Close Contact        | Beverly Hills   | Pizza Hut Beverly Hills322 King Georges Road | 1:45pm to 2:15pm on Wednesday 21 July 2021                   |
 | 23/07/2021      | Casual Contact       | Blacktown       | Blacktown Family Medical Centre1/117 Main Street | 4:30pm to 5pm on Tuesday 20 July 2021                        |
 | 26/07/2021      | Casual Contact       | Blacktown       | Bunnings Blacktown183 Reservoir Road | 10:15am to 11:15am on Thursday 15 July 2021                  |
 | 28/07/2021      | Casual Contact       | Blacktown       | Chester and Jake's SuperSave Chemist112 Main Street | 10:35am to 10:50am on Saturday 24 July 2021                  |
@@ -120,8 +120,8 @@
 | 20/07/2021      | Casual Contact       | Cecil Hills     | Woolworths Cecil HillsCorner Sandringham Drive and Fedore Road | 10:30am to 11:30am on Saturday 17 July 20214:15pm to 5:15pm on Friday 16 July 2021 |
 | 25/07/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenCorner Chelmsford Road and Pacific Highway | 12:25pm to 12:45pm on Saturday 24 July 20211:25pm to 1:45pm on Saturday 24 July 2021 |
 | 25/07/2021      | Casual Contact       | Charmhaven      | HipPocket Workwear5/6 Botham Close | 12:45pm to 12:55pm on Saturday 24 July 2021                  |
+| 27/07/2021      | Casual Contact       | Chatswood       | Caltex Chatswood East364-366 Eastern Valley Way | 11:30am to 12:30pm on Monday 19 July 202111:30am to 12:30pm on Sunday 18 July 2021 |
 | 24/07/2021      | Casual Contact       | Chatswood       | Cherry Lane Cakes3/457 Victoria Avenue | 12:20pm to 12:30pm on Friday 16 July 2021                    |
-| 27/07/2021      | Casual Contact       | Chatswood East  | Caltex Chatswood East364-366 Eastern Valley Way | 11:30am to 12:30pm on Monday 19 July 202111:30am to 12:30pm on Sunday 18 July 2021 |
 | 24/07/2021      | Casual Contact       | Chester Hill    | Caltex-Woolworths Chester Hill35 Woodville Road | 9:20am to 9:40am on Sunday 18 July 2021                      |
 | 27/07/2021      | Casual Contact       | Chester Hill    | Commonwealth Bank Chester Hill130-134 Waldron Road | 12:15pm to 12:30pm on Wednesday 21 July 2021                 |
 | 20/07/2021      | Close Contact        | Chester Hill    | Woolworths Chester HillChester Square Shopping Centre, 1-13 Leicester Street | 4:45pm to 5:05pm on Thursday 15 July 2021                    |
