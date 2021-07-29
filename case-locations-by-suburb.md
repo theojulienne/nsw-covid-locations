@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 29/07/2021      | Close Contact        | Annandale       | Booth Street Bakery87 Booth Street | 2:45pm to 3:15pm on Sunday 25 July 2021                      |
 | 16/07/2021      | Casual Contact       | Artarmon        | Mazda Artarmon339 Pacific Highway | 8am to 9am on Thursday 15 July 20218am to 5:30am on Wednesday 14 July 2021 |
 | 23/07/2021      | Casual Contact       | Ashfield        | Aldi Ashfield260A Liverpool Road | 12:25pm to 12:55pm on Saturday 17 July 2021                  |
 | 24/07/2021      | Monitor for symptoms | Ashfield        | Ashfield Mall260A Liverpool Road | 12:10pm to 1:25pm on Saturday 17 July 2021                   |
@@ -33,6 +34,7 @@
 | 27/07/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner Bellambi Lane and Watts Lane | 11am to 11:15am on Tuesday 20 July 2021                      |
 | 23/07/2021      | Close Contact        | Belmore         | Afford Disability Belmore38 Redman Parade | All day on Thursday 22 July 2021All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021 |
 | 27/07/2021      | Casual Contact       | Belmore         | Belmore Hardware300 Burwood Road | 9:30am to 11am on Thursday 22 July 2021                      |
+| 29/07/2021      | Casual Contact       | Belmore         | Belmore Lebanese Bakery339 Burwood Road | 2:13pm to 2:18pm on Thursday 22 July 2021                    |
 | 25/07/2021      | Casual Contact       | Belmore         | Jobels Cafe1/400 Burwood Road | 11am to 11:30am on Thursday 22 July 202110am to 10:30am on Friday 16 July 2021 |
 | 17/07/2021      | Close Contact        | Belmore         | Raw Coffee Bar426 Burwood Road | 5am to 3pm on Friday 16 July 20215am to 3pm on Thursday 15 July 20215am to 3pm on Wednesday 14 July 20215am to 3pm on Tuesday 13 July 20215am to 3pm on Monday 12 July 20215am to 3pm on Sunday 11 July 20215am to 3pm on Saturday 10 July 20215am to 3pm on Friday 9 July 20215am to 3pm on Thursday 8 July 20215am to 3pm on Wednesday 7 July 2021 |
 | 23/07/2021      | Close Contact        | Belmore         | Rust BucketShop 21/335-337 Burwood | 11:05am to 11:25am on Saturday 17 July 2021                  |
@@ -85,8 +87,9 @@
 | 24/07/2021      | Close Contact        | Camperdown      | Chris O'Brien Lifehouse – Ground floor, front hall and lift lobby119-143 Missenden Road | 11:30am to 11:40am on Tuesday 20 July 2021                   |
 | 26/07/2021      | Close Contact        | Campsie         | 85c Daily Cafe Campsie216 Beamish Street | 1:25pm to 1:30pm on Monday 19 July 20217:35am to 7:55am on Sunday 18 July 20212:30pm to 2:35pm on Sunday 18 July 2021 |
 | 21/07/2021      | Casual Contact       | Campsie         | Breadtop Campsie14-28 Amy Street | 7am to 2pm on Friday 16 July 2021                            |
+| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre 14-28 Amy Street | All day on Saturday 24 July 2021                             |
 | 24/07/2021      | Close Contact        | Campsie         | Campsie Centre public toilets (male and female)14-28 Amy Street | All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
-| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre14-28 Amy Street | All day on Saturday 24 July 2021All day on Friday 23 July 2021All day on Thursday 22 July 2021All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
+| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre14-28 Amy Street | All day on Friday 23 July 2021All day on Thursday 22 July 2021All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
 | 24/07/2021      | Close Contact        | Campsie         | Campsie Charcoal Chicken146 Beamish Street | 1:30pm to 1:45pm on Monday 19 July 2021                      |
 | 27/07/2021      | Close Contact        | Campsie         | Campsie Family Medical Practice248 Beamish Street | 10:10am to 11am on Thursday 22 July 202110am to 11am on Tuesday 20 July 2021 |
 | 28/07/2021      | Casual Contact       | Campsie         | Campsie Growers Market Shop 20, Campsie Centre, 14-28 Amy Street | 8am to 3pm on Thursday 22 July 20218:30am to 6pm on Wednesday 21 July 2021 |
@@ -123,6 +126,8 @@
 | 24/07/2021      | Casual Contact       | Chatswood       | Cherry Lane Cakes3/457 Victoria Avenue | 12:20pm to 12:30pm on Friday 16 July 2021                    |
 | 24/07/2021      | Casual Contact       | Chester Hill    | Caltex-Woolworths Chester Hill35 Woodville Road | 9:20am to 9:40am on Sunday 18 July 2021                      |
 | 27/07/2021      | Casual Contact       | Chester Hill    | Commonwealth Bank Chester Hill130-134 Waldron Road | 12:15pm to 12:30pm on Wednesday 21 July 2021                 |
+| 29/07/2021      | Casual Contact       | Chester Hill    | Miller Market93 Miller Road | 11:30am to 11:50am on Monday 19 July 2021                    |
+| 29/07/2021      | Casual Contact       | Chester Hill    | Miller Road Pharmacy85 Miller Road | 11:40am to 12:10pm on Monday 19 July 2021                    |
 | 20/07/2021      | Close Contact        | Chester Hill    | Woolworths Chester HillChester Square Shopping Centre, 1-13 Leicester Street | 4:45pm to 5:05pm on Thursday 15 July 2021                    |
 | 25/07/2021      | Casual Contact       | Chester Hill    | Woolworths Chester HillChester Square Shopping Centre, 1-13 Leicester Street | 8:50am to 9am on Sunday 25 July 20216:15pm to 7:15pm on Friday 23 July 20218am to 4pm on Monday 19 July 20211:25pm to 8:30pm on Friday 16 July 2021 |
 | 28/07/2021      | Casual Contact       | Chullora        | Aldi ChulloraChullora Marketplace, 355-357 Waterloo Road | 9:20am to 10am on Wednesday 21 July 2021                     |
@@ -182,6 +187,7 @@
 | 16/07/2021      | Casual Contact       | Fairfield West  | Aldi Fairfield West370 Hamilton Road | 5:30pm to 6:30pm on Thursday 15 July 2021                    |
 | 27/07/2021      | Casual Contact       | Fairfield West  | Coles Fairfield WestMarkey Plaza, 386 Hamilton Road | 4pm to 4:10pm on Tuesday 20 July 20213:30pm to 4:30pm on Thursday 15 July 202112:30pm to 1:30pm on Saturday 10 July 2021 |
 | 21/07/2021      | Close Contact        | Fairy Meadow    | BP Truckstop Fairy Meadow224 Princes Highway Corner of Mount Ousley | 10am to 10:05am on Thursday 15 July 2021                     |
+| 29/07/2021      | Close Contact        | Forest Lodge    | Chambers Cellars Forest LodgeShop T2/1A Dalgal Way | 1:45pm to 2:05pm on Saturday 24 July 2021                    |
 | 27/07/2021      | Casual Contact       | Glenfield       | Glenfield Cellars78 Railway Parade | 1pm to 2pm on Saturday 24 July 2021                          |
 | 28/07/2021      | Casual Contact       | Gordon          | McDonalds Gordon761 Pacific Highway | 1:30am to 1:45am on Friday 23 July 2021                      |
 | 27/07/2021      | Casual Contact       | Gordon          | Woolworths GordonGordon Centre, 802-808 Pacific Highway | 12am (midnight) to 1am on Saturday 24 July 20218pm to 12am (midnight) on Friday 23 July 202112am (midnight) to 1am on Friday 23 July 20218pm to 12am (midnight) on Thursday 22 July 2021 |
@@ -368,6 +374,8 @@
 | 21/07/2021      | Close Contact        | Punchbowl       | Central Pharmacy Punchbowl695-697 Punchbowl Road | 5pm to 5:30pm on Friday 16 July 2021                         |
 | 21/07/2021      | Close Contact        | Punchbowl       | INDOmarket Punchbowl250 The Boulevarde | 9:30am to 9:50am on Saturday 17 July 2021                    |
 | 25/07/2021      | Close Contact        | Punchbowl       | Metro Petroleum Punchbowl998 Punchbowl Road | 5:30pm to 6:30pm on Thursday 22 July 2021                    |
+| 29/07/2021      | Casual Contact       | Pyrmont         | Goldsbrough Apartments - all residents243 Pyrmont Street | All day on Wednesday 28 July 2021All day on Tuesday 27 July 2021All day on Monday 26 July 2021All day on Sunday 25 July 2021All day on Saturday 24 July 2021All day on Friday 23 July 2021 |
+| 29/07/2021      | Close Contact        | Pyrmont         | Health Space Clinic172 Harris Street | 9am to 10am on Friday 23 July 2021                           |
 | 18/07/2021      | Close Contact        | Raglan          | BP Truckstop Raglan39 Sydney Road | 7pm to 7:30pm on Friday 16 July 20217:15pm to 7:45pm on Thursday 15 July 20217pm to 7:45pm on Wednesday 14 July 20217pm to 7:30pm on Tuesday 13 July 2021 |
 | 24/07/2021      | Casual Contact       | Revesby         | Manoush on Queen100B Queen Street | 7:45am to 9:15am on Friday 16 July 20217:45am to 9:15am on Thursday 15 July 20217:45am to 9:15am on Wednesday 14 July 20217:45am to 9:15am on Tuesday 13 July 20217:45am to 9:15am on Monday 12 July 2021 |
 | 21/07/2021      | Casual Contact       | Revesby         | McDonalds Revesby2 The River Road | 9:15am to 9:30am on Friday 16 July 20218:45am to 9am on Thursday 15 July 20213:15pm to 3:30pm on Thursday 15 July 202110:45am to 11am on Thursday 15 July 2021 |

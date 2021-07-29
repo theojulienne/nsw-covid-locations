@@ -1,5 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 29/07/2021      | Close Contact        | Pyrmont         | Health Space Clinic172 Harris Street | 9am to 10am on Friday 23 July 2021                           |
+| 29/07/2021      | Casual Contact       | Pyrmont         | Goldsbrough Apartments - all residents243 Pyrmont Street | All day on Wednesday 28 July 2021All day on Tuesday 27 July 2021All day on Monday 26 July 2021All day on Sunday 25 July 2021All day on Saturday 24 July 2021All day on Friday 23 July 2021 |
+| 29/07/2021      | Close Contact        | Forest Lodge    | Chambers Cellars Forest LodgeShop T2/1A Dalgal Way | 1:45pm to 2:05pm on Saturday 24 July 2021                    |
+| 29/07/2021      | Casual Contact       | Chester Hill    | Miller Road Pharmacy85 Miller Road | 11:40am to 12:10pm on Monday 19 July 2021                    |
+| 29/07/2021      | Casual Contact       | Chester Hill    | Miller Market93 Miller Road | 11:30am to 11:50am on Monday 19 July 2021                    |
+| 29/07/2021      | Casual Contact       | Belmore         | Belmore Lebanese Bakery339 Burwood Road | 2:13pm to 2:18pm on Thursday 22 July 2021                    |
+| 29/07/2021      | Close Contact        | Annandale       | Booth Street Bakery87 Booth Street | 2:45pm to 3:15pm on Sunday 25 July 2021                      |
 | 28/07/2021      | Casual Contact       | Wentworthville  | Officeworks Wentworthville323 Great Western Highway | 10:40am to 11am on Sunday 18 July 2021                       |
 | 28/07/2021      | Casual Contact       | Wentworth Point | Coles Wentworth PointMarina Square, 5 Footbridge Boulevarde | 9:35am to 10:05am on Saturday 24 July 2021                   |
 | 28/07/2021      | Casual Contact       | Ultimo          | Aldi BroadwayBroadway Shopping Centre, 1 Bay Street | 12pm (noon) to 12:10pm on Monday 19 July 2021                |
@@ -67,7 +74,8 @@
 | 28/07/2021      | Casual Contact       | Campsie         | Jin Mart10 London Street  | 4:10pm to 4:20pm on Wednesday 21 July 2021                   |
 | 28/07/2021      | Casual Contact       | Campsie         | Chemist Warehouse Campsie265 Beamish Street | 6pm to 6:15pm on Thursday 22 July 2021                       |
 | 28/07/2021      | Casual Contact       | Campsie         | Campsie Growers Market Shop 20, Campsie Centre, 14-28 Amy Street | 8am to 3pm on Thursday 22 July 20218:30am to 6pm on Wednesday 21 July 2021 |
-| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre14-28 Amy Street | All day on Saturday 24 July 2021All day on Friday 23 July 2021All day on Thursday 22 July 2021All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
+| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre14-28 Amy Street | All day on Friday 23 July 2021All day on Thursday 22 July 2021All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
+| 28/07/2021      | Close Contact        | Campsie         | Campsie Centre 14-28 Amy Street | All day on Saturday 24 July 2021                             |
 | 28/07/2021      | Casual Contact       | Campbelltown    | Priceline Pharmacy CampbelltownShop 33 Macarthur Square, Gilchrist Drive and Kellicar Road | 11:50am to 12:05pm on Thursday 22 July 2021                  |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Woolworths CabramattaCabramatta Plaza, 180 Railway Parade | 1:30pm to 1:35pm on Saturday 24 July 202112:25pm to 12:45pm on Wednesday 21 July 2021 |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Heng's Garage2 Mallee Street | 10:20am to 1pm on Friday 23 July 2021                        |
