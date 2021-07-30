@@ -25,13 +25,13 @@
 | 30/07/2021      | Casual Contact       | Hornsby         | Woolworths Hornsby Westfield Shopping Centre, 236 Pacific Highway | 2:00pm to 2:30pm on Sunday 25 July 2021                      |
 | 30/07/2021      | Casual Contact       | Gwynneville     | Gwynneville Bakery3/168 Gipps Road | 9am to 9:30am on Saturday 24 July 2021                       |
 | 30/07/2021      | Casual Contact       | Ermington       | Woolworths Ermington30 Betty Cuthbert Avenue | 12:45pm to 1:30pm on Saturday 24 July 2021                   |
-| 30/07/2021      | Casual Contact       | Clempton Park   | Coles Clempton Park Charlotte and Harp Street | 1:30pm to 2:00pm on Sunday 25 July 2021                      |
+| 30/07/2021      | Casual Contact       | Clemton Park    | Coles Clemton Park Charlotte and Harp Street | 1:30pm to 2:00pm on Sunday 25 July 2021                      |
 | 30/07/2021      | Casual Contact       | Chipping Norton  | Kebab House 5/52-54 Gov Macquarie Drive | 9:00am to 9:10am on Wednesday 21 July 2021                   |
 | 30/07/2021      | Casual Contact       | Chipping Norton  | Coles Chipping Norton  Market Plaza, 20 Ernest Avenue | 9:00am to 9:20am on Tuesday 20 July 2021                     |
 | 30/07/2021      | Close Contact        | Casula          | Priceline Pharmacy CasulaShop 38 Casula Mall, Kurrajong Road | 8:30am to 8:50am on Tuesday 27 July 2021                     |
 | 30/07/2021      | Casual Contact       | Casula          | Chemist Warehouse CasulaCrossroads Homemaker Centre, 15/5 Parkers Farm Place | 3:50pm to 4:20pm on Saturday 24 July 20214:20pm to 4:45pm on Monday 19 July 2021 |
 | 30/07/2021      | Casual Contact       | Canley Heights  | Healthpoint Medical Practice Canley Heights Shop 3/192 Canley Vale Road | 9:00am to 10:30am on Sunday 25 July 2021                     |
-| 30/07/2021      | Casual Contact       | Canley Heights  | Dai Thanh Grocery223b Canley Vale Road | 12:55pm to 1:15pm on Sunday 25 July 20211:35pm to 1:40pm on Sunday 25 July 20211:15pm to 1:20pm on Saturday 24 July 20219:15am to 10:05am on Saturday 24 July 2021 |
+| 30/07/2021      | Casual Contact       | Canley Heights  | Dai Thanh Grocery223b Canley Vale Road | 1:35pm to 1:40pm on Sunday 25 July 202112:55pm to 1:15pm on Saturday 24 July 2021 |
 | 30/07/2021      | Close Contact        | Campsie         | The World of Fruit224 Beamish Street | 6am to 7pm on Sunday 25 July 20216am to 7pm on Saturday 24 July 20216am to 7pm on Friday 23 July 20216am to 7pm on Thursday 22 July 20216am to 7pm on Wednesday 21 July 20216am to 7pm on Tuesday 20 July 20213pm to 4pm on Monday 19 July 2021 |
 | 30/07/2021      | Casual Contact       | Campsie         | BWS Campsie  68-72 Evaline Street | 6:35pm to 7:00pm on Tuesday 20 July 2021                     |
 | 30/07/2021      | Close Contact        | Campsie         | Alan Lo Chemist 188 Beamish Street | 4:30pm to 4:40pm on Sunday 25 July 2021                      |
@@ -42,7 +42,8 @@
 | 30/07/2021      | Close Contact        | Beverly Hills   | LA Donut Shop Beverly Hills 2/328 King Georges Road | 12:05pm to 12:15pm on Tuesday 27 July 2021                   |
 | 30/07/2021      | Close Contact        | Belmore         | Awafy416 Burwood Road     | 11am to 4pm on Sunday 25 July 202110am to 9pm on Saturday 24 July 20214pm to 9pm on Friday 23 July 2021 |
 | 30/07/2021      | Casual Contact       | Bellambi        | Sam and Nics IGA Express Bellambi36 Cawley Street | 3:30pm to 6:30pm on Tuesday 27 July 20218am to 12pm on Monday 26 July 2021 |
-| 30/07/2021      | Casual Contact       | Bankstown       | AlBarka Quality MeatBankstown Central, North Terrace | 12am (midnight) to 10:15am on Monday 26 July 2021            |
+| 30/07/2021      | Casual Contact       | Baulkham Hills  | Aldi Baulkham HillsCorner Old Northern Road and Olive Street | 5:45am to 3:10pm on Wednesday 21 July 20216:49am to 10:25am on Thursday 22 July 2021 |
+| 30/07/2021      | Casual Contact       | Bankstown       | Al Baraka Quality MeatBankstown Central, North Terrace | 12:01am  to 10:15am on Monday 26 July 2021                   |
 | 30/07/2021      | Casual Contact       | Austral         | Austral Post Office Shop 4, 255 Emdondson Avenue | 9:55am to 10:00am on Monday 26 July 2021                     |
 | 30/07/2021      | Casual Contact       | Auburn          | Auburn Central Shopping Centre57-59 Queen Street Auburn | 1:50pm to 3:25pm on Sunday 25 July 20212:25pm to 4:05pm on Saturday 17 July 2021 |
 | 30/07/2021      | Casual Contact       | Auburn          | Arzum Market Pty Ltd 61 Rawson Street | 9:50am to 10:00am on Saturday 24 July 2021                   |
