@@ -1,7 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 30/07/2021      | Close Contact        | Gwynneville     | Gwynneville Bakery3/168 Gipps Road | 9am to 9:30am on Saturday 24 July 2021                       |
 | 29/07/2021      | Casual Contact       | Woolloomooloo   | Vizio Cafe1/52-58 William Street  | 7am to 11am on Monday 19 July 2021                           |
-| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong142-148 Corrimal Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
+| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong63 Burelli Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
 | 29/07/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 12:30pm to 1:15pm on Sunday 25 July 2021                     |
 | 29/07/2021      | Casual Contact       | Warwick Farm    | Direct Frieght Express Pty20-26 Scrivener Street | 5:40am to 3pm on Friday 23 July 20215:40am to 3pm on Thursday 22 July 2021 |
 | 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 2pm to 3pm on Monday 19 July 2021                            |
@@ -14,7 +15,7 @@
 | 29/07/2021      | Casual Contact       | Parramatta      | Westfield Parramatta - Top Level 159-175 Church Street | 1:40pm to 2pm on Sunday 25 July 2021                         |
 | 29/07/2021      | Casual Contact       | Parramatta      | Kmart Parramatta159-175 Church Street | 1:45pm to 1:55pm on Sunday 25 July 2021                      |
 | 29/07/2021      | Casual Contact       | Parramatta      | Breadtop ParramattaShop 5029, 159-175 Church Street | 1:50pm to 2pm on Sunday 25 July 2021                         |
-| 29/07/2021      | Casual Contact       | North Strathfield | Aldi North Straithfield20 George Street | 10:30pm to 11am on Saturday 24 July 2021                     |
+| 29/07/2021      | Casual Contact       | North Strathfield | Aldi North Straithfield20 George Street | 10:30am to 11am on Saturday 24 July 2021                     |
 | 29/07/2021      | Casual Contact       | Lurnea          | MediAdvice Pharmacy LurneaShop 1, 63 Hill Road | 1:10pm to 1:45pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Liverpool       | Udaya Spices Liverpool186 Macquarie Street | 5:35pm to 5:55pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Liverpool       | Black and White Pharmacy337B Hume Highway | 1:35pm to 1:50pm on Saturday 24 July 2021                    |
@@ -111,7 +112,6 @@
 | 28/07/2021      | Casual Contact       | Ingleburn       | Speedway Ingleburn3 Lancaster Street | 1pm to 2pm on Saturday 24 July 2021                          |
 | 28/07/2021      | Casual Contact       | Hornsby         | Dan Murphy's HornsbyShop 1005, Westfield Hornsby, Corner of Florence Street and Hunter Street | 5:20pm to 5:40pm on Saturday 24 July 2021                    |
 | 28/07/2021      | Casual Contact       | Harris Park     | Australia Post Harris Park53A Wigram Street | 2:30pm to 2:40pm on Thursday 22 July 2021                    |
-| 28/07/2021      | Close Contact        | Gwynneville     | Gwynneville Bakery3/168 Gipps Road | 9am to 9:30am on Saturday 24 July 2021                       |
 | 28/07/2021      | Casual Contact       | Greenacre       | Bunnings Warehouse GreenacreCorner of Roberts Road and Amarina Avenue | 3pm to 3:20pm on Tuesday 27 July 2021                        |
 | 28/07/2021      | Casual Contact       | Gordon          | McDonalds Gordon761 Pacific Highway | 1:30am to 1:45am on Friday 23 July 2021                      |
 | 28/07/2021      | Casual Contact       | Fairfield Heights | Fairfield Heights Tobacconist206 The Boulevarde | 1pm to 2pm on Wednesday 21 July 2021                         |
@@ -139,7 +139,6 @@
 | 28/07/2021      | Casual Contact       | Burwood         | Coles BurwoodShop 6, Level 3, Westfield Burwood, Corner of Wilga Street and Shaftesbury Road | 9:30pm to 9:50pm on Saturday 24 July 202111:45am to 12:20pm on Monday 19 July 2021 |
 | 28/07/2021      | Casual Contact       | Blacktown       | Kebab Express14/10 Sunnyholt Road | 8:40pm to 8:50pm on Friday 23 July 2021                      |
 | 28/07/2021      | Casual Contact       | Blacktown       | Chester and Jake's SuperSave Chemist112 Main Street | 10:35am to 10:50am on Saturday 24 July 2021                  |
-| 28/07/2021      | Close Contact        | Beverly Hills   | Pizza Hut Beverly Hills322 King Georges Road | 1:45pm to 2:15pm on Wednesday 21 July 2021                   |
 | 28/07/2021      | Casual Contact       | Bass Hill       | Woolworths Bass HillBass Hill Plaza, 753 Hume Highway | 9:05am to 9:15am on Wednesday 21 July 2021                   |
 | 28/07/2021      | Casual Contact       | Bass Hill       | Kahil MeatsShop 10/753 Hume Highway | 3:30pm to 3:55pm on Monday 19 July 2021                      |
 | 28/07/2021      | Casual Contact       | Bankstown       | Supa IGA BankstownCorner Jacob Street and The Mall | 12pm (noon) to 1:30pm on Wednesday 21 July 2021              |
