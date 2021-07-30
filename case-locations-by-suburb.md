@@ -169,7 +169,6 @@
 | 25/07/2021      | Casual Contact       | Eastern Creek   | Woolworths Eastern CreekEastern Creek Quarter Shopping Centre, 159 Rooty Hill Road | 1:45pm to 2:45pm on Sunday 18 July 20211:50pm to 2:10pm on Tuesday 13 July 2021 |
 | 29/07/2021      | Casual Contact       | Edensor Park    | Freds One Stop Shopping661-667 Smithfields Road | 11:30am to 11:55am on Saturday 24 July 2021                  |
 | 29/07/2021      | Casual Contact       | Edmondson Park  | Oporto Edmondson Park2/1942 Camden Valley Way | 5pm to 11:30pm on Friday 23 July 202110:10pm to 10:30pm on Tuesday 20 July 2021 |
-| 29/07/2021      | Casual Contact       | Emerald HIlls   | Aldi Emerald Hills5 Emerald Hills Boulevarde | 3:50pm to 4:25pm on Saturday 24 July 2021                    |
 | 25/07/2021      | Casual Contact       | Emerton         | Woolworths EmertonEmerton Village, 40 Jersey Road | 2:05pm to 2:55pm on Monday 19 July 20216:10pm to 7:10pm on Sunday 18 July 20214:25pm to 5:50pm on Friday 16 July 20213:15pm to 3:55pm on Thursday 15 July 202111am to 12:05pm on Monday 12 July 2021 |
 | 26/07/2021      | Close Contact        | Enfield         | Enfield Produce Pet and Garden Supplies56 Coronation Parade | 11:35am to 11:50am on Saturday 17 July 2021                  |
 | 24/07/2021      | Casual Contact       | Enfield         | IGA Enfield190-194 Liverpool Road | 11:45am to 12:05pm on Tuesday 20 July 20213:50pm to 4:05pm on Saturday 17 July 2021 |
@@ -295,6 +294,7 @@
 | 27/07/2021      | Casual Contact       | Leichhardt      | Commonwealth Bank LeichhardtMarketPlace Leichhardt, 122 Flood Street | 9:45am to 10am on Monday 19 July 2021                        |
 | 28/07/2021      | Casual Contact       | Leichhardt      | MarketPlace Leichhardt122 Flood Street | 9:55am to 10:10am on Monday 19 July 2021                     |
 | 27/07/2021      | Casual Contact       | Leichhardt      | Woolworths LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10:30am to 10:45am on Saturday 24 July 202112pm (noon) to 12:45pm on Thursday 22 July 2021 |
+| 29/07/2021      | Casual Contact       | Leppington      | Aldi Emerald Hills5 Emerald Hills Boulevarde | 3:50pm to 4:25pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Leppington      | Woolworths Emerald HillsEmerald Hills Shopping Village, 5 Emerald Hills Boulevarde | All day on Friday 23 July 2021                               |
 | 28/07/2021      | Casual Contact       | Lidcombe        | Bunnings Warehouse Lidcombe23-29 Parramatta Road | 2:15pm to 3:15pm on Friday 23 July 2021                      |
 | 28/07/2021      | Casual Contact       | Lidcombe        | Cafe Rodem7B John Street  | 11:50am to 11:55am on Saturday 24 July 2021                  |
@@ -506,7 +506,7 @@
 | 27/07/2021      | Casual Contact       | Winston Hills   | TerryWhite Chemmart Winston HillsShop 20 Winston Hills Mall, Caroline Chisholm Drive | 10:15am to 10:30am on Sunday 25 July 2021                    |
 | 23/07/2021      | Casual Contact       | Wolli Creek     | Junction Espresso BarShop 9/5 Brodie Spark Drive | 10am to 10:10am on Sunday 18 July 2021                       |
 | 21/07/2021      | Casual Contact       | Wollongong      | Bubbleberry Yoghurt Wollongong78 Market Street | 6pm to 6:05pm on Saturday 17 July 2021                       |
-| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong63 Burelli Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
+| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong142-148 Corrimal Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
 | 21/07/2021      | Close Contact        | Wollongong      | Wollongong Dermatologist193 Church Street | 9:30am to 11am on Thursday 15 July 2021                      |
 | 23/07/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 4:30pm to 6pm on Monday 19 July 2021                         |
 | 29/07/2021      | Casual Contact       | Woolloomooloo   | Vizio Cafe1/52-58 William Street  | 7am to 11am on Monday 19 July 2021                           |

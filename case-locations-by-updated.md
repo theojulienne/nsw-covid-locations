@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 30/07/2021      | Close Contact        | Gwynneville     | Gwynneville Bakery3/168 Gipps Road | 9am to 9:30am on Saturday 24 July 2021                       |
 | 29/07/2021      | Casual Contact       | Woolloomooloo   | Vizio Cafe1/52-58 William Street  | 7am to 11am on Monday 19 July 2021                           |
-| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong63 Burelli Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
+| 29/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong142-148 Corrimal Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
 | 29/07/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 12:30pm to 1:15pm on Sunday 25 July 2021                     |
 | 29/07/2021      | Casual Contact       | Warwick Farm    | Direct Frieght Express Pty20-26 Scrivener Street | 5:40am to 3pm on Friday 23 July 20215:40am to 3pm on Thursday 22 July 2021 |
 | 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 2pm to 3pm on Monday 19 July 2021                            |
@@ -23,6 +23,7 @@
 | 29/07/2021      | Casual Contact       | Lilyfield       | Cafe Lobby Lilyfield38 Frazer Street | 10:40am to 10:55am on Saturday 24 July 2021                  |
 | 29/07/2021      | Casual Contact       | Lidcombe        | Costco Lidcombe17-21 Paramatta Road | 11:30am to 12:55pm on Saturday 24 July 2021                  |
 | 29/07/2021      | Casual Contact       | Leppington      | Woolworths Emerald HillsEmerald Hills Shopping Village, 5 Emerald Hills Boulevarde | All day on Friday 23 July 2021                               |
+| 29/07/2021      | Casual Contact       | Leppington      | Aldi Emerald Hills5 Emerald Hills Boulevarde | 3:50pm to 4:25pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Leichhardt      | Bakers Delight LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10am to 11am on Saturday 24 July 20219:45am to 10am on Monday 19 July 2021 |
 | 29/07/2021      | Casual Contact       | Kirrawee        | McDonalds Kirrawee559-563 Princes Highway | 6:20am to 6:30am on Monday 26 July 2021                      |
 | 29/07/2021      | Casual Contact       | Ingleburn       | Ingleburn Village Shopping Centre100 Macquarie Street | 5pm to 5:10pm on Wednesday 28 July 2021                      |
@@ -31,7 +32,6 @@
 | 29/07/2021      | Casual Contact       | Greenacre       | 7-Eleven Greenacre301 Hume Highway and Boronia Road | 5am to 5:05am on Thursday 22 July 2021                       |
 | 29/07/2021      | Close Contact        | Forest Lodge    | Chambers Cellars Forest LodgeShop T2/1A Dalgal Way | 1:45pm to 2:05pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Fairfield Heights | Woolworths Fairfield HeightsFairfield Heights Shopping Mall, 186 The Boulevarde | 3:40pm to 3:55pm on Sunday 25 July 20219:25pm to 9:40pm on Friday 23 July 20217:30pm to 8pm on Friday 23 July 20212:30pm to 3pm on Friday 23 July 20219:30pm to 9:40pm on Thursday 22 July 20211:40pm to 2pm on Thursday 22 July 202112:30pm to 12:40pm on Wednesday 21 July 202110:45am to 12:15pm on Tuesday 20 July 202110:45am to 11:15am on Monday 19 July 20216pm to 6:45pm on Sunday 18 July 202111:45am to 12:30pm on Sunday 18 July 202112pm (noon) to 12:30pm on Saturday 17 July 20212:20pm to 3pm on Thursday 15 July 202111:40am to 12pm (noon) on Tuesday 13 July 2021 |
-| 29/07/2021      | Casual Contact       | Emerald HIlls   | Aldi Emerald Hills5 Emerald Hills Boulevarde | 3:50pm to 4:25pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Edmondson Park  | Oporto Edmondson Park2/1942 Camden Valley Way | 5pm to 11:30pm on Friday 23 July 202110:10pm to 10:30pm on Tuesday 20 July 2021 |
 | 29/07/2021      | Casual Contact       | Edensor Park    | Freds One Stop Shopping661-667 Smithfields Road | 11:30am to 11:55am on Saturday 24 July 2021                  |
 | 29/07/2021      | Close Contact        | Croydon         | Ampol Croydon404/410 Liverpool Road | 10:20am to 10:35am on Friday 23 July 2021                    |
