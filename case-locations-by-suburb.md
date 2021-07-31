@@ -461,7 +461,7 @@
 | 21/07/2021      | Casual Contact       | Sydney Olympic Park | Conservatorium at Sydney Olympic Park9 Murray Rose Avenue | 7:20am to 7:35am on Friday 16 July 20217:20am to 7:35am on Thursday 15 July 20217:20am to 7:35am on Wednesday 14 July 2021 |
 | 23/07/2021      | Casual Contact       | Tahmoor         | Subway TahmoorShops 5 and 6, Tahmoor Town Centre, Corner Rememberance Drive and Thirlmere Street | 12:10pm to 12:25pm on Tuesday 20 July 2021                   |
 | 23/07/2021      | Casual Contact       | Tahmoor         | Woolworths TahmoorCorner Rememberance Drive and Thirlmere Way | 12pm (noon) to 12:30pm on Tuesday 20 July 2021               |
-| 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 2pm to 3pm on Monday 19 July 2021                            |
+| 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 1:14pm to 1:20pm on Monday 19 July 2021                      |
 | 27/07/2021      | Casual Contact       | Terrey Hills    | Golf Paradise1A/1B Myoora Road | 12:50pm to 1:30pm on Saturday 24 July 2021                   |
 | 27/07/2021      | Casual Contact       | Terrey Hills    | Joseph-Henri’s Bakery4 Booralie Road | 11:50am to 12:15pm on Monday 19 July 2021                    |
 | 28/07/2021      | Casual Contact       | The Ponds       | Costis Seafood and GrillThe Ponds Shopping Centre, 101 The Ponds Boulevarde | 4:05pm to 4:15pm on Saturday 24 July 2021                    |

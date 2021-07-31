@@ -50,7 +50,7 @@
 | 29/07/2021      | Casual Contact       | Woolloomooloo   | Vizio Cafe1/52-58 William Street  | 7am to 11am on Monday 19 July 2021                           |
 | 29/07/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 12:30pm to 1:15pm on Sunday 25 July 2021                     |
 | 29/07/2021      | Casual Contact       | Warwick Farm    | Direct Frieght Express Pty20-26 Scrivener Street | 5:40am to 3pm on Friday 23 July 20215:40am to 3pm on Thursday 22 July 2021 |
-| 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 2pm to 3pm on Monday 19 July 2021                            |
+| 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 1:14pm to 1:20pm on Monday 19 July 2021                      |
 | 29/07/2021      | Casual Contact       | Sydney          | Consulate General of the Republic of ChileLevel 18/44 Market Street | 10:50am to 11:05am on Sunday 18 July 2021                    |
 | 29/07/2021      | Casual Contact       | Rooty Hill      | Fresh Food Market Rooty Hill56 Rooty Hill Road | 12:50pm to 1:10pm on Monday 26 July 2021                     |
 | 29/07/2021      | Close Contact        | Pyrmont         | Health Space Clinic172 Harris Street | 9am to 10am on Friday 23 July 2021                           |
