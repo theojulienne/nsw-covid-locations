@@ -1,5 +1,15 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 31/07/2021      | Casual Contact       | Wattle Grove    | Coles Wattle Grove Village Way, Wattle Grove  | 10:25am to 11am on Friday 23 July 2021                       |
+| 31/07/2021      | Casual Contact       | Strathfield     | Rainbow Cakes 2 Churchill Avenue | 10am to 11am on Saturday 24 July 2021                        |
+| 31/07/2021      | Close Contact        | Penrith         | Officeworks Penrith 273 High Street | 12:00pm to 5:00pm on Monday 26 July 2021                     |
+| 31/07/2021      | Casual Contact       | Fairfield       | Everyday in Fairfield 109 Sackville Street | 4pm to 4:10pm on Thursday 15 July 2021                       |
+| 31/07/2021      | Casual Contact       | Campsie         | Cincotta Chemist Campsie 157-159 Beamish Street | 4:40pm to 5:15pm on Friday 30 July 2021                      |
+| 31/07/2021      | Casual Contact       | Blacktown       | Kmart Blacktown28 Patrick Street | 5:40pm to 5:45pm on Saturday 24 July 2021                    |
+| 31/07/2021      | Close Contact        | Belfield        | Mancini's Original Woodfired Pizza21 Burwood Road | All day on Sunday 18 July 2021All day on Monday 19 July 2021All day on Tuesday 20 July 2021All day on Wednesday 21 July 2021All day on Thursday 22 July 2021All day on Friday 23 July 2021All day on Saturday 24 July 2021 |
+| 31/07/2021      | Casual Contact       | Bankstown       | Woolworths BankstownCentro Shopping Centre, Lady Cutler Avenue | 8am to 9:10am on Friday 30 July 2021                         |
+| 31/07/2021      | Casual Contact       | Bankstown       | Suhhtan Pizza Bakery  226 Chapel Road | 12:20pm to 12:25pm on Friday 23 July 2021                    |
+| 31/07/2021      | Casual Contact       | Bankstown       | Priceline Pharmacy Bankstown 1 North Terrace | 12:45pm to 1:05pm on Wednesday 28 July 2021                  |
 | 30/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong West434 Crown Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
 | 30/07/2021      | Casual Contact       | Wetherill Park  | Broaster Chicken Wetherill ParkShop 201, 561-583 Polding Street | 10:35pm to 11:10pm on Thursday 15 July 2021                  |
 | 30/07/2021      | Casual Contact       | Wentworth Point | Coles Wentworth PointMarina Square, 5 Footbridge Boulevarde | 9:15am to 10:05am on Saturday 24 July 2021                   |

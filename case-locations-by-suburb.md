@@ -28,6 +28,9 @@
 | 28/07/2021      | Casual Contact       | Bankstown       | Supa IGA BankstownCorner Jacob Street and The Mall | 12pm (noon) to 1:30pm on Wednesday 21 July 2021              |
 | 27/07/2021      | Close Contact        | Bankstown       | Westpac BankstownBankstown Centro, 12 North Terrace | 9:30am to 4pm on Friday 23 July 20219:30am to 4pm on Thursday 22 July 20219:30am to 4pm on Wednesday 21 July 20219:30am to 1:30pm on Monday 19 July 2021 |
 | 26/07/2021      | Casual Contact       | Bankstown       | Woolworths BankstownCentro Shopping Centre, Lady Cutler Avenue | 12:15pm to 12:40pm on Friday 23 July 2021                    |
+| 31/07/2021      | Casual Contact       | Bankstown       | Priceline Pharmacy Bankstown 1 North Terrace | 12:45pm to 1:05pm on Wednesday 28 July 2021                  |
+| 31/07/2021      | Casual Contact       | Bankstown       | Suhhtan Pizza Bakery  226 Chapel Road | 12:20pm to 12:25pm on Friday 23 July 2021                    |
+| 31/07/2021      | Casual Contact       | Bankstown       | Woolworths BankstownCentro Shopping Centre, Lady Cutler Avenue | 8am to 9:10am on Friday 30 July 2021                         |
 | 29/07/2021      | Casual Contact       | Bankstown       | Bakers Delight BankstownShop 372, Bankstown Centre Stacey Street and North Terrace | 9:30am to 11am on Thursday 22 July 2021                      |
 | 29/07/2021      | Casual Contact       | Bass Hill       | Aldi Bass Hill753 Hume Highway | 5:45pm to 6:30pm on Monday 26 July 2021                      |
 | 29/07/2021      | Casual Contact       | Bass Hill       | Chemist Discount Centre Bass HillShop 33, Bass Hill Plaza 753 Hume Highway  | 5pm to 5:30pm on Tuesday 27 July 2021                        |
@@ -36,6 +39,7 @@
 | 30/07/2021      | Casual Contact       | Baulkham Hills  | Aldi Baulkham HillsCorner Old Northern Road and Olive Street | 5:45am to 3:10pm on Wednesday 21 July 20216:49am to 10:25am on Thursday 22 July 2021 |
 | 26/07/2021      | Close Contact        | Beaumont Hills  | Chemist Warehouse Beaumont HillsBeaumont Shopping Centre, 70 The Parkway | 10:50am to 7:20pm on Friday 23 July 20212:30pm to 10:30pm on Thursday 22 July 20212:40pm to 10:40pm on Wednesday 21 July 20212:20pm to 10:50pm on Tuesday 20 July 202110:50am to 7:20pm on Monday 19 July 2021 |
 | 29/07/2021      | Close Contact        | Belfield        | Mancini's Original Woodfired Pizza21 Burwood Road | All day on Saturday 24 July 202112pm (noon) to 9pm on Friday 23 July 2021 |
+| 31/07/2021      | Close Contact        | Belfield        | Mancini's Original Woodfired Pizza21 Burwood Road | All day on Sunday 18 July 2021All day on Monday 19 July 2021All day on Tuesday 20 July 2021All day on Wednesday 21 July 2021All day on Thursday 22 July 2021All day on Friday 23 July 2021All day on Saturday 24 July 2021 |
 | 29/07/2021      | Casual Contact       | Bella Vista     | Frangos Charcoal Chicken Bella Vista29-31 Lexington Drive | 2pm to 2:10pm on Sunday 25 July 2021                         |
 | 27/07/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner Bellambi Lane and Watts Lane | 11am to 11:15am on Tuesday 20 July 2021                      |
 | 30/07/2021      | Casual Contact       | Bellambi        | Sam and Nics IGA Express Bellambi36 Cawley Street | 3:30pm to 6:30pm on Tuesday 27 July 20218am to 12pm on Monday 26 July 2021 |
@@ -60,6 +64,7 @@
 | 29/07/2021      | Casual Contact       | Blacktown       | Kabul Halal Butchery1/60 Main Street | 11:20am to 11:30am on Saturday 24 July 2021                  |
 | 28/07/2021      | Casual Contact       | Blacktown       | Kebab Express14/10 Sunnyholt Road | 8:40pm to 8:50pm on Friday 23 July 2021                      |
 | 29/07/2021      | Casual Contact       | Blacktown       | Woolworths Blacktown17 Patrick Street | 5pm to 5:35pm on Monday 26 July 20214:05pm to 4:30pm on Friday 23 July 2021 |
+| 31/07/2021      | Casual Contact       | Blacktown       | Kmart Blacktown28 Patrick Street | 5:40pm to 5:45pm on Saturday 24 July 2021                    |
 | 29/07/2021      | Casual Contact       | Bondi           | My Flower Man32a Fletcher Street | 9:15am to 9:25am on Wednesday 21 July 2021                   |
 | 27/07/2021      | Casual Contact       | Bondi Beach     | Woolworths Metro Bondi Beach184 Campbell Parade | 6pm to 6:40pm on Wednesday 21 July 2021                      |
 | 22/07/2021      | Casual Contact       | Bonnyrigg       | Big W Bonnyrigg100 Bonnyrigg Avenue | 1:35pm to 3:45pm on Saturday 17 July 2021                    |
@@ -121,6 +126,7 @@
 | 24/07/2021      | Close Contact        | Campsie         | Tong Li Supermarket Campsie including Jia Jia ButcherShop 12/214 Campsie Centre, 12-48 Amy Street | 8:45am to 5pm on Tuesday 20 July 20219:40am to 5pm on Monday 19 July 20218:30am to 8pm on Sunday 18 July 20218:45am to 7:45pm on Saturday 17 July 20218:45am to 7:45pm on Friday 16 July 20218:45am to 7:45pm on Thursday 15 July 2021 |
 | 24/07/2021      | Close Contact        | Campsie         | Westpac Campsie212-214 Beamish Street | 12:55pm to 1:30pm on Wednesday 21 July 2021                  |
 | 28/07/2021      | Casual Contact       | Campsie         | Woolworths Campsie68-72 Evaline Street | 2pm to 2:20pm on Tuesday 27 July 20211pm to 1:20pm on Friday 23 July 202110am to 11am on Tuesday 20 July 20216:20pm to 6:40pm on Thursday 15 July 20214:10pm to 4:30pm on Thursday 15 July 2021 |
+| 31/07/2021      | Casual Contact       | Campsie         | Cincotta Chemist Campsie 157-159 Beamish Street | 4:40pm to 5:15pm on Friday 30 July 2021                      |
 | 29/07/2021      | Casual Contact       | Canley Heights  | Canley Heights Pharmacy227a Canley Vale Road | 12pm (noon) to 12:44pm on Saturday 24 July 2021              |
 | 28/07/2021      | Casual Contact       | Canley Heights  | Carter & G's199 St Johns Road | 7:40am to 7:50am on Tuesday 20 July 2021                     |
 | 30/07/2021      | Casual Contact       | Canley Heights  | Dai Thanh Grocery223b Canley Vale Road | 1:35pm to 1:40pm on Sunday 25 July 202112:55pm to 1:15pm on Saturday 24 July 2021 |
@@ -196,6 +202,7 @@
 | 23/07/2021      | Casual Contact       | Fairfield       | Ozie Spares6/181 Sackville Street | 2pm to 3pm on Friday 16 July 2021                            |
 | 24/07/2021      | Casual Contact       | Fairfield       | Sinbad Market4/35 Spencer Street | 2pm to 2:10pm on Wednesday 21 July 202112:30pm to 1pm on Friday 16 July 202112pm (noon) to 2:30pm on Tuesday 13 July 2021 |
 | 28/07/2021      | Casual Contact       | Fairfield       | Woolworths FairfieldNeeta City Shopping Centre, 1/29 Court Road | 7:30pm to 8pm on Friday 23 July 20211:35pm to 2:40pm on Thursday 22 July 20211:20pm to 1:30pm on Thursday 22 July 202112:30pm to 1:30pm on Wednesday 21 July 202110:45am to 11:15am on Tuesday 20 July 20213:30pm to 3:45pm on Friday 16 July 20212pm to 2:30pm on Friday 16 July 20211:10pm to 1:40pm on Wednesday 14 July 20211:45pm to 2:15pm on Monday 12 July 2021 |
+| 31/07/2021      | Casual Contact       | Fairfield       | Everyday in Fairfield 109 Sackville Street | 4pm to 4:10pm on Thursday 15 July 2021                       |
 | 28/07/2021      | Casual Contact       | Fairfield Heights | 7-Eleven Fairfield Heights234 Hamilton Road and The Boulevarde | 7pm to 7:10pm on Monday 19 July 2021                         |
 | 24/07/2021      | Casual Contact       | Fairfield Heights | Cellular King229 The Boulevarde | 10:45am to 10:55am on Monday 19 July 2021                    |
 | 25/07/2021      | Casual Contact       | Fairfield Heights | Fairfield Heights News Agency251 The Boulevarde | 5:15pm to 5:25pm on Monday 19 July 2021                      |
@@ -393,6 +400,7 @@
 | 25/07/2021      | Casual Contact       | Pendle Hill     | Rajah Supermarket115 Pendle Way | 3pm to 3:15pm on Monday 19 July 2021                         |
 | 21/07/2021      | Casual Contact       | Penrith         | Bunnings North Penrith2169 Castlereagh Road | 5:15pm to 5:35pm on Sunday 18 July 20213:35pm to 3:45pm on Sunday 18 July 2021 |
 | 30/07/2021      | Casual Contact       | Penrith         | Officeworks Penrith 273 High Street | 12:00pm to 5:00pm on Monday 26 July 2021                     |
+| 31/07/2021      | Close Contact        | Penrith         | Officeworks Penrith 273 High Street | 12:00pm to 5:00pm on Monday 26 July 2021                     |
 | 28/07/2021      | Casual Contact       | Petersham       | Frangos Charcoal Chicken Petersham98 New Canterbury Road | 3:10pm to 3:25pm on Sunday 25 July 2021                      |
 | 23/07/2021      | Casual Contact       | Pheasants Nest  | Caltex Pheasants Nest (Southbound)Southbound, Hume Highway | 7:45am to 7:55am on Tuesday 20 July 2021                     |
 | 24/07/2021      | Casual Contact       | Plumpton        | Big W PlumptonCnr Hyatts and Jersey Road | 6:20pm to 6:50pm on Thursday 15 July 2021                    |
@@ -451,6 +459,7 @@
 | 25/07/2021      | Close Contact        | Strathfield     | Commonwealth Bank Strathfield38/40 The Boulevarde | 2:50pm to 4:30pm on Tuesday 20 July 2021                     |
 | 25/07/2021      | Close Contact        | Strathfield     | Oporto StrathfieldStrathfield Plaza, 31/11 The Boulevard | 3:30pm to 3:40pm on Tuesday 20 July 2021                     |
 | 26/07/2021      | Casual Contact       | Strathfield     | Strathfield Plaza11 The Boulevarde | 2:45pm to 5pm on Tuesday 20 July 2021                        |
+| 31/07/2021      | Casual Contact       | Strathfield     | Rainbow Cakes 2 Churchill Avenue | 10am to 11am on Saturday 24 July 2021                        |
 | 30/07/2021      | Close Contact        | Strathfield     | Breadtop Shop Stathfield Shop 27/11 The Boulevarde | 2:00pm to 2:10pm on Tuesday 27 July 2021                     |
 | 28/07/2021      | Casual Contact       | Summer Hill     | Summer Hill Newsagent4 Lackey Street | 8am to 9am on Wednesday 21 July 20218am to 9am on Saturday 17 July 2021 |
 | 25/07/2021      | Close Contact        | Sydney          | Cafe 10235 Jones Street   | 11:05am to 11:20am on Friday 16 July 2021                    |
@@ -487,6 +496,7 @@
 | 27/07/2021      | Casual Contact       | Warriewood      | Eleven 11 Coffee2/270 Garden Street | 8am to 9am on Friday 23 July 2021                            |
 | 27/07/2021      | Casual Contact       | Warriewood      | IGA Warriewood270 Garden Street | 8am to 9am on Friday 23 July 20219am to 9:20am on Wednesday 21 July 202112:10pm to 12:40pm on Monday 19 July 2021 |
 | 29/07/2021      | Casual Contact       | Warwick Farm    | Direct Frieght Express Pty20-26 Scrivener Street | 5:40am to 3pm on Friday 23 July 20215:40am to 3pm on Thursday 22 July 2021 |
+| 31/07/2021      | Casual Contact       | Wattle Grove    | Coles Wattle Grove Village Way, Wattle Grove  | 10:25am to 11am on Friday 23 July 2021                       |
 | 30/07/2021      | Casual Contact       | Wentworth Point | Coles Wentworth PointMarina Square, 5 Footbridge Boulevarde | 9:15am to 10:05am on Saturday 24 July 2021                   |
 | 25/07/2021      | Casual Contact       | Wentworthville  | Dan Murphy's WentworthvilleCorner Great Western Highway and Florence Street | 11:30am to 12:30pm on Saturday 17 July 2021                  |
 | 21/07/2021      | Casual Contact       | Wentworthville  | McDonalds Wentworthville441 Great Western Highway | 12pm (noon) to 1pm on Friday 16 July 2021                    |
