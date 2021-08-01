@@ -1,5 +1,14 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 01/08/2021      | Casual Contact       | Smithfield      | GRAM Engineering16-22 Cullen Place | 7:15am to 4:30pm on Tuesday 27 July 20217:15am to 4:30pm on Monday 26 July 20217:15am to 4:30pm on Friday 23 July 2021 |
+| 01/08/2021      | Close Contact        | Rhodes          | Myhealth Medical Centre RhodesLevel 8, Rhodes Waterside Shopping Centre, 1 Rider Boulevard | 10am to 11:30am on Friday 30 July 20219am to 11am on Tuesday 27 July 2021 |
+| 01/08/2021      | Casual Contact       | Pennant Hills   | Astley Mobility Pharmacy368 Pennant Hills Road | 11am to 11:30am on Saturday 31 July 20211:30pm to 2pm on Thursday 29 July 2021 |
+| 01/08/2021      | Close Contact        | Campsie         | Katsuya Japanese RestaurantClemton Park Shopping Village, Shop 14, 5 Mackinder Street | 6am to 10pm on Wednesday 28 July 20216am to 10pm on Tuesday 27 July 20216am to 10pm on Monday 26 July 20216am to 10pm on Sunday 25 July 20216am to 10pm on Saturday 24 July 20216am to 10pm on Friday 23 July 20216am to 10pm on Thursday 22 July 20216am to 10pm on Wednesday 21 July 20216am to 10pm on Tuesday 20 July 20216am to 10pm on Monday 19 July 2021 |
+| 01/08/2021      | Close Contact        | Campsie         | Ali Group Supermarket238 Beamish Street | 8:30am to 3:30pm on Tuesday 27 July 20218:30am to 3:30pm on Monday 26 July 20218:30am to 3:30pm on Sunday 25 July 2021 |
+| 01/08/2021      | Close Contact        | Burwood         | Chemist Warehouse Burwood69 Burwood Road | 5:25pm to 5:30pm on Wednesday 28 July 2021                   |
+| 01/08/2021      | Casual Contact       | Brookvale       | Woolworths BrookvaleWarringah Mall, 145 Old Pittwater Road | 5:05pm to 5:35pm on Sunday 25 July 2021                      |
+| 01/08/2021      | Casual Contact       | Bondi Junction  | Australia Post Bondi JunctionEastgate Shopping Centre, Shop 28 71-73 Spring Street | 9:10am to 9:20am on Friday 16 July 2021                      |
+| 01/08/2021      | Casual Contact       | Bankstown       | Quantum Radiology258 South Terrace | 12:30pm to 12:50pm on Monday 26 July 2021                    |
 | 31/07/2021      | Casual Contact       | Yagoona         | Ya Ya Bakery522 Hume Highway | 6:45am to 7am on Monday 19 July 2021                         |
 | 31/07/2021      | Casual Contact       | Wentworth Point | The Smelly Cheesecake Wentworth PointShop RT317, Marina Square, 5 Footbridge Boulevarde | 9:25am to 9:35am on Saturday 24 July 2021                    |
 | 31/07/2021      | Casual Contact       | Wattle Grove    | Coles Wattle GroveVillage Way | 10:25am to 11am on Friday 23 July 2021                       |
@@ -42,11 +51,11 @@
 | 30/07/2021      | Casual Contact       | Lidcombe        | Familymart Lidcombe Pty LtdShop 1-124b, Lidcombe Shopping Centre, 92 Parramatta Road | 5:10pm to 5:15pm on Saturday 24 July 2021                    |
 | 30/07/2021      | Casual Contact       | Leppington      | Subway Emerald HillsEmerald Hills Shopping Village, 5 Emerald Hills Boulevarde | 1:55pm to 2:05pm on Saturday 24 July 2021                    |
 | 30/07/2021      | Close Contact        | Lakemba         | Chemist Warehouse Lakemba105 Haldon Street | 4pm to 10pm on Monday 19 July 20213:10pm to 3:25pm on Monday 19 July 20214:20pm to 4:40pm on Saturday 17 July 2021 |
-| 30/07/2021      | Casual Contact       | Kingsgrove      | Bunnings Kingsgrove Richland Street and Kingsgrove Road | 11:25am to 11:50am on Tuesday 27 July 2021                   |
+| 30/07/2021      | Casual Contact       | Kingsgrove      | Bunnings KingsgroveRichland Street and Kingsgrove Road | 11:25am to 11:50am on Tuesday 27 July 2021                   |
 | 30/07/2021      | Casual Contact       | Hornsby         | Woolworths HornsbyWestfield Shopping Centre, 236 Pacific Highway | 2:00pm to 2:30pm on Sunday 25 July 2021                      |
 | 30/07/2021      | Casual Contact       | Gwynneville     | Gwynneville Bakery3/168 Gipps Road | 9am to 9:30am on Saturday 24 July 2021                       |
 | 30/07/2021      | Casual Contact       | Ermington       | Woolworths Ermington30 Betty Cuthbert Avenue | 12:45pm to 1:30pm on Saturday 24 July 2021                   |
-| 30/07/2021      | Casual Contact       | Clemton Park    | Coles Clemton Park Charlotte and Harp Street | 1:30pm to 2:00pm on Sunday 25 July 2021                      |
+| 30/07/2021      | Casual Contact       | Clemton Park    | Coles Clemton ParkCharlotte and Harp Street | 1:30pm to 2:00pm on Sunday 25 July 2021                      |
 | 30/07/2021      | Casual Contact       | Chipping Norton | Kebab House5/52-54 Governor Macquarie Drive | 9:00am to 9:10am on Wednesday 21 July 2021                   |
 | 30/07/2021      | Casual Contact       | Chipping Norton | Coles Chipping NortonMarket Plaza, 20 Ernest Avenue | 9:00am to 9:20am on Tuesday 20 July 2021                     |
 | 30/07/2021      | Close Contact        | Casula          | Priceline Pharmacy CasulaShop 38 Casula Mall, Kurrajong Road | 8:30am to 8:50am on Tuesday 27 July 2021                     |
