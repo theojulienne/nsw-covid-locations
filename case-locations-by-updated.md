@@ -2,7 +2,6 @@
 | --- | --- | --- | --- | --- |
 | 01/08/2021      | Casual Contact       | Smithfield      | GRAM Engineering16-22 Cullen Place | 7:15am to 4:30pm on Tuesday 27 July 20217:15am to 4:30pm on Monday 26 July 20217:15am to 4:30pm on Friday 23 July 2021 |
 | 01/08/2021      | Close Contact        | Rhodes          | Myhealth Medical Centre RhodesLevel 8, Rhodes Waterside Shopping Centre, 1 Rider Boulevard | 10am to 11:30am on Friday 30 July 20219am to 11am on Tuesday 27 July 2021 |
-| 01/08/2021      | Casual Contact       | Pennant Hills   | Astley Mobility Pharmacy368 Pennant Hills Road | 11am to 11:30am on Saturday 31 July 20211:30pm to 2pm on Thursday 29 July 2021 |
 | 01/08/2021      | Close Contact        | Campsie         | Katsuya Japanese RestaurantClemton Park Shopping Village, Shop 14, 5 Mackinder Street | 6am to 10pm on Wednesday 28 July 20216am to 10pm on Tuesday 27 July 20216am to 10pm on Monday 26 July 20216am to 10pm on Sunday 25 July 20216am to 10pm on Saturday 24 July 20216am to 10pm on Friday 23 July 20216am to 10pm on Thursday 22 July 20216am to 10pm on Wednesday 21 July 20216am to 10pm on Tuesday 20 July 20216am to 10pm on Monday 19 July 2021 |
 | 01/08/2021      | Close Contact        | Campsie         | Ali Group Supermarket238 Beamish Street | 8:30am to 3:30pm on Tuesday 27 July 20218:30am to 3:30pm on Monday 26 July 20218:30am to 3:30pm on Sunday 25 July 2021 |
 | 01/08/2021      | Close Contact        | Burwood         | Chemist Warehouse Burwood69 Burwood Road | 5:25pm to 5:30pm on Wednesday 28 July 2021                   |

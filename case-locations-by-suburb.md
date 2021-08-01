@@ -330,7 +330,6 @@
 | 25/07/2021      | Close Contact        | Pendle Hill     | Pendle Hill Seafood Market5 Joyce Street | 9am to 7:30pm on Sunday 18 July 20219am to 7:30pm on Saturday 17 July 20219am to 7:30pm on Friday 16 July 2021 |
 | 28/07/2021      | Casual Contact       | Pendle Hill     | Pendle Inn Hotel233 Wentworth Avenue | 8:15pm to 8:20pm on Monday 19 July 2021                      |
 | 25/07/2021      | Casual Contact       | Pendle Hill     | Rajah Supermarket115 Pendle Way | 3pm to 3:15pm on Monday 19 July 2021                         |
-| 01/08/2021      | Casual Contact       | Pennant Hills   | Astley Mobility Pharmacy368 Pennant Hills Road | 11am to 11:30am on Saturday 31 July 20211:30pm to 2pm on Thursday 29 July 2021 |
 | 21/07/2021      | Casual Contact       | Penrith         | Bunnings North Penrith2169 Castlereagh Road | 5:15pm to 5:35pm on Sunday 18 July 20213:35pm to 3:45pm on Sunday 18 July 2021 |
 | 31/07/2021      | Close Contact        | Penrith         | Officeworks Penrith273 High Street | 12:00pm to 5:00pm on Monday 26 July 2021                     |
 | 28/07/2021      | Casual Contact       | Petersham       | Frangos Charcoal Chicken Petersham98 New Canterbury Road | 3:10pm to 3:25pm on Sunday 25 July 2021                      |
