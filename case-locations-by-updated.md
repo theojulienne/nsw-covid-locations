@@ -1,9 +1,27 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 01/08/2021      | Casual Contact       | West Ryde       | Coles West RydeBetts Street and Chatham Road | 7:20am to 7:55am on Monday 19 July 2021                      |
+| 01/08/2021      | Casual Contact       | Sydney          | Sunlite Mitre 10  74 Pitt Street, Sydney | 3:15pm to 5:00pm on Tuesday 27 July 2021                     |
+| 01/08/2021      | Casual Contact       | Strathfield     | Rainbow Cakes 2 Churchill Avenue | 10:00am to 11:00am on Saturday 24 July 2021                  |
+| 01/08/2021      | Casual Contact       | Strathfield     | Omni Mart Strathfield Shop 7, Symond Arcade, 12 Churchill Avenue | 10:25am to 11:00am on Saturday 24 July 2021                  |
+| 01/08/2021      | Casual Contact       | Strathfield     | GR Buy Asian Supermarket Shop 8/11 The Boulevarde | 11:00am to 11:30am on Saturday 24 July 2021                  |
+| 01/08/2021      | Casual Contact       | Strathfield     | Fresh Seafood and Meat Strathfield 22/11 The Boulevarde | 10:45am to 11:15am on Saturday 24 July 2021                  |
+| 01/08/2021      | Casual Contact       | St Marys        | Astley Mobility PharmacyAstley Centre, Mamre Road | 11am to 11:30am on Saturday 31 July 20211:30pm to 2pm on Thursday 29 July 2021 |
 | 01/08/2021      | Casual Contact       | Smithfield      | GRAM Engineering16-22 Cullen Place | 7:15am to 4:30pm on Tuesday 27 July 20217:15am to 4:30pm on Monday 26 July 20217:15am to 4:30pm on Friday 23 July 2021 |
 | 01/08/2021      | Close Contact        | Rhodes          | Myhealth Medical Centre RhodesLevel 8, Rhodes Waterside Shopping Centre, 1 Rider Boulevard | 10am to 11:30am on Friday 30 July 20219am to 11am on Tuesday 27 July 2021 |
+| 01/08/2021      | Close Contact        | Pemulwuy        | Fully Tabooly Kebab Shop      Pemulwuy marketplace 70 Butu Wargun Drive  | 9:00am to 9:30am on Saturday 31 July 20219:00am to 9:30am on Friday 30 July 2021 |
+| 01/08/2021      | Casual Contact       | Marrickville    | Woolworths Metro Marrickville Shopping Centre  34 Victoria Road | 10:30am to 11:30am on Monday 26 July 2021                    |
+| 01/08/2021      | Casual Contact       | Macquarie Park  | SuncorpShop 1 Macquarie Centre, Corner of Herring Road and Waterloo Road | 1:00pm to 1:20pm on Friday 23 July 2021                      |
+| 01/08/2021      | Casual Contact       | Macquarie Park  | PricelineShop UC10, Macquarie Shopping Centre, Herring Road | 1:10pm to 1:25pm on Friday 23 July 2021                      |
+| 01/08/2021      | Casual Contact       | Macquarie Park  | Panetta MercatoShop 3369, Macquarie Centre, Corner of Herring and Waterloo Road | 4:50pm to 5:10pm on Saturday 24 July 2021                    |
+| 01/08/2021      | Casual Contact       | Macquarie Park  | Commonwealth BankShop Uc1 Level 1 Macquarie Shopping Centre , Herring Road  | 12:50pm to 2:00pm on Friday 23 July 2021                     |
+| 01/08/2021      | Casual Contact       | Macquarie Park  | AzakazeMacquarie Shopping Centre, 402/199 Herring Road | 4:05pm to 4:30pm on Saturday 24 July 2021                    |
+| 01/08/2021      | Casual Contact       | Eastwood        | Woolworths Eastwood Eastwood Centre, 160 Rowe Street | 5:00pm to 5:20pm on Friday 23 July 2021                      |
+| 01/08/2021      | Casual Contact       | Eastwood        | BWS Eastwood Shop 32, Level 1, Eastwood Centre, 160 Rowe Street | 4:35pm to 5:05pm on Friday 23 July 2021                      |
+| 01/08/2021      | Close Contact        | Canley Heights  | An Phat Supermarket213-217 Canley Vale Road | 10:00am to 10.30am on Thursday 29 July 2021                  |
 | 01/08/2021      | Close Contact        | Campsie         | Katsuya Japanese RestaurantClemton Park Shopping Village, Shop 14, 5 Mackinder Street | 6am to 10pm on Wednesday 28 July 20216am to 10pm on Tuesday 27 July 20216am to 10pm on Monday 26 July 20216am to 10pm on Sunday 25 July 20216am to 10pm on Saturday 24 July 20216am to 10pm on Friday 23 July 20216am to 10pm on Thursday 22 July 20216am to 10pm on Wednesday 21 July 20216am to 10pm on Tuesday 20 July 20216am to 10pm on Monday 19 July 2021 |
 | 01/08/2021      | Close Contact        | Campsie         | Ali Group Supermarket238 Beamish Street | 8:30am to 3:30pm on Tuesday 27 July 20218:30am to 3:30pm on Monday 26 July 20218:30am to 3:30pm on Sunday 25 July 2021 |
+| 01/08/2021      | Close Contact        | Campsie         | 36 Meat Mart 273 Beamish Street | 7:30am to 6:00pm on Saturday 31 July 20217:30am to 6:00pm on Friday 30 July 20217:30am to 6:00pm on Thursday 29 July 20217:30am to 6:00pm on Wednesday 28 July 20217:30am to 6:00pm on Tuesday 27 July 20217:30am to 6:00pm on Monday 26 July 2021 |
 | 01/08/2021      | Close Contact        | Burwood         | Chemist Warehouse Burwood69 Burwood Road | 5:25pm to 5:30pm on Wednesday 28 July 2021                   |
 | 01/08/2021      | Casual Contact       | Brookvale       | Woolworths BrookvaleWarringah Mall, 145 Old Pittwater Road | 5:05pm to 5:35pm on Sunday 25 July 2021                      |
 | 01/08/2021      | Casual Contact       | Bondi Junction  | Australia Post Bondi JunctionEastgate Shopping Centre, Shop 28 71-73 Spring Street | 9:10am to 9:20am on Friday 16 July 2021                      |
