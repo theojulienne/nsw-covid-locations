@@ -56,7 +56,7 @@
 | 30/07/2021      | Close Contact        | Campsie         | The World of Fruit224 Beamish Street | 6am to 7pm on Sunday 25 July 20216am to 7pm on Saturday 24 July 20216am to 7pm on Friday 23 July 20216am to 7pm on Thursday 22 July 20216am to 7pm on Wednesday 21 July 20216am to 7pm on Tuesday 20 July 20213pm to 4pm on Monday 19 July 2021 |
 | 30/07/2021      | Casual Contact       | Campsie         | BWS Campsie68-72 Evaline Street | 6:35pm to 7:00pm on Tuesday 20 July 2021                     |
 | 30/07/2021      | Close Contact        | Campsie         | Alan Lo Chemist188 Beamish Street | 4:30pm to 4:40pm on Sunday 25 July 2021                      |
-| 30/07/2021      | Close Contact        | Campsie         | 85c Daily Cafe Campsie216 Beamish Street | 1:05pm to 1:20pm on Sunday 25 July 20211:05pm to 1:20pm on Sunday 25 July 20211:25pm to 1:30pm on Monday 19 July 20217:35am to 7:55am on Sunday 18 July 20212:30pm to 2:35pm on Sunday 18 July 2021 |
+| 30/07/2021      | Close Contact        | Campsie         | 85c Daily Cafe Campsie216 Beamish Street | 1:05pm to 1:20pm on Sunday 25 July 20211:25pm to 1:30pm on Monday 19 July 20217:35am to 7:55am on Sunday 18 July 20212:30pm to 2:35pm on Sunday 18 July 2021 |
 | 30/07/2021      | Close Contact        | Camperdown      | 7-Eleven Camperdown2/10 Missendon Road | 6:55pm to 7:05pm on Tuesday 27 July 20219:45am to 10am on Sunday 25 July 2021 |
 | 30/07/2021      | Close Contact        | Burwood         | Sydney UltraSound for Women BurwoodL2 Suite 203, 21-23 Burwood Road | 8:45am to 10:15am on Tuesday 27 July 2021                    |
 | 30/07/2021      | Casual Contact       | Burwood         | Building21-23 Burwood Road | 8:45am to 10:15am on Tuesday 27 July 2021                    |
@@ -136,7 +136,8 @@
 | 28/07/2021      | Casual Contact       | St Marys        | Liquor Stax, St Mary’s Hotel27-41 Queen Street | 9:30pm to 9:45pm on Saturday 24 July 2021                    |
 | 28/07/2021      | Casual Contact       | Spring Farm     | Woolworths Spring FarmSpring Farm Shopping Centre, 254 Richardson Road | 12pm (noon) to 1pm on Monday 26 July 2021                    |
 | 28/07/2021      | Casual Contact       | Spring Farm     | Choice Pharmacy Spring FarmSpring Farm Shopping Centre, 254 Richardson Road | 12pm (noon) to 1pm on Monday 26 July 2021                    |
-| 28/07/2021      | Close Contact        | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 2:20pm to 2:40pm on Friday 23 July 202111am to 11:30am on Thursday 22 July 2021 |
+| 28/07/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 11:05am to 11:15am on Thursday 22 July 2021                  |
+| 28/07/2021      | Close Contact        | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 2:20pm to 2:40pm on Friday 23 July 2021                      |
 | 28/07/2021      | Casual Contact       | Rosemeadow      | Woolworths RosemeadowRosemeadow Market Place, Thomas Rose Drive | 1:25pm to 2:10pm on Friday 23 July 202112:20pm to 12:45pm on Thursday 22 July 2021 |
 | 28/07/2021      | Close Contact        | Roselands       | Caltex Woolworths Roselands218 King Georges Road | 3:10pm to 3:20pm on Monday 26 July 2021                      |
 | 28/07/2021      | Monitor for symptoms | Riverwood       | Riverwood Hot Bread341 Belmore Road | 12:55pm to 1pm on Friday 23 July 2021                        |
@@ -287,7 +288,7 @@
 | 26/07/2021      | Close Contact        | Beaumont Hills  | Chemist Warehouse Beaumont HillsBeaumont Shopping Centre, 70 The Parkway | 10:50am to 7:20pm on Friday 23 July 20212:30pm to 10:30pm on Thursday 22 July 20212:40pm to 10:40pm on Wednesday 21 July 20212:20pm to 10:50pm on Tuesday 20 July 202110:50am to 7:20pm on Monday 19 July 2021 |
 | 26/07/2021      | Casual Contact       | Bankstown       | SaiRays Grocery StoreShop 2/83-99 North Terrace | 3pm to 3:10pm on Monday 19 July 20216:50pm to 7pm on Sunday 18 July 2021 |
 | 26/07/2021      | Casual Contact       | Bankstown       | Lobster Tail Fish MarketBankstown Central, North Terrace | 5am to 6pm on Wednesday 21 July 2021                         |
-| 26/07/2021      | Casual Contact       | Bankstown       | Blooms Chemist BankstownShop 11-MM0-MM012 Bankstown Central, 1 North Terrace | 4:40pm to 4:45pm on Thursday 22 July 2021                    |
+| 26/07/2021      | Casual Contact       | Bankstown       | Blooms the Chemist BankstownShop 11-MM0-MM012 Bankstown Central, 1 North Terrace | 4:40pm to 4:45pm on Thursday 22 July 2021                    |
 | 25/07/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah (Coles side)50 Wyong Road | 12:20pm to 1pm on Friday 23 July 2021                        |
 | 25/07/2021      | Casual Contact       | Tuggerah        | Smokemart TuggerahWestfield Tuggerah, 50 Wyong Road | 12:25pm to 12:30pm on Friday 23 July 2021                    |
 | 25/07/2021      | Casual Contact       | Tuggerah        | Dan Murphys TuggerahWestfield Tuggerah, 50 Wyong Road | 12:20pm to 12:30pm on Friday 23 July 2021                    |
@@ -399,7 +400,7 @@
 | 23/07/2021      | Casual Contact       | Fairfield       | Fairfield Fruitland13-15 Kenyon Street | 2:30pm to 2:45pm on Tuesday 20 July 202111:15am to 11:35am on Tuesday 20 July 202110am to 10:45am on Tuesday 20 July 202111am to 11:45am on Monday 19 July 2021 |
 | 23/07/2021      | Casual Contact       | Fairfield       | Aldi FairfieldFairfield Forum, 8-36 Station Street | 2:15pm to 2:30pm on Tuesday 20 July 20211:25pm to 1:40pm on Tuesday 20 July 20214:50pm to 5:10pm on Monday 19 July 20213:15pm to 3:30pm on Friday 16 July 202110am to 10:15am on Sunday 11 July 20212:15pm to 4:05pm on Saturday 10 July 202110am to 10:15am on Saturday 10 July 20211:55pm to 2:15pm on Friday 9 July 202112:30pm to 12:50pm on Monday 5 July 2021 |
 | 23/07/2021      | Casual Contact       | Dee Why         | Chemist Warehouse Dee WhyDee Why Plaza, 20-22/26 Howard Avenue | 12pm (noon) to 12:30pm on Tuesday 20 July 2021               |
-| 23/07/2021      | Casual Contact       | Casula          | Costco Fuel Casula20 Parkers Farm Place | 8:30am to 8:40am on Tuesday 20 July 2021                     |
+| 23/07/2021      | Casual Contact       | Casula          | Costco Fuel CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 8:30am to 8:40am on Tuesday 20 July 2021                     |
 | 23/07/2021      | Casual Contact       | Castle Hill     | Chemist Warehouse Castle Hill Super CentreHills Super Centre, 18 Victoria Avenue | 9:50am to 10:05am on Monday 19 July 2021                     |
 | 23/07/2021      | Close Contact        | Burwood         | Pharmacy 4 Less BurwoodWestfield Burwood, Shop 147/100 Burwood Road | 12:50pm to 1pm on Monday 19 July 2021                        |
 | 23/07/2021      | Close Contact        | Burwood         | Leaf Cafe Burwood WestfieldK39/100 Burwood Road | 12:15pm to 12:35pm on Monday 19 July 20211pm to 1:05pm on Sunday 18 July 2021 |

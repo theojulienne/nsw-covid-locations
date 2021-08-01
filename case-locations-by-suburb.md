@@ -13,7 +13,7 @@
 | 29/07/2021      | Casual Contact       | Bankstown       | Bakers Delight BankstownShop 372, Bankstown Centre Stacey Street and North Terrace | 9:30am to 11am on Thursday 22 July 2021                      |
 | 24/07/2021      | Casual Contact       | Bankstown       | Ban Mi Bay Ngo49 Bankstown City Plaza | 7am to 4pm on Sunday 18 July 2021                            |
 | 28/07/2021      | Casual Contact       | Bankstown       | Bankstown Lebanese Fruit and Mixed Business212 South Terrace | 10am to 10:15am on Thursday 22 July 202110am to 10:15am on Thursday 22 July 2021 |
-| 26/07/2021      | Casual Contact       | Bankstown       | Blooms Chemist BankstownShop 11-MM0-MM012 Bankstown Central, 1 North Terrace | 4:40pm to 4:45pm on Thursday 22 July 2021                    |
+| 26/07/2021      | Casual Contact       | Bankstown       | Blooms the Chemist BankstownShop 11-MM0-MM012 Bankstown Central, 1 North Terrace | 4:40pm to 4:45pm on Thursday 22 July 2021                    |
 | 28/07/2021      | Casual Contact       | Bankstown       | Fields of FruitBankstown Central, North Terrace | 11:10am to 11:25am on Sunday 18 July 2021                    |
 | 26/07/2021      | Casual Contact       | Bankstown       | Lobster Tail Fish MarketBankstown Central, North Terrace | 5am to 6pm on Wednesday 21 July 2021                         |
 | 29/07/2021      | Casual Contact       | Bankstown       | Pharmacy 4 Less BankstownBankstown Central, North Terrace | 7pm to 8pm on Sunday 25 July 202112:40pm to 12:50pm on Friday 23 July 2021 |
@@ -83,7 +83,7 @@
 | 24/07/2021      | Close Contact        | Camperdown      | Chris O'Brien Lifehouse – 1st floor, lift lobby119-143 Missenden Road | 11:50am to 12:10pm on Tuesday 20 July 2021                   |
 | 24/07/2021      | Close Contact        | Camperdown      | Chris O'Brien Lifehouse – 2nd floor, Clinic C and D waiting room119-143 Missenden Road | 11:50am to 12:50pm on Tuesday 20 July 2021                   |
 | 24/07/2021      | Close Contact        | Camperdown      | Chris O'Brien Lifehouse – Ground floor, front hall and lift lobby119-143 Missenden Road | 11:30am to 11:40am on Tuesday 20 July 2021                   |
-| 30/07/2021      | Close Contact        | Campsie         | 85c Daily Cafe Campsie216 Beamish Street | 1:05pm to 1:20pm on Sunday 25 July 20211:05pm to 1:20pm on Sunday 25 July 20211:25pm to 1:30pm on Monday 19 July 20217:35am to 7:55am on Sunday 18 July 20212:30pm to 2:35pm on Sunday 18 July 2021 |
+| 30/07/2021      | Close Contact        | Campsie         | 85c Daily Cafe Campsie216 Beamish Street | 1:05pm to 1:20pm on Sunday 25 July 20211:25pm to 1:30pm on Monday 19 July 20217:35am to 7:55am on Sunday 18 July 20212:30pm to 2:35pm on Sunday 18 July 2021 |
 | 30/07/2021      | Close Contact        | Campsie         | Alan Lo Chemist188 Beamish Street | 4:30pm to 4:40pm on Sunday 25 July 2021                      |
 | 30/07/2021      | Casual Contact       | Campsie         | BWS Campsie68-72 Evaline Street | 6:35pm to 7:00pm on Tuesday 20 July 2021                     |
 | 24/07/2021      | Close Contact        | Campsie         | Campsie Centre public toilets (male and female)14-28 Amy Street | All day on Wednesday 21 July 2021All day on Tuesday 20 July 2021All day on Monday 19 July 2021All day on Sunday 18 July 2021All day on Saturday 17 July 2021All day on Friday 16 July 2021All day on Thursday 15 July 2021All day on Wednesday 14 July 2021 |
@@ -119,7 +119,7 @@
 | 28/07/2021      | Casual Contact       | Casula          | BP Casula461 Hume Highway | 7:35am to 4:30pm on Sunday 25 July 20214pm to 8pm on Thursday 22 July 2021 |
 | 30/07/2021      | Casual Contact       | Casula          | Chemist Warehouse CasulaCrossroads Homemaker Centre, 15/5 Parkers Farm Place | 3:50pm to 4:20pm on Saturday 24 July 20214:20pm to 4:45pm on Monday 19 July 2021 |
 | 28/07/2021      | Casual Contact       | Casula          | Coles CasulaKurrajong Road | 4:45pm to 5:15pm on Thursday 22 July 202112:10pm to 1:30pm on Saturday 17 July 2021 |
-| 23/07/2021      | Casual Contact       | Casula          | Costco Fuel Casula20 Parkers Farm Place | 8:30am to 8:40am on Tuesday 20 July 2021                     |
+| 23/07/2021      | Casual Contact       | Casula          | Costco Fuel CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 8:30am to 8:40am on Tuesday 20 July 2021                     |
 | 16/07/2021      | Close Contact        | Casula          | Costco Wholesale CasulaCrossroads Homemaker Centre, 20 Parkers Farm Place | 11am to 11:45am on Thursday 15 July 2021                     |
 | 29/07/2021      | Casual Contact       | Casula          | King AnanasCasula Shopping Mall | 10:15am to 10:25am on Saturday 24 July 2021                  |
 | 29/07/2021      | Casual Contact       | Casula          | Maxi ChickensCasula Shopping Mall | 10:25am to 10:30am on Saturday 24 July 2021                  |
@@ -358,7 +358,8 @@
 | 25/07/2021      | Casual Contact       | San Remo        | Coles Liquor San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 1pm to 1:15pm on Saturday 24 July 20212:50pm to 3:05pm on Friday 23 July 2021 |
 | 25/07/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 9:45am to 10:15am on Sunday 25 July 20212:35pm to 2:50pm on Friday 23 July 20212:05pm to 2:20pm on Wednesday 21 July 2021 |
 | 25/07/2021      | Casual Contact       | San Remo        | Northlakes Shopping Centre17-21 Pacific Highway | 9:40am to 10:15am on Sunday 25 July 20211pm to 1:15pm on Saturday 24 July 20212:20pm to 3:05pm on Friday 23 July 202111:05am to 11:30am on Thursday 22 July 20211:55pm to 2:20pm on Wednesday 21 July 2021 |
-| 28/07/2021      | Close Contact        | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 2:20pm to 2:40pm on Friday 23 July 202111am to 11:30am on Thursday 22 July 2021 |
+| 28/07/2021      | Close Contact        | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 2:20pm to 2:40pm on Friday 23 July 2021                      |
+| 28/07/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 11:05am to 11:15am on Thursday 22 July 2021                  |
 | 25/07/2021      | Casual Contact       | San Remo        | Singletons Butchery San RemoNorthlakes Shopping Centre, 17-21 Pacific Highway | 1:55pm to 2:05pm on Wednesday 21 July 2021                   |
 | 26/07/2021      | Casual Contact       | Seven Hills     | Woolworths Seven Hills Plaza224 Prospect Highway | 8:20am to 8:45am on Sunday 18 July 20219:30am to 10:30am on Saturday 17 July 20213:25pm to 5pm on Thursday 15 July 20212pm to 3:30pm on Thursday 15 July 2021 |
 | 25/07/2021      | Close Contact        | Seven Hills     | newsXpress Seven HillsSeven Hills Plaza, Shop 38A/224 Prospect Highway | 4:15pm to 4:25pm on Monday 19 July 2021                      |
