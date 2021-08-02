@@ -72,6 +72,7 @@
 | 30/07/2021      | Close Contact        | Burwood         | Sydney UltraSound for Women BurwoodL2 Suite 203, 21-23 Burwood Road | 8:45am to 10:15am on Tuesday 27 July 2021                    |
 | 28/07/2021      | Casual Contact       | Burwood         | Woolworths BurwoodShop 6, Level 3, Westfield Shopping Centre, 100 Burwood Road | 9:15pm to 9:35pm on Saturday 24 July 20213:15pm to 4pm on Saturday 24 July 2021 |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Accounting DynamicsLevel 1, Office 4/90 John Street | 4:20pm to 7:30pm on Tuesday 27 July 2021                     |
+| 02/08/2021      | Close Contact        | Cabramatta      | Hai Ha Money Transfer 56 John Street | 7am to 8:20am on Sunday 25 July 2021                         |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Heng's Garage2 Mallee Street | 10:20am to 1pm on Friday 23 July 2021                        |
 | 29/07/2021      | Casual Contact       | Cabramatta      | Hungry Jacks Cabramatta401 Cabramatta Road | 9:25am to 9:40am on Thursday 22 July 20218:15pm to 8:45pm on Thursday 22 July 2021 |
 | 29/07/2021      | Casual Contact       | Cabramatta      | VT Building Materials41 Chadderton Street | 10:30am to 11am on Friday 23 July 20218:50am to 9:15am on Wednesday 21 July 2021 |
@@ -239,6 +240,8 @@
 | 22/07/2021      | Close Contact        | Lakemba         | Traboulsi Bakery43 The Boulevarde | 3:30pm to 3:45pm on Monday 19 July 2021                      |
 | 23/07/2021      | Close Contact        | Lakemba         | Westpac Lakemba78-80 Haldon Street | 12:20pm to 1:45pm on Wednesday 21 July 2021                  |
 | 28/07/2021      | Casual Contact       | Lakemba         | Woolworths Lakemba2/26 Haldon Street | 2:30pm to 2:45pm on Tuesday 27 July 202110:30am to 10:40am on Saturday 24 July 202110:30am to 11am on Thursday 22 July 20219:40pm to 9:55pm on Thursday 15 July 20215pm to 5:25pm on Wednesday 14 July 20214:35pm to 4:55pm on Tuesday 13 July 2021 |
+| 02/08/2021      | Casual Contact       | Lane Cove       | Coles Lane Cove Rosenthal Avenue | 1pm to 2:15pm on Saturday 24 July 2021                       |
+| 02/08/2021      | Casual Contact       | Lane Cove       | Aldi Lane Cove  Shop 2/2 Rosenthal Avenue | 1:30pm to 2pm on Saturday 24 July 2021                       |
 | 29/07/2021      | Casual Contact       | Leichhardt      | Bakers Delight LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10am to 11am on Saturday 24 July 20219:45am to 10am on Monday 19 July 2021 |
 | 28/07/2021      | Casual Contact       | Leichhardt      | Blooms the Chemist LeichhardtMarketPlace Leichhardt, 122 Flood Street | 10:30am to 10:45am on Saturday 24 July 2021                  |
 | 27/07/2021      | Casual Contact       | Leichhardt      | Commonwealth Bank LeichhardtMarketPlace Leichhardt, 122 Flood Street | 9:45am to 10am on Monday 19 July 2021                        |
@@ -342,6 +345,7 @@
 | 28/07/2021      | Monitor for symptoms | Riverwood       | Riverwood Hot Bread341 Belmore Road | 12:55pm to 1pm on Friday 23 July 2021                        |
 | 30/07/2021      | Casual Contact       | Riverwood       | Riverwood Newsagency and Tobacconist335 Belmore Road | 6:25pm to 6:35pm on Friday 23 July 2021                      |
 | 24/07/2021      | Monitor for symptoms | Riverwood       | Woolworths RiverwoodRiverwood Plaza, 247 Belmore Road | 7pm to 7:15pm on Monday 19 July 20216:30pm to 6:40pm on Friday 16 July 20212:30pm to 2:45pm on Wednesday 14 July 20213:30pm to 4:10pm on Friday 9 July 2021 |
+| 02/08/2021      | Close Contact        | Rockdale        | Repco 395 West Botany Street | 10am to 1pm on Thursday 29 July 202110:15am to 5pm on Wednesday 28 July 2021 |
 | 29/07/2021      | Casual Contact       | Rooty Hill      | Fresh Food Market Rooty Hill56 Rooty Hill Road | 12:50pm to 1:10pm on Monday 26 July 2021                     |
 | 30/07/2021      | Casual Contact       | Rosebery        | IGA Rosebery741 Botany Road | 4:45pm to 4:55pm on Friday 23 July 2021                      |
 | 30/07/2021      | Casual Contact       | Rosebery        | Luxe Roseberry19 Rosebery Avenue | 7am to 9am on Sunday 25 July 20216:30am to 3pm on Saturday 24 July 2021 |
@@ -370,7 +374,9 @@
 | 28/07/2021      | Casual Contact       | Spring Farm     | Woolworths Spring FarmSpring Farm Shopping Centre, 254 Richardson Road | 12pm (noon) to 1pm on Monday 26 July 2021                    |
 | 31/07/2021      | Casual Contact       | St Marys        | Aldi St Marys410-422 Great Western Highway | 5:30pm to 5:45pm on Thursday 22 July 2021                    |
 | 01/08/2021      | Casual Contact       | St Marys        | Astley Pharmacy and MobilityAstley Centre, Mamre Road | 11am to 11:30am on Saturday 31 July 20211:30pm to 2pm on Thursday 29 July 20215:25pm to 5:35pm on Sunday 18 July 202111am to 11:15am on Wednesday 14 July 2021 |
+| 02/08/2021      | Casual Contact       | St Marys        | Easy Script Pharmacy 38 Queen Street | 12:30pm to 12:35pm on Saturday 31 July 2021                  |
 | 31/07/2021      | Casual Contact       | St Marys        | IGA St MarysGreat Western Highway and Mamre Road | 4pm to 4:15pm on Saturday 24 July 2021                       |
+| 02/08/2021      | Casual Contact       | St Marys        | Liquor Stax, St Mary's Hotel 27-41 Queen Street | 4:45pm to 5:30pm on Thursday 29 July 2021                    |
 | 28/07/2021      | Casual Contact       | St Marys        | Liquor Stax, St Mary’s Hotel27-41 Queen Street | 9:30pm to 9:45pm on Saturday 24 July 2021                    |
 | 30/07/2021      | Close Contact        | Strathfield     | Breadtop Shop StrathfieldShop 27/11 The Boulevarde | 2pm to 2:10pm on Tuesday 27 July 2021                        |
 | 30/07/2021      | Close Contact        | Strathfield     | Chemist Warehouse Strathfield Plaza11 The Boulevarde | 1:55pm to 2:10pm on Tuesday 27 July 2021                     |
@@ -390,6 +396,7 @@
 | 29/07/2021      | Close Contact        | Terrey Hills    | Flower Power Garden Centre Terrey Hills277 Mona Vale Road | 1:14pm to 2pm on Monday 19 July 2021                         |
 | 27/07/2021      | Casual Contact       | Terrey Hills    | Golf Paradise1A/1B Myoora Road | 12:50pm to 1:30pm on Saturday 24 July 2021                   |
 | 27/07/2021      | Casual Contact       | Terrey Hills    | Joseph-Henri’s Bakery4 Booralie Road | 11:50am to 12:15pm on Monday 19 July 2021                    |
+| 02/08/2021      | Close Contact        | The Oaks        | The Oaks Hotel 36 John Street | 12:20pm to 3pm on Friday 30 July 2021                        |
 | 28/07/2021      | Casual Contact       | The Ponds       | Costis Seafood and GrillThe Ponds Shopping Centre, 101 The Ponds Boulevarde | 4:05pm to 4:15pm on Saturday 24 July 2021                    |
 | 28/07/2021      | Casual Contact       | The Ponds       | Flash NewsShop 18, The Ponds Shopping Centre, 42 Riverbank Drive | 4:05pm to 4:15pm on Saturday 24 July 20213:35pm to 3:50pm on Thursday 22 July 2021 |
 | 28/07/2021      | Casual Contact       | The Ponds       | Priceline Pharmacy The PondsThe Ponds Shopping Centre, 24 The Ponds Boulevarde | 4:10pm to 4:20pm on Saturday 24 July 2021                    |
