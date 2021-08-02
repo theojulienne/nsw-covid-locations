@@ -1,6 +1,20 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 01/08/2021      | Casual Contact       | West Ryde       | Coles West RydeBetts Street and Chatham Road | 7:20am to 7:55am on Monday 19 July 2021                      |
+| 02/08/2021      | Casual Contact       | West Ryde       | Coles West RydeBetts Street and Chatham Road | 7:20am to 7:55am on Thursday 29 July 2021                    |
+| 02/08/2021      | Casual Contact       | Warriewood      | McDonalds WarriewoodWarriewood Road | 11:45am to 1pm on Wednesday 28 July 2021                     |
+| 02/08/2021      | Casual Contact       | Thornleigh      | Woolworths Thornleigh Marketplace2 The Comenarra Parkway | 11:20am to 12:15pm on Sunday 18 July 2021                    |
+| 02/08/2021      | Casual Contact       | Strathfield     | Woolworths Strathfield Plaza19/11 The Boulevarde | 1:55pm to 2:20pm on Tuesday 27 July 202111:50am to 12:15pm on Monday 26 July 20216:05pm to 6:30pm on Sunday 25 July 2021 |
+| 02/08/2021      | Casual Contact       | Ryde            | Woolworths Top RydeTop Ryde City Shopping Centre, 129 Blaxland Road | 12:40pm to 1:15pm on Sunday 25 July 2021                     |
+| 02/08/2021      | Casual Contact       | Ryde            | New Yen Yen Asian Supermarket RydeTop Ryde City Shopping Centre, 129 Blaxland Road | 12:35pm to 12:40pm on Sunday 25 July 2021                    |
+| 02/08/2021      | Casual Contact       | Ryde            | Akira Sushi Top RydeTop Ryde City Shopping Centre, 129 Blaxland Road | 12:35pm to 12:40pm on Sunday 25 July 2021                    |
+| 02/08/2021      | Casual Contact       | Kogarah         | Australia Post Office KogarahKogarah Town Centre, Shop 9/5-9 Railway Parade | 1:50pm to 2:10pm on Thursday 22 July 2021                    |
+| 02/08/2021      | Casual Contact       | Castle Hill     | Tortuga Ventures Castle Hill3 Hoyle Avenue | 7am to 6pm on Saturday 24 July 2021                          |
+| 02/08/2021      | Casual Contact       | Castle Hill     | McDonalds Castle Hill6-14 Castle Street | 6:15pm to 6:25pm on Wednesday 28 July 2021                   |
+| 02/08/2021      | Casual Contact       | Castle Hill     | Coles Castle HillCastle Towers Shopping Centre, Corner Castle Hill and Old Northern Roads | 6:05pm to 6:15pm on Wednesday 28 July 2021                   |
+| 02/08/2021      | Casual Contact       | Castle Hill     | ALDI Castle HillShop 200B Castle Towers Shopping Centre, Corner Castle Hill and Old Northern Roads | 5:45pm to 6:05pm on Wednesday 28 July 2021                   |
+| 02/08/2021      | Casual Contact       | Baulkham Hills  | Woolworths Baulkham Hills375-383 Windsor Road | 4:15pm to 4:35pm on Wednesday 28 July 2021                   |
+| 02/08/2021      | Casual Contact       | Ashfield        | First Choice Liquor Ashfield159 Liverpool Road | 3:15pm to 3:30pm on Wednesday 28 July 2021                   |
+| 02/08/2021      | Casual Contact       | Ashfield        | All Seasons Supermarket266 Liverpool Road | 6:05pm to 6:40pm on Wednesday 28 July 2021                   |
 | 01/08/2021      | Casual Contact       | Sydney          | Sunlite Mitre 1074 Pitt Street | 3:15pm to 5pm on Tuesday 27 July 2021                        |
 | 01/08/2021      | Casual Contact       | Strathfield     | Rainbow Cakes2 Churchill Avenue | 10am to 11am on Saturday 24 July 2021                        |
 | 01/08/2021      | Casual Contact       | Strathfield     | Omni Mart StrathfieldShop 7, Symond Arcade, 12 Churchill Avenue | 10:25am to 11am on Saturday 24 July 2021                     |
