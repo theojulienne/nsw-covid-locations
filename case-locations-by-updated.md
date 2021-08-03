@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 03/08/2021      | Casual Contact       | Yagoona         | Nepean Building and Infrastructure117-153 Rookwood Road | 6am to 3pm on Saturday 31 July 2021                          |
 | 03/08/2021      | Casual Contact       | Yagoona         | BWS Yagoona Drive 501 Hume Highway | 11:25am to 11:35am on Monday 26 July 2021                    |
-| 03/08/2021      | Casual Contact       | Woodcroft       | Barone Pharmacy 13/3 Woodcroft Drive | 10:50am to 10:55am on Tuesday 27 July 2021                   |
+| 03/08/2021      | Casual Contact       | Woodcroft       | Barone Pharmacy 13/3 Woodcroft Drive | 10:50am to 10:55am on Wednesday 21 July 2021                 |
 | 03/08/2021      | Casual Contact       | Wetherill Park  | McDonalds Wetherill Park Drive thru1179 The Horsley Drive | 1:40pm to 1:50pm on Monday 19 July 2021                      |
 | 03/08/2021      | Casual Contact       | Westmead        | Speedway Petrol Station  67-69 Hawkesbury Road | 9pm to 9:05pm on Monday 19 July 2021                         |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville 326/336 Great Western Highway | 11:35am to 12:05pm on Thursday 29 July 2021                  |
@@ -179,7 +179,7 @@
 | 03/08/2021      | Casual Contact       | Bankstown       | Daily Delicious Bakery Bankstown77A Bankstown City Plaza | 8:25am to 8:35pm on Monday 26 July 2021                      |
 | 03/08/2021      | Casual Contact       | Bankstown       | Chemist Warehouse Bankstown26-28 Bankstown City Plaza | 8:40am to 9:00pm on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | Bankstown       | Chau's Pharmacy Bankstown302 Chapel Road South | 3:30pm to 3:50pm on Tuesday 27 July 2021                     |
-| 03/08/2021      | Casual Contact       | Bankstown       | Baby Bunting Bankstown15A 9 49 Chapel Road | 2:00pm to 2:25pm on Monday 29 March 2021                     |
+| 03/08/2021      | Casual Contact       | Bankstown       | Baby Bunting Bankstown15A 9 49 Chapel Road | 2:00pm to 2:25pm on Thursday 29 July 2021                    |
 | 03/08/2021      | Casual Contact       | Bankstown       | BWS BankstownCentro Shopping Centre, Lady Cutler Avenue | 1:05pm to 1:20pm on Monday 26 July 2021                      |
 | 03/08/2021      | Casual Contact       | Bankstown       | Australia Post Bankstown20 Restwell Street | 3:45pm to 4:00pm on Thursday 22 July 2021                    |
 | 03/08/2021      | Casual Contact       | Bankstown       | Al Baraka Quality MeatBankstown Central, North Terrace | 8:35am to 8:55am on Wednesday 28 July 202112:30pm to 1:30pm on Monday 26 July 202112:01am to 10:15am on Monday 26 July 202112pm (noon) to 12:10pm on Friday 23 July 2021 |

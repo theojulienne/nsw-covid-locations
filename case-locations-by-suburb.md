@@ -15,7 +15,7 @@
 | 31/07/2021      | Casual Contact       | Bankstown       | Aussie Farm FreshBankstown Central, North Terrace | 8:40am to 8:50am on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | Bankstown       | Australia Post Bankstown20 Restwell Street | 3:45pm to 4:00pm on Thursday 22 July 2021                    |
 | 03/08/2021      | Casual Contact       | Bankstown       | BWS BankstownCentro Shopping Centre, Lady Cutler Avenue | 1:05pm to 1:20pm on Monday 26 July 2021                      |
-| 03/08/2021      | Casual Contact       | Bankstown       | Baby Bunting Bankstown15A 9 49 Chapel Road | 2:00pm to 2:25pm on Monday 29 March 2021                     |
+| 03/08/2021      | Casual Contact       | Bankstown       | Baby Bunting Bankstown15A 9 49 Chapel Road | 2:00pm to 2:25pm on Thursday 29 July 2021                    |
 | 29/07/2021      | Casual Contact       | Bankstown       | Bakers Delight BankstownShop 372, Bankstown Centre Stacey Street and North Terrace | 9:30am to 11am on Thursday 22 July 2021                      |
 | 28/07/2021      | Casual Contact       | Bankstown       | Bankstown Lebanese Fruit and Mixed Business212 South Terrace | 10am to 10:15am on Thursday 22 July 202110am to 10:15am on Thursday 22 July 2021 |
 | 26/07/2021      | Casual Contact       | Bankstown       | Blooms the Chemist BankstownShop 11-MM0-MM012 Bankstown Central, 1 North Terrace | 4:40pm to 4:45pm on Thursday 22 July 2021                    |
@@ -537,7 +537,7 @@
 | 24/07/2021      | Casual Contact       | Wetherill Park  | Woolworths Wetherill ParkStockland Wetherill Park, 561-583 Polding Street | 11:40am to 12:05pm on Thursday 22 July 20213:55pm to 4:05pm on Sunday 18 July 20212pm to 2:40pm on Saturday 17 July 20218:30am to 5:45pm on Monday 12 July 20214:15pm to 5:15pm on Saturday 10 July 20211pm to 2pm on Saturday 10 July 202112pm (noon) to 12:35pm on Saturday 10 July 20213pm to 3:15pm on Friday 9 July 2021 |
 | 27/07/2021      | Casual Contact       | Winston Hills   | TerryWhite Chemmart Winston HillsShop 20 Winston Hills Mall, Caroline Chisholm Drive | 10:15am to 10:30am on Sunday 25 July 2021                    |
 | 30/07/2021      | Casual Contact       | Wollongong      | Shell Coles Express Wollongong West434 Crown Street | 6pm to 6:05pm on Sunday 25 July 2021                         |
-| 03/08/2021      | Casual Contact       | Woodcroft       | Barone Pharmacy 13/3 Woodcroft Drive | 10:50am to 10:55am on Tuesday 27 July 2021                   |
+| 03/08/2021      | Casual Contact       | Woodcroft       | Barone Pharmacy 13/3 Woodcroft Drive | 10:50am to 10:55am on Wednesday 21 July 2021                 |
 | 03/08/2021      | Casual Contact       | Yagoona         | BWS Yagoona Drive 501 Hume Highway | 11:25am to 11:35am on Monday 26 July 2021                    |
 | 03/08/2021      | Casual Contact       | Yagoona         | Nepean Building and Infrastructure117-153 Rookwood Road | 6am to 3pm on Saturday 31 July 2021                          |
 | 27/07/2021      | Casual Contact       | Zetland         | Coles ZetlandEast Village Shopping Centre, O'Dea Avenue | 4pm to 4:30pm on Sunday 25 July 2021                         |
