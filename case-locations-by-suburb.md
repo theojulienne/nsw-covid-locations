@@ -67,7 +67,7 @@
 | 30/07/2021      | Close Contact        | Burwood         | Sydney UltraSound for Women BurwoodL2 Suite 203, 21-23 Burwood Road | 8:45am to 10:15am on Tuesday 27 July 2021                    |
 | 28/07/2021      | Casual Contact       | Burwood         | Woolworths BurwoodShop 6, Level 3, Westfield Shopping Centre, 100 Burwood Road | 9:15pm to 9:35pm on Saturday 24 July 20213:15pm to 4pm on Saturday 24 July 2021 |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Accounting DynamicsLevel 1, Office 4/90 John Street | 4:20pm to 7:30pm on Tuesday 27 July 2021                     |
-| 02/08/2021      | Close Contact        | Cabramatta      | Hai Ha Money Transfer56 John Street | 7am to 8:20am on Sunday 25 July 2021                         |
+| 03/08/2021      | Close Contact        | Cabramatta      | Hai Ha Money Transfer56 John Street | 9:07am to 9:08am on Sunday 25 July 20211:12pm to 1:14pm on Wednesday 28 July 2021 |
 | 28/07/2021      | Casual Contact       | Cabramatta      | Heng's Garage2 Mallee Street | 10:20am to 1pm on Friday 23 July 2021                        |
 | 29/07/2021      | Casual Contact       | Cabramatta      | Hungry Jacks Cabramatta401 Cabramatta Road | 9:25am to 9:40am on Thursday 22 July 20218:15pm to 8:45pm on Thursday 22 July 2021 |
 | 29/07/2021      | Casual Contact       | Cabramatta      | VT Building Materials41 Chadderton Street | 10:30am to 11am on Friday 23 July 20218:50am to 9:15am on Wednesday 21 July 2021 |

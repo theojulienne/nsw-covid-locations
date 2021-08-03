@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 03/08/2021      | Close Contact        | Cabramatta      | Hai Ha Money Transfer56 John Street | 9:07am to 9:08am on Sunday 25 July 20211:12pm to 1:14pm on Wednesday 28 July 2021 |
 | 02/08/2021      | Casual Contact       | West Ryde       | Coles West RydeBetts Street and Chatham Road | 7:20am to 7:55am on Thursday 29 July 2021                    |
 | 02/08/2021      | Close Contact        | The Oaks        | The Oaks Hotel36 John Street | 12:20pm to 3pm on Friday 30 July 2021                        |
 | 02/08/2021      | Casual Contact       | Strathfield     | Woolworths Strathfield Plaza19/11 The Boulevarde | 1:55pm to 2:20pm on Tuesday 27 July 202111:50am to 12:15pm on Monday 26 July 20216:05pm to 6:30pm on Sunday 25 July 2021 |
@@ -16,7 +17,6 @@
 | 02/08/2021      | Casual Contact       | Castle Hill     | McDonalds Castle Hill6-14 Castle Street | 6:15pm to 6:25pm on Wednesday 28 July 2021                   |
 | 02/08/2021      | Casual Contact       | Castle Hill     | Coles Castle HillCastle Towers Shopping Centre, Corner Castle Hill and Old Northern Roads | 6:05pm to 6:15pm on Wednesday 28 July 2021                   |
 | 02/08/2021      | Casual Contact       | Castle Hill     | Aldi Castle HillShop 200B Castle Towers Shopping Centre, Corner Castle Hill and Old Northern Roads | 5:45pm to 6:05pm on Wednesday 28 July 2021                   |
-| 02/08/2021      | Close Contact        | Cabramatta      | Hai Ha Money Transfer56 John Street | 7am to 8:20am on Sunday 25 July 2021                         |
 | 02/08/2021      | Casual Contact       | Baulkham Hills  | Woolworths Baulkham Hills375-383 Windsor Road | 4:15pm to 4:35pm on Wednesday 28 July 2021                   |
 | 02/08/2021      | Casual Contact       | Ashfield        | First Choice Liquor Ashfield159 Liverpool Road | 3:15pm to 3:30pm on Wednesday 28 July 2021                   |
 | 02/08/2021      | Casual Contact       | Ashfield        | All Seasons Supermarket266 Liverpool Road | 6:05pm to 6:40pm on Wednesday 28 July 2021                   |
