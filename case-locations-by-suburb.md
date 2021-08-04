@@ -62,7 +62,7 @@
 | 03/08/2021      | Casual Contact       | Bexley North    | Woolworths Metro Bexley North216 Sarsfield Circuit | 4pm to 4:10pm on Monday 26 July 20211:50pm to 1:55pm on Monday 26 July 20212:50pm to 3pm on Sunday 25 July 20218:55pm to 9:05pm on Saturday 24 July 20214:05pm to 4:15pm on Saturday 24 July 202110:05am to 10:10am on Saturday 24 July 2021 |
 | 03/08/2021      | Casual Contact       | Blacktown       | Broaster Chicken4/8b Sunnyholt Road | 10:30am to 11am on Friday 23 July 2021                       |
 | 28/07/2021      | Casual Contact       | Blacktown       | Chester and Jake's SuperSave Chemist112 Main Street | 10:35am to 10:50am on Saturday 24 July 2021                  |
-| 03/08/2021      | Casual Contact       | Blacktown       | Coles BlacktownWestpoint, 17 Patrick Street | 10:20pm to 10:45pm on Wednesday 21 July 2021                 |
+| 04/08/2021      | Casual Contact       | Blacktown       | Coles BlacktownWestpoint, 17 Patrick Street | 10:20am to 10:45am on Wednesday 21 July 2021                 |
 | 03/08/2021      | Casual Contact       | Blacktown       | Daily Bread Shop67 Main Street | 1:30pm to 1:35pm on Friday 23 July 2021                      |
 | 29/07/2021      | Casual Contact       | Blacktown       | Kabul Halal Butchery1/60 Main Street | 11:20am to 11:30am on Saturday 24 July 2021                  |
 | 28/07/2021      | Casual Contact       | Blacktown       | Kebab Express14/10 Sunnyholt Road | 8:40pm to 8:50pm on Friday 23 July 2021                      |
@@ -370,7 +370,7 @@
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Metro Petroleum Pendle Hill229 Wentworth Avenue | 7:45pm to 8pm on Friday 23 July 2021                         |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Fish Market121 Pendle Way | 12:15pm to 12:30pm on Tuesday 27 July 20211pm to 1:30pm on Sunday 25 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Halal Meat123 Pendle Way | 10:30am to 10:40am on Sunday 25 July 2021                    |
-| 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Meat Market142 Bungaree Road | 1pm to 1:30pm on Sunday 25 July 2021                         |
+| 04/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Meat Market142 Bungaree Road | 1pm to 1:30pm on Saturday 24 July 2021                       |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Mediadvice Pharmacy137 Pendle Way | 9:20am to 9:25am on Sunday 25 July 20219:30am to 9:40am on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Inn Hotel223 Wentworth Avenue | 1:40pm to 1:50pm on Wednesday 28 July 202111:20am to 11:55am on Sunday 25 July 20216:20pm to 6:30pm on Saturday 24 July 20212:20pm to 2:30pm on Saturday 24 July 20216:15pm to 6:25pm on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Rajah Supermarket115 Pendle Way | 1pm to 1:30pm on Sunday 25 July 2021                         |
