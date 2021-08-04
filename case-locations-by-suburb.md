@@ -471,7 +471,6 @@
 | 27/07/2021      | Casual Contact       | Warriewood      | Coles WarriewoodWarriewood Square, Jacksons Road | 10am to 11am on Friday 23 July 2021                          |
 | 27/07/2021      | Casual Contact       | Warriewood      | Eleven 11 Coffee2/270 Garden Street | 8am to 9am on Friday 23 July 2021                            |
 | 27/07/2021      | Casual Contact       | Warriewood      | IGA Warriewood270 Garden Street | 8am to 9am on Friday 23 July 20219am to 9:20am on Wednesday 21 July 202112:10pm to 12:40pm on Monday 19 July 2021 |
-| 04/08/2021      | Casual Contact       | Warriewood      | McDonalds Warriewood (drive through)Warriewood Road | 2pm to 2:30pm on Wednesday 28 July 2021                      |
 | 29/07/2021      | Casual Contact       | Warwick Farm    | Direct Freight Express Pty20-26 Scrivener Street | 5:40am to 3pm on Friday 23 July 20215:40am to 3pm on Thursday 22 July 2021 |
 | 03/08/2021      | Casual Contact       | Warwick Farm    | Dollar World Australia1/11 Sappho Road | 2:40pm to 2:50pm on Sunday 25 July 2021                      |
 | 31/07/2021      | Casual Contact       | Wattle Grove    | Coles Wattle GroveVillage Way | 10:25am to 11am on Friday 23 July 2021                       |
