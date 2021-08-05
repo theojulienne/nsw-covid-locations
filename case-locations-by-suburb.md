@@ -322,7 +322,7 @@
 | 26/07/2021      | Close Contact        | Merrylands      | Triple 333 Medical Centre333 Merrylands Road | 9am to 10:30am on Thursday 22 July 2021All day on Sunday 18 July 2021 |
 | 05/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 12:00am to 12:00am on Wednesday 28 July 2021                 |
 | 24/07/2021      | Casual Contact       | Miller          | Woolworths MillerMiller Community Shopping Centre, Cartwright Avenue | 10am to 10:45am on Thursday 22 July 2021                     |
-| 30/07/2021      | Casual Contact       | Milperra        | Amcal Pharmacy Milperra6 Bullecourt Avenue | 1:35am to 1:40am on Tuesday 27 July 202112pm (noon) to 12:15pm on Friday 16 July 2021 |
+| 30/07/2021      | Casual Contact       | Milperra        | Amcal Pharmacy Milperra6 Bullecourt Avenue | 1:35pm to 1:40pm on Tuesday 27 July 202112pm (noon) to 12:15pm on Friday 16 July 2021 |
 | 03/08/2021      | Casual Contact       | Minchinbury     | Bunnings MinchinburyCorner Great Western Highway and John Hines Avenue | 9:45am to 10:15am on Saturday 31 July 2021                   |
 | 27/07/2021      | Casual Contact       | Miranda         | The Grocery Store MirandaWestfield Miranda, 600 Kingsway | 10:30am to 10:50am on Thursday 22 July 2021                  |
 | 28/07/2021      | Casual Contact       | Mosman          | Grain Cafe MosmanKiosk 5, Bridgepoint Shopping Centre, 1-3 Brady Street | 9am to 9:10am on Friday 23 July 2021                         |
@@ -366,7 +366,6 @@
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Metro Petroleum Pendle Hill229 Wentworth Avenue | 7:45pm to 8pm on Friday 23 July 2021                         |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Fish Market121 Pendle Way | 12:15pm to 12:30pm on Tuesday 27 July 20211pm to 1:30pm on Sunday 25 July 202112:35pm to 12:45pm on Sunday 25 July 202112:00pm to 12:25pm on Sunday 25 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Halal Meat123 Pendle Way | 10:30am to 10:40am on Sunday 25 July 2021                    |
-| 04/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Meat Market142 Bungaree Road | 1pm to 1:30pm on Saturday 24 July 2021                       |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Mediadvice Pharmacy137 Pendle Way | 9:20am to 9:25am on Sunday 25 July 20219:30am to 9:40am on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Inn Hotel223 Wentworth Avenue | 1:40pm to 1:50pm on Wednesday 28 July 202111:20am to 11:55am on Sunday 25 July 20216:20pm to 6:30pm on Saturday 24 July 20212:20pm to 2:30pm on Saturday 24 July 20216:15pm to 6:25pm on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Rajah Supermarket115 Pendle Way | 1pm to 1:30pm on Sunday 25 July 2021                         |
@@ -439,7 +438,6 @@
 | 02/08/2021      | Casual Contact       | St Marys        | Easy Script Pharmacy38 Queen Street | 12:30pm to 12:35pm on Saturday 31 July 2021                  |
 | 31/07/2021      | Casual Contact       | St Marys        | IGA St MarysGreat Western Highway and Mamre Road | 4pm to 4:15pm on Saturday 24 July 2021                       |
 | 02/08/2021      | Casual Contact       | St Marys        | Liquor Stax, St Mary's Hotel27-41 Queen Street | 4:45pm to 5:30pm on Thursday 29 July 20214:45pm to 5:30pm on Thursday 29 July 20219:30pm to 9:45pm on Saturday 24 July 2021 |
-| 04/08/2021      | Casual Contact       | St Marys        | McDonald's St Marys SouthCorner of Mamre Road and Hall Street | 12pm to 1pm on Saturday 31 July 2021                         |
 | 03/08/2021      | Casual Contact       | St Marys        | Metro Petroleum St Marys516-525 Great Western Highway | 5:45pm to 6:10pm on Sunday 25 July 2021                      |
 | 03/08/2021      | Casual Contact       | St Marys        | The Kai Drop114 Queen Street | 10:40am to 10:50am on Sunday 25 July 2021                    |
 | 04/08/2021      | Casual Contact       | Strathfield     | Australia Post StrathfieldShop 1/19 Everton Road | 4:55pm to 5:05pm on Thursday 29 July 2021                    |
@@ -485,7 +483,7 @@
 | 05/08/2021      | Casual Contact       | Wentworthville  | Chemsave Wentworthville Shopping Plaza336 Great Western Highway | 2:50pm to 3:00pm on Sunday 1 August 2021                     |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Chemsave Wentworthville89-96 Station Street | 8:10pm to 8:20pm on Monday 26 July 2021                      |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Officeworks Wentworthville323 Great Western Highway | 1:50pm to 2:30pm on Wednesday 28 July 20213:10pm to 3:35pm on Friday 23 July 2021 |
-| 05/08/2021      | Casual Contact       | Wentworthville  | Sri Lakshmi Supermarket Wentworthville26-96 Station Street | 4:41pm to 4:46pm on 31/07/20201                              |
+| 05/08/2021      | Casual Contact       | Wentworthville  | Sri Lakshmi Supermarket Wentworthville26-96 Station Street | 4:41pm to 4:46pm on Saturday 31 July 2021                    |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermart64-70 Station Street | 7:55pm to 8:05pm on Wednesday 28 July 2021                   |
 | 05/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville Shopping Plaza336 Great Western Highway | 2:55pm to 3:10pm on Sunday 1 August 2021                     |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 11:35am to 12:05pm on Thursday 29 July 202112:30pm to 1:15pm on Sunday 25 July 2021 |
