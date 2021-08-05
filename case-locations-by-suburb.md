@@ -235,7 +235,6 @@
 | 03/08/2021      | Casual Contact       | Kingsgrove      | Woolworths Kingsgrove11 Mashman Avenue | 2:10pm to 2:20pm on Tuesday 27 July 2021                     |
 | 29/07/2021      | Casual Contact       | Kirrawee        | McDonalds Kirrawee559-563 Princes Highway | 6:20am to 6:30am on Monday 26 July 2021                      |
 | 02/08/2021      | Casual Contact       | Kogarah         | Australia Post KogarahKogarah Town Centre, Shop 9/5-9 Railway Parade | 1:50pm to 2:10pm on Thursday 22 July 2021                    |
-| 03/08/2021      | Casual Contact       | Kogarah         | Blake Street Kitchen252-258 Railway Parade | 1:20pm to 1:30pm on Friday 30 July 20217:25pm to 7:35pm on Wednesday 28 July 2021 |
 | 26/07/2021      | Casual Contact       | Kogarah         | Fardoulis Sweets and Nuts129 Princes Highway | 12pm (noon) to 5:45pm on Friday 23 July 202112pm (noon) to 5:45pm on Thursday 22 July 202112pm (noon) to 5:45pm on Wednesday 21 July 2021 |
 | 25/07/2021      | Casual Contact       | Lake Haven      | Australia Post Lake Haven121/43 Lake Haven Drive | 10:35am to 10:50am on Saturday 24 July 2021                  |
 | 25/07/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Drive | 10:15am to 10:25am on Saturday 24 July 2021                  |
@@ -417,7 +416,6 @@
 | 01/08/2021      | Casual Contact       | Strathfield     | Fresh Seafood and Meat Strathfield22/11 The Boulevarde | 10:45am to 11:15am on Saturday 24 July 2021                  |
 | 01/08/2021      | Casual Contact       | Strathfield     | GR Buy Asian SupermarketShop 8/11 The Boulevarde | 11am to 11:30am on Saturday 24 July 2021                     |
 | 01/08/2021      | Casual Contact       | Strathfield     | Omni Mart StrathfieldShop 7, Symond Arcade, 12 Churchill Avenue | 10:25am to 11am on Saturday 24 July 2021                     |
-| 04/08/2021      | Close Contact        | Strathfield     | Polytrade Recycling Centre40 Madeline Street | 8:45am to 2:20pm on Tuesday 27 July 20215:30am to 2:20pm on Monday 26 July 2021 |
 | 01/08/2021      | Casual Contact       | Strathfield     | Rainbow Cakes2 Churchill Avenue | 10am to 11am on Saturday 24 July 2021                        |
 | 02/08/2021      | Casual Contact       | Strathfield     | Woolworths Strathfield Plaza19/11 The Boulevarde | 1:55pm to 2:20pm on Tuesday 27 July 202111:50am to 12:15pm on Monday 26 July 20216:05pm to 6:30pm on Sunday 25 July 2021 |
 | 03/08/2021      | Casual Contact       | Sydney          | Chemist Warehouse Sydney1/249-251 Pitt Street | 6:20pm to 6:40pm on Friday 23 July 2021                      |
