@@ -548,11 +548,10 @@
 | 06/08/2021      | Casual Contact       | Wentworthville  | Aldi Wentworthville 31/339 Great Western Highway | 2pm to 3pm on Wednesday 28 July 2021                         |
 | 05/08/2021      | Casual Contact       | Wentworthville  | Chemsave Wentworthville Shopping Plaza336 Great Western Highway | 2:50pm to 3:00pm on Sunday 1 August 2021                     |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Chemsave Wentworthville89-96 Station Street | 8:10pm to 8:20pm on Monday 26 July 2021                      |
-| 07/08/2021      | Casual Contact       | Wentworthville  | Greenfarm Halal Meat NSWShop 13, 336/326 Great Western Highway | 12pm to 1pm on Monday 2 August 202112pm to 1pm on Monday 2 August 2021 |
+| 07/08/2021      | Casual Contact       | Wentworthville  | Greenfarm Halal Meat NSWShop 13, 336/326 Great Western Highway | 12pm to 1pm on Monday 2 August 2021                          |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Officeworks Wentworthville323 Great Western Highway | 1:50pm to 2:30pm on Wednesday 28 July 20213:10pm to 3:35pm on Friday 23 July 2021 |
 | 05/08/2021      | Casual Contact       | Wentworthville  | Sri Lakshmi Supermarket Wentworthville26-96 Station Street | 4:41pm to 4:46pm on Saturday 31 July 2021                    |
-| 07/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermarket Wentworthville64-70 Station Street | 12pm to 1pm on Monday 2 August 202112pm to 1pm on Monday 2 August 20219pm to 9:10pm on Friday 30 July 2021 |
-| 03/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermart64-70 Station Street | 7:55pm to 8:05pm on Wednesday 28 July 2021                   |
+| 07/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermarket Wentworthville64-70 Station Street | 12pm to 1pm on Monday 2 August 20219pm to 9:10pm on Friday 30 July 20217:55pm to 8:05pm on Wednesday 28 July 2021 |
 | 05/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville Shopping Plaza336 Great Western Highway | 2:55pm to 3:10pm on Sunday 1 August 2021                     |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 11:35am to 12:05pm on Thursday 29 July 202112:30pm to 1:15pm on Sunday 25 July 2021 |
 | 02/08/2021      | Casual Contact       | West Ryde       | Coles West RydeBetts Street and Chatham Road | 7:20am to 7:55am on Thursday 29 July 2021                    |

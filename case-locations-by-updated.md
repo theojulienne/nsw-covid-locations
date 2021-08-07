@@ -3,8 +3,8 @@
 | 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 20214:30pm to 4:45pm on Thursday 5 August 2021 |
 | 07/08/2021      | Casual Contact       | Williamtown     | Metro Petroleum Williamtown1 Lavis Lane | 11am to 12am on Friday 6 August 2021                         |
 | 07/08/2021      | Casual Contact       | Westmead        | Darcy Road PharmacyShop 3/29-33 Darcy Road | 10:50am to 11:10am on Sunday 1 August 202110:55am to 11:15am on Monday 2 August 2021 |
-| 07/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermarket Wentworthville64-70 Station Street | 12pm to 1pm on Monday 2 August 202112pm to 1pm on Monday 2 August 20219pm to 9:10pm on Friday 30 July 2021 |
-| 07/08/2021      | Casual Contact       | Wentworthville  | Greenfarm Halal Meat NSWShop 13, 336/326 Great Western Highway | 12pm to 1pm on Monday 2 August 202112pm to 1pm on Monday 2 August 2021 |
+| 07/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermarket Wentworthville64-70 Station Street | 12pm to 1pm on Monday 2 August 20219pm to 9:10pm on Friday 30 July 20217:55pm to 8:05pm on Wednesday 28 July 2021 |
+| 07/08/2021      | Casual Contact       | Wentworthville  | Greenfarm Halal Meat NSWShop 13, 336/326 Great Western Highway | 12pm to 1pm on Monday 2 August 2021                          |
 | 07/08/2021      | Casual Contact       | Toongabbie      | IGA ToongabbieClaudia Road | 10:05am to 10:15am on Monday 2 August 2021                   |
 | 07/08/2021      | Close Contact        | St Marys        | St Marys Medical Centre53 Phillip Street | 9:15am to 10am on Wednesday 4 August 2021                    |
 | 07/08/2021      | Casual Contact       | St Marys        | St Marys Liquor Stax27-41 Queen Street | 10:15am to 10:35am on Tuesday 3 August 2021                  |
@@ -281,7 +281,6 @@
 | 03/08/2021      | Casual Contact       | Yagoona         | Nepean Building and Infrastructure117-153 Rookwood Road | 6am to 3pm on Saturday 31 July 2021                          |
 | 03/08/2021      | Casual Contact       | Yagoona         | BWS Yagoona Drive501 Hume Highway | 11:25am to 11:35am on Monday 26 July 2021                    |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Woolworths Wentworthville326/336 Great Western Highway | 11:35am to 12:05pm on Thursday 29 July 202112:30pm to 1:15pm on Sunday 25 July 2021 |
-| 03/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermart64-70 Station Street | 7:55pm to 8:05pm on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Officeworks Wentworthville323 Great Western Highway | 1:50pm to 2:30pm on Wednesday 28 July 20213:10pm to 3:35pm on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Wentworthville  | Chemsave Wentworthville89-96 Station Street | 8:10pm to 8:20pm on Monday 26 July 2021                      |
 | 03/08/2021      | Casual Contact       | Warwick Farm    | Dollar World Australia1/11 Sappho Road | 2:40pm to 2:50pm on Sunday 25 July 2021                      |
