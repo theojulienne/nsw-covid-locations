@@ -372,7 +372,7 @@
 | 05/08/2021      | Casual Contact       | Merrylands      | Merrylands Stocklands Shopping Centre1 Pitt Street | 9:00am to 11:00am on Friday 30 July 20219:00am to 11:00am on Thursday 29 July 2021 |
 | 04/08/2021      | Casual Contact       | Merrylands      | Trim's Fresh MerrylandsStockland Merrylands, 102/102 McFarlane Street | 2:05pm to 2:20pm on Saturday 31 July 202110am to 12pm on Friday 23 July 2021 |
 | 05/08/2021      | Casual Contact       | Merrylands      | Trims Fresh MerrylandsStockland Merrylands, 102/102 McFarlane Street | 3:00pm to 3:20pm on Saturday 31 July 2021                    |
-| 05/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 12:00am to 12:00am on Wednesday 28 July 2021                 |
+| 07/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 1:20pm to 1:35pm on Wednesday 28 July 2021                   |
 | 30/07/2021      | Casual Contact       | Milperra        | Amcal Pharmacy Milperra6 Bullecourt Avenue | 1:35pm to 1:40pm on Tuesday 27 July 202112pm (noon) to 12:15pm on Friday 16 July 2021 |
 | 05/08/2021      | Casual Contact       | Minchinbury     | Bunnings MinchinburyCorner Great Western Highway and John Hines Avenue | 4:20pm to 4:30pm on Saturday 31 July 20219:45am to 10:15am on Saturday 31 July 2021 |
 | 06/08/2021      | Casual Contact       | Minchinbury     | Philliez Restaurant11 John Hines Avenue | 1:55pm to 2:50pm on Sunday 1 August 20215:10pm to 5:40pm on Sunday 1 August 2021 |

@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 07/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 1:20pm to 1:35pm on Wednesday 28 July 2021                   |
 | 06/08/2021      | Casual Contact       | Yagoona         | 7-Eleven Yagoona  Lot 1/519 Hume Highway | 6:45pm to 6:55pm on Tuesday 27 July 2021                     |
 | 06/08/2021      | Casual Contact       | Yagoona         | Al-Rabih Butchery453 Hume Highway | 12pm to 1pm on Friday 30 July 2021                           |
 | 06/08/2021      | Casual Contact       | Wetherill Park  | Woolworths Wetherill ParkStockland Wetherill Park, 561-583 Polding Street | 8:55am to 2:40pm on Saturday 24 July 20219:35am to 10am on Saturday 24 July 202111:40am to 12:05pm on Thursday 22 July 20213:55pm to 4:05pm on Sunday 18 July 20212pm to 2:40pm on Saturday 17 July 20218:30am to 5:45pm on Monday 12 July 202112pm (noon) to 12:35pm on Saturday 10 July 20211pm to 2pm on Saturday 10 July 20214:15pm to 5:15pm on Saturday 10 July 20213pm to 3:15pm on Friday 9 July 2021 |
@@ -139,7 +140,6 @@
 | 05/08/2021      | Casual Contact       | Narellan        | Big W Narellan326 Camden Valley Way | 2:00pm to 6:00pm on Thursday 29 July 2021                    |
 | 05/08/2021      | Casual Contact       | Mt Druitt       | Woolworths Mt Druitt49 Carlisle Ave and Luxford Road | 1:20pm to 1:54pm on Saturday 31 July 2021                    |
 | 05/08/2021      | Casual Contact       | Minchinbury     | Bunnings MinchinburyCorner Great Western Highway and John Hines Avenue | 4:20pm to 4:30pm on Saturday 31 July 20219:45am to 10:15am on Saturday 31 July 2021 |
-| 05/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 12:00am to 12:00am on Wednesday 28 July 2021                 |
 | 05/08/2021      | Casual Contact       | Merrylands      | Trims Fresh MerrylandsStockland Merrylands, 102/102 McFarlane Street | 3:00pm to 3:20pm on Saturday 31 July 2021                    |
 | 05/08/2021      | Casual Contact       | Merrylands      | Merrylands Stocklands Shopping Centre1 Pitt Street | 9:00am to 11:00am on Friday 30 July 20219:00am to 11:00am on Thursday 29 July 2021 |
 | 05/08/2021      | Casual Contact       | Merrylands      | Merrylands Family Medical Practice189 Merrylands Road | 12:00pm to 1:00pm on Sunday 1 August 20216:30pm to 5:30pm on Saturday 31 July 2021 |
