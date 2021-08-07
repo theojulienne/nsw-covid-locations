@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 07/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency Department Lookout Road | 8:42pm to 12:00am (midnight) on Thursday 5 August 202112am (midnight) to 1:50am on Friday 6 August 2021 |
 | 07/08/2021      | Casual Contact       | Merrylands      | Zags Seafood Store Stockland Merrylands Shopping Centre1 Pitt Street | 1:20pm to 1:35pm on Wednesday 28 July 2021                   |
 | 06/08/2021      | Casual Contact       | Yagoona         | 7-Eleven Yagoona  Lot 1/519 Hume Highway | 6:45pm to 6:55pm on Tuesday 27 July 2021                     |
 | 06/08/2021      | Casual Contact       | Yagoona         | Al-Rabih Butchery453 Hume Highway | 12pm to 1pm on Friday 30 July 2021                           |

@@ -385,6 +385,7 @@
 | 05/08/2021      | Casual Contact       | Mt Druitt       | Woolworths Mt Druitt49 Carlisle Ave and Luxford Road | 1:20pm to 1:54pm on Saturday 31 July 2021                    |
 | 05/08/2021      | Casual Contact       | Narellan        | Big W Narellan326 Camden Valley Way | 2:00pm to 6:00pm on Thursday 29 July 2021                    |
 | 28/07/2021      | Casual Contact       | Narellan        | Coles NarellanNarellan Town Centre, 326 Camden Valley Way | 5am to 10am on Sunday 25 July 20215am to 1:20pm on Saturday 24 July 20215am to 10:10am on Thursday 22 July 2021 |
+| 07/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency Department Lookout Road | 8:42pm to 12:00am (midnight) on Thursday 5 August 202112am (midnight) to 1:50am on Friday 6 August 2021 |
 | 27/07/2021      | Casual Contact       | North Curl Curl | Bacino Espresso Curl Curl2/142 Pitt Road | 9am to 10am on Saturday 24 July 2021                         |
 | 27/07/2021      | Casual Contact       | North Curl Curl | Curl Curl Bakery142 Pitt Road | 9:45am to 9:55am on Saturday 24 July 2021                    |
 | 27/07/2021      | Casual Contact       | North Curl Curl | North Curl Curl Newsagency142-146 Pitt Road | 9:55am to 10:05am on Saturday 24 July 2021                   |
