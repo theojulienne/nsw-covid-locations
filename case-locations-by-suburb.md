@@ -399,7 +399,7 @@
 | 06/08/2021      | Casual Contact       | Parramatta      | Country Growers ParramattaWestfield Parramatta, 159-175 Church Street | 11:20am to 11:25am on Sunday 1 August 20216pm to 6:15pm on Saturday 24 July 2021 |
 | 07/08/2021      | Casual Contact       | Parramatta      | Kanzo SushiShop 3/109-113 George Street | 1pm to 1:10pm on Sunday 1 August 2021                        |
 | 29/07/2021      | Casual Contact       | Parramatta      | Kmart ParramattaWestfield Parramatta, 159-175 Church Street | 1:45pm to 1:55pm on Sunday 25 July 2021                      |
-| 06/08/2021      | Casual Contact       | Parramatta      | Piccolo Me Parramatta 93 George Street | 7am to 9am on Tuesday 3 August 20217am to 1pm on Monday 2 August 2021 |
+| 06/08/2021      | Casual Contact       | Parramatta      | Piccolo Me 93 George Street93 George Street | 7am to 9am on Tuesday 3 August 20217am to 1pm on Monday 2 August 2021 |
 | 03/08/2021      | Casual Contact       | Parramatta      | Service NSW Parramatta27-31 Argyle Street | 1:40pm to 3:25pm on Tuesday 27 July 2021                     |
 | 03/08/2021      | Casual Contact       | Parramatta      | Stellamoon CafeShop10/180 George Street | 8:25am to 8:35am on Tuesday 27 July 2021                     |
 | 03/08/2021      | Casual Contact       | Parramatta      | The Edge Supplement Nutrition Parramatta73 Macquarie Street | 9:05am to 9:10am on Tuesday 27 July 2021                     |

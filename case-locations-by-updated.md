@@ -93,7 +93,7 @@
 | 06/08/2021      | Casual Contact       | Redfern         | R&R Providores 300 Chalmers Street | 7:30am to 3:30pm on Monday 2 August 2021                     |
 | 06/08/2021      | Casual Contact       | Punchbowl       | Gong Cha Punchbowl Shop 2A/709 Punchbowl Road | 1pm to 1:15pm on Saturday 24 July 2021                       |
 | 06/08/2021      | Casual Contact       | Prestons        | McDonalds Cartwright2 Lyn Parade | 3:30pm to 2:20am on Monday 2 August 20213:30pm to 2:30am on Sunday 1 August 20213:30pm to 12am on Saturday 31 July 2021All day on Friday 30 July 2021All day on Thursday 29 July 2021All day on Wednesday 28 July 2021 |
-| 06/08/2021      | Casual Contact       | Parramatta      | Piccolo Me Parramatta 93 George Street | 7am to 9am on Tuesday 3 August 20217am to 1pm on Monday 2 August 2021 |
+| 06/08/2021      | Casual Contact       | Parramatta      | Piccolo Me 93 George Street93 George Street | 7am to 9am on Tuesday 3 August 20217am to 1pm on Monday 2 August 2021 |
 | 06/08/2021      | Casual Contact       | Parramatta      | Country Growers ParramattaWestfield Parramatta, 159-175 Church Street | 11:20am to 11:25am on Sunday 1 August 20216pm to 6:15pm on Saturday 24 July 2021 |
 | 06/08/2021      | Casual Contact       | Padstow         | Gloria Jeans Padstow 61a Padstow Parade | 4:15pm to 4:20pm on Thursday 22 July 2021                    |
 | 06/08/2021      | Casual Contact       | Mt Druitt       | Mt Druitt Pharmacy7 Mt Druitt Road | 1:05pm to 1:45pm on Monday 2 August 2021                     |
