@@ -217,7 +217,7 @@
 | 06/08/2021      | Casual Contact       | Liverpool       | Kmart LiverpoolWestfield Liverpool, Macquarie Street | 7am to 3:30pm on Sunday 1 August 2021                        |
 | 06/08/2021      | Casual Contact       | Lakemba         | Five Star Coffee and Nuts85/87 Yerrick Road | 2:30pm to 3pm on Monday 2 August 2021                        |
 | 06/08/2021      | Casual Contact       | Lake Munmorah   | Lake Munmorah Shopping CentreKemira Road | 9:15am to 9:40am on Saturday 31 July 2021                    |
-| 06/08/2021      | Casual Contact       | Lake Haven      | Lake Haven CentreLake Haven Drive and Goobarabah Avenue | 9am to 9:30am on Tuesday 3 August 202110:15am to 10:50am on Saturday 24 July 2021 |
+| 06/08/2021      | Casual Contact       | Lake Haven      | Lake Haven Shopping CentreLake Haven Drive and Goobarabah Avenue | 9am to 9:30am on Tuesday 3 August 2021                       |
 | 06/08/2021      | Casual Contact       | Kotara          | Kmart KotaraShop 2054 Westfield Kotara, Corner Park Avenue and Northcott Drive | 3:40pm to 3:50pm on Wednesday 28 July 2021                   |
 | 06/08/2021      | Casual Contact       | Kotara          | JD Sports KotaraShop 2002/3 Westfield Kotara, Corner Park Avenue and Northcott Drive | 3:30pm to 3:40pm on Wednesday 28 July 2021                   |
 | 06/08/2021      | Casual Contact       | Jesmond         | Priceline Pharmacy JesmondJesmond Central, 20A/28 Blue Gum Road | 4pm to 4:20pm on Monday 2 August 2021                        |
