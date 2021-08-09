@@ -152,7 +152,7 @@
 | 30/07/2021      | Close Contact        | Casula          | Priceline Pharmacy CasulaShop 38 Casula Mall, Kurrajong Road | 8:30am to 8:50am on Tuesday 27 July 2021                     |
 | 03/08/2021      | Casual Contact       | Casula          | Woolworths Casula607 Hume Highway | 3:20pm to 3:35pm on Sunday 25 July 2021                      |
 | 06/08/2021      | Close Contact        | Charlestown     | Apple Store CharlestownCharlestown Square, 30 Pearson Street | 3:20pm to 3:50pm on Thursday 29 July 2021                    |
-| 06/08/2021      | Close Contact        | Charlestown     | Boost Juice CharlestownCharlestown Square, 30 Pearson Street | 3:50pm to 4pm on Thursday 29 July 2021                       |
+| 09/08/2021      | Close Contact        | Charlestown     | Boost Juice CharlestownCharlestown Square, 30 Pearson Street | 4:30pm to 4:45pm on Thursday 29 July 2021                    |
 | 07/08/2021      | Casual Contact       | Charlestown     | Cha Time CharlestownCharlestown Square, 30 Pearson Street | 12:40pm to 12:45pm on Monday 2 August 2021                   |
 | 06/08/2021      | Close Contact        | Charlestown     | Cotton On CharlestownCharlestown Square, 30 Pearson Street | 3:55pm to 4pm on Thursday 29 July 2021                       |
 | 06/08/2021      | Close Contact        | Charlestown     | Factorie CharlestownCharlestown Square, 30 Pearson Street | 5pm to 5:10pm on Thursday 29 July 2021                       |
@@ -180,8 +180,8 @@
 | 08/08/2021      | Casual Contact       | Chullora        | Coles Chullora355 Waterloo Road | 11am to 12pm (noon) on Monday 2 August 20213:50pm to 3:55pm on Saturday 31 July 2021 |
 | 08/08/2021      | Casual Contact       | Chullora        | Woolworths Chullora355 Waterloo Road | 11am to 12pm (noon) on Monday 2 August 202111am to 12pm (noon) on Monday 26 July 2021 |
 | 03/08/2021      | Casual Contact       | Clemton Park    | Coles Clemton ParkCharlotte and Harp Street | 4:05pm to 4:35pm on Wednesday 28 July 202111:15am to 11:40am on Tuesday 27 July 20216:10pm to 6:35pm on Monday 26 July 20211:30pm to 2pm on Sunday 25 July 2021 |
-| 07/08/2021      | Casual Contact       | Cloyton         | Dan Murphy's ColytonCorner Hewitt Street and Great Western Highway | 10:10am to 10:15am on Sunday 1 August 2021                   |
 | 08/08/2021      | Casual Contact       | Colebee         | Woolworths ColebeeGreenway Village, Richmond Road | 8pm to 8:15pm on Sunday 1 August 2021                        |
+| 07/08/2021      | Casual Contact       | Colyton         | Dan Murphy's ColytonCorner Hewitt Street and Great Western Highway | 10:10am to 10:15am on Sunday 1 August 2021                   |
 | 03/08/2021      | Casual Contact       | Condell Park    | Condell Park Produce44 Simmat Avenue | 10:05am to 10:10am on Saturday 31 July 2021                  |
 | 03/08/2021      | Casual Contact       | Condell Park    | Thien's Auto Repairs18/398 Marion Street | 11:20am to 11:25am on Tuesday 27 July 2021                   |
 | 03/08/2021      | Casual Contact       | Condell Park    | Watsup Brothers Kebabs149 Eldridge Road | 10:25am to 10:35am on Tuesday 27 July 2021                   |
@@ -319,6 +319,8 @@
 | 05/08/2021      | Casual Contact       | Macquarie Fields | The Fields Chicken ShopCnr Victoria Road and Brooks Street | 9am to 6pm on Thursday 29 July 2021                          |
 | 08/08/2021      | Casual Contact       | Macquarie Fields | The Reject Shop Macquarie FieldsGlenquarie Town Centre, Brooks Street | 10:55am to 11:10am on Monday 2 August 2021                   |
 | 06/08/2021      | Casual Contact       | Macquarie Fields | Woolworths Macquarie FieldsShop 50 Glenquarie Town Centre, Victoria Road and Brooks Street | 1pm to 1:15pm on Friday 30 July 202112pm (noon) to 12:30pm on Thursday 29 July 202111:50am to 12:10pm on Wednesday 28 July 20211pm to 1:15pm on Tuesday 27 July 20215:55pm to 6:10pm on Tuesday 27 July 202111:20am to 11:30am on Monday 26 July 202110:20am to 10:35am on Sunday 25 July 202112pm (noon) to 12:20pm on Saturday 24 July 2021 |
+| 08/08/2021      | Casual Contact       | Macquarie Park  | Soul Origin Macquarie ParkLevel 3, Food Court, Macquarie Centre, Corner Herring Road and Waterloo Road | All day on Thursday 5 August 20217:05am to 7:40am on Wednesday 4 August 2021 |
+| 08/08/2021      | Casual Contact       | Macquarie Park  | Woolworths Macquarie Park2227 Herring Road | All day on Thursday 5 August 20211pm to 1:35pm on Tuesday 3 August 2021 |
 | 08/08/2021      | Casual Contact       | Maroubra        | First Choice Liquor Maroubra48-58 Maroubra Road | 2:20pm to 2:50pm on Friday 30 July 2021                      |
 | 07/08/2021      | Casual Contact       | Marrickville    | Australia Post Marrickville MetroMarrickville Metro Shopping Centre, 34-36 Victoria Road | 12:30pm to 1pm on Wednesday 28 July 2021                     |
 | 08/08/2021      | Casual Contact       | Marrickville    | Chemist Warehouse MarrickvilleShop 3 258 Illawarra Road | 10:45am to 11:05am on Wednesday 4 August 2021                |
@@ -369,13 +371,11 @@
 | 03/08/2021      | Casual Contact       | North Rocks     | Priceline Pharmacy North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 3:30pm on Friday 30 July 2021                      |
 | 08/08/2021      | Casual Contact       | North Ryde      | PETstock Macquarie CentreMacquarie Centre, 434-435 Waterloo Road | 12:55pm to 1:25pm on Tuesday 3 August 2021                   |
 | 08/08/2021      | Casual Contact       | North Ryde      | Priceline Pharmacy North RydeU11, Macquarie Centre Corner Herring and Waterloo Roads | 3:50pm to 4:10pm on Monday 2 August 2021                     |
-| 08/08/2021      | Casual Contact       | North Ryde      | Soul Origin North RydeLevel 3, Food Court, Macquarie Centre, Corner Herring Road and Waterloo Road | All day on Thursday 5 August 20217:05am to 7:40am on Wednesday 4 August 2021 |
-| 08/08/2021      | Casual Contact       | North Ryde      | Woolworths North Ryde2227 Herring Road | All day on Thursday 5 August 20211pm to 1:35pm on Tuesday 3 August 2021 |
 | 08/08/2021      | Casual Contact       | North St Marys  | Speedway St Marys91 Glossop Street | 1:15pm to 1:30pm on Thursday 5 August 2021                   |
 | 07/08/2021      | Casual Contact       | North Strathfield | Woolworths North Strathfield145 Concord Road | 12:50pm to 1pm on Tuesday 3 August 2021                      |
 | 03/08/2021      | Casual Contact       | Northmead       | Bunnings Northmead1c Redbank Road | 3:45pm to 4pm on Wednesday 28 July 2021                      |
 | 05/08/2021      | Casual Contact       | Old Guildford   | Ampol Foodary Old Guildford636-644 Woodville Road corner Orchardleigh Street | 12:55pm to 1:05pm on Thursday 29 July 2021                   |
-| 05/08/2021      | Casual Contact       | Old Guilford    | Speedway Petroleum Villawood45 Fairfield Street | 6:15am to 6:30am on Friday 30 July 2021                      |
+| 05/08/2021      | Casual Contact       | Old Guildford   | Speedway Petroleum Villawood45 Fairfield Street | 6:15am to 6:30am on Friday 30 July 2021                      |
 | 03/08/2021      | Casual Contact       | Padstow         | Barry's Quality Meat Padstow19 Padstow Parade | 12pm (noon) to 12:25pm on Monday 26 July 2021                |
 | 03/08/2021      | Casual Contact       | Padstow         | Douglass Hanly Moir Pathology17 Howard Road | 10:30am to 10:45am on Tuesday 27 July 2021                   |
 | 08/08/2021      | Casual Contact       | Padstow         | Woolworths Metro Padstow5 Faraday Road | 2:55pm to 3:10pm on Thursday 5 August 2021                   |
@@ -520,13 +520,13 @@
 | 02/08/2021      | Close Contact        | The Oaks        | The Oaks Hotel36 John Street | 12:20pm to 3pm on Friday 30 July 2021                        |
 | 06/08/2021      | Close Contact        | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 5pm to 5:30pm on Wednesday 4 August 2021                     |
 | 06/08/2021      | Casual Contact       | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 4:30pm to 5pm on Wednesday 4 August 20215:30pm to 6pm on Wednesday 4 August 2021 |
+| 06/08/2021      | Casual Contact       | Toongabbie      | Commonwealth Bank ToongabbieCorner of Toongabbie Road and Aurelia Street | 12pm (noon) to 12:30pm on Friday 30 July 2021                |
 | 05/08/2021      | Casual Contact       | Toongabbie      | Country Fresh Fruits and VegetablesPortico Plaza, 17-19 Aurelia Street | 6pm to 6:10pm on Friday 30 July 2021                         |
 | 07/08/2021      | Casual Contact       | Toongabbie      | IGA ToongabbieClaudia Road | 10:05am to 10:15am on Monday 2 August 2021                   |
 | 03/08/2021      | Casual Contact       | Toongabbie      | Pharmacy Nutrition Warehouse56 Aurelia Street | 12:45pm to 1:30pm on Wednesday 28 July 2021                  |
 | 08/08/2021      | Casual Contact       | Toongabbie      | Toongabbie Butcher21A Aurelia Street | 2:55pm to 3:30pm on Tuesday 3 August 2021                    |
 | 05/08/2021      | Casual Contact       | Toongabbie      | Woolworths ToongabbiePortico Plaza, 17-19 Aurelia Street | 5:45pm to 6:05pm on Friday 30 July 2021                      |
 | 05/08/2021      | Casual Contact       | Toongabbie      | XDream Sri Lankan Restaurant14-16 Aurelia Street | 6:10pm to 6:30pm on Friday 30 July 2021                      |
-| 06/08/2021      | Casual Contact       | Toongabie       | Commonwealth Bank ToongabbieCorner of Toongabbie Road and Aurelia Street | 12pm (noon) to 12:30pm on Friday 30 July 2021                |
 | 03/08/2021      | Casual Contact       | Tregear         | IGA Tregear1/155-161 Aurora Drive | 3pm to 4pm on Friday 30 July 2021                            |
 | 03/08/2021      | Casual Contact       | Ultimo          | Guzman Y Gomez Broadway1 Bay Street, Broadway Shopping Centre | 8:05pm to 8:15pm on Thursday 29 July 2021                    |
 | 03/08/2021      | Casual Contact       | Villawood       | Bunnings VillawoodWoodville Road and Tangerine Street | 4:05pm to 4:35pm on Thursday 29 July 2021                    |
