@@ -8,11 +8,10 @@
 | 08/08/2021      | Casual Contact       | Wentworth Falls | BP Wentworth Falls340 Great Western Highway | 8:45am to 9am on Thursday 5 August 2021                      |
 | 08/08/2021      | Casual Contact       | Waterloo        | Coles Waterloo782 Bourke Street | 11:30am to 12pm (noon) on Sunday 1 August 2021               |
 | 08/08/2021      | Casual Contact       | Toongabbie      | Toongabbie Butcher21A Aurelia Street | 2:55pm to 3:30pm on Tuesday 3 August 2021                    |
-| 08/08/2021      | Close Contact        | The Junction    | Habesha Ethiopian Restaurant50 Glebe Road | All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
 | 08/08/2021      | Close Contact        | Tamworth        | Tudor Hotel327 Peel Street | 11am to 11:40am on Thursday 5 August 2021                    |
-| 08/08/2021      | Close Contact        | Tamworth        | Super Vape Store2/411 Peel Street | 10:55am to 11:05am on Thursday 5 August 2021                 |
+| 08/08/2021      | Casual Contact       | Tamworth        | Super Vape Store2/411 Peel Street | 10:55am to 11:05am on Thursday 5 August 2021                 |
 | 08/08/2021      | Close Contact        | Tamworth        | Inland Cafe407 Peel Street | 9:15am to 10am on Thursday 5 August 2021                     |
-| 08/08/2021      | Close Contact        | Tamworth        | Gloria Jeans Coffees TamworthCentrepoint Tamworth, 1/369 Peel Street | 9:15am to 9:20am on Thursday 5 August 2021                   |
+| 08/08/2021      | Casual Contact       | Tamworth        | Gloria Jeans Coffees TamworthCentrepoint Tamworth, 1/369 Peel Street | 9:15am to 9:20am on Thursday 5 August 2021                   |
 | 08/08/2021      | Casual Contact       | Sydney Olympic Park | Plain Folks1 Burroway Road | 2:10pm to 3:10pm on Saturday 31 July 2021                    |
 | 08/08/2021      | Casual Contact       | Sydney Olympic Park | Oporto Sydney Olympic ParkHerb Elliot Avenue | 12:10pm to 12:30pm on Thursday 5 August 2021                 |
 | 08/08/2021      | Casual Contact       | Surry Hills     | EG FuelCo Surry Hills475-489 Cleveland Street | 7:30am to 7:40am on Monday 2 August 2021                     |
@@ -27,7 +26,7 @@
 | 08/08/2021      | Close Contact        | Shortland       | Shortland Hotel and Bottlemart269 Sandgate Road | 9pm to 12am (midnight) on Thursday 29 July 20218:25pm to 8:55pm on Wednesday 28 July 2021 |
 | 08/08/2021      | Monitor for symptoms | San Remo        | San Remo ForeshoreBetween Brudenell Avenue and John Peter Howard Reserve | 2:30pm to 3:30pm on Thursday 29 July 2021                    |
 | 08/08/2021      | Casual Contact       | Rosebery        | Woolworths Metro Rosebery32 Confectioners Way | 7:35am to 7:40am on Sunday 25 July 2021                      |
-| 08/08/2021      | Casual Contact       | Raymond Terrace | Aldi Raymond Terrace22/32 Port Stephens Street | 4:05am to 4:30am on Thursday 5 August 2021                   |
+| 08/08/2021      | Casual Contact       | Raymond Terrace | Aldi Raymond Terrace22/32 Port Stephens Street | 4:05pm to 4:30pm on Thursday 5 August 2021                   |
 | 08/08/2021      | Casual Contact       | Quakers Hill    | BP Quakers Hill45 Hambledon Road | 12:50pm to 1pm on Wednesday 4 August 2021                    |
 | 08/08/2021      | Casual Contact       | Punchbowl       | Yum Yum Bakery1/709 Punchbowl Road | 8am to 8:10am on Monday 2 August 2021                        |
 | 08/08/2021      | Casual Contact       | Prospect        | Woolworths ProspectCorner of Flushcombe Road and Myrtle Street | 8:25pm to 8:35pm on Thursday 5 August 2021                   |
@@ -50,7 +49,7 @@
 | 08/08/2021      | Casual Contact       | Miranda         | Chemist Warehouse MirandaShop 1 Ground Floor/589 Kingsway | 7:40pm to 8pm on Thursday 5 August 20213:45pm to 4:10pm on Tuesday 3 August 2021 |
 | 08/08/2021      | Casual Contact       | Minchinbury     | RSEA SafetyTenancy 1.11 John Hines Avenue | 3:50pm to 4:05pm on Tuesday 3 August 2021                    |
 | 08/08/2021      | Casual Contact       | Merrylands      | Trims Fresh MerrylandsStockland Merrylands, 102/102 McFarlane Street | 11:50am to 12:15pm on Tuesday 3 August 20212:05pm to 2:20pm on Saturday 31 July 20213pm to 3:20pm on Saturday 31 July 202110am to 12pm (noon) on Friday 23 July 2021 |
-| 08/08/2021      | Casual Contact       | Meadowie        | Coles MeadowieCorner of Ferodale Road and Medowie Road | 6:15pm to 6:45pm on Wednesday 4 August 2021                  |
+| 08/08/2021      | Casual Contact       | Medowie         | Coles MedowieCorner of Ferodale Road and Medowie Road | 6:15pm to 6:45pm on Wednesday 4 August 2021                  |
 | 08/08/2021      | Casual Contact       | Mayfield        | Domino's Mayfield175 Maitland Road | 6:30pm to 6:35pm on Wednesday 4 August 2021                  |
 | 08/08/2021      | Casual Contact       | Marsden Park    | Starbucks Marsden Park861 Richmond Rd | 7:55pm to 8:10pm on Sunday 1 August 2021                     |
 | 08/08/2021      | Casual Contact       | Marrickville    | Marrickville Seafood Outlet277 Marrickville Road | 12:40pm to 1pm on Friday 6 August 2021                       |
@@ -72,7 +71,7 @@
 | 08/08/2021      | Casual Contact       | Kings Langley   | Woolworths Kings LangleyJames Cook Drive and Ravenhill Street | 6:45pm to 7pm on Thursday 29 July 2021                       |
 | 08/08/2021      | Casual Contact       | Kings Langley   | Coles Kings LangleyJames Cook Drive and Ravenhill Street | 12:30pm to 12:45pm on Thursday 29 July 2021                  |
 | 08/08/2021      | Casual Contact       | Kellyville      | Chicken V KellyvilleShop 3 29-31 Windsor Rd | 2pm to 2:15pm on Friday 30 July 2021                         |
-| 08/08/2021      | Close Contact        | Hillvue         | Ampol Roadhouse Tamworth502 Goonoo Goonoo Road | 12:25pm to 12:30pm on Thursday 5 August 2021                 |
+| 08/08/2021      | Casual Contact       | Hillvue         | Ampol Roadhouse Tamworth502 Goonoo Goonoo Road | 12:25pm to 12:30pm on Thursday 5 August 2021                 |
 | 08/08/2021      | Casual Contact       | Haberfield      | San Valentino Haberfield119 Ramsay Street | 11am to 11:45am on Monday 2 August 2021                      |
 | 08/08/2021      | Casual Contact       | Haberfield      | Paesanella Haberfield88 Ramsay Street | 11am to 11:45am on Monday 2 August 2021                      |
 | 08/08/2021      | Casual Contact       | Guildford       | Johns Max Value Pharmacy333 Guildford Road | 7:25pm to 7:35pm on Wednesday 4 August 2021                  |

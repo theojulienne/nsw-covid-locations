@@ -250,7 +250,7 @@
 | 03/08/2021      | Casual Contact       | Heckenberg      | Heckenberg Cellars Supermarket4-6 Khancoban Street | 2:05pm to 2:15pm on Sunday 25 July 2021                      |
 | 03/08/2021      | Casual Contact       | Heckenberg      | Hong Anh Grocery8 Khancoban Street | 1:25pm to 1:30pm on Monday 26 July 2021                      |
 | 03/08/2021      | Casual Contact       | Heckenberg      | Lola's Island Shop12 Khancoban Street | 1:15pm to 1:30pm on Monday 26 July 20212pm to 2:10pm on Sunday 25 July 2021 |
-| 08/08/2021      | Close Contact        | Hillvue         | Ampol Roadhouse Tamworth502 Goonoo Goonoo Road | 12:25pm to 12:30pm on Thursday 5 August 2021                 |
+| 08/08/2021      | Casual Contact       | Hillvue         | Ampol Roadhouse Tamworth502 Goonoo Goonoo Road | 12:25pm to 12:30pm on Thursday 5 August 2021                 |
 | 30/07/2021      | Casual Contact       | Hornsby         | Woolworths HornsbyWestfield Hornsby, 236 Pacific Highway | 2pm to 2:30pm on Sunday 25 July 2021                         |
 | 07/08/2021      | Casual Contact       | Hoxton Park     | Woolworths Hoxton ParkCorner Cowpasture and Kurajong Road | 10am to 10:25am on Wednesday 4 August 2021                   |
 | 06/08/2021      | Casual Contact       | Hurstville      | Chatime HurstvilleWestfield Hurstville, Park Road | 3:45pm to 4:10pm on Sunday 1 August 2021                     |
@@ -335,7 +335,7 @@
 | 07/08/2021      | Close Contact        | Maryland        | Ampol Maryland41 Minmi Road | 4:30am to 10am on Friday 6 August 2021                       |
 | 06/08/2021      | Casual Contact       | Mascot          | Sydney Airport - Domestic Terminal 2Keith Smith Avenue | 9:45am to 10:45am on Wednesday 4 August 20216am to 7am on Monday 2 August 2021 |
 | 08/08/2021      | Casual Contact       | Mayfield        | Domino's Mayfield175 Maitland Road | 6:30pm to 6:35pm on Wednesday 4 August 2021                  |
-| 08/08/2021      | Casual Contact       | Meadowie        | Coles MeadowieCorner of Ferodale Road and Medowie Road | 6:15pm to 6:45pm on Wednesday 4 August 2021                  |
+| 08/08/2021      | Casual Contact       | Medowie         | Coles MedowieCorner of Ferodale Road and Medowie Road | 6:15pm to 6:45pm on Wednesday 4 August 2021                  |
 | 06/08/2021      | Casual Contact       | Merrylands      | 7-Eleven Merrylands295-297 Merrylands Road | 12pm (noon) to 12:15pm on Wednesday 4 August 2021            |
 | 04/08/2021      | Casual Contact       | Merrylands      | Aldi MerrylandsStockland Merrylands, 191-201 Pitt Street | 1:55pm to 2:10pm on Saturday 31 July 2021                    |
 | 05/08/2021      | Casual Contact       | Merrylands      | Balkh Supermarket6/258-260 Merrylands Road | 5pm to 5:30pm on Saturday 31 July 2021                       |
@@ -432,7 +432,7 @@
 | 29/07/2021      | Casual Contact       | Pyrmont         | Goldsbrough Apartments - all residents243 Pyrmont Street | All day on Wednesday 28 July 2021All day on Tuesday 27 July 2021All day on Monday 26 July 2021All day on Sunday 25 July 2021All day on Saturday 24 July 2021All day on Friday 23 July 2021 |
 | 30/07/2021      | Close Contact        | Pyrmont         | Jumbo Thai60 Union Street | 12:55pm to 1:05pm on Monday 26 July 202112:25pm to 12:40pm on Saturday 24 July 2021 |
 | 08/08/2021      | Casual Contact       | Quakers Hill    | BP Quakers Hill45 Hambledon Road | 12:50pm to 1pm on Wednesday 4 August 2021                    |
-| 08/08/2021      | Casual Contact       | Raymond Terrace | Aldi Raymond Terrace22/32 Port Stephens Street | 4:05am to 4:30am on Thursday 5 August 2021                   |
+| 08/08/2021      | Casual Contact       | Raymond Terrace | Aldi Raymond Terrace22/32 Port Stephens Street | 4:05pm to 4:30pm on Thursday 5 August 2021                   |
 | 06/08/2021      | Casual Contact       | Redfern         | R&R Providores300 Chalmers Street | 7:30am to 3:30pm on Monday 2 August 2021                     |
 | 07/08/2021      | Casual Contact       | Revesby         | Baker's Delight RevesbyShop 9,19 Marco Avenue | 11:55am to 12pm (noon) on Monday 2 August 2021               |
 | 07/08/2021      | Casual Contact       | Revesby         | Patisserie New York RevesbyShop 3, 19 Marco Avenue | 11:50am to 11:55am on Monday 2 August 2021                   |
@@ -513,11 +513,10 @@
 | 06/08/2021      | Casual Contact       | Sydney Olympic Park | Conservatorium at Sydney Olympic Park9 Murray Rose Avenue | 12pm (noon) to 12:05pm on Friday 30 July 2021                |
 | 08/08/2021      | Casual Contact       | Sydney Olympic Park | Oporto Sydney Olympic ParkHerb Elliot Avenue | 12:10pm to 12:30pm on Thursday 5 August 2021                 |
 | 08/08/2021      | Casual Contact       | Sydney Olympic Park | Plain Folks1 Burroway Road | 2:10pm to 3:10pm on Saturday 31 July 2021                    |
-| 08/08/2021      | Close Contact        | Tamworth        | Gloria Jeans Coffees TamworthCentrepoint Tamworth, 1/369 Peel Street | 9:15am to 9:20am on Thursday 5 August 2021                   |
+| 08/08/2021      | Casual Contact       | Tamworth        | Gloria Jeans Coffees TamworthCentrepoint Tamworth, 1/369 Peel Street | 9:15am to 9:20am on Thursday 5 August 2021                   |
 | 08/08/2021      | Close Contact        | Tamworth        | Inland Cafe407 Peel Street | 9:15am to 10am on Thursday 5 August 2021                     |
-| 08/08/2021      | Close Contact        | Tamworth        | Super Vape Store2/411 Peel Street | 10:55am to 11:05am on Thursday 5 August 2021                 |
+| 08/08/2021      | Casual Contact       | Tamworth        | Super Vape Store2/411 Peel Street | 10:55am to 11:05am on Thursday 5 August 2021                 |
 | 08/08/2021      | Close Contact        | Tamworth        | Tudor Hotel327 Peel Street | 11am to 11:40am on Thursday 5 August 2021                    |
-| 08/08/2021      | Close Contact        | The Junction    | Habesha Ethiopian Restaurant50 Glebe Road | All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
 | 02/08/2021      | Close Contact        | The Oaks        | The Oaks Hotel36 John Street | 12:20pm to 3pm on Friday 30 July 2021                        |
 | 06/08/2021      | Close Contact        | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 5pm to 5:30pm on Wednesday 4 August 2021                     |
 | 06/08/2021      | Casual Contact       | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 4:30pm to 5pm on Wednesday 4 August 20215:30pm to 6pm on Wednesday 4 August 2021 |
