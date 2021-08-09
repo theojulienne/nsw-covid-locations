@@ -23,10 +23,8 @@
 | 09/08/2021      | Casual Contact       | Ropes Crossing   | Coles Ropes Crossing8 Central Place | 10:55pm to 12:00am on Thursday 5 August 202112:45pm to 3:55pm on Wednesday 4 August 20215:00pm to 5:05pm on Wednesday 4 August 2021 |
 | 09/08/2021      | Casual Contact       | Punchbowl       | Central Pharmacy Punchbowl695-697 Punchbowl Road | 5:20pm to 5:25pm on Monday 2 August 2021                     |
 | 09/08/2021      | Casual Contact       | Prestons        | Petbarn Prestons1/176 Hoxton Park Road | 2:55pm to 3:05pm on Sunday 1 August 2021                     |
-| 09/08/2021      | Close Contact        | Penrith         | Astina Apartments Penrith21-25 Woodriff Street | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021 |
 | 09/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Family Medical Centre129-131 Pendle Way  | 9:00am to 1:15pm on Friday 6 August 20219:20am to 2:10pm on Thursday 5 August 20219:00am to 1:10pm on Wednesday 4 August 20219:35am to 1:45pm on Tuesday 3 August 2021 |
 | 09/08/2021      | Casual Contact       | Parramatta      | Anjappar Chettinad Indian Restaurant106/108 Church Street | 10:55pm to 11:30pm on Friday 30 July 20218:30pm to 10:05pm on Thursday 29 July 20217:20pm to 10:15pm on Wednesday 28 July 2021 |
-| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton     | Wests - lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
 | 09/08/2021      | Casual Contact       | Mt Druitt       | Free choice tobacconist Mount Druitt3/15 Cleeve Close | 6:40pm to 12:00am on Wednesday 4 August 2021                 |
@@ -48,6 +46,7 @@
 | 09/08/2021      | Casual Contact       | Lidcombe        | Lidcombe Pharmacy16 John Street | 3:50pm to 4:00pm on Tuesday 3 August 202110:15am to 10:40am on Monday 2 August 2021 |
 | 09/08/2021      | Casual Contact       | Lidcombe        | Costco Lidcombe17-21 Parramatta Road | 2:15pm to 12:00am on Sunday 1 August 20215:15pm to 5:40pm on Tuesday 27 July 202111:30am to 12:55pm on Saturday 24 July 2021 |
 | 09/08/2021      | Casual Contact       | Len Waters Estate | Hoxton Park ManooshShop 4/501 Cowpasture Road | 1:15pm to 12:00am on Saturday 31 July 2021                   |
+| 09/08/2021      | Close Contact        | Kotara          | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 09/08/2021      | Casual Contact       | Kellyville      | Choice Pharmacy Kellyville8/46 Withers Road | 8:00am to 8:00pm on Friday 6 August 20218:00am to 3:00pm on Wednesday 4 August 20218:00am to 2:00pm on Tuesday 3 August 20218:00am to 6:00pm on Saturday 31 July 2021 |
 | 09/08/2021      | Casual Contact       | Jesmond         | Woolworths Jesmond24-26 Blue Gum Road | 8:30pm to 8:40pm on Saturday 7 August 20215:00pm to 5:15pm on Friday 6 August 20217:30pm to 7:45pm on Thursday 5 August 20213:05pm to 3:25pm on Tuesday 3 August 2021 |
 | 09/08/2021      | Casual Contact       | Guildford       | Excel Pharmacy Guildford2/178 Excelsior Road | 2:05pm to 2:10pm on Wednesday 4 August 2021                  |

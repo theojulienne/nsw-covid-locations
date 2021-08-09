@@ -258,6 +258,7 @@
 | 03/08/2021      | Casual Contact       | Kingsgrove      | Woolworths Kingsgrove11 Mashman Avenue | 2:10pm to 2:20pm on Tuesday 27 July 2021                     |
 | 29/07/2021      | Casual Contact       | Kirrawee        | McDonalds Kirrawee559-563 Princes Highway | 6:20am to 6:30am on Monday 26 July 20217:05pm to 12am (midnight) on Thursday 22 July 2021 |
 | 08/08/2021      | Casual Contact       | Kogarah         | Woolworths KogarahKogarah Town Centre, Railway Parade | 8:35pm to 9pm on Friday 6 August 20218:35pm to 9pm on Wednesday 28 July 2021 |
+| 09/08/2021      | Close Contact        | Kotara          | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 07/08/2021      | Close Contact        | Kotara          | Barber IndustriesWestfield Kotara, 75-89 Park Avenue | 1:30pm to 2pm on Thursday 5 August 2021                      |
 | 07/08/2021      | Casual Contact       | Kotara          | Cha Time KotaraLevel 3 Rooftop, Westfield Kotara, Corner Northcott Drive and Park Avenue | 2:05pm to 2:15pm on Thursday 5 August 2021                   |
 | 06/08/2021      | Casual Contact       | Kotara          | JD Sports KotaraShop 2002/3 Westfield Kotara, Corner Park Avenue and Northcott Drive | 3:30pm to 3:40pm on Wednesday 28 July 2021                   |
@@ -356,7 +357,6 @@
 | 08/08/2021      | Casual Contact       | Narrabeen       | Woolworths Narrabeen12 Lagoon Street | 7am to 3pm on Monday 2 August 20217am to 3pm on Sunday 1 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton     | Wests - lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
 | 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
-| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 03/08/2021      | Casual Contact       | North Rocks     | 7-Eleven North Rocks340 North Rocks Road | 1:25pm to 1:45pm on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | North Rocks     | Coles North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 4pm on Friday 30 July 2021                         |
 | 03/08/2021      | Casual Contact       | North Rocks     | Priceline Pharmacy North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 3:30pm on Friday 30 July 2021                      |
@@ -392,7 +392,6 @@
 | 04/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Meat Market142 Bungaree Road | 11:50am to 12:05pm on Wednesday 28 July 2021                 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Inn Hotel223 Wentworth Avenue | 1:40pm to 1:50pm on Wednesday 28 July 202111:20am to 11:55am on Sunday 25 July 20212:20pm to 2:30pm on Saturday 24 July 20216:20pm to 6:30pm on Saturday 24 July 20216:15pm to 6:25pm on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Woolworths Metro Pendle Hill109 Pendle Way | 12:05pm to 12:15pm on Monday 26 July 20212:50pm to 3pm on Monday 26 July 202110:35am to 10:40am on Sunday 25 July 20213pm to 3:25pm on Friday 23 July 2021 |
-| 09/08/2021      | Close Contact        | Penrith         | Astina Apartments Penrith21-25 Woodriff Street | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021 |
 | 08/08/2021      | Casual Contact       | Penrith         | Chemist Warehouse Penrith1/457-459 High Street | 1:15pm to 1:45pm on Saturday 31 July 2021                    |
 | 04/08/2021      | Casual Contact       | Penrith         | Coles Nepean VillageStation Street and Penrith Street | 12:25pm to 12:45pm on Friday 30 July 2021                    |
 | 08/08/2021      | Casual Contact       | Penrith         | Henri Marc Penrith2/438 High Street | 7:30am to 8am on Tuesday 3 August 2021                       |
