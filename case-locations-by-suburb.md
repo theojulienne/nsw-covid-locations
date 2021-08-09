@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 05/08/2021      | Casual Contact       | Alexandria      | Alexandria DepotCity of Sydney, 67c Bourke Road | 5:30am to 2pm on Friday 30 July 2021                         |
 | 06/08/2021      | Casual Contact       | Alexandria      | Australia Post Alexandria Business Hub10-12 Ralph Street | 6:20am to 12pm (noon) on Thursday 29 July 20216:35am to 12pm (noon) on Wednesday 28 July 20216:30am to 12pm (noon) on Tuesday 27 July 2021 |
-| 09/08/2021      | Casual Contact       | Ambervale       | Caltex (EG Fuelco) AmbervaleGilcrest Drive | 12pm to 12:20pm on Saturday 7 August 2021                    |
+| 09/08/2021      | Casual Contact       | Ambarvale       | Caltex (EG Fuelco) AmbarvaleGilcrest Drive | 12pm to 12:20pm on Saturday 7 August 2021                    |
 | 02/08/2021      | Close Contact        | Ashfield        | All Seasons Supermarket266 Liverpool Road | 6:05pm to 6:40pm on Wednesday 28 July 2021                   |
 | 08/08/2021      | Casual Contact       | Ashfield        | B for Butchery9 Hercules Street | 4pm to 5pm on Monday 2 August 2021                           |
 | 07/08/2021      | Casual Contact       | Ashfield        | Bunnings AshfieldCorner Parramatta Road and Frederick Street | 5pm to 6pm on Saturday 31 July 2021                          |
@@ -351,8 +351,8 @@
 | 08/08/2021      | Casual Contact       | Narellan        | Bunnings NarellanCorner Northern Road and Porrende Street | 10:50am to 11:10am on Tuesday 3 August 2021                  |
 | 08/08/2021      | Casual Contact       | Narrabeen       | Woolworths Narrabeen12 Lagoon Street | 7am to 3pm on Monday 2 August 20217am to 3pm on Sunday 1 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton     | Wests - lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
-| 07/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 1:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
-| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara924 Hunter Street | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
+| 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
+| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 03/08/2021      | Casual Contact       | North Rocks     | 7-Eleven North Rocks340 North Rocks Road | 1:25pm to 1:45pm on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | North Rocks     | Coles North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 4pm on Friday 30 July 2021                         |
 | 03/08/2021      | Casual Contact       | North Rocks     | Priceline Pharmacy North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 3:30pm on Friday 30 July 2021                      |
@@ -386,7 +386,6 @@
 | 04/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Meat Market142 Bungaree Road | 11:50am to 12:05pm on Wednesday 28 July 2021                 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Pendle Inn Hotel223 Wentworth Avenue | 1:40pm to 1:50pm on Wednesday 28 July 202111:20am to 11:55am on Sunday 25 July 20212:20pm to 2:30pm on Saturday 24 July 20216:20pm to 6:30pm on Saturday 24 July 20216:15pm to 6:25pm on Friday 23 July 2021 |
 | 03/08/2021      | Casual Contact       | Pendle Hill     | Woolworths Metro Pendle Hill109 Pendle Way | 12:05pm to 12:15pm on Monday 26 July 20212:50pm to 3pm on Monday 26 July 202110:35am to 10:40am on Sunday 25 July 20213pm to 3:25pm on Friday 23 July 2021 |
-| 09/08/2021      | Close Contact        | Penrith         | Astina Apartments Penrith21-25 Woodriff Street | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021 |
 | 08/08/2021      | Casual Contact       | Penrith         | Chemist Warehouse Penrith1/457-459 High Street | 1:15pm to 1:45pm on Saturday 31 July 2021                    |
 | 05/08/2021      | Casual Contact       | Penrith         | Cincotta Discount Chemist Penrith473 High Street | 1pm to 1:20pm on Thursday 29 July 2021                       |
 | 04/08/2021      | Casual Contact       | Penrith         | Coles Nepean VillageStation Street and Penrith Street | 12:25pm to 12:45pm on Friday 30 July 2021                    |
@@ -398,6 +397,7 @@
 | 07/08/2021      | Casual Contact       | Penrith         | Sportspower Penrith541 High Street | 12:50pm to 1:10pm on Saturday 31 July 2021                   |
 | 05/08/2021      | Casual Contact       | Penrith         | Sweet Surprises PenrithShop B, 458-470 High Street | 1:45pm to 2pm on Saturday 31 July 2021                       |
 | 07/08/2021      | Close Contact        | Penrith         | Terry White Chemmart Penrith447 High Street | 7:50am to 6pm on Wednesday 4 August 20217:50am to 6pm on Tuesday 3 August 2021 |
+| 09/08/2021      | Close Contact        | Penrith         | Astina Apartments Penrith21-25 Woodriff Street | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021 |
 | 28/07/2021      | Casual Contact       | Petersham       | Frangos Charcoal Chicken Petersham98 New Canterbury Road | 3:10pm to 3:25pm on Sunday 25 July 2021                      |
 | 08/08/2021      | Casual Contact       | Plumpton        | Plumpton MarketplacePlumpton Marketplace, Jersey Road | 3pm to 3:15pm on Friday 6 August 2021                        |
 | 08/08/2021      | Casual Contact       | Plumpton        | Woolworths Plumpton260 Jersey Road | 1:15pm to 1:45pm on Tuesday 3 August 20211:30pm to 1:50pm on Sunday 25 July 2021 |
@@ -493,6 +493,7 @@
 | 08/08/2021      | Close Contact        | Tamworth        | Inland Cafe407 Peel Street | 9:15am to 10am on Thursday 5 August 2021                     |
 | 08/08/2021      | Casual Contact       | Tamworth        | Super Vape Store2/411 Peel Street | 10:55am to 11:05am on Thursday 5 August 2021                 |
 | 09/08/2021      | Close Contact        | Tamworth        | Tudor Hotel327 Peel Street | 11am to 11:40am on Thursday 5 August 2021                    |
+| 09/08/2021      | Close Contact        | The Junction    | Habesha Ethiopian Restaurant50 Glebe Road | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
 | 02/08/2021      | Close Contact        | The Oaks        | The Oaks Hotel36 John Street | 12:20pm to 3pm on Friday 30 July 2021                        |
 | 06/08/2021      | Close Contact        | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 5pm to 5:30pm on Wednesday 4 August 20214:30pm to 5pm on Wednesday 4 August 20215:30pm to 6pm on Wednesday 4 August 2021 |
 | 06/08/2021      | Casual Contact       | Toongabbie      | Commonwealth Bank ToongabbieCorner of Toongabbie Road and Aurelia Street | 12pm (noon) to 12:30pm on Friday 30 July 2021                |

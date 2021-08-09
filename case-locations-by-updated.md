@@ -5,6 +5,7 @@
 | 09/08/2021      | Casual Contact       | Wentworthville  | McDonalds Wentworthville drive-through 441 Great Western Highway | 9:00am to 9:30am on Friday 6 August 2021                     |
 | 09/08/2021      | Close Contact        | Warners Bay     | Subway Warners Bay14/450 The Esplanade | 11am to 6pm on Thursday 5 August 202111:30am to 5pm on Wednesday 4 August 202111am to 5pm on Tuesday 3 August 2021 |
 | 09/08/2021      | Casual Contact       | Warners Bay     | Coles Warners Bay Warners Bay VIllage, 30/32 John Street | 10:45am to 10:47am on Tuesday 3 August 2021                  |
+| 09/08/2021      | Close Contact        | The Junction    | Habesha Ethiopian Restaurant50 Glebe Road | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
 | 09/08/2021      | Close Contact        | Tamworth        | Tudor Hotel327 Peel Street | 11am to 11:40am on Thursday 5 August 2021                    |
 | 09/08/2021      | Casual Contact       | Strathfield South | Oporto South Strathfield drive-through608 Liverpool Road | 11am to 2pm on Saturday 7 August 2021                        |
 | 09/08/2021      | Casual Contact       | St Marys        | Australia Post St Marys South85a Monfarville Street | 10:45am to 10:50am on Thursday 5 August 2021                 |
@@ -12,7 +13,8 @@
 | 09/08/2021      | Casual Contact       | Roselands       | Coles Roselands24 Roselands Avenue | 10am to 10:25am on Sunday 1 August 20216:10pm to 6:25pm on Sunday 1 August 20216:05pm to 6:20pm on Saturday 31 July 2021 |
 | 09/08/2021      | Casual Contact       | Punchbowl       | Central Pharmacy Punchbowl695-697 Punchbowl Road | 5:20pm to 5:25pm on Monday 2 August 2021                     |
 | 09/08/2021      | Close Contact        | Penrith         | Astina Apartments Penrith21-25 Woodriff Street | All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021 |
-| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara924 Hunter Street | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
+| 09/08/2021      | Close Contact        | Newcastle West  | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
+| 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton     | Wests - lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Superior Bakeshop and MoreCarlisle Avenue | 12:00pm to 1:00pm on Friday 6 August 2021                    |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Pacific Spice Centre4 Mount Druitt Road | 10am to 11am on Wednesday 28 July 2021                       |
@@ -46,7 +48,7 @@
 | 09/08/2021      | Casual Contact       | Bondi Junction  | Health Space Bondi Junction4B 332 Oxford Street | 12am to 12:00pm on Tuesday 3 August 2021                     |
 | 09/08/2021      | Casual Contact       | Blacktown       | Sportsmans Hotel Bottle Shop81 Kildare Road | 10:25pm to 10:50pm on Monday 2 August 2021                   |
 | 09/08/2021      | Casual Contact       | Blacktown       | Coles BlacktownWestpoint Blacktown, 17 Patrick Street | 1:10pm to 1:30pm on Monday 9 August 20211:45pm to 2:30pm on Thursday 29 July 2021 |
-| 09/08/2021      | Casual Contact       | Ambervale       | Caltex (EG Fuelco) AmbervaleGilcrest Drive | 12pm to 12:20pm on Saturday 7 August 2021                    |
+| 09/08/2021      | Casual Contact       | Ambarvale       | Caltex (EG Fuelco) AmbarvaleGilcrest Drive | 12pm to 12:20pm on Saturday 7 August 2021                    |
 | 08/08/2021      | Casual Contact       | Wetherill Park  | Aldi Wetherill Park1024 The Horsely Drive | 9:30am to 10:30am on Friday 6 August 2021                    |
 | 08/08/2021      | Casual Contact       | West Ryde       | Petbarn West Ryde927 Victoria Road | 1:30pm to 2pm on Tuesday 3 August 2021                       |
 | 08/08/2021      | Casual Contact       | Wentworthville  | Ambeys Big Apple39a Station Street | 10am to 11am on Thursday 5 August 2021                       |
@@ -177,7 +179,6 @@
 | 07/08/2021      | Close Contact        | Penrith         | JANS Family Health Practice447 High Street | 7:50am to 6pm on Wednesday 4 August 20217:50am to 6pm on Tuesday 3 August 2021 |
 | 07/08/2021      | Casual Contact       | Parramatta      | Kanzo SushiShop 3/109-113 George Street | 1pm to 1:10pm on Sunday 1 August 2021                        |
 | 07/08/2021      | Casual Contact       | North Strathfield | Woolworths North Strathfield145 Concord Road | 12:50pm to 1pm on Tuesday 3 August 2021                      |
-| 07/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 1:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
 | 07/08/2021      | Casual Contact       | Mount Druitt    | Fresh Farm Markets Mt DruittWestfield, 49 North Parade | 10am to 10:05am on Sunday 1 August 2021                      |
 | 07/08/2021      | Casual Contact       | Moorebank       | Caltex Woolworths MoorebankStockton Avenue | 8:20am to 8:30am on Wednesday 4 August 2021                  |
 | 07/08/2021      | Casual Contact       | Merrylands      | Zags Seafood StoreStockland Merrylands, 1 Pitt Street | 1:20pm to 1:35pm on Wednesday 28 July 2021                   |
