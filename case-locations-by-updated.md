@@ -73,7 +73,7 @@
 | 09/08/2021      | Casual Contact       | Edensor Park    | 7-Eleven Edensor Park615-621 Cowpasture Road | 4:40am to 4:45am on Thursday 29 July 2021                    |
 | 09/08/2021      | Casual Contact       | Eastern Creek   | McDonalds M4 East City Bound Eastern Creek drive-throughM4 Freeway | 7:25am to 7:35am on Friday 6 August 2021                     |
 | 09/08/2021      | Casual Contact       | Darlinghurst    | Hungry Jacks Darlinghurst49 Oxford Street | 2:25pm to 2:35pm on Sunday 1 August 2021                     |
-| 09/08/2021      | Casual Contact       | Cooks Hill      | Aldi Newcastle54 Union Street | 9:35am to 9:30am on Tuesday 3 August 2021                    |
+| 09/08/2021      | Casual Contact       | Cooks Hill      | Aldi Newcastle54 Union Street | 9:25am to 9:30am on Tuesday 3 August 2021                    |
 | 09/08/2021      | Casual Contact       | Chullora        | Woolworths Chullora355 Waterloo Road | 12:20pm to 1pm on Monday 2 August 202111am to 12pm (noon) on Monday 2 August 202111:30am to 12pm (noon) on Sunday 1 August 202111am to 12pm (noon) on Monday 26 July 2021 |
 | 09/08/2021      | Casual Contact       | Charlestown     | McDonalds CharlestownCharlestown Square, 30 Pearson Street | 5:05pm to 5:45pm on Thursday 29 July 2021                    |
 | 09/08/2021      | Close Contact        | Charlestown     | Boost Juice CharlestownCharlestown Square, 30 Pearson Street | 4:30pm to 4:45pm on Thursday 29 July 2021                    |

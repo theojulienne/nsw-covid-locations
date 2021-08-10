@@ -159,7 +159,7 @@
 | 03/08/2021      | Casual Contact       | Condell Park    | Thien's Auto Repairs18/398 Marion Street | 11:20am to 11:25am on Tuesday 27 July 2021                   |
 | 03/08/2021      | Casual Contact       | Condell Park    | Watsup Brothers Kebabs149 Eldridge Road | 10:25am to 10:35am on Tuesday 27 July 2021                   |
 | 03/08/2021      | Casual Contact       | Constitution Hill | Watch Your Fingers Patisserie5 Emma Crescent | 12:15pm to 12:30pm on Thursday 29 July 2021                  |
-| 09/08/2021      | Casual Contact       | Cooks Hill      | Aldi Newcastle54 Union Street | 9:35am to 9:30am on Tuesday 3 August 2021                    |
+| 09/08/2021      | Casual Contact       | Cooks Hill      | Aldi Newcastle54 Union Street | 9:25am to 9:30am on Tuesday 3 August 2021                    |
 | 08/08/2021      | Close Contact        | Cooks Hill      | Mr Rice133 Darby Street   | 3pm to 3:20pm on Wednesday 4 August 2021                     |
 | 06/08/2021      | Casual Contact       | Cranebrook      | Terry White Chemmart CranebrookShop 5/80-89 Borrowdale Way | 12:30pm to 12:45pm on Wednesday 4 August 2021                |
 | 06/08/2021      | Casual Contact       | Cranebrook      | The Chicken Run CranebrookShop 7 80-98 Borrowdale Way | 12:30pm to 1pm on Wednesday 4 August 2021                    |
