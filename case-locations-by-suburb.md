@@ -370,6 +370,7 @@
 | 03/08/2021      | Casual Contact       | Parramatta      | Commonwealth Bank Parramatta235 Church Street | 2:05pm to 3:15pm on Wednesday 28 July 20213:15pm to 3:30pm on Tuesday 27 July 2021 |
 | 06/08/2021      | Casual Contact       | Parramatta      | Country Growers ParramattaWestfield Parramatta, 159-175 Church Street | 11:20am to 11:25am on Sunday 1 August 20216pm to 6:15pm on Saturday 24 July 2021 |
 | 07/08/2021      | Casual Contact       | Parramatta      | Kanzo SushiShop 3/109-113 George Street | 1pm to 1:10pm on Sunday 1 August 2021                        |
+| 10/08/2021      | Casual Contact       | Parramatta      | Pharmacy Junction ParramattaShop 5020, Westfield Parramatta, 159-175 Church Street | 3:05pm to 3:20pm on Thursday 29 July 2021                    |
 | 08/08/2021      | Casual Contact       | Parramatta      | Piccolo Me 93 George Street93 George Street | 7am to 9am on Tuesday 3 August 20217am to 1pm on Monday 2 August 2021 |
 | 03/08/2021      | Casual Contact       | Parramatta      | Service NSW Parramatta27-31 Argyle Street | 1:40pm to 3:25pm on Tuesday 27 July 2021                     |
 | 03/08/2021      | Casual Contact       | Parramatta      | Stellamoon CafeShop10/180 George Street | 8:25am to 8:35am on Tuesday 27 July 2021                     |
@@ -394,7 +395,6 @@
 | 08/08/2021      | Casual Contact       | Plumpton        | Woolworths Plumpton260 Jersey Road | 1:15pm to 1:45pm on Tuesday 3 August 20211:30pm to 1:50pm on Sunday 25 July 2021 |
 | 05/08/2021      | Casual Contact       | Prairiewood     | Chemistworks Wetherill Park561 Polding Street | 5pm to 5:15pm on Saturday 31 July 2021                       |
 | 06/08/2021      | Casual Contact       | Prestons        | McDonalds Cartwright2 Lyn Parade | 3:30pm to 2:20am on Monday 2 August 20217pm to 12am (midnight) on Sunday 1 August 20213:30pm to 2:30am on Sunday 1 August 20213:30pm to 12am (midnight) on Saturday 31 July 2021All day on Friday 30 July 2021All day on Thursday 29 July 2021All day on Wednesday 28 July 2021 |
-| 10/08/2021      | Casual Contact       | Prestons        | Petbarn Hoxton Park1/176 Hoxton Park Road | 2:55pm to 3:05pm on Sunday 1 August 2021                     |
 | 09/08/2021      | Casual Contact       | Prestons        | Petbarn Prestons1/176 Hoxton Park Road | 2:55pm to 3:05pm on Sunday 1 August 2021                     |
 | 03/08/2021      | Casual Contact       | Prestons        | Woolworths Prestons1975-1985 Camden Valley Way | 7:30am to 7:55am on Wednesday 28 July 2021                   |
 | 08/08/2021      | Casual Contact       | Prospect        | Woolworths ProspectCorner of Flushcombe Road and Myrtle Street | 8:25pm to 8:35pm on Thursday 5 August 2021                   |
@@ -526,7 +526,7 @@
 | 08/08/2021      | Casual Contact       | Wetherill Park  | Aldi Wetherill Park1024 The Horsely Drive | 9:30am to 10:30am on Friday 6 August 2021                    |
 | 09/08/2021      | Casual Contact       | Wetherill Park  | Service NSW Wetherill ParkGreenway Plaza, 72 Elizabeth Street | 2:30pm to 3:15pm on Thursday 29 July 2021                    |
 | 07/08/2021      | Casual Contact       | Williamtown     | Metro Petroleum Williamtown1 Lavis Lane | 11am to 11:20am on Friday 6 August 2021                      |
-| 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 20214:30pm to 4:45pm on Thursday 5 August 2021 |
+| 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 2021                   |
 | 05/08/2021      | Casual Contact       | Yagoona         | 5 Stars Nuts Supermarket526 Hume Highway | 5:05pm to 5:30pm on Friday 30 July 2021                      |
 | 06/08/2021      | Casual Contact       | Yagoona         | 7-Eleven YagoonaLot 1/519 Hume Highway | 6:45pm to 6:55pm on Tuesday 27 July 2021                     |
 | 06/08/2021      | Casual Contact       | Yagoona         | Al-Rabih Butchery453 Hume Highway | 12pm (noon) to 1pm on Friday 30 July 2021                    |

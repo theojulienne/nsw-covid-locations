@@ -1,7 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 10/08/2021      | Casual Contact       | Seven Hill      | 7-Eleven Seven Hill151 Prospect Highway and Station Road | 6:30am to 12am (midnight) on Friday 30 July 2021             |
-| 10/08/2021      | Casual Contact       | Prestons        | Petbarn Hoxton Park1/176 Hoxton Park Road | 2:55pm to 3:05pm on Sunday 1 August 2021                     |
+| 10/08/2021      | Casual Contact       | Parramatta      | Pharmacy Junction ParramattaShop 5020, Westfield Parramatta, 159-175 Church Street | 3:05pm to 3:20pm on Thursday 29 July 2021                    |
 | 10/08/2021      | Casual Contact       | Lalor Park      | CTC Tobacconist Lalor ParkShop/16 Freeman Street | 12am to 12am on Friday 30 July 2021                          |
 | 10/08/2021      | Casual Contact       | Lalor Park      | Australia Post Lalor Park88 Northcott Road | 4:50pm to 5:05pm on Friday 30 July 2021                      |
 | 10/08/2021      | Casual Contact       | Lakemba         | Al Fayhaa Bakery137A Haldon Street | 4am to 12pm (noon) on Saturday 31 July 202111am to 12:45pm on Saturday 31 July 2021 |
@@ -189,7 +189,7 @@
 | 08/08/2021      | Casual Contact       | Auburn          | Woolworths AuburnAuburn Central, Corner Queen and Park Road | 3pm to 5:30pm on Friday 30 July 202110am to 10:35am on Tuesday 27 July 202110:45am to 11:05am on Monday 26 July 20213:50pm to 4:15pm on Sunday 25 July 202111:10am to 11:30am on Saturday 24 July 20211:50pm to 2pm on Thursday 22 July 202110:40am to 11:05am on Saturday 17 July 2021 |
 | 08/08/2021      | Casual Contact       | Ashfield        | Fresh Fruit and Veg22 Hercules Street | 4:35pm to 7pm on Monday 2 August 2021                        |
 | 08/08/2021      | Casual Contact       | Ashfield        | B for Butchery9 Hercules Street | 4pm to 5pm on Monday 2 August 2021                           |
-| 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 20214:30pm to 4:45pm on Thursday 5 August 2021 |
+| 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 2021                   |
 | 07/08/2021      | Casual Contact       | Williamtown     | Metro Petroleum Williamtown1 Lavis Lane | 11am to 11:20am on Friday 6 August 2021                      |
 | 07/08/2021      | Casual Contact       | Westmead        | Darcy Road PharmacyShop 3/29-33 Darcy Road | 10:50am to 11:15am on Monday 2 August 202110:50am to 11:10am on Sunday 1 August 2021 |
 | 07/08/2021      | Casual Contact       | Wentworthville  | Udaya Supermarket Wentworthville64-70 Station Street | 12pm (noon) to 1pm on Monday 2 August 20219pm to 9:10pm on Friday 30 July 20217:55pm to 8:05pm on Wednesday 28 July 2021 |
