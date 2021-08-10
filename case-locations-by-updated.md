@@ -2,6 +2,9 @@
 | --- | --- | --- | --- | --- |
 | 10/08/2021      | Casual Contact       | Seven Hill      | 7-Eleven Seven Hill151 Prospect Highway and Station Road | 6:30am to 12am (midnight) on Friday 30 July 2021             |
 | 10/08/2021      | Casual Contact       | Parramatta      | Pharmacy Junction ParramattaShop 5020, Westfield Parramatta, 159-175 Church Street | 3:05pm to 3:20pm on Thursday 29 July 2021                    |
+| 10/08/2021      | Casual Contact       | Newcastle West  | The Cambridge Hotel789 Hunter Street | 12am to 3am on Saturday 31 July 20218:45pm to 12am on Friday 30 July 2021 |
+| 10/08/2021      | Casual Contact       | Newcastle       | The Great Northern Hotel89 Scott Street | 7pm to 8pm on Friday 30 July 2021                            |
+| 10/08/2021      | Casual Contact       | Newcastle       | Babylon Newcastle145 King Street | 8:05pm to 8:30pm on Friday 30 July 2021                      |
 | 10/08/2021      | Casual Contact       | Lalor Park      | CTC Tobacconist Lalor ParkShop/16 Freeman Street | 12am to 12am on Friday 30 July 2021                          |
 | 10/08/2021      | Casual Contact       | Lalor Park      | Australia Post Lalor Park88 Northcott Road | 4:50pm to 5:05pm on Friday 30 July 2021                      |
 | 10/08/2021      | Casual Contact       | Lakemba         | Al Fayhaa Bakery137A Haldon Street | 4am to 12pm (noon) on Saturday 31 July 202111am to 12:45pm on Saturday 31 July 2021 |

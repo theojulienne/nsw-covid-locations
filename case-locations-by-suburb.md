@@ -350,6 +350,9 @@
 | 08/08/2021      | Casual Contact       | Narrabeen       | Woolworths Narrabeen12 Lagoon Street | 7am to 3pm on Monday 2 August 20217am to 3pm on Sunday 1 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton     | Wests New Lambton - Lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
 | 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
+| 10/08/2021      | Casual Contact       | Newcastle       | Babylon Newcastle145 King Street | 8:05pm to 8:30pm on Friday 30 July 2021                      |
+| 10/08/2021      | Casual Contact       | Newcastle       | The Great Northern Hotel89 Scott Street | 7pm to 8pm on Friday 30 July 2021                            |
+| 10/08/2021      | Casual Contact       | Newcastle West  | The Cambridge Hotel789 Hunter Street | 12am to 3am on Saturday 31 July 20218:45pm to 12am on Friday 30 July 2021 |
 | 03/08/2021      | Casual Contact       | North Rocks     | 7-Eleven North Rocks340 North Rocks Road | 1:25pm to 1:45pm on Wednesday 28 July 2021                   |
 | 03/08/2021      | Casual Contact       | North Rocks     | Coles North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 4pm on Friday 30 July 2021                         |
 | 03/08/2021      | Casual Contact       | North Rocks     | Priceline Pharmacy North RocksNorth Rocks Shopping Centre, 328-336 North Rocks Road | 3:15pm to 3:30pm on Friday 30 July 2021                      |
