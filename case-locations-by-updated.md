@@ -1,14 +1,30 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 11/08/2021      | Casual Contact       | Tuggerah        | Bunnings TuggerahCorner Bryant Drive and Wyong Road | 4:20pm to 4:40pm on Tuesday 3 August 202111:45am to 11:50am on Sunday 1 August 2021 |
+| 11/08/2021      | Casual Contact       | Warilla         | Woolworths WarillaWarilla Grove Shopping Centre, 47 Shellharbour Road | 10am to 11:20am on Saturday 7 August 2021                    |
+| 11/08/2021      | Casual Contact       | Warilla         | Warilla Grove Shopping Centre47 Shellharbour Road | 9:25am to 11:20am on Saturday 7 August 2021                  |
+| 11/08/2021      | Casual Contact       | Warilla         | Mitchell's Market WarillaWarilla Grove Shopping Centre, 47 Shellharbour Road | 9:35am to 10:05am on Saturday 7 August 2021                  |
+| 11/08/2021      | Casual Contact       | Warilla         | Cafe Els WarillaWarilla Grove Shopping Centre, 47 Shellharbour Road | 9:25am to 9:35am on Saturday 7 August 2021                   |
+| 11/08/2021      | Casual Contact       | Warilla         | Bakers Delight Warilla Warilla Grove Shopping Centre, 47 Shellharbour Road | 9:30am to 9:35am on Saturday 7 August 2021                   |
+| 11/08/2021      | Casual Contact       | Tuggerah        | Bunnings TuggerahCorner Bryant Drive and Wyong Road | 4:20pm to 4:40pm on Tuesday 3 August 202111:35am to 11:50am on Sunday 1 August 2021 |
+| 11/08/2021      | Casual Contact       | The Junction    | The Grumpy Baker53 Glebe Road | 12:25pm to 12:30pm on Tuesday 3 August 2021                  |
+| 11/08/2021      | Casual Contact       | Shellharbour City Centre | Coles ShellharbourStockland Shellharbour, 1 Holm Place | 12:10pm to 12:20pm on Saturday 7 August 202111:45am to 12:15pm on Saturday 7 August 2021 |
+| 11/08/2021      | Close Contact        | Newrybar        | Harvest NewrybarVillage 18, 22 Old Pacific Highway | 9:45am to 10:20am on Saturday 7 August 20217:30am to 7:45am on Sunday 1 August 2021 |
 | 11/08/2021      | Close Contact        | Dubbo           | Tim Koerstz Pharmacy98 Tamworth Street | 1pm to 1:15pm on Monday 9 August 2021                        |
-| 11/08/2021      | Close Contact        | Dubbo           | The Harvest Cafe64 Palmer Street | 9:52am to 10:10am on Saturday 7 August 2021                  |
-| 11/08/2021      | Close Contact        | Dubbo           | Don Crosby Veterinary Surgery327 Darling Street  | 8:57am to 9:45am on Saturday 7 August 2021                   |
-| 11/08/2021      | Close Contact        | Dubbo           | Covid Safe Clinic77 Myall Street | 7:45am to 8:32am on Tuesday 10 August 2021                   |
-| 11/08/2021      | Close Contact        | Dubbo           | Ashcrofts IGA95 Tamworth Street | 12:35pm to 12:52pm on Sunday 8 August 2021                   |
+| 11/08/2021      | Close Contact        | Dubbo           | The Harvest Cafe64 Palmer Street | 9:50am to 10:10am on Saturday 7 August 2021                  |
+| 11/08/2021      | Close Contact        | Dubbo           | Don Crosby Veterinary Surgery327 Darling Street  | 8:55am to 9:45am on Saturday 7 August 2021                   |
+| 11/08/2021      | Close Contact        | Dubbo           | Covid Safe Clinic77 Myall Street | 7:45am to 8:35am on Tuesday 10 August 2021                   |
+| 11/08/2021      | Close Contact        | Dubbo           | Ashcrofts IGA95 Tamworth Street | 12:35pm to 12:55pm on Sunday 8 August 2021                   |
 | 11/08/2021      | Casual Contact       | Chittaway Point | Coles Chittaway PointCorner Chittaway and Wyong Road | 3pm to 3:35pm on Sunday 8 August 20214:40pm to 5pm on Tuesday 3 August 2021 |
-| 11/08/2021      | Casual Contact       | Chittaway Bay   | Caltex Chittaway100 Chittaway Road | 5:30am to 5:45am on Tuesday 10 August 20215:30am to 5:45am on Monday 9 August 20215:30am to 5:45am on Friday 6 August 20215:30am to 5:45am on Thursday 5 August 20215:30am to 5:45am on Tuesday 3 August 2021 |
+| 11/08/2021      | Casual Contact       | Cardiff         | Woolworths Cardiff Cardiff Shopping Centre, Macquarie Road | 1:15pm to 2pm on Saturday 7 August 20217am to 10:45am on Tuesday 3 August 20211pm to 6pm on Monday 2 August 2021 |
+| 11/08/2021      | Close Contact        | Byron Bay       | Westpac ATM Byron Bay73 Jonson Street | 1:30pm to 1:45pm on Tuesday 3 August 2021                    |
+| 11/08/2021      | Close Contact        | Byron Bay       | Success Thai Food3/31 Lawson Street | 4:45pm to 5:15pm on Friday 6 August 20211:15pm to 1:45pm on Tuesday 3 August 2021 |
+| 11/08/2021      | Close Contact        | Byron Bay       | Byron Massage Clinic6/4 Bay Lane | 10am to 11am on Monday 2 August 2021                         |
+| 11/08/2021      | Close Contact        | Byron Bay       | Byron Bay Massage Clinic6/4 Bay Lane | 10:45am to 12pm on Wednesday 4 August 2021                   |
+| 11/08/2021      | Close Contact        | Byron Bay       | Byron Bay General Store26 Bangalow Road | 7:45am to 8:15am on Wednesday 4 August 2021                  |
+| 11/08/2021      | Casual Contact       | Blackbutt       | Dan Murphy's ShellharbourStocklands Retail Park, New Lake Entrance Road | 12:25pm to 12:45pm on Saturday 7 August 2021                 |
 | 11/08/2021      | Casual Contact       | Bateau Bay      | Woolworths Bateau BayBateau Bay Square, 12 Bay Village Road | 1:40pm to 2pm on Saturday 7 August 2021                      |
+| 11/08/2021      | Close Contact        | Bangalow        | Sparrow Coffee1A/32-34 Byron Street | 6:45am to 7:15am on Thursday 5 August 2021                   |
+| 11/08/2021      | Close Contact        | Bangalow        | Butcher Baker Cafe13 Byron Street | 11:15am to 11:45am on Thursday 5 August 2021                 |
 | 10/08/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 8:30am to 9am on Monday 9 August 2021                        |
 | 10/08/2021      | Casual Contact       | Williamtown     | Metro Petroleum Williamtown1 Lavis Lane | 11am to 11:20am on Friday 6 August 2021                      |
 | 10/08/2021      | Casual Contact       | Warners Bay     | Guardian Chemist Warners BayShop 13/30 John Street | 3pm to 4pm on Friday 6 August 2021                           |
@@ -27,7 +43,6 @@
 | 10/08/2021      | Casual Contact       | Parramatta      | Pharmacy JunctionShop 5020, Westfield Parramatta, 159-175 Church Street | 3:05pm to 3:20pm on Thursday 29 July 2021                    |
 | 10/08/2021      | Casual Contact       | North Ryde      | Woolworths North RydeMacquarie Centre, 2227 Herring Road | 10am to 11am on Thursday 5 August 2021                       |
 | 10/08/2021      | Casual Contact       | North Ryde      | Soul Origin North RydeLevel 3, Food Court, Macquarie Centre | 10am to 10:30am on Thursday 5 August 2021                    |
-| 10/08/2021      | Close Contact        | Newrybar        | Harvest CafeVillage 18, 22 Old Pacific Highway | 9:45am to 10:20am on Saturday 7 August 2021                  |
 | 10/08/2021      | Casual Contact       | Newcastle West  | Woolworths Newcastle WestMarketown Shopping Centre, 23 Steel Street | 1pm to 1:20pm on Wednesday 4 August 20219:30am to 9:50am on Tuesday 3 August 2021 |
 | 10/08/2021      | Casual Contact       | Newcastle West  | The Cambridge Hotel789 Hunter Street | 12am (midnight) to 3am on Saturday 31 July 20218:45pm to 12am on Friday 30 July 2021 |
 | 10/08/2021      | Casual Contact       | Newcastle       | The Great Northern Hotel89 Scott Street | 7pm to 8pm on Friday 30 July 2021                            |
@@ -55,12 +70,16 @@
 | 10/08/2021      | Casual Contact       | Doonside        | Coles DoonsideWoodcroft Village, Corner of Richmond Road and Woodcroft Drive | 1:30pm to 1:40pm on Sunday 8 August 2021                     |
 | 10/08/2021      | Casual Contact       | Doonside        | BP DoonsideCorner of Richmond Road and Woodcroft Drive | 2:35pm to 2:40pm on Sunday 8 August 2021                     |
 | 10/08/2021      | Casual Contact       | Darlinghurst    | Aldi DarlinghurstOxford Street and Pelican Street | 7:25pm to 7:40pm on Tuesday 3 August 2021                    |
+| 10/08/2021      | Casual Contact       | Chittaway Bay   | Caltex Chittaway100 Chittaway Road | 5:30am to 5:45am on Tuesday 10 August 20215:30am to 5:45am on Monday 9 August 20215:30am to 5:45am on Friday 6 August 20215:30am to 5:45am on Thursday 5 August 20215:30am to 5:45am on Tuesday 3 August 2021 |
 | 10/08/2021      | Casual Contact       | Charlestown     | Ghanda Clothing CharlestownCharlestown Square, 30 Pearson Street | 9:05am to 9:15am on Wednesday 4 August 2021                  |
 | 10/08/2021      | Casual Contact       | Charlestown     | Charlestown Square Food CourtCharlestown Square, 30 Pearson Street | 12:45pm to 1:10pm on Thursday 5 August 2021                  |
 | 10/08/2021      | Close Contact        | Charlestown     | Central Leagues Club Charlestown8 Bula Street | 4:40pm to 8:45pm on Wednesday 4 August 20215:30pm to 9:20pm on Tuesday 3 August 202112pm to 5pm on Monday 2 August 2021 |
 | 10/08/2021      | Casual Contact       | Castle Hill     | Yogurberry Castle Hill282 Old Northern Road | 9:10pm to 9:45pm on Friday 6 August 2021                     |
 | 10/08/2021      | Casual Contact       | Callaghan       | University of Newcastle, Callaghan Campus, On-campus Student Accommodation Facilities - Barahineban, Evatt House, North Residence, South Residence, East Residence and West ResidenceUniversity Drive | 8pm to 11:30pm on Friday 6 August 202112am (midnight) to 6am on Friday 6 August 20218pm to 12am (midnight) on Thursday 5 August 2021 |
-| 10/08/2021      | Close Contact        | Byron Bay       | Woolworths Byron Bay106 Jonson Street | 2:30pm to 4pm on Wednesday 4 August 2021                     |
+| 10/08/2021      | Close Contact        | Byron Bay       | Woolworths Byron Bay106 Jonson Street | 12:45pm to 1:45pm on Saturday 7 August 20212:30pm to 4pm on Wednesday 4 August 2021 |
+| 10/08/2021      | Close Contact        | Byron Bay       | Ozi Go Car WashEwingsdale Road and Bayshore Drive | 11:30am to 12pm on Saturday 7 August 2021                    |
+| 10/08/2021      | Close Contact        | Byron Bay       | Ampol Service Station76/78 Shirley Street | 11:45am to 12:15pm on Saturday 7 August 2021                 |
+| 10/08/2021      | Close Contact        | Bryon Bay       | Zaza Kebabs8/4 Johnson Street | 12pm to 12:30pm on Saturday 7 August 2021                    |
 | 10/08/2021      | Casual Contact       | Blacktown       | Repco Blacktown1-2/84 Sunnyholt Road | 7:30am to 8am on Wednesday 28 July 2021                      |
 | 10/08/2021      | Casual Contact       | Blacktown       | Nando's BlacktownWestpoint Blacktown, 17 Patrick Street | 7:55pm to 8:20pm on Saturday 7 August 2021                   |
 | 10/08/2021      | Casual Contact       | Blacktown       | Max Brenner BlacktownWestpoint Blacktown, 17 Patrick Street | 8:20pm to 8:40pm on Saturday 7 August 2021                   |
