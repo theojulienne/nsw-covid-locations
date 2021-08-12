@@ -279,7 +279,6 @@
 | 04/08/2021      | Casual Contact       | Lidcombe        | Costco Lidcombe17-21 Paramatta Road | 11:30am to 12:55pm on Saturday 24 July 2021                  |
 | 08/08/2021      | Casual Contact       | Lidcombe        | Lidcombe Pharmacy16 John Street | 10:15am to 10:40am on Monday 2 August 2021                   |
 | 08/08/2021      | Casual Contact       | Lidcombe        | Sally's PharmacyShop 1 and 2, 36-44 John Street | 10:05am to 10:20am on Monday 2 August 2021                   |
-| 11/08/2021      | Close Contact        | Lidcombe        | Tooheys Brewery29 Nyrang Street | 1:55pm to 4pm on Thursday 5 August 2021                      |
 | 11/08/2021      | Casual Contact       | Lidcombe        | Woolworths Lidcombe92 Parramatta Road | 3:45pm to 4:45pm on Saturday 7 August 2021                   |
 | 08/08/2021      | Casual Contact       | Liverpool       | Amir Supermarket Liverpool235 Northumberland Street | 9:45am to 10:05am on Tuesday 3 August 2021                   |
 | 11/08/2021      | Casual Contact       | Liverpool       | Big Daddy's Burger BarPad 3, Viscount Place | 12pm (noon) to 12:10pm on Wednesday 28 July 2021             |

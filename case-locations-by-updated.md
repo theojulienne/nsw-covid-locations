@@ -39,7 +39,6 @@
 | 11/08/2021      | Casual Contact       | Liverpool       | Big Daddys Burger BarPad 3, Viscount Place | 4:30pm to 6pm on Thursday 5 August 2021                      |
 | 11/08/2021      | Casual Contact       | Liverpool       | Big Daddy's Burger BarPad 3, Viscount Place | 12pm (noon) to 12:10pm on Wednesday 28 July 2021             |
 | 11/08/2021      | Casual Contact       | Lidcombe        | Woolworths Lidcombe92 Parramatta Road | 3:45pm to 4:45pm on Saturday 7 August 2021                   |
-| 11/08/2021      | Close Contact        | Lidcombe        | Tooheys Brewery29 Nyrang Street | 1:55pm to 4pm on Thursday 5 August 2021                      |
 | 11/08/2021      | Casual Contact       | Lakemba         | Woolworths Lakemba2/26 Haldon Street | 11:15am to 12:30pm on Saturday 7 August 2021                 |
 | 11/08/2021      | Casual Contact       | Kiama           | Woolworths KiamaKiama View Shopping Centre, 143 Terralong Street | 5pm to 5:15pm on Friday 30 July 2021                         |
 | 11/08/2021      | Casual Contact       | Islington       | The Newcastle Hotel139 Maitland Road | 9:45pm to 11:30pm on Sunday 1 August 2021                    |
