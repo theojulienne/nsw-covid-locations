@@ -549,6 +549,7 @@
 | 03/08/2021      | Casual Contact       | Tregear         | IGA Tregear1/155-161 Aurora Drive | 3pm to 4pm on Friday 30 July 2021                            |
 | 11/08/2021      | Casual Contact       | Tuggerah        | Bunnings TuggerahCorner Bryant Drive and Wyong Road | 4:20pm to 4:40pm on Tuesday 3 August 202111:35am to 11:50am on Sunday 1 August 2021 |
 | 12/08/2021      | Casual Contact       | Tuggerah        | Petbarn Tuggerah2 Anzac Road | 10:15am to 10:30am on Saturday 7 August 2021                 |
+| 13/08/2021      | Casual Contact       | Tuggerah        | Sydney Tools Tuggerah20-124 Pacific Highway | 11:10am to 11:40am on Sunday 1 August 2021                   |
 | 11/08/2021      | Casual Contact       | Unanderra       | Bridgestone Tyres Unanderra159 Five Islands Road | 10:30am to 11:30am on Tuesday 3 August 2021                  |
 | 03/08/2021      | Casual Contact       | Villawood       | Bunnings VillawoodWoodville Road and Tangerine Street | 1pm to 12am (midnight) on Monday 9 August 20213:15pm to 12am (midnight) on Saturday 7 August 20214:05pm to 4:35pm on Thursday 29 July 2021 |
 | 13/08/2021      | Casual Contact       | Villawood       | Lebanese Village Bakery67 Christina Road | 12:05pm to 12:25pm on Wednesday 4 August 2021                |

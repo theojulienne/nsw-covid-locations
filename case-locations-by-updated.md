@@ -7,6 +7,7 @@
 | 13/08/2021      | Casual Contact       | Wentworthville  | Yashasa Paan and Desserts Wentworthville12 Station Street | 2:45pm to 2:55pm on Thursday 5 August 20212:45pm to 2:55pm on Monday 2 August 202112:00am to 12:00am on Sunday 1 August 2021 |
 | 13/08/2021      | Close Contact        | Walgett         | Walgett Sporting Club10 Montkeila Street | 7:35pm to 7:50pm on Tuesday 10 August 2021                   |
 | 13/08/2021      | Casual Contact       | Villawood       | Lebanese Village Bakery67 Christina Road | 12:05pm to 12:25pm on Wednesday 4 August 2021                |
+| 13/08/2021      | Casual Contact       | Tuggerah        | Sydney Tools Tuggerah20-124 Pacific Highway | 11:10am to 11:40am on Sunday 1 August 2021                   |
 | 13/08/2021      | Casual Contact       | Toongabbie      | Ceylon Spice Market15-19 Toongabbie Road | 4:10pm to 4:30pm on Friday 6 August 2021                     |
 | 13/08/2021      | Casual Contact       | The Junction    | Coles The JunctionJunction Fair, 204 Union Street | 12:50pm to 1pm on Sunday 8 August 2021                       |
 | 13/08/2021      | Close Contact        | St Marys        | Liquid Self Serve Laundromat St Marys22 Queen Street | 3:15pm to 5:30pm on Saturday 7 August 2021                   |
