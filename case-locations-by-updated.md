@@ -1,5 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 14/08/2021      | Casual Contact       | Wyong           | Wyong Train StationHowarth Street | 11:30am to 11:55am on Tuesday 31 August 2021                 |
+| 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1.10pm to 1.55pm on Sunday 8 August 2021                     |
+| 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11.40am to 12.20pm on Wednesday 11 August 2021               |
 | 13/08/2021      | Casual Contact       | Yagoona         | Mr Cheap Household and Party Supply2/516 Hume Highway | 4:15pm to 4:25pm on Friday 6 August 2021                     |
 | 13/08/2021      | Casual Contact       | Yagoona         | Cedar Valley Meats1/44 Dargan Street | 1:15pm to 1:30pm on Monday 9 August 2021                     |
 | 13/08/2021      | Casual Contact       | Westmead        | Speedway Westmead67-69 Hawkesbury Road | 12:00pm to 12:10pm on Monday 9 August 2021                   |

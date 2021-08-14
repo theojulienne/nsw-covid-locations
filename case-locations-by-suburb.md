@@ -624,6 +624,9 @@
 | 07/08/2021      | Casual Contact       | Woodpark        | Speedway Woodpark32-36 Woodpark Road | 4:30pm to 4:45pm on Thursday 5 August 2021                   |
 | 11/08/2021      | Casual Contact       | Woodrising      | Discount Drug Store Woodrising1/84 Hayden Brook Road | 4:30pm to 4:45pm on Thursday 5 August 2021                   |
 | 10/08/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 8:30am to 9am on Monday 9 August 2021                        |
+| 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11.40am to 12.20pm on Wednesday 11 August 2021               |
+| 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1.10pm to 1.55pm on Sunday 8 August 2021                     |
+| 14/08/2021      | Casual Contact       | Wyong           | Wyong Train StationHowarth Street | 11:30am to 11:55am on Tuesday 31 August 2021                 |
 | 05/08/2021      | Casual Contact       | Yagoona         | 5 Stars Nuts Supermarket526 Hume Highway | 4:25pm to 4:30pm on Friday 6 August 20215:05pm to 5:30pm on Friday 30 July 2021 |
 | 06/08/2021      | Casual Contact       | Yagoona         | Al-Rabih Butchery453 Hume Highway | 12pm (noon) to 1pm on Friday 30 July 2021                    |
 | 13/08/2021      | Casual Contact       | Yagoona         | Cedar Valley Meats1/44 Dargan Street | 1:15pm to 1:30pm on Monday 9 August 2021                     |
