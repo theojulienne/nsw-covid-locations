@@ -319,7 +319,6 @@
 | 08/08/2021      | Casual Contact       | Lidcombe        | Lidcombe Pharmacy16 John Street | 3:50pm to 4pm on Tuesday 3 August 202110:15am to 10:40am on Monday 2 August 2021 |
 | 08/08/2021      | Casual Contact       | Lidcombe        | Sally's PharmacyShop 1 and 2, 36-44 John Street | 10:05am to 10:20am on Monday 2 August 2021                   |
 | 13/08/2021      | Casual Contact       | Lidcombe        | Shell Coles Express Lidcombe18 Parramatta Road | 12:30pm to 6:05am on Monday 9 August 2021                    |
-| 11/08/2021      | Close Contact        | Lidcombe        | Tooheys Brewery29 Nyrang Street | 1:55pm to 4pm on Thursday 5 August 2021                      |
 | 11/08/2021      | Casual Contact       | Lidcombe        | Woolworths Lidcombe92 Parramatta Road | 3:45pm to 4:45pm on Saturday 7 August 2021                   |
 | 08/08/2021      | Casual Contact       | Liverpool       | Amir Supermarket Liverpool235 Northumberland Street | 9:45am to 10:05am on Tuesday 3 August 2021                   |
 | 12/08/2021      | Casual Contact       | Liverpool       | Australia Post Liverpool1/244 Macquarie Street | 2pm to 2:20pm on Friday 6 August 2021                        |
@@ -626,7 +625,6 @@
 | 10/08/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 8:30am to 9am on Monday 9 August 2021                        |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11.40am to 12.20pm on Wednesday 11 August 2021               |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1.10pm to 1.55pm on Sunday 8 August 2021                     |
-| 14/08/2021      | Casual Contact       | Wyong           | Wyong Train StationHowarth Street | 11:30am to 11:55am on Tuesday 31 August 2021                 |
 | 05/08/2021      | Casual Contact       | Yagoona         | 5 Stars Nuts Supermarket526 Hume Highway | 4:25pm to 4:30pm on Friday 6 August 20215:05pm to 5:30pm on Friday 30 July 2021 |
 | 06/08/2021      | Casual Contact       | Yagoona         | Al-Rabih Butchery453 Hume Highway | 12pm (noon) to 1pm on Friday 30 July 2021                    |
 | 13/08/2021      | Casual Contact       | Yagoona         | Cedar Valley Meats1/44 Dargan Street | 1:15pm to 1:30pm on Monday 9 August 2021                     |
