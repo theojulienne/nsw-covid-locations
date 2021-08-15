@@ -117,6 +117,8 @@
 | 07/08/2021      | Casual Contact       | Charlestown     | Cha Time CharlestownCharlestown Square, 30 Pearson Street | 12:40pm to 12:45pm on Monday 2 August 2021                   |
 | 10/08/2021      | Casual Contact       | Charlestown     | Charlestown Square Food CourtCharlestown Square, 30 Pearson Street | 12:45pm to 1:10pm on Thursday 5 August 2021                  |
 | 14/08/2021      | Casual Contact       | Charlestown     | Charlestown Square Shopping Centre30 Pearson Street | 1:04pm to 3:45pm on Wednesday 4 August 2021                  |
+| 13/08/2021      | Casual Contact       | Charlestown     | City Beach CharlestownShop 2037/30 Pearson Street | 9am to 2pm on Thursday 5 August 2021                         |
+| 15/08/2021      | Casual Contact       | Charlestown     | Gadget Mall CharlestownCharlestown Square, 30 Pearson Street | 1:04pm to 3:45pm on Wednesday 4 August 2021                  |
 | 10/08/2021      | Casual Contact       | Charlestown     | Ghanda Clothing CharlestownCharlestown Square, 30 Pearson Street | 9:05am to 9:15am on Wednesday 4 August 2021                  |
 | 07/08/2021      | Casual Contact       | Charlestown     | Guzman y Gomez CharlestownCharlestown Square, 30 Pearson Street | 12:45pm to 1:10pm on Thursday 5 August 2021                  |
 | 07/08/2021      | Casual Contact       | Charlestown     | KFC CharlestownCharlestown Square, 30 Pearson Street | 12:45pm to 1:10pm on Monday 2 August 2021                    |
@@ -181,6 +183,7 @@
 | 13/08/2021      | Casual Contact       | Dubbo           | Myall St Mini Mart272 Myall Street | 3:25pm to 3:45pm on Monday 9 August 2021                     |
 | 14/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo10 Erskine Street | 4:23pm to 4:42pm on Thursday 5 August 2021                   |
 | 15/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre - Food Court56 Windsor Parade | 10:45am to 11:10am on Saturday 7 August 2021                 |
+| 15/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 1:40pm to 2:20pm on Tuesday 10 August 2021                   |
 | 14/08/2021      | Close Contact        | Dubbo           | Relish Cafe37-39 Bultje Street | 11:55am to 12:30pm on Tuesday 10 August 2021                 |
 | 15/08/2021      | Close Contact        | Dubbo           | Russo's Coffee BarUrban Village, 33-43 Whylandra Street | 7:50am to 8am on Wednesday 11 August 2021                    |
 | 14/08/2021      | Close Contact        | Dubbo           | Saint Laurence O'Toole ChurchCorner Fitzroy and Tamworth Street | 6:50am to 8:35am on Sunday 8 August 2021                     |
@@ -197,7 +200,6 @@
 | 15/08/2021      | Casual Contact       | Dubbo           | Woolworths Delroy ParkDelroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 5pm to 7pm on Wednesday 11 August 20213:30pm to 4:30pm on Wednesday 11 August 202111:30am to 11:45am on Wednesday 11 August 20215pm to 6pm on Tuesday 10 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Woolworths DubboOrana Mall Shopping Centre, 56 Windsor Parade | 9:15am to 10:15am on Wednesday 11 August 20212:30pm to 3pm on Tuesday 10 August 20213pm to 3:15pm on Monday 9 August 202110:20am to 10:45am on Saturday 7 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Woolworths RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 6:30am to 7:30am on Wednesday 11 August 20214:05pm to 4:35pm on Monday 9 August 2021 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 1:40pm to 2:20pm on Tuesday 10 August 2021                   |
 | 13/08/2021      | Casual Contact       | Dundas          | BP Dundas Petrol Station256 Kissing Point Road | 7:20pm to 7:20pm on Tuesday 3 August 2021                    |
 | 04/08/2021      | Casual Contact       | Earlwood        | Coles Earlwood5/15 Clarke Street | 7:45am to 7:55am on Wednesday 4 August 202110:50am to 11:25am on Saturday 31 July 2021 |
 | 14/08/2021      | Casual Contact       | East Maitland   | Guzman y Gomez East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 5pm to 8:30pm on Wednesday 11 August 20212:30pm to 8:30pm on Monday 9 August 20212:30pm to 8:30pm on Sunday 8 August 20212:30pm to 8:30pm on Saturday 7 August 2021 |
