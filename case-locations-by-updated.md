@@ -1,26 +1,37 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 15/08/2021      | Close Contact        | Orange          | Village Bakehouse208 Peisley Street | 10:50am to 12:10pm on Sunday 8 August 2021                   |
+| 15/08/2021      | Close Contact        | Orange          | Byng Street Cafe47 Byng Street | 12:50pm to 1:10pm on Sunday 8 August 2021                    |
 | 15/08/2021      | Casual Contact       | Mudgee          | Supacheap Auto Mudgee13 Sydney Road | 12:15pm to 12:20pm on Wednesday 11 August 2021               |
 | 15/08/2021      | Close Contact        | Mudgee          | Muffin Break Mudgee72/78 Market Street | 9:15am to 9:20am on Wednesday 11 August 2021                 |
 | 15/08/2021      | Close Contact        | Mudgee          | Mudgee Bakery and Cafe28 Market Street | 9:10am to 9:45am on Monday 9 August 2021                     |
 | 15/08/2021      | Casual Contact       | Mudgee          | Bunnings MudgeeCorner of Castlereagh Highway and Burrundulla Road | 12:25pm to 12:30pm on Wednesday 11 August 2021               |
+| 15/08/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 2:36pm to 2:40pm on Saturday 7 August 2021                   |
 | 15/08/2021      | Casual Contact       | Maitland        | The Reject Shop Maitland424 High Street | 9:03am to 9:06am on Monday 2 August 2021                     |
 | 15/08/2021      | Close Contact        | Maitland        | Sudania Cafe and Restaurant459 High Street | 8am to 2pm on Monday 2 August 20218am to 2pm on Saturday 31 July 2021 |
+| 15/08/2021      | Casual Contact       | Macquarie Fields | The Reject Shop Macquarie FieldsGlenquarie Town Centre, Brooks Street | 9am to 9:10am on Monday 2 August 202110:30am to 11:30am on Monday 2 August 2021 |
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake MunmorahLake Munmorah Shopping Centre, 1 Tall Timbers Road | 8:40am to 9:15am on Friday 13 August 20212:50pm to 3:30pm on Thursday 12 August 202112pm to 12:40pm on Saturday 7 August 2021 |
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Lucky 7 - Munmorah Mini Mart93 Anita Avenue | 3:10pm to 3:25pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Lake Munmorah Shopping CentreKemira Road | 10am to 10:30am on Friday 13 August 2021                     |
+| 15/08/2021      | Casual Contact       | Jesmond         | Jesmond Fruit Barn23 Blue Gum Road | 12:10pm to 12:20pm on Saturday 7 August 2021                 |
+| 15/08/2021      | Casual Contact       | Jesmond         | BWS Jesmond Central24-26 Blue Gum Road | 12:45pm to 12:55pm on Saturday 7 August 20215:48pm to 4:58pm on Tuesday 3 August 2021 |
+| 15/08/2021      | Casual Contact       | Hamilton        | Guzman y Gomez Hamilton86 Beaumont Street | 3:10pm to 3:30pm on Monday 2 August 2021                     |
 | 15/08/2021      | Casual Contact       | Greta           | Caltex Greta2021 New England Highway | 10:45am to 10:55am on Saturday 7 August 2021                 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Woolworths RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 6:30am to 7:30am on Wednesday 11 August 20214:05pm to 4:35pm on Monday 9 August 2021 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Woolworths DubboOrana Mall Shopping Centre, 56 Windsor Parade | 9:15am to 10:15am on Wednesday 11 August 20212:30pm to 3pm on Tuesday 10 August 20213pm to 3:15pm on Monday 9 August 202110:20am to 10:45am on Saturday 7 August 2021 |
+| 15/08/2021      | Casual Contact       | Dubbo           | Woolworths DubboOrana Mall Shopping Centre, 56 Windsor Parade | 6pm to 7:20pm on Thursday 12 August 20219:15am to 10:15am on Wednesday 11 August 20212:30pm to 3pm on Tuesday 10 August 20217:45pm to 8:15pm on Monday 9 August 20213pm to 3:15pm on Monday 9 August 202112pm to 1pm on Monday 9 August 202110:20am to 10:45am on Saturday 7 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Woolworths Delroy ParkDelroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 5pm to 7pm on Wednesday 11 August 20213:30pm to 4:30pm on Wednesday 11 August 202111:30am to 11:45am on Wednesday 11 August 20215pm to 6pm on Tuesday 10 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Terry White Chemmart Delroy ParkShop 15 Delroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 3:45pm to 3:55pm on Wednesday 11 August 2021                 |
 | 15/08/2021      | Casual Contact       | Dubbo           | South Dubbo Newsagency93 Tamworth Street | 2:15pm to 2:25pm on Thursday 12 August 2021                  |
+| 15/08/2021      | Casual Contact       | Dubbo           | Shell Service Station Dubbo (Fitzroy Street)131-133 Cobra Street and Fitzroy Street | 4:20pm to 4:30pm on Wednesday 11 August 2021                 |
 | 15/08/2021      | Close Contact        | Dubbo           | Russo's Coffee BarUrban Village, 33-43 Whylandra Street | 7:50am to 8am on Wednesday 11 August 2021                    |
 | 15/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 1:40pm to 2:20pm on Tuesday 10 August 2021                   |
 | 15/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre - Food Court56 Windsor Parade | 10:45am to 11:10am on Saturday 7 August 2021                 |
+| 15/08/2021      | Casual Contact       | Dubbo           | Oporto Dubbo4 Whylandra Street | 12:40pm to 12:50pm on Monday 9 August 2021                   |
+| 15/08/2021      | Casual Contact       | Dubbo           | Garden Hotel173 Talbragar Street | 3pm to 4:30pm on Monday 9 August 2021                        |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Spine Centre1/63-65 Boundary Road | 1:40pm to 2:05pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Farmer's MarketMacquarie Street and Newell Highway | 8:30am to 10am on Saturday 7 August 2021                     |
 | 15/08/2021      | Casual Contact       | Dubbo           | Bob Jane T-Marts Dubbo223 Macquarie Street | 8am to 8:30am on Wednesday 11 August 2021                    |
+| 15/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | 8:20am to 8:30am on Saturday 7 August 2021                   |
 | 15/08/2021      | Casual Contact       | Dubbo           | Ashcrofts IGA Dubbo95 Tamworth Street | 2pm to 2:30pm on Thursday 12 August 20211pm to 1:20pm on Wednesday 11 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Aldi Dubbo177 Talbragar Street | 2pm to 3pm on Thursday 12 August 202111:30am to 12:30pm on Saturday 7 August 2021 |
 | 15/08/2021      | Close Contact        | Dubbo           | 1st Dubbo Scout Hall28 Welchman Street | 4:30pm to 5:30pm on Sunday 8 August 2021                     |
@@ -28,8 +39,10 @@
 | 15/08/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenCorner of Chelmsford and Pacific Highway | 8:50am to 9:15am on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Charlestown     | Gadget Mall CharlestownCharlestown Square, 30 Pearson Street | 1:04pm to 3:45pm on Wednesday 4 August 2021                  |
 | 15/08/2021      | Casual Contact       | Chain Valley Bay | Chain Valley Bay Liquor35 Lloyd Avenue | 3pm to 3:15pm on Thursday 12 August 2021                     |
+| 15/08/2021      | Casual Contact       | Cameron Park    | Star Nails Cameron Park309 George Booth Drive | 4:30pm to 5:30pm on Wednesday 4 August 2021                  |
 | 15/08/2021      | Casual Contact       | Broadmeadow     | PETQuarters4/7A Griffiths Road | 11:08am to 11:25am on Wednesday 4 August 2021                |
 | 15/08/2021      | Casual Contact       | Branxton        | Coles Huntlee22 Empire Street | 6:25pm to 6:35pm on Friday 6 August 2021                     |
+| 15/08/2021      | Close Contact        | Bathurst        | Subway Bathurst (William Street)104 William St | 12:50pm to 1:30pm on Saturday 7 August 2021                  |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1:10pm to 1:55pm on Sunday 8 August 2021                     |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11:40am to 12:20pm on Wednesday 11 August 2021               |
 | 14/08/2021      | Casual Contact       | Rutherford      | Sprouting Health Chiropractic207 New England Highway | 9:45am to 10:25am on Saturday 7 August 2021                  |
@@ -337,7 +350,6 @@
 | 09/08/2021      | Casual Contact       | Merrylands      | Coles Merrylands4 McFarlane Street | 7:55pm to 8:15pm on Tuesday 3 August 20216:30pm to 7:30pm on Thursday 29 July 2021 |
 | 09/08/2021      | Casual Contact       | Mayfield        | Domino's Mayfield175 Maitland Road | 6:30pm to 6:45pm on Wednesday 4 August 2021                  |
 | 09/08/2021      | Casual Contact       | Marsden Park    | Bunnings Marsden ParkCnr Richmond Road and Hollinsworth Road | 11:10am to 11:20am on Tuesday 3 August 2021                  |
-| 09/08/2021      | Casual Contact       | Macquarie Fields | The Reject Shop Macquarie FieldsGlenquarie Town Centre, Brooks Street | 10:30am to 11:30am on Monday 2 August 2021                   |
 | 09/08/2021      | Casual Contact       | Macquarie Fields | Glenquarie Town CentreLot 133 Brooks Street | 10:30am to 11:30am on Monday 2 August 2021                   |
 | 09/08/2021      | Close Contact        | Kotara          | Air Locker Training Kotara14 Northcott Drive | 6:15am to 7:15am on Tuesday 3 August 20218:15am to 9:15am on Monday 2 August 2021 |
 | 09/08/2021      | Casual Contact       | Kellyville      | Choice Pharmacy Kellyville8/46 Withers Road | 8am to 8pm on Friday 6 August 20218am to 3pm on Wednesday 4 August 20218am to 2pm on Tuesday 3 August 20218am to 6pm on Saturday 31 July 2021 |
