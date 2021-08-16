@@ -169,7 +169,7 @@
 | 13/08/2021      | Casual Contact       | Dubbo           | Fitness Focus Dubbo (Areas other than the Gymnastics Area)7 Jannali Road | 3:53pm to 5:05pm on Monday 9 August 2021                     |
 | 13/08/2021      | Close Contact        | Dubbo           | Fitness Focus Dubbo (Gymnastics Area)7 Jannali Road | 3:53pm to 5:05pm on Monday 9 August 2021                     |
 | 15/08/2021      | Casual Contact       | Dubbo           | Garden Hotel173 Talbragar Street | 3pm to 4:30pm on Monday 9 August 2021                        |
-| 16/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 12am (midnight) on Tuesday 10 August 20212:45pm to 3:30pm on Sunday 8 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 11:30am on Tuesday 10 August 20212:45pm to 3:30pm on Sunday 8 August 2021 |
 | 13/08/2021      | Casual Contact       | Dubbo           | Manera Plaza COVID testing clinic77 Myall Street | 10:10am to 11:35am on Thursday 12 August 2021                |
 | 13/08/2021      | Casual Contact       | Dubbo           | McDonald's West Dubbo101 Whylandra Street | 3:35pm to 3:55pm on Friday 6 August 2021                     |
 | 14/08/2021      | Casual Contact       | Dubbo           | Millers Dubbo165 Macquarie Street | 1:15pm to 1:30pm on Tuesday 10 August 2021                   |
@@ -223,6 +223,7 @@
 | 10/08/2021      | Casual Contact       | Forest Lodge    | Tramsheds Sydney1 Dalgal Way | 4:05pm to 4:50pm on Monday 2 August 2021                     |
 | 09/08/2021      | Casual Contact       | Forestville     | Coles ForestvilleDarley Street | 12:25pm to 12:55pm on Wednesday 4 August 2021                |
 | 11/08/2021      | Close Contact        | Glendale        | Boho Black Cafe387 Lake Road | 9am to 9:30am on Tuesday 3 August 2021                       |
+| 16/08/2021      | Casual Contact       | Glendale        | Hunter Sports Centre Glendale - Schools Zone Athletics Zone Carnival 43 Stockland Drive | 9:45am to 12:30pm on Tuesday 3 August 2021                   |
 | 13/08/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 5:25pm to 5:35pm on Monday 9 August 2021                     |
 | 11/08/2021      | Casual Contact       | Glendenning     | Australian Reinforcing Company153 Glendenning Road | 1pm to 9pm on Tuesday 3 August 2021                          |
 | 13/08/2021      | Casual Contact       | Glendenning     | Subway Glendenning1/670 Richmond Road | 3pm to 3:15pm on Wednesday 4 August 2021                     |
@@ -265,6 +266,7 @@
 | 07/08/2021      | Casual Contact       | Hoxton Park     | Woolworths Hoxton ParkCorner Cowpasture and Kurajong Road | 10am to 10:25am on Wednesday 4 August 2021                   |
 | 13/08/2021      | Casual Contact       | Hurstville      | Coles HurstvilleCorner Park and Cross Street | 2:35pm to 2:45pm on Wednesday 4 August 2021                  |
 | 05/08/2021      | Casual Contact       | Hurstville      | Woolworths HurstvilleCorner Park and Cross Street | 3:10pm to 3:50pm on Sunday 1 August 20213:10pm to 3:50pm on Sunday 1 August 2021 |
+| 16/08/2021      | Casual Contact       | Ingleburn       | Ingleburn GP and WorkRecoverSuite 9/12 Ingleburn Road | 10:50am to 12:05pm on Wednesday 11 August 2021               |
 | 15/08/2021      | Casual Contact       | Jesmond         | BWS JesmondJesmond Central, 24-26 Blue Gum Road | 12:45pm to 12:55pm on Saturday 7 August 20215:48pm to 4:58pm on Tuesday 3 August 2021 |
 | 10/08/2021      | Casual Contact       | Jesmond         | Big W JesmondBlue Hum Road and Mordue Parade | 4:15pm to 4:20pm on Sunday 8 August 20218pm to 8:30pm on Thursday 29 July 2021 |
 | 06/08/2021      | Close Contact        | Jesmond         | HealthSure Medical CentreStockland Jesmond, Blue Gum Road | 3:20pm to 3:55pm on Monday 2 August 2021                     |
@@ -282,6 +284,7 @@
 | 07/08/2021      | Close Contact        | Kotara          | Barber IndustriesWestfield Kotara, 75-89 Park Avenue | 1:30pm to 2pm on Thursday 5 August 2021                      |
 | 07/08/2021      | Casual Contact       | Kotara          | Cha Time KotaraLevel 3 Rooftop, Westfield Kotara, Corner Northcott Drive and Park Avenue | 2:05pm to 2:15pm on Thursday 5 August 2021                   |
 | 08/08/2021      | Close Contact        | Kotara          | Just Nails Westfield KotaraLevel 2, Westfield Kotara, Corner Northcott Drive and Park Avenue | 12:55pm to 2pm on Thursday 5 August 2021                     |
+| 16/08/2021      | Casual Contact       | Kotara          | Nutrition Warehouse KotaraHomemaker Centre, 30 Northcott Drive | 11:15am to 11:30am on Sunday 8 August 2021                   |
 | 07/08/2021      | Casual Contact       | Kotara          | Prouds Westfiield KotaraShop 2204, Corner Northcott Drive and Park Avenue | 1:55pm to 2:10pm on Thursday 5 August 2021                   |
 | 08/08/2021      | Casual Contact       | Lake Haven      | Baker's Delight Lake HavenShop 77 Lake Haven Centre, Lake Haven Drive and Goobarabah Avenue | 12:20pm to 12:25pm on Thursday 5 August 2021                 |
 | 08/08/2021      | Casual Contact       | Lake Haven      | Crazy Bargain WarehouseShop 51 Lake Haven Centre, Lake Haven Drive and Goobarabah Avenue | 12:15pm to 12:20pm on Thursday 5 August 2021                 |
