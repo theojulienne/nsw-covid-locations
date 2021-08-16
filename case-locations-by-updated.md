@@ -1,6 +1,23 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 16/08/2021      | Close Contact        | Waratah         | The Redeemed Christian Church of God, City of David Newcastle1/27 Crescent Road | All day on Sunday 15 August 2021All day on Saturday 14 August 2021All day on Friday 13 August 2021All day on Thursday 12 August 2021All day on Wednesday 11 August 2021All day on Tuesday 10 August 2021All day on Monday 9 August 2021All day on Sunday 8 August 2021All day on Saturday 7 August 2021All day on Friday 6 August 2021All day on Thursday 5 August 2021All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
+| 16/08/2021      | Casual Contact       | Strathfield South | Sydney Meat Market1 Madeline Street | 4am to 9am on Friday 6 August 20214am to 9am on Thursday 5 August 20214am to 9am on Wednesday 4 August 2021 |
+| 16/08/2021      | Close Contact        | New Lambton     | Wests New Lambton - Lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
+| 16/08/2021      | Casual Contact       | Engadine        | Commonwealth Bank Engadine1049 Old Princes Highway | 2:20pm to 3pm on Wednesday 4 August 2021                     |
+| 16/08/2021      | Casual Contact       | Dubbo           | Woolworths RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 6:30am to 7:30am on Wednesday 11 August 20214:05pm to 4:35pm on Monday 9 August 20213:30pm to 4pm on Sunday 8 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Woolworths DubboOrana Mall Shopping Centre, 56 Windsor Parade | 6pm to 7:20pm on Thursday 12 August 20219:15am to 10:15am on Wednesday 11 August 20212:30pm to 3pm on Tuesday 10 August 20217:45pm to 8:15pm on Monday 9 August 20213pm to 3:15pm on Monday 9 August 202112pm to 1pm on Monday 9 August 202110:20am to 10:45am on Saturday 7 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Woolworths Delroy ParkDelroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 10:30am to 10:40am on Sunday 15 August 20215:30pm to 6pm on Saturday 14 August 20215pm to 7pm on Wednesday 11 August 20213:30pm to 4:30pm on Wednesday 11 August 202112:25pm to 1:10pm on Wednesday 11 August 202111:30am to 11:45am on Wednesday 11 August 202110am to 10:10am on Wednesday 11 August 20215pm to 6pm on Tuesday 10 August 2021 |
+| 16/08/2021      | Close Contact        | Dubbo           | Sushi Zen Dubbo4/116-120 Macquarie Street | 12:45pm to 12:55pm on Sunday 8 August 2021                   |
+| 16/08/2021      | Casual Contact       | Dubbo           | Subway Dubbo2/217 Brisbane Street | 12:35pm to 12:45pm on Sunday 8 August 2021                   |
+| 16/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre56 Windsor Parade | 12:10pm to 12:25pm on Saturday 7 August 2021                 |
+| 16/08/2021      | Casual Contact       | Dubbo           | News Extra Dubbo117 Macquarie Street | 4pm to 5pm on Thursday 12 August 2021                        |
+| 16/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 12am (midnight) on Tuesday 10 August 20212:45pm to 3:30pm on Sunday 8 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Coles Express West DubboWhylandra Street | 1:50pm to 1:55pm on Thursday 12 August 2021                  |
+| 16/08/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 8:20am to 8:30am on Thursday 12 August 2021                  |
+| 16/08/2021      | Casual Contact       | Dubbo           | Caltex Woolworths Dubbo34 Bluebird Boulevarde | 8:35am to 8:50am on Thursday 12 August 2021                  |
+| 16/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 9am to 9:05am on Friday 13 August 202110am to 12pm (noon) on Monday 9 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | 6:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
+| 16/08/2021      | Casual Contact       | Bathurst        | Petries Mitre 10 Bathurst66 Bentinck Street | 12:35pm to 12:35pm on Saturday 7 August 2021                 |
 | 15/08/2021      | Close Contact        | Orange          | Village Bakehouse208 Peisley Street | 10:50am to 12:10pm on Sunday 8 August 2021                   |
 | 15/08/2021      | Close Contact        | Orange          | Byng Street Cafe47 Byng Street | 12:50pm to 1:10pm on Sunday 8 August 2021                    |
 | 15/08/2021      | Casual Contact       | Mudgee          | Supacheap Auto Mudgee13 Sydney Road | 12:15pm to 12:20pm on Wednesday 11 August 2021               |
@@ -18,9 +35,6 @@
 | 15/08/2021      | Casual Contact       | Jesmond         | BWS JesmondJesmond Central, 24-26 Blue Gum Road | 12:45pm to 12:55pm on Saturday 7 August 20215:48pm to 4:58pm on Tuesday 3 August 2021 |
 | 15/08/2021      | Casual Contact       | Hamilton        | Guzman y Gomez Hamilton86 Beaumont Street | 3:10pm to 3:30pm on Monday 2 August 2021                     |
 | 15/08/2021      | Casual Contact       | Greta           | Caltex Greta2021 New England Highway | 10:45am to 10:55am on Saturday 7 August 2021                 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Woolworths RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 6:30am to 7:30am on Wednesday 11 August 20214:05pm to 4:35pm on Monday 9 August 2021 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Woolworths DubboOrana Mall Shopping Centre, 56 Windsor Parade | 6pm to 7:20pm on Thursday 12 August 20219:15am to 10:15am on Wednesday 11 August 20212:30pm to 3pm on Tuesday 10 August 20217:45pm to 8:15pm on Monday 9 August 20213pm to 3:15pm on Monday 9 August 202112pm to 1pm on Monday 9 August 202110:20am to 10:45am on Saturday 7 August 2021 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Woolworths Delroy ParkDelroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 5pm to 7pm on Wednesday 11 August 20213:30pm to 4:30pm on Wednesday 11 August 202111:30am to 11:45am on Wednesday 11 August 20215pm to 6pm on Tuesday 10 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Terry White Chemmart Delroy ParkShop 15 Delroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 3:45pm to 3:55pm on Wednesday 11 August 2021                 |
 | 15/08/2021      | Casual Contact       | Dubbo           | South Dubbo Newsagency93 Tamworth Street | 2:15pm to 2:25pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Dubbo           | Shell Service Station Dubbo (Fitzroy Street)131-133 Cobra Street and Fitzroy Street | 4:20pm to 4:30pm on Wednesday 11 August 2021                 |
@@ -32,8 +46,7 @@
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Spine Centre1/63-65 Boundary Road | 1:40pm to 2:05pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Farmer's MarketMacquarie Street and Newell Highway | 8:30am to 10am on Saturday 7 August 2021                     |
 | 15/08/2021      | Casual Contact       | Dubbo           | Bob Jane T-Marts Dubbo223 Macquarie Street | 8am to 8:30am on Wednesday 11 August 2021                    |
-| 15/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | 8:20am to 8:30am on Saturday 7 August 2021                   |
-| 15/08/2021      | Casual Contact       | Dubbo           | Ashcrofts IGA Dubbo95 Tamworth Street | 2pm to 2:30pm on Thursday 12 August 20211pm to 1:20pm on Wednesday 11 August 2021 |
+| 15/08/2021      | Casual Contact       | Dubbo           | Ashcrofts IGA Dubbo95 Tamworth Street | 12pm to 12:15pm on Friday 13 August 20212pm to 2:30pm on Thursday 12 August 20211pm to 1:20pm on Wednesday 11 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Aldi Dubbo177 Talbragar Street | 2pm to 3pm on Thursday 12 August 202111:30am to 12:30pm on Saturday 7 August 2021 |
 | 15/08/2021      | Close Contact        | Dubbo           | 1st Dubbo Scout Hall28 Welchman Street | 4:30pm to 5:30pm on Sunday 8 August 2021                     |
 | 15/08/2021      | Close Contact        | Cooks Hill      | Darby Raj3/115 Darby Street | 7:13pm to 7:15pm on Wednesday 4 August 2021                  |
@@ -43,7 +56,7 @@
 | 15/08/2021      | Casual Contact       | Cameron Park    | Star Nails Cameron Park309 George Booth Drive | 4:30pm to 5:30pm on Wednesday 4 August 2021                  |
 | 15/08/2021      | Casual Contact       | Broadmeadow     | PETQuarters4/7A Griffiths Road | 11:08am to 11:25am on Wednesday 4 August 2021                |
 | 15/08/2021      | Casual Contact       | Branxton        | Coles Huntlee22 Empire Street | 6:25pm to 6:35pm on Friday 6 August 2021                     |
-| 15/08/2021      | Close Contact        | Bathurst        | Subway Bathurst (William Street)104 William St | 12:50pm to 1:30pm on Saturday 7 August 2021                  |
+| 15/08/2021      | Close Contact        | Bathurst        | Subway Bathurst (William Street)104 William Street | 12:50pm to 1:30pm on Saturday 7 August 2021                  |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1:10pm to 1:55pm on Sunday 8 August 2021                     |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11:40am to 12:20pm on Wednesday 11 August 2021               |
 | 14/08/2021      | Casual Contact       | Rutherford      | Sprouting Health Chiropractic207 New England Highway | 9:45am to 10:25am on Saturday 7 August 2021                  |
@@ -55,10 +68,8 @@
 | 14/08/2021      | Close Contact        | Dubbo           | Relish Cafe37-39 Bultje Street | 11:55am to 12:30pm on Tuesday 10 August 2021                 |
 | 14/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo10 Erskine Street | 4:23pm to 4:42pm on Thursday 5 August 2021                   |
 | 14/08/2021      | Casual Contact       | Dubbo           | Millers Dubbo165 Macquarie Street | 1:15pm to 1:30pm on Tuesday 10 August 2021                   |
-| 14/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 12am (midnight) on Tuesday 10 August 2021         |
 | 14/08/2021      | Casual Contact       | Dubbo           | Chemist Warehouse Dubbo166 Macquarie Street | 2:20pm to 2:35pm on Saturday 7 August 2021                   |
 | 14/08/2021      | Close Contact        | Dubbo           | Blend Sixty-Six Cafe83 Tamworth Street | 8:20am to 8:35am on Sunday 8 August 2021                     |
-| 14/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 10am to 12pm (noon) on Monday 9 August 2021                  |
 | 14/08/2021      | Casual Contact       | Dubbo           | Bawrunga Medical Centre2/207 Brisbane Street | 12:30pm to 12:35pm on Tuesday 10 August 2021                 |
 | 14/08/2021      | Casual Contact       | Dubbo           | Australia Post East DubboShop 117, 56 Windsor Parade | 3:57pm to 4:05pm on Thursday 5 August 2021                   |
 | 14/08/2021      | Casual Contact       | Charlestown     | Priceline Pharmacy CharlestownShop 1075 Charlestown Square, 30 Pearson Street | 1:55pm to 2:05pm on Wednesday 4 August 2021                  |
@@ -325,7 +336,6 @@
 | 09/08/2021      | Casual Contact       | Punchbowl       | Central Pharmacy Punchbowl695-697 Punchbowl Road | 5:20pm to 5:25pm on Monday 2 August 2021                     |
 | 09/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Family Medical Centre129-131 Pendle Way | 9am to 1:15pm on Friday 6 August 20219:20am to 2:10pm on Thursday 5 August 20219am to 1:10pm on Wednesday 4 August 20219:35am to 1:45pm on Tuesday 3 August 2021 |
 | 09/08/2021      | Close Contact        | New Lambton Heights | John Hunter Hospital – Emergency DepartmentLookout Road | 12am (midnight) to 12:50am on Friday 6 August 20218:42pm to 12am (midnight) on Thursday 5 August 2021 |
-| 09/08/2021      | Close Contact        | New Lambton     | Wests New Lambton - Lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Superior Bakeshop and MoreCarlisle Avenue | 12pm (noon) to 1pm on Friday 6 August 2021                   |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Mt Druitt Pharmacy7 Mt Druitt Road | 1:05pm to 1:45pm on Monday 2 August 202110:50am to 11am on Sunday 18 July 2021 |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Maxims Topping Mad3/3 Cleeve Close | 3:30pm to 12am (midnight) on Wednesday 4 August 2021         |
@@ -466,7 +476,7 @@
 | 06/08/2021      | Casual Contact       | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 5:30pm to 6pm on Wednesday 4 August 20214:30pm to 5pm on Wednesday 4 August 2021 |
 | 06/08/2021      | Close Contact        | Thornton        | Jump N Swim Academy6 Sandringham Avenue | 5pm to 5:30pm on Wednesday 4 August 2021                     |
 | 06/08/2021      | Casual Contact       | Strathfield     | 7-Eleven Strathfield South14 The Boulevarde | 8:35am to 8:45am on Wednesday 4 August 20218:35am to 8:45am on Tuesday 3 August 20218:35am to 8:45am on Monday 2 August 2021 |
-| 06/08/2021      | Close Contact        | St Marys        | Easy Script Compounding Pharmacy38 Queen street | All day on Tuesday 3 August 2021All day on Monday 2 August 2021 |
+| 06/08/2021      | Close Contact        | St Marys        | Easy Script Compounding Pharmacy38 Queen Street | All day on Tuesday 3 August 2021All day on Monday 2 August 2021 |
 | 06/08/2021      | Casual Contact       | St Marys        | BWS St MarysSt Marys Village Shopping Centre, Charles Hackett Drive | 7:35pm to 7:50pm on Tuesday 3 August 2021                    |
 | 06/08/2021      | Casual Contact       | St Clair        | 7-Eleven St Clair4 Endeavour Avenue | 12pm (noon) to 1pm on Wednesday 4 August 2021                |
 | 06/08/2021      | Close Contact        | South Penrith   | Priceline Pharmacy South PenrithShop 5 Southlands Shopping Centre, 2 Birmingham Road | 8:45am to 5:15pm on Tuesday 3 August 20219:45am to 7:15pm on Monday 2 August 2021 |
