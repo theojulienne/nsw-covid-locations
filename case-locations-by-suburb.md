@@ -31,6 +31,7 @@
 | 07/08/2021      | Close Contact        | Belmore         | Belmore Physiotherapy and Sports Injury Centre372 Burwood Road | 1pm to 5:30pm on Tuesday 3 August 2021                       |
 | 13/08/2021      | Casual Contact       | Belmore         | Crazy Fruit World BelmoreBurwood Road | 1:05pm to 1:10pm on Thursday 5 August 2021                   |
 | 29/07/2021      | Casual Contact       | Berala          | Woolworths Berala16 Woodburn Road | 4:05pm to 4:10pm on Tuesday 3 August 20212:15pm to 2:30pm on Friday 30 July 20216pm to 12am (midnight) on Thursday 29 July 20218:10pm to 9:25pm on Thursday 22 July 2021 |
+| 17/08/2021      | Casual Contact       | Beresfield      | The Steggles Shop Hawthorne Street | 2:20pm to 2:50pm on Monday 2 August 2021                     |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | BelSorriso Italian Restaurant254 Lakedge Avenue | 5:50pm to 6:05pm on Monday 9 August 20216pm to 6:15pm on Wednesday 4 August 2021 |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | Lanas Cafe256 Lakedge Avenue | 8:05am to 8:15am on Saturday 7 August 20217:20am to 7:30am on Sunday 1 August 2021 |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | Liquor Stax Berkeley Vale Cellars258 Lakedge Avenue | 5:35pm to 5:40pm on Friday 6 August 2021                     |
@@ -156,6 +157,7 @@
 | 14/08/2021      | Casual Contact       | Dubbo           | Millers Dubbo165 Macquarie Street | 1:15pm to 1:30pm on Tuesday 10 August 2021                   |
 | 13/08/2021      | Casual Contact       | Dubbo           | Myall St Mini Mart272 Myall Street | 3:25pm to 3:45pm on Monday 9 August 2021                     |
 | 16/08/2021      | Casual Contact       | Dubbo           | News Extra Dubbo117 Macquarie Street | 4pm to 5pm on Thursday 12 August 2021                        |
+| 17/08/2021      | Close Contact        | Dubbo           | News at the Mall Shop 35 Orana Mall, 56 Windsor Parade | 12:45pm to 5:45pm on Wednesday 11 August 2021                |
 | 14/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo10 Erskine Street | 4:23pm to 4:42pm on Thursday 5 August 2021                   |
 | 15/08/2021      | Casual Contact       | Dubbo           | Oporto Dubbo4 Whylandra Street | 12:40pm to 12:50pm on Monday 9 August 2021                   |
 | 15/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre - Food Court56 Windsor Parade | 10:45am to 11:10am on Saturday 7 August 2021                 |
@@ -245,6 +247,7 @@
 | 06/08/2021      | Casual Contact       | Jesmond         | Priceline Pharmacy JesmondJesmond Central, 20A/28 Blue Gum Road | 9:10am to 9:20am on Friday 13 August 202112:50pm to 12:55pm on Wednesday 4 August 20214pm to 4:20pm on Monday 2 August 2021 |
 | 13/08/2021      | Casual Contact       | Jesmond         | R-Harn Thai Eatery14 Blue Gum Road | 5:35pm to 6pm on Monday 9 August 2021                        |
 | 09/08/2021      | Casual Contact       | Jesmond         | Woolworths Jesmond24-26 Blue Gum Road | 4:20pm to 4:30pm on Sunday 8 August 20218:30pm to 8:40pm on Saturday 7 August 20215pm to 5:15pm on Friday 6 August 20217:30pm to 7:45pm on Thursday 5 August 20213:05pm to 3:25pm on Tuesday 3 August 2021 |
+| 17/08/2021      | Casual Contact       | Jewells         | Coastal Electronic Repairs 12 Melanie Close | 10:45am to 11am on Wednesday 4 August 2021                   |
 | 10/08/2021      | Casual Contact       | Jilliby         | McDonald's Jilliby (M1 northbound)M1 Northbound | 9:15am to 9:45am on Friday 6 August 2021                     |
 | 09/08/2021      | Casual Contact       | Kellyville      | Choice Pharmacy Kellyville8/46 Withers Road | 8am to 8pm on Friday 6 August 20218am to 3pm on Wednesday 4 August 20218am to 2pm on Tuesday 3 August 20218am to 6pm on Saturday 31 July 2021 |
 | 08/08/2021      | Casual Contact       | Kogarah         | Woolworths KogarahKogarah Town Centre, Railway Parade | 8:35pm to 9pm on Friday 6 August 20218:35pm to 9pm on Wednesday 28 July 2021 |
@@ -326,6 +329,7 @@
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Maxims Topping Mad3/3 Cleeve Close | 3:30pm to 12am (midnight) on Wednesday 4 August 2021         |
 | 08/08/2021      | Casual Contact       | Mount Druitt    | Mount Druitt Fruit MarketShop 2/3, 49 North Parade | 12pm (noon) to 1pm on Friday 6 August 2021All day on Tuesday 3 August 2021 |
 | 09/08/2021      | Casual Contact       | Mount Druitt    | Superior Bakeshop and MoreCarlisle Avenue | 12pm (noon) to 1pm on Friday 6 August 2021                   |
+| 17/08/2021      | Casual Contact       | Mount Hutton    | Dunkley Dash Espresso Hut7/8 Dunkley Parade | 6:25am to 6:35am on Saturday 7 August 20216:25am to 6:35am on Friday 6 August 20216:25am to 6:35am on Thursday 5 August 20216:25am to 6:35am on Wednesday 4 August 20216:25am to 6:35am on Tuesday 3 August 20216:25am to 6:35am on Monday 2 August 2021 |
 | 17/08/2021      | Casual Contact       | Mudgee          | Big W Mudgee Perry Street | 9:05am to 9:10am on Saturday 14 August 202110:45am to 11:05am on Thursday 12 August 2021 |
 | 17/08/2021      | Casual Contact       | Mudgee          | Blooms the Chemist Southside Mudgee Shop 3, 145 Church Street | 2:45pm to 3pm on Friday 13 August 2021                       |
 | 15/08/2021      | Casual Contact       | Mudgee          | Bunnings MudgeeCorner of Castlereagh Highway and Burrundulla Road | 12:25pm to 12:30pm on Wednesday 11 August 2021               |
@@ -478,7 +482,7 @@
 | 10/08/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 8:30am to 9am on Monday 9 August 2021                        |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11:40am to 12:20pm on Wednesday 11 August 2021               |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Woolworths, Peninsula Plaza Woy Woy63 Blackwall Road | 1:10pm to 1:55pm on Sunday 8 August 2021                     |
-| 05/08/2021      | Casual Contact       | Yagoona         | 5 Stars Nuts Supermarket526 Hume Highway | 4:25pm to 4:30pm on Friday 6 August 20215:05pm to 5:30pm on Friday 30 July 2021 |
+| 05/08/2021      | Casual Contact       | Yagoona         | 5 Stars Nuts Supermarket526 Hume Highway | 12:55pm to 1:05pm on Monday 9 August 20214:25pm to 4:30pm on Friday 6 August 20213:10pm to 3:30pm on Thursday 5 August 20211:45pm to 1:50pm on Wednesday 4 August 20215:05pm to 5:30pm on Friday 30 July 2021 |
 | 13/08/2021      | Casual Contact       | Yagoona         | Cedar Valley Meats1/44 Dargan Street | 1:15pm to 1:30pm on Monday 9 August 2021                     |
 | 13/08/2021      | Casual Contact       | Yagoona         | Mr Cheap Household and Party Supply2/516 Hume Highway | 4:15pm to 4:25pm on Friday 6 August 2021                     |
 | 11/08/2021      | Casual Contact       | Yagoona         | TSG Tobacconist Yagoona4/456 Cooper Road | 10:15am to 10:30am on Saturday 7 August 20211:30pm to 1:45pm on Wednesday 4 August 2021 |
