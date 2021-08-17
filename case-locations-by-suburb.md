@@ -31,7 +31,7 @@
 | 07/08/2021      | Close Contact        | Belmore         | Belmore Physiotherapy and Sports Injury Centre372 Burwood Road | 1pm to 5:30pm on Tuesday 3 August 2021                       |
 | 13/08/2021      | Casual Contact       | Belmore         | Crazy Fruit World BelmoreBurwood Road | 1:05pm to 1:10pm on Thursday 5 August 2021                   |
 | 29/07/2021      | Casual Contact       | Berala          | Woolworths Berala16 Woodburn Road | 4:05pm to 4:10pm on Tuesday 3 August 20212:15pm to 2:30pm on Friday 30 July 20216pm to 12am (midnight) on Thursday 29 July 20218:10pm to 9:25pm on Thursday 22 July 2021 |
-| 17/08/2021      | Casual Contact       | Beresfield      | The Steggles Shop Hawthorne Street | 2:20pm to 2:50pm on Monday 2 August 2021                     |
+| 17/08/2021      | Casual Contact       | Beresfield      | The Steggles Shop Hawthorne Street | 2:20pm to 2:50pm on Thursday 12 August 2021                  |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | BelSorriso Italian Restaurant254 Lakedge Avenue | 5:50pm to 6:05pm on Monday 9 August 20216pm to 6:15pm on Wednesday 4 August 2021 |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | Lanas Cafe256 Lakedge Avenue | 8:05am to 8:15am on Saturday 7 August 20217:20am to 7:30am on Sunday 1 August 2021 |
 | 12/08/2021      | Casual Contact       | Berkeley Vale   | Liquor Stax Berkeley Vale Cellars258 Lakedge Avenue | 5:35pm to 5:40pm on Friday 6 August 2021                     |
@@ -136,7 +136,7 @@
 | 15/08/2021      | Casual Contact       | Dubbo           | Bob Jane T-Marts Dubbo223 Macquarie Street | 8am to 8:30am on Wednesday 11 August 2021                    |
 | 13/08/2021      | Casual Contact       | Dubbo           | Bunnings DubboCorner Mitchell Highway and Sheraton Road | 8:12am to 8:20am on Monday 9 August 2021                     |
 | 17/08/2021      | Casual Contact       | Dubbo           | Caltex Dubbo Dulhunty 60/64 Windsor Parade | 9am to 9:20am on Tuesday 10 August 2021                      |
-| 16/08/2021      | Casual Contact       | Dubbo           | Caltex Woolworths Dubbo34 Bluebird Boulevarde | 8:35am to 8:50am on Thursday 12 August 2021                  |
+| 16/08/2021      | Casual Contact       | Dubbo           | Caltex Woolworths DubboCobra Street and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
 | 14/08/2021      | Casual Contact       | Dubbo           | Chemist Warehouse Dubbo166 Macquarie Street | 2:20pm to 2:35pm on Saturday 7 August 2021                   |
 | 17/08/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 8:20am to 8:30am on Thursday 12 August 202110am to 10:20am on Thursday 12 August 2021 |
 | 16/08/2021      | Casual Contact       | Dubbo           | Coles Express West DubboWhylandra Street | 1:50pm to 1:55pm on Thursday 12 August 2021                  |
