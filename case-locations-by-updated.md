@@ -1,5 +1,26 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 18/08/2021      | Casual Contact       | Shell Cove      | Woolworths Shell Cove 100 Cove Boulevarde | 12:15pm to 1pm on Wednesday 11 August 2021                   |
+| 18/08/2021      | Casual Contact       | Shell Cove      | Get Stuffed Chicken Shop  Shop 8/100 Cove Boulevarde | 11:15am to 11:30am on Wednesday 11 August 2021               |
+| 18/08/2021      | Casual Contact       | Maitland        | The Reject Shop Maitland 424 High Street | 10:25am to 10:35am on Monday 9 August 2021                   |
+| 18/08/2021      | Casual Contact       | Kotara          | The Reject Shop KotaraShop A002/108 Park Avenue | 11:30am to 12pm on Saturday 7 August 2021                    |
+| 18/08/2021      | Casual Contact       | Gilgandra       | Carlos SUPA IGA 43-45 Miller Street | 11:05am to 11:10am on Friday 13 August 2021                  |
+| 18/08/2021      | Casual Contact       | Dubbo           | Woolworths Orana Mall 56 Windsor Parade | 11:40am to 11:55am on Saturday 14 August 202111:15am to 12:30pm on Thursday 12 August 202111:25am to 12pm on Monday 9 August 2021 |
+| 18/08/2021      | Casual Contact       | Dubbo           | United Service Station - Pieface195 Cobra Street | 9pm to 9:05pm on Friday 13 August 2021                       |
+| 18/08/2021      | Close Contact        | Dubbo           | Snap Fitness Dubbo113 Darling Street | 5:30pm to 6:30pm on Tuesday 10 August 2021                   |
+| 18/08/2021      | Casual Contact       | Dubbo           | Orana Tobacconist Dubbo Orana Mall Shopping Centre, 56 Windsor Paradae | 11:50am to 12pm on Saturday 14 August 2021                   |
+| 18/08/2021      | Casual Contact       | Dubbo           | Myer Dubbo Macquarie Street | 1pm to 1:35pm on Monday 9 August 2021                        |
+| 18/08/2021      | Close Contact        | Dubbo           | Itty Bitty Spa Suite 23/25 Macquarie Chambers, 69-79 Macquarie Street | 9:30am to 5:30pm on Tuesday 10 August 2021                   |
+| 18/08/2021      | Close Contact        | Dubbo           | Coles Dubbo Dubbo Square, Bultje Street | 7pm to 8pm on Tuesday 17 August 2021                         |
+| 18/08/2021      | Casual Contact       | Dubbo           | Caltex DubboCobra St and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
+| 18/08/2021      | Casual Contact       | Broken Hill     | Coles Express 3 South Road | 10:25am to 10:50am on Sunday 15 August 2021                  |
+| 18/08/2021      | Close Contact        | Broken Hill     | Alfresco's Cafe397 Argent Street | 1:25pm to 2:10pm on Monday 16 August 2021                    |
+| 18/08/2021      | Casual Contact       | Bourke          | SPAR Bourke5 Warraweena Street | 11:55am to 12pm on Monday 16 August 20211:10pm to 1:15pm on Sunday 15 August 2021 |
+| 18/08/2021      | Casual Contact       | Bourke          | Khans SUPA IGA Oxley Street | 10:10am to 10:20am on Monday 16 August 20215:55pm to 6pm on Friday 13 August 2021 |
+| 18/08/2021      | Casual Contact       | Albion Park     | Delicia Convenience Store Shop 2/132 Burdekin Drive | 4pm to 4:10pm on Saturday 14 August 2021                     |
+| 18/08/2021      | Casual Contact       | Albion Park     | Calders General Store 152 Terry Street | 10pm to 10:10pm on Saturday 14 August 2021                   |
+| 18/08/2021      | Casual Contact       | Albion Park     | Woolworths Albion Park Corner Terry and Russell Street | 10:15am to 11:15am on Friday 13 August 2021                  |
+| 18/08/2021      | Casual Contact       | Albion Park     | Australia Post Albion Park133 Tongarra Road | 8:55am to 9:30am on Wednesday 11 August 2021                 |
 | 17/08/2021      | Close Contact        | Mudgee          | Smoke Mart Gift Box MudgeeShop 4, Town Centre, Mortimer Street | 4:40pm to 4:45pm on Friday 13 August 2021                    |
 | 17/08/2021      | Close Contact        | Mudgee          | Smart Dollar Mudgee89 Mortimer Street | 3:30pm to 3:45pm on Friday 13 August 2021                    |
 | 17/08/2021      | Close Contact        | Mudgee          | Lawson Park Hotel1 Church Street | 4:05pm to 4:45pm on Thursday 12 August 2021                  |
@@ -20,8 +41,7 @@
 | 17/08/2021      | Close Contact        | Dubbo           | Cross Coffee House73 Macquarie Street | 6:50am to 7:05am on Wednesday 11 August 2021                 |
 | 17/08/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 8:20am to 8:30am on Thursday 12 August 202110am to 10:20am on Thursday 12 August 2021 |
 | 17/08/2021      | Casual Contact       | Dubbo           | Caltex Dubbo Dulhunty60/64 Windsor Parade | 9am to 9:20am on Tuesday 10 August 2021                      |
-| 17/08/2021      | Close Contact        | Broken Hill     | Alfresco's Cafe397 Argent Street | 1:55pm to 2:15pm on Monday 16 August 2021                    |
-| 17/08/2021      | Casual Contact       | Beresfield      | The Steggles ShopHawthorne Street | 2:20pm to 2:50pm on Thursday 12 August 2021                  |
+| 17/08/2021      | Casual Contact       | Beresfield      | The Steggles ShopHawthorne Street | 7:20am to 2:50pm on Thursday 12 August 2021                  |
 | 16/08/2021      | Close Contact        | Waratah         | The Redeemed Christian Church of God, City of David Newcastle1/27 Crescent Road | All day on Wednesday 4 August 2021All day on Tuesday 3 August 2021All day on Monday 2 August 2021All day on Sunday 1 August 2021All day on Saturday 31 July 2021 |
 | 16/08/2021      | Casual Contact       | Strathfield South | Sydney Meat Market1 Madeline Street | 4am to 9am on Friday 6 August 20214am to 9am on Thursday 5 August 20214am to 9am on Wednesday 4 August 2021 |
 | 16/08/2021      | Close Contact        | New Lambton     | Wests New Lambton - Lower alfresco gaming area, main bar and Hopsmith bar smoking area88 Hobart Road | 7:50pm to 10pm on Wednesday 4 August 2021                    |
@@ -32,10 +52,10 @@
 | 16/08/2021      | Casual Contact       | Dubbo           | Subway Dubbo2/217 Brisbane Street | 12:35pm to 12:45pm on Sunday 8 August 2021                   |
 | 16/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre56 Windsor Parade | 12:10pm to 12:25pm on Saturday 7 August 2021                 |
 | 16/08/2021      | Casual Contact       | Dubbo           | News Extra Dubbo117 Macquarie Street | 4pm to 5pm on Thursday 12 August 2021                        |
-| 16/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 11:30am on Tuesday 10 August 20212:45pm to 3:30pm on Sunday 8 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner Bultje and Macquarie Streets | 10:30am to 11:30am on Tuesday 10 August 202112:15pm to 12:40pm on Monday 9 August 20212:45pm to 3:30pm on Sunday 8 August 2021 |
 | 16/08/2021      | Casual Contact       | Dubbo           | Coles Express West DubboWhylandra Street | 1:50pm to 1:55pm on Thursday 12 August 2021                  |
 | 16/08/2021      | Casual Contact       | Dubbo           | Caltex Woolworths DubboCobra Street and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
-| 16/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 9am to 9:05am on Friday 13 August 202110am to 12pm (noon) on Monday 9 August 2021 |
+| 16/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 9am to 9:05am on Friday 13 August 202111am to 11:20am on Thursday 12 August 202110am to 12pm (noon) on Monday 9 August 2021 |
 | 16/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | 6:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
 | 16/08/2021      | Casual Contact       | Bathurst        | Petries Mitre 10 Bathurst66 Bentinck Street | 12:35pm to 12:35pm on Saturday 7 August 2021                 |
 | 15/08/2021      | Close Contact        | Orange          | Village Bakehouse208 Peisley Street | 10:50am to 12:10pm on Sunday 8 August 2021                   |
