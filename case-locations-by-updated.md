@@ -11,7 +11,7 @@
 | 18/08/2021      | Casual Contact       | Dubbo           | Orana Tobacconist Dubbo Orana Mall Shopping Centre, 56 Windsor Paradae | 11:50am to 12pm on Saturday 14 August 2021                   |
 | 18/08/2021      | Casual Contact       | Dubbo           | Myer Dubbo Macquarie Street | 1pm to 1:35pm on Monday 9 August 2021                        |
 | 18/08/2021      | Close Contact        | Dubbo           | Itty Bitty Spa Suite 23/25 Macquarie Chambers, 69-79 Macquarie Street | 9:30am to 5:30pm on Tuesday 10 August 2021                   |
-| 18/08/2021      | Close Contact        | Dubbo           | Coles Dubbo Dubbo Square, Bultje Street | 7pm to 8pm on Tuesday 17 August 2021                         |
+| 18/08/2021      | Casual Contact       | Dubbo           | Coles Dubbo Dubbo Square, Bultje Street | 7pm to 8pm on Tuesday 17 August 2021                         |
 | 18/08/2021      | Casual Contact       | Dubbo           | Caltex DubboCobra St and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
 | 18/08/2021      | Casual Contact       | Broken Hill     | Coles Express 3 South Road | 10:25am to 10:50am on Sunday 15 August 2021                  |
 | 18/08/2021      | Close Contact        | Broken Hill     | Alfresco's Cafe397 Argent Street | 1:25pm to 2:10pm on Monday 16 August 2021                    |
@@ -151,7 +151,7 @@
 | 13/08/2021      | Casual Contact       | Green Hills     | Blooms the Chemist Green HillsStockland Green Hills, 1 Molly Morgan Drive | 12:45pm to 1:10pm on Friday 6 August 2021                    |
 | 13/08/2021      | Casual Contact       | Glendenning     | Subway Glendenning1/670 Richmond Road | 3pm to 3:15pm on Wednesday 4 August 2021                     |
 | 13/08/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 5:25pm to 5:35pm on Monday 9 August 2021                     |
-| 13/08/2021      | Casual Contact       | Edgeworth       | Aldi Edgeworth57 Thomas Street | 1:30pm to 1:40pm on Saturday 7 August 2021                   |
+| 13/08/2021      | Casual Contact       | Edgeworth       | Aldi Edgeworth57 Thomas Street | 4:40pm to 5:45pm on Sunday 15 August 20218:30am to 9:30am on Saturday 14 August 20213:15pm to 4pm on Thursday 12 August 20211:30pm to 1:40pm on Saturday 7 August 2021 |
 | 13/08/2021      | Casual Contact       | East Maitland   | Kmart Green HillsStockland Green Hills, 1 Molly Morgan Drive | 4:20pm to 4:35pm on Wednesday 4 August 2021                  |
 | 13/08/2021      | Close Contact        | Dubbo           | United Service Station195 Cobra Street | 12:20pm to 12:40pm on Thursday 12 August 2021                |
 | 13/08/2021      | Casual Contact       | Dubbo           | United Service Station 195 Cobra Street | 4:25pm to 4:28pm on Monday 9 August 2021                     |

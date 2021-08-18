@@ -127,7 +127,7 @@
 | 18/08/2021      | Casual Contact       | Dubbo           | Caltex DubboCobra St and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
 | 16/08/2021      | Casual Contact       | Dubbo           | Caltex Woolworths DubboCobra Street and Brisbane Street | 8:35am to 8:50am on Thursday 12 August 2021                  |
 | 14/08/2021      | Casual Contact       | Dubbo           | Chemist Warehouse Dubbo166 Macquarie Street | 2:20pm to 2:35pm on Saturday 7 August 2021                   |
-| 18/08/2021      | Close Contact        | Dubbo           | Coles Dubbo Dubbo Square, Bultje Street | 7pm to 8pm on Tuesday 17 August 2021                         |
+| 18/08/2021      | Casual Contact       | Dubbo           | Coles Dubbo Dubbo Square, Bultje Street | 7pm to 8pm on Tuesday 17 August 2021                         |
 | 17/08/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 8:20am to 8:30am on Thursday 12 August 202110am to 10:20am on Thursday 12 August 2021 |
 | 16/08/2021      | Casual Contact       | Dubbo           | Coles Express West DubboWhylandra Street | 1:50pm to 1:55pm on Thursday 12 August 2021                  |
 | 11/08/2021      | Close Contact        | Dubbo           | Covid Safe Clinic77 Myall Street | 7:45am to 8:35am on Tuesday 10 August 2021                   |
@@ -184,7 +184,7 @@
 | 14/08/2021      | Casual Contact       | East Maitland   | Guzman y Gomez East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 5pm to 8:30pm on Wednesday 11 August 20212:30pm to 8:30pm on Monday 9 August 20212:30pm to 8:30pm on Sunday 8 August 20212:30pm to 8:30pm on Saturday 7 August 2021 |
 | 13/08/2021      | Casual Contact       | East Maitland   | Kmart Green HillsStockland Green Hills, 1 Molly Morgan Drive | 4:20pm to 4:35pm on Wednesday 4 August 2021                  |
 | 08/08/2021      | Casual Contact       | Eastwood        | Woolworths EastwoodEastwood Shopping Centre, 160 Rowe Street | 5:15pm to 5:30pm on Thursday 5 August 2021                   |
-| 13/08/2021      | Casual Contact       | Edgeworth       | Aldi Edgeworth57 Thomas Street | 1:30pm to 1:40pm on Saturday 7 August 2021                   |
+| 13/08/2021      | Casual Contact       | Edgeworth       | Aldi Edgeworth57 Thomas Street | 4:40pm to 5:45pm on Sunday 15 August 20218:30am to 9:30am on Saturday 14 August 20213:15pm to 4pm on Thursday 12 August 20211:30pm to 1:40pm on Saturday 7 August 2021 |
 | 10/08/2021      | Casual Contact       | Elermore Vale   | Caltex Elermore Vale54 Cardiff Road | 8:45am to 9:15am on Thursday 5 August 2021                   |
 | 12/08/2021      | Casual Contact       | Enfield         | Smokey Kebabs and Pizza138 Liverpool Road | 2:15pm to 2:30pm on Friday 6 August 2021                     |
 | 16/08/2021      | Casual Contact       | Engadine        | Commonwealth Bank Engadine1049 Old Princes Highway | 2:20pm to 3pm on Wednesday 4 August 2021                     |
