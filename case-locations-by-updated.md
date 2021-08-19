@@ -1,9 +1,13 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 19/08/2021      | Casual Contact       | Thornton        | Phoenix House ChineseThornton Shopping Centre, Taylor Avenue | 11:55am to 12:15pm on Wednesday 11 August 2021               |
 | 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Wednesday 11 August 2021                    |
 | 19/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond Terrace NorthMarketPlace Raymond Terrace, 39 Port Stephens Street | 7:20am to 10:50am on Monday 9 August 2021                    |
+| 19/08/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner Crawford and Antill Street | 9am to 11:30am on Monday 16 August 2021                      |
+| 19/08/2021      | Casual Contact       | Queanbeyan      | Amcal Pharmacy Queanbeyan23 Antill Street | 9am to 11:30am on Monday 16 August 2021                      |
 | 19/08/2021      | Casual Contact       | Mortdale        | The Barra16 Morts Road    | 5pm to 9pm on Sunday 8 August 20214pm to 9pm on Saturday 7 August 202112pm (noon) to 9pm on Friday 6 August 2021 |
 | 19/08/2021      | Casual Contact       | Morpeth         | Spar Express Supermarket Morpeth1/165 Swan Street | 7:15pm to 7:17pm on Friday 13 August 20216:36pm to 6:41pm on Thursday 12 August 20217:14pm to 7:16pm on Wednesday 11 August 2021 |
+| 19/08/2021      | Casual Contact       | Jesmond         | Young Asian Grocery Store Jesmond15 Blue Gum Road | 6:45pm to 7pm on Saturday 7 August 20214:55pm to 5:05pm on Thursday 5 August 2021 |
 | 19/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:20am to 10:45am on Sunday 15 August 2021                  |
 | 19/08/2021      | Casual Contact       | East Maitland   | Your Discount Chemist East Maitland125 Lawes Street | 11:09am to 11:11am on Friday 13 August 20214:37pm to 5pm on Thursday 12 August 2021 |
 | 19/08/2021      | Casual Contact       | East Maitland   | Coles East MaitlandStockland Green Hills, Molly Morgan Drive | 5:20pm to 5:30pm on Wednesday 11 August 20211:12pm to 2:22pm on Wednesday 11 August 2021 |
