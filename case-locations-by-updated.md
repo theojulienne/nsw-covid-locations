@@ -1,7 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 19/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 202111:01am to 11:03am on Saturday 0 January 1900 |
+| 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Saturday 0 January 1900                     |
+| 19/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond TerraceMarketPlace Raymond Terrace, 39 Port Stephens Street | 7:21pm to 10:47pm on Monday 9 August 2021                    |
+| 19/08/2021      | Casual Contact       | Morpeth         | Spar Express Supermarket Morpeth1/165 Swan Street | 7:15pm to 7:17pm on Friday 13 August 20216:36pm to 6:41pm on Thursday 12 August 20217:14pm to 7:16pm on Wednesday 11 August 2021 |
+| 19/08/2021      | Casual Contact       | East Maitland   | Your Discount Chemist East Maitland125 Lawes Street | 4:37pm to 5pm on Saturday 0 January 190011:09am to 11:11am on Saturday 0 January 1900 |
+| 19/08/2021      | Casual Contact       | East Maitland   | Coles East MaitlandStockland Green Hills, Molly Morgan Drive | 5:20pm to 5:30pm on Wednesday 11 August 20211:30pm to 1:39pm on Wednesday 11 August 20211:12pm to 2:22pm on Wednesday 11 August 2021 |
 | 18/08/2021      | Casual Contact       | Wilcannia       | Wilcannia Roadhouse Grahams Motel2 Myers Street | 9am to 9:10am on Saturday 14 August 2021                     |
-| 18/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 2021                     |
 | 18/08/2021      | Casual Contact       | Shell Cove      | Woolworths Shell Cove100 Cove Boulevarde | 12:15pm to 1pm on Wednesday 11 August 2021                   |
 | 18/08/2021      | Casual Contact       | Shell Cove      | Get Stuffed Chicken ShopShop 8/100 Cove Boulevarde | 11:15am to 11:30am on Wednesday 11 August 2021               |
 | 18/08/2021      | Casual Contact       | Maitland        | The Reject Shop Maitland424 High Street | 10:25am to 10:35am on Monday 9 August 2021                   |
