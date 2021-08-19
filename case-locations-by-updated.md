@@ -1,8 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Wednesday 11 August 2021                    |
-| 19/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond TerraceMarketPlace Raymond Terrace, 39 Port Stephens Street | 7:20am to 10:50am on Wednesday 8 September 202110am to 10:05am on Sunday 15 August 20217:21pm to 10:47pm on Monday 9 August 2021 |
+| 19/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond Terrace NorthMarketPlace Raymond Terrace, 39 Port Stephens Street | 7:20am to 10:50am on Monday 9 August 2021                    |
+| 19/08/2021      | Casual Contact       | Mortdale        | The Barra16 Morts Road    | 5pm to 9pm on Sunday 8 August 20214pm to 9pm on Saturday 7 August 202112pm (noon) to 9pm on Friday 6 August 2021 |
 | 19/08/2021      | Casual Contact       | Morpeth         | Spar Express Supermarket Morpeth1/165 Swan Street | 7:15pm to 7:17pm on Friday 13 August 20216:36pm to 6:41pm on Thursday 12 August 20217:14pm to 7:16pm on Wednesday 11 August 2021 |
+| 19/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:20am to 10:45am on Sunday 15 August 2021                  |
 | 19/08/2021      | Casual Contact       | East Maitland   | Your Discount Chemist East Maitland125 Lawes Street | 11:09am to 11:11am on Friday 13 August 20214:37pm to 5pm on Thursday 12 August 2021 |
 | 19/08/2021      | Casual Contact       | East Maitland   | Coles East MaitlandStockland Green Hills, Molly Morgan Drive | 5:20pm to 5:30pm on Wednesday 11 August 20211:12pm to 2:22pm on Wednesday 11 August 2021 |
 | 18/08/2021      | Casual Contact       | Wilcannia       | Wilcannia Roadhouse Grahams Motel2 Myers Street | 9am to 9:10am on Saturday 14 August 2021                     |
@@ -13,6 +15,7 @@
 | 18/08/2021      | Casual Contact       | Sydney          | Guzman y Gomez Sydney2 Dream Dining, Shop T2-8 Tower/201 Sussex Street | 8:55am to 3:30pm on Tuesday 10 August 2021                   |
 | 18/08/2021      | Casual Contact       | Shell Cove      | Woolworths Shell Cove100 Cove Boulevarde | 12:15pm to 1pm on Wednesday 11 August 2021                   |
 | 18/08/2021      | Casual Contact       | Shell Cove      | Get Stuffed Chicken ShopShop 8/100 Cove Boulevarde | 11:15am to 11:30am on Wednesday 11 August 2021               |
+| 18/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond TerraceRaymond Central Plaza, 39-41 Glenelg Street | 10am to 10:05am on Sunday 15 August 2021                     |
 | 18/08/2021      | Close Contact        | Newtown         | Summer House Backpackers Newtown5-11 Egan Street | All day on Friday 13 August 2021All day on Thursday 12 August 2021 |
 | 18/08/2021      | Casual Contact       | Mayfield        | Woolworths MayfieldMaitland Road and Valencia Street | 8:46am to 8:58pm on Wednesday 11 August 2021                 |
 | 18/08/2021      | Casual Contact       | Maitland        | The Reject Shop Maitland424 High Street | 10:25am to 10:35am on Monday 9 August 2021                   |
@@ -67,7 +70,7 @@
 | 17/08/2021      | Close Contact        | Mudgee          | Club Mudgee RSL99 Mortimer Street | 12:25pm to 2:30pm on Thursday 12 August 2021                 |
 | 17/08/2021      | Casual Contact       | Mudgee          | Blooms the Chemist Southside MudgeeShop 3, 145 Church Street | 2:45pm to 3pm on Friday 13 August 2021                       |
 | 17/08/2021      | Casual Contact       | Mudgee          | Big W MudgeePerry Street  | 9:05am to 9:10am on Saturday 14 August 202110:45am to 11:05am on Thursday 12 August 2021 |
-| 17/08/2021      | Casual Contact       | Mount Hutton    | Dunkley Dash Espresso Hut7/8 Dunkley Parade | 6:25am to 6:35am on Saturday 7 August 20216:25am to 6:35am on Friday 6 August 20216:25am to 6:35am on Thursday 5 August 20216:25am to 6:35am on Wednesday 4 August 20216:25am to 6:35am on Tuesday 3 August 20216:25am to 6:35am on Monday 2 August 2021 |
+| 17/08/2021      | Casual Contact       | Mount Hutton    | Dunkley Dash Espresso Hut7/8 Dunkley Parade | 6:25am to 6:35am on Friday 6 August 20216:25am to 6:35am on Thursday 5 August 20216:25am to 6:35am on Wednesday 4 August 20216:25am to 6:35am on Tuesday 3 August 20216:25am to 6:35am on Monday 2 August 2021 |
 | 17/08/2021      | Casual Contact       | Guildford       | Excelsior Family Medical Centre175 Excelsior Street | 6:45pm to 7:05pm on Saturday 7 August 2021                   |
 | 17/08/2021      | Close Contact        | Dubbo           | Telstra Store DubboOrana Mall Shopping Centre, 56 Windsor Parade | 12pm (noon) to 12:30pm on Wednesday 11 August 2021           |
 | 17/08/2021      | Close Contact        | Dubbo           | Sid's Bottle Shop250-256 Macquarie Street | 12:15pm to 12:20pm on Wednesday 11 August 2021               |
@@ -253,7 +256,6 @@
 | 11/08/2021      | Casual Contact       | Mount Druitt    | Goldworld Fish4 Mount Street | 11:55am to 12:10pm on Saturday 7 August 2021                 |
 | 11/08/2021      | Casual Contact       | Mount Druitt    | Coles Mount DruittCorner Carlisle Avenue and Luxford Road | 11:25am to 11:50am on Saturday 7 August 2021                 |
 | 11/08/2021      | Casual Contact       | Mount Druitt    | Aldi Mount Druitt16 Zoe Place | 12:30pm to 12:55pm on Saturday 7 August 2021                 |
-| 11/08/2021      | Casual Contact       | Mortdale        | The Barra16 Morts Road    | 5pm to 9pm on Sunday 8 August 20214pm to 9pm on Saturday 7 August 202112pm (noon) to 9pm on Saturday 7 August 2021 |
 | 11/08/2021      | Casual Contact       | Minto           | Woolworths Minto10 Brookfield Road | 1pm to 2pm on Monday 9 August 2021                           |
 | 11/08/2021      | Casual Contact       | Mascot          | Sydney Airport - Domestic Terminal 3Keith Smith Avenue | 3pm to 5pm on Monday 9 August 2021                           |
 | 11/08/2021      | Casual Contact       | Marayong        | Australia Post Marayong58 Railway Road | 11am to 11:30am on Monday 9 August 2021                      |
