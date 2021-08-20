@@ -14,7 +14,7 @@
 | 18/08/2021      | Casual Contact       | Wilcannia       | Wilcannia Roadhouse Grahams Motel2 Myers Street | 9am to 9:10am on Saturday 14 August 2021                     |
 | 18/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:20pm to 7:30pm on Sunday 15 August 202112:32pm to 12:50pm on Friday 13 August 20217:31pm to 7:37pm on Monday 9 August 2021 |
 | 18/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:26pm to 2:30pm on Sunday 15 August 2021                    |
-| 18/08/2021      | Casual Contact       | Thornton        | Coles ThorntonThornton Shopping Centre, Taylor Avenue and Thomas Coke Drive | 12:06am to 12:14am on Wednesday 11 August 2021               |
+| 18/08/2021      | Casual Contact       | Thornton        | Coles ThorntonThornton Shopping Centre, Taylor Avenue and Thomas Coke Drive | 12:06pm to 12:14pm on Wednesday 11 August 2021               |
 | 18/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 2021                     |
 | 18/08/2021      | Casual Contact       | Sydney          | Guzman y Gomez Sydney2 Dream Dining, Shop T2-8 Tower/201 Sussex Street | 8:55am to 3:30pm on Tuesday 10 August 2021                   |
 | 18/08/2021      | Casual Contact       | Shell Cove      | Woolworths Shell Cove100 Cove Boulevarde | 12:15pm to 1pm on Wednesday 11 August 2021                   |
