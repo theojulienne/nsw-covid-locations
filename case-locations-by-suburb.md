@@ -235,6 +235,8 @@
 | 09/08/2021      | Casual Contact       | Pendle Hill     | Pendle Hill Family Medical Centre129-131 Pendle Way | 9am to 1:15pm on Friday 6 August 20219:20am to 2:10pm on Thursday 5 August 20219am to 1:10pm on Wednesday 4 August 20219:35am to 1:45pm on Tuesday 3 August 2021 |
 | 11/08/2021      | Casual Contact       | Penrith         | Dan Murphys PenrithCorner Maxwell Street and The Northern Road | 7:30pm to 7:45pm on Friday 6 August 2021                     |
 | 08/08/2021      | Casual Contact       | Plumpton        | Plumpton MarketplacePlumpton Marketplace, Jersey Road | 3pm to 3:15pm on Friday 6 August 2021                        |
+| 20/08/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 3:45pm to 4:05pm on Saturday 14 August 2021                  |
+| 20/08/2021      | Casual Contact       | Port Macquarie  | Little Shack CafeTown Green, 1 Munster Street | 2pm to 3:30pm on Saturday 14 August 2021                     |
 | 11/08/2021      | Casual Contact       | Punchbowl       | Woolworths Punchbowl1/9 The Boulevarde | 11:45am to 12pm (noon) on Friday 6 August 202112pm (noon) to 1pm on Thursday 5 August 2021 |
 | 19/08/2021      | Casual Contact       | Queanbeyan      | Amcal Pharmacy Queanbeyan23 Antill Street | 9am to 11:30am on Monday 16 August 2021                      |
 | 19/08/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner Crawford and Antill Street | 9am to 11:30am on Monday 16 August 2021                      |

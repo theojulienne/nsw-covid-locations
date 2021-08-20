@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 20/08/2021      | Casual Contact       | Port Macquarie  | Little Shack CafeTown Green, 1 Munster Street | 2pm to 3:30pm on Saturday 14 August 2021                     |
+| 20/08/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 3:45pm to 4:05pm on Saturday 14 August 2021                  |
 | 19/08/2021      | Casual Contact       | Thornton        | Phoenix House ChineseThornton Shopping Centre, Taylor Avenue | 11:55am to 12:15pm on Wednesday 11 August 2021               |
 | 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Wednesday 11 August 2021                    |
 | 19/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond Terrace NorthMarketPlace Raymond Terrace, 39 Port Stephens Street | 7:20am to 10:50am on Monday 9 August 2021                    |
