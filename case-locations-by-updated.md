@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 21/08/2021      | Close Contact        | Rooty Hill      | Rooty Hill Medical and Dental Centre 31 Rooty Hill Road | 1:50pm to 2:05pm on Sunday 15 August 2021                    |
+| 21/08/2021      | Casual Contact       | Kempsey         | Coles KempseyBelgrave Street | 11.45am to 12.10pm on Tuesday 17 August 2021                 |
 | 21/08/2021      | Casual Contact       | Glendale        | Soul Origin GlendaleStockland Glendale Shopping Centre, Kiosk 3/387, Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
 | 21/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 11:25am to 11:40am on Sunday 15 August 2021                  |

@@ -131,8 +131,8 @@
 | 11/08/2021      | Casual Contact       | Dubbo           | The Harvest Cafe64 Palmer Street | 9:50am to 10:10am on Saturday 7 August 2021                  |
 | 20/08/2021      | Casual Contact       | Dubbo           | The Nourish Bowl 68 Gipps Street | 11am to 11:10am on Friday 20 August 2021                     |
 | 11/08/2021      | Close Contact        | Dubbo           | Tim Koerstz Pharmacy98 Tamworth Street | 1pm to 1:15pm on Monday 9 August 2021                        |
-| 18/08/2021      | Casual Contact       | Dubbo           | United Service Station - Pieface195 Cobra Street | 9pm to 9:05pm on Friday 13 August 2021                       |
 | 13/08/2021      | Casual Contact       | Dubbo           | United Service Station 195 Cobra Street | 4:25pm to 4:28pm on Monday 9 August 2021                     |
+| 18/08/2021      | Casual Contact       | Dubbo           | United Service Station - Pieface195 Cobra Street | 9pm to 9:05pm on Friday 13 August 2021                       |
 | 13/08/2021      | Close Contact        | Dubbo           | United Service Station195 Cobra Street | 12:20pm to 12:40pm on Thursday 12 August 2021                |
 | 18/08/2021      | Casual Contact       | Dubbo           | Wallace's Store61 Boundary Road | 9am to 9:15am on Tuesday 10 August 2021                      |
 | 14/08/2021      | Casual Contact       | Dubbo           | Westpac Dubbo87 Macquarie Street | 3:45pm to 3:55pm on Monday 9 August 2021                     |
@@ -174,6 +174,7 @@
 | 19/08/2021      | Casual Contact       | Jesmond         | Young Asian Grocery Store Jesmond15 Blue Gum Road | 6:45pm to 7pm on Saturday 7 August 20214:55pm to 5:05pm on Thursday 5 August 2021 |
 | 10/08/2021      | Casual Contact       | Jilliby         | McDonald's Jilliby (M1 northbound)M1 Northbound | 9:15am to 9:45am on Friday 6 August 2021                     |
 | 09/08/2021      | Casual Contact       | Kellyville      | Choice Pharmacy Kellyville8/46 Withers Road | 8am to 8pm on Friday 6 August 20218am to 3pm on Wednesday 4 August 20218am to 2pm on Tuesday 3 August 20218am to 6pm on Saturday 31 July 2021 |
+| 21/08/2021      | Casual Contact       | Kempsey         | Coles KempseyBelgrave Street | 11.45am to 12.10pm on Tuesday 17 August 2021                 |
 | 20/08/2021      | Casual Contact       | Kiama           | Woolworths Kiama View Shopping Centre 143 Terralong Street | 10:25am to 10:30am on Thursday 19 August 2021                |
 | 08/08/2021      | Casual Contact       | Kogarah         | Woolworths KogarahKogarah Town Centre, Railway Parade | 8:35pm to 9pm on Friday 6 August 20218:35pm to 9pm on Wednesday 28 July 2021 |
 | 13/08/2021      | Casual Contact       | Kotara          | Aldi KotaraKotara Homemaker Centre, 30 Northcott Drive | 11:30am to 11:55am on Sunday 8 August 2021                   |
