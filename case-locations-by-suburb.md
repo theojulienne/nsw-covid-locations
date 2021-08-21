@@ -31,7 +31,7 @@
 | 13/08/2021      | Casual Contact       | Blacktown       | Tong Li Supermarket BlacktownWestpoint Blacktown, 17 Patrick Street | 3:40pm to 4:05pm on Friday 6 August 2021                     |
 | 13/08/2021      | Casual Contact       | Blacktown       | Westpoint Blacktown17 Patrick Street | 3:40pm to 4:30pm on Friday 6 August 2021                     |
 | 20/08/2021      | Casual Contact       | Boolaroo        | Bunnings GlendaleT C Frith Avenue | 2:45pm to 3pm on Sunday 15 August 20215:00pm to 5:45pm on Saturday 14 August 2021 |
-| 21/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
+| 21/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 18/08/2021      | Casual Contact       | Bourke          | Khans Supa IGA BourkeOxley Street | 10:10am to 10:20am on Monday 16 August 20215:55pm to 6:10pm on Saturday 14 August 20215:55pm to 6pm on Friday 13 August 2021 |
 | 18/08/2021      | Casual Contact       | Bourke          | SPAR Bourke5 Warraweena Street | 11:55am to 12pm (noon) on Monday 16 August 20211:10pm to 1:15pm on Sunday 15 August 2021 |
 | 15/08/2021      | Casual Contact       | Branxton        | Coles Huntlee22 Empire Street | 6:25pm to 6:35pm on Friday 6 August 2021                     |
@@ -145,7 +145,9 @@
 | 20/08/2021      | Casual Contact       | East Maitland   | Woolworths East MaitlandStockland Green Hills, Molly Morgan Drive | 1:30pm to 2:15pm on Saturday 14 August 20211:45pm to 2:15pm on Saturday 7 August 2021 |
 | 19/08/2021      | Casual Contact       | East Maitland   | Your Discount Chemist East Maitland125 Lawes Street | 11:09am to 11:11am on Friday 13 August 20214:37pm to 5pm on Thursday 12 August 2021 |
 | 18/08/2021      | Casual Contact       | Edgeworth       | Aldi Edgeworth57 Thomas Street | 4:45pm to 5:45pm on Sunday 15 August 20218:30am to 9:30am on Saturday 14 August 20213:15pm to 4pm on Thursday 12 August 20211:30pm to 1:40pm on Saturday 7 August 2021 |
+| 21/08/2021      | Casual Contact       | Elermore Vale   | Hotel Elermore Bottle Shop145 Croudace Road | 7pm to 7:05pm on Friday 13 August 2021                       |
 | 20/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:15am to 10:45am on Sunday 15 August 2021                  |
+| 21/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Liquor Elermore Vale1/137 Croudace Road | 10:21am to 10:45am on Sunday 15 August 2021                  |
 | 12/08/2021      | Casual Contact       | Enfield         | Smokey Kebabs and Pizza138 Liverpool Road | 2:15pm to 2:30pm on Friday 6 August 2021                     |
 | 04/08/2021      | Casual Contact       | Erskine Park    | Aldi Erskine ParkCorner Swallow Drive and Peppertree Drive | 4:30pm to 6pm on Friday 6 August 20219:30am to 10am on Friday 30 July 2021 |
 | 11/08/2021      | Casual Contact       | Fairfield       | Australia Post FairfieldShop G10, Neeta City Shopping Centre, Nelson Street | 11:10am to 11:20am on Friday 6 August 2021                   |
@@ -287,6 +289,7 @@
 | 13/08/2021      | Close Contact        | Ultimo          | Tafe Ultimo, Building DHarris Street | 4:30am to 12:30pm on Tuesday 10 August 20214:30am to 12:30pm on Monday 9 August 2021 |
 | 03/08/2021      | Casual Contact       | Villawood       | Bunnings VillawoodWoodville Road and Tangerine Street | 1pm to 12am (midnight) on Monday 9 August 20213:15pm to 12am (midnight) on Saturday 7 August 20214:05pm to 4:35pm on Thursday 29 July 2021 |
 | 13/08/2021      | Close Contact        | Walgett         | Walgett Sporting Club10 Montkeila Street | 7:35pm to 7:50pm on Tuesday 10 August 2021                   |
+| 21/08/2021      | Casual Contact       | Wallsend        | BWS Wallsend DriveCorner Cowper and Murnin Street | 4:23pm to 4:29pm on Saturday 14 August 2021                  |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
 | 13/08/2021      | Casual Contact       | Waratah         | Coles WaratahWaratah Village, Turton Road and Georgetown Road | 12pm (noon) to 12:35pm on Sunday 8 August 20215:25pm to 5:45pm on Friday 6 August 20211pm to 1:40pm on Thursday 5 August 2021 |
