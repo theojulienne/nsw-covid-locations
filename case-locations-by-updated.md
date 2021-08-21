@@ -1,9 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 21/08/2021      | Close Contact        | Rooty Hill      | Rooty Hill Medical and Dental Centre 31 Rooty Hill Road | 1:50pm to 2:05pm on Sunday 15 August 2021                    |
-| 21/08/2021      | Monitor for symptoms | Glendale        | Soul Origin, Stockland Stockland Glendale Shopping Centre, Kiosk 3/387 Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
 | 21/08/2021      | Casual Contact       | Glendale        | Soul Origin GlendaleStockland Glendale Shopping Centre, Kiosk 3/387, Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
-| 21/08/2021      | Monitor for symptoms | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
+| 21/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 11:25am to 11:40am on Sunday 15 August 2021                  |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |

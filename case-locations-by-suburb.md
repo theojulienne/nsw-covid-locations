@@ -31,7 +31,7 @@
 | 13/08/2021      | Casual Contact       | Blacktown       | Tong Li Supermarket BlacktownWestpoint Blacktown, 17 Patrick Street | 3:40pm to 4:05pm on Friday 6 August 2021                     |
 | 13/08/2021      | Casual Contact       | Blacktown       | Westpoint Blacktown17 Patrick Street | 3:40pm to 4:30pm on Friday 6 August 2021                     |
 | 20/08/2021      | Casual Contact       | Boolaroo        | Bunnings GlendaleT C Frith Avenue | 2:45pm to 3pm on Sunday 15 August 20215:00pm to 5:45pm on Saturday 14 August 2021 |
-| 21/08/2021      | Monitor for symptoms | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
+| 21/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 18/08/2021      | Casual Contact       | Bourke          | Khans Supa IGA BourkeOxley Street | 10:10am to 10:20am on Monday 16 August 20215:55pm to 6:10pm on Saturday 14 August 20215:55pm to 6pm on Friday 13 August 2021 |
 | 18/08/2021      | Casual Contact       | Bourke          | SPAR Bourke5 Warraweena Street | 11:55am to 12pm (noon) on Monday 16 August 20211:10pm to 1:15pm on Sunday 15 August 2021 |
 | 15/08/2021      | Casual Contact       | Branxton        | Coles Huntlee22 Empire Street | 6:25pm to 6:35pm on Friday 6 August 2021                     |
@@ -153,7 +153,6 @@
 | 11/08/2021      | Casual Contact       | Five Dock       | Chemist Warehouse Five Dock89-91 Great North Road | 10:55am to 11:10am on Friday 6 August 2021                   |
 | 18/08/2021      | Casual Contact       | Gilgandra       | Carlos SUPA IGA43-45 Miller Street | 11:05am to 11:10am on Friday 13 August 2021                  |
 | 21/08/2021      | Casual Contact       | Glendale        | Soul Origin GlendaleStockland Glendale Shopping Centre, Kiosk 3/387, Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
-| 21/08/2021      | Monitor for symptoms | Glendale        | Soul Origin, Stockland Stockland Glendale Shopping Centre, Kiosk 3/387 Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
 | 13/08/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 5:25pm to 5:35pm on Monday 9 August 2021                     |
 | 12/08/2021      | Casual Contact       | Granville       | Caltex Granville158 Clyde Street | 3:20pm to 3:30pm on Monday 9 August 2021                     |
 | 13/08/2021      | Casual Contact       | Green Hills     | Blooms the Chemist Green HillsStockland Green Hills, 1 Molly Morgan Drive | 12:45pm to 1:10pm on Friday 6 August 2021                    |
