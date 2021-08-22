@@ -158,6 +158,7 @@
 | 20/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:15am to 10:45am on Sunday 15 August 2021                  |
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Ritchies IGA Liquor Elermore Vale1/137 Croudace Road | 10:21am to 10:45am on Sunday 15 August 2021                  |
 | 12/08/2021      | Casual Contact       | Enfield         | Smokey Kebabs and Pizza138 Liverpool Road | 2:15pm to 2:30pm on Friday 6 August 2021                     |
+| 22/08/2021      | Close Contact        | Ermington       | Ermington Butcher2 Betty Cuthbert Avenue | 7am to 4pm on Thursday 19 August 2021                        |
 | 04/08/2021      | Casual Contact       | Erskine Park    | Aldi Erskine ParkCorner Swallow Drive and Peppertree Drive | 4:30pm to 6pm on Friday 6 August 20219:30am to 10am on Friday 30 July 2021 |
 | 11/08/2021      | Casual Contact       | Fairfield       | Australia Post FairfieldShop G10, Neeta City Shopping Centre, Nelson Street | 11:10am to 11:20am on Friday 6 August 2021                   |
 | 11/08/2021      | Casual Contact       | Fairfield       | Frank's Lebanese Restaurant16 Smart Street | 12:30pm to 1pm on Saturday 7 August 2021                     |
@@ -301,6 +302,7 @@
 | 20/08/2021      | Casual Contact       | Strathfield     | Wooworths Strathfield 19/11 The Boulevard | 5pm to 10pm on Saturday 14 August 2021                       |
 | 16/08/2021      | Casual Contact       | Strathfield South | Sydney Meat Market1 Madeline Street | 4am to 9am on Friday 6 August 20214am to 9am on Thursday 5 August 20214am to 9am on Wednesday 4 August 2021 |
 | 18/08/2021      | Casual Contact       | Sydney          | Guzman y Gomez Sydney2 Dream Dining, Shop T2-8 Tower/201 Sussex Street | 8:55am to 3:30pm on Tuesday 10 August 2021                   |
+| 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Wednesday 11 August 2021                    |
 | 20/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 20212:10pm to 2:15pm on Wednesday 11 August 2021 |
 | 13/08/2021      | Casual Contact       | The Junction    | Coles The JunctionJunction Fair, 204 Union Street | 12:50pm to 1pm on Sunday 8 August 2021                       |
@@ -324,7 +326,8 @@
 | 11/08/2021      | Casual Contact       | Warilla         | Woolworths WarillaWarilla Grove Shopping Centre, 47 Shellharbour Road | 10am to 11:20am on Saturday 7 August 2021                    |
 | 10/08/2021      | Casual Contact       | Warners Bay     | Coles Warners BayWarners Bay VIllage, 30/32 John Street | 3:40pm to 3:50pm on Friday 6 August 202110:45am to 11am on Tuesday 3 August 2021 |
 | 10/08/2021      | Casual Contact       | Warners Bay     | Guardian Chemist Warners BayShop 13/30 John Street | 3pm to 4pm on Friday 6 August 2021                           |
-| 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
+| 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 11:25am to 11:40am on Sunday 15 August 2021                  |
+| 22/08/2021      | Close Contact        | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 2021 |
 | 12/08/2021      | Casual Contact       | Wentworth Point | Coles Wentworth PointMarina Square, 5 Footbridge Boulevarde | 12:50pm to 1:50pm on Saturday 7 August 202112:50pm to 1:50pm on Saturday 7 August 202111:05am to 11:20am on Wednesday 4 August 20215:05pm to 5:35pm on Saturday 31 July 2021 |
 | 12/08/2021      | Casual Contact       | Wentworth Point | Priceline Pharmacy Wentworth PointMarina Square, 5 Footbridge Boulevarde | 9:25am to 9:50am on Friday 6 August 202111am to 11:10am on Wednesday 4 August 2021 |
 | 12/08/2021      | Casual Contact       | Wentworth Point | Rose Espresso Wentworth PointMarina Square, 5 Footbridge Boulevarde | 9:15am to 9:30am on Friday 6 August 2021                     |
