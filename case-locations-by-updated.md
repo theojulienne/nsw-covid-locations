@@ -8,6 +8,7 @@
 | 22/08/2021      | Casual Contact       | Mudgee          | Aldi Mudgee 97-99 Church Street | 6pm to 6:30pm on Sunday 15 August 2021                       |
 | 22/08/2021      | Casual Contact       | Lithgow         | Coles Lithgow Corner of Lithgow Street and Bent Street | 11:40am to 12:30pm on Thursday 19 August 20211:20pm to 1:45pm on Tuesday 17 August 2021 |
 | 22/08/2021      | Casual Contact       | Lithgow         | ALDI Lithgow 2 Valley Drive | 12:30pm to 1pm on Wednesday 18 August 2021                   |
+| 22/08/2021      | Casual Contact       | Glendale        | Coles Stockland GlendaleLake Road and Stockland Drive | 8am to 8:20am on Wednesday 18 August 2021                    |
 | 22/08/2021      | Casual Contact       | Edmonson Park   | McDonlad's Edmonson Park 1952-1985 Camden Valley Way | 8:55am to 11:30am on Friday 20 August 2021                   |
 | 22/08/2021      | Casual Contact       | Edmonson Park   | McDonald's Edmonson Park 1952-1985 Camden Valley Way | 6am to 2pm on Thursday 19 August 2021                        |
 | 22/08/2021      | Casual Contact       | Dubbo           | Woolworths Riverdale 49/65 Macquarie Street | 12:30pm to 12:40pm on Friday 20 August 2021                  |
@@ -31,7 +32,7 @@
 | 21/08/2021      | Casual Contact       | Dubbo           | BWS RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 4:30pm to 4:40pm on Monday 16 August 2021                    |
 | 21/08/2021      | Casual Contact       | Cardiff         | BWS Cardiff MarketplaceCorner Macquarie and Main Roads | 5:20pm to 5:26pm on Tuesday 17 August 2021                   |
 | 21/08/2021      | Close Contact        | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
-| 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 11:25am to 11:40am on Sunday 15 August 2021                  |
+| 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 20212:10pm to 2:15pm on Wednesday 11 August 2021 |
