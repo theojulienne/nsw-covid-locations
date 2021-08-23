@@ -137,8 +137,8 @@
 | 20/08/2021      | Casual Contact       | Dubbo           | The Nourish Bowl 68 Gipps Street | 11am to 11:10am on Friday 20 August 2021                     |
 | 11/08/2021      | Close Contact        | Dubbo           | Tim Koerstz Pharmacy98 Tamworth Street | 1pm to 1:15pm on Monday 9 August 2021                        |
 | 22/08/2021      | Casual Contact       | Dubbo           | Tobacco Station Dubbo213 Macquarie Street | 12:00pm to 12:30pm on Monday 16 August 2021                  |
-| 18/08/2021      | Casual Contact       | Dubbo           | United Service Station - Pieface195 Cobra Street | 9pm to 9:05pm on Friday 13 August 2021                       |
 | 13/08/2021      | Casual Contact       | Dubbo           | United Service Station 195 Cobra Street | 4:25pm to 4:28pm on Monday 9 August 2021                     |
+| 18/08/2021      | Casual Contact       | Dubbo           | United Service Station - Pieface195 Cobra Street | 9pm to 9:05pm on Friday 13 August 2021                       |
 | 13/08/2021      | Close Contact        | Dubbo           | United Service Station195 Cobra Street | 12:20pm to 12:40pm on Thursday 12 August 2021                |
 | 18/08/2021      | Casual Contact       | Dubbo           | Wallace's Store61 Boundary Road | 9am to 9:15am on Tuesday 10 August 2021                      |
 | 14/08/2021      | Casual Contact       | Dubbo           | Westpac Dubbo87 Macquarie Street | 3:45pm to 3:55pm on Monday 9 August 2021                     |
@@ -322,6 +322,7 @@
 | 11/08/2021      | Casual Contact       | Toongabbie      | Spice Mini Market6 Aurelia Street | 10:30am to 11am on Saturday 7 August 2021                    |
 | 12/08/2021      | Casual Contact       | Tuggerah        | Petbarn Tuggerah2 Anzac Road | 10:15am to 10:30am on Saturday 7 August 2021                 |
 | 13/08/2021      | Close Contact        | Ultimo          | Tafe Ultimo, Building DHarris Street | 4:30am to 12:30pm on Tuesday 10 August 20214:30am to 12:30pm on Monday 9 August 2021 |
+| 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 03/08/2021      | Casual Contact       | Villawood       | Bunnings VillawoodWoodville Road and Tangerine Street | 1pm to 12am (midnight) on Monday 9 August 20213:15pm to 12am (midnight) on Saturday 7 August 20214:05pm to 4:35pm on Thursday 29 July 2021 |
 | 13/08/2021      | Close Contact        | Walgett         | Walgett Sporting Club10 Montkeila Street | 7:35pm to 7:50pm on Tuesday 10 August 2021                   |
 | 21/08/2021      | Casual Contact       | Wallsend        | BWS Wallsend DriveCorner Cowper and Murnin Street | 4:23pm to 4:29pm on Saturday 14 August 2021                  |

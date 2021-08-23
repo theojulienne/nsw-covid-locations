@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 23/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
+| 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish Markets Corner of Pyrmont Birdge Road and Bank Street | 12am to 3am on Wednesday 18 August 20215:15pm to 12am on Tuesday 17 August 202112am to 3am on Monday 16 August 20215pm to 12am on Sunday 15 August 2021 |
