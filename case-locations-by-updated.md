@@ -1,7 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 23/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
-| 22/08/2021      | Close Contact        | Wellington      | Woolworths Wellington 81 Arthur Street | 2:15pm to 2:45pm on Thursday 19 August 20213:50pm to 4:20pm on Tuesday 17 August 2021 |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish Markets Corner of Pyrmont Birdge Road and Bank Street | 12am to 3am on Wednesday 18 August 20215:15pm to 12am on Tuesday 17 August 202112am to 3am on Monday 16 August 20215pm to 12am on Sunday 15 August 2021 |
 | 22/08/2021      | Casual Contact       | Parkes          | Woolworths Parkes235 Clarinda Street | 5:10pm to 5:20pm on Saturday 21 August 2021                  |
@@ -46,7 +46,6 @@
 | 21/08/2021      | Casual Contact       | Dubbo           | Chautari Grocer124 Macquarie Street | 4:10pm to 4:25pm on Monday 16 August 2021                    |
 | 21/08/2021      | Casual Contact       | Dubbo           | BWS RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 4:30pm to 4:40pm on Monday 16 August 2021                    |
 | 21/08/2021      | Casual Contact       | Cardiff         | BWS Cardiff MarketplaceCorner Macquarie and Main Roads | 5:20pm to 5:26pm on Tuesday 17 August 2021                   |
-| 20/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington 81 Arthur Street | 11:25am to 11:40am on Sunday 15 August 2021                  |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 20212:10pm to 2:15pm on Wednesday 11 August 2021 |
