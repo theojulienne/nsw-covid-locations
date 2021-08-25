@@ -174,8 +174,8 @@
 | 20/08/2021      | Casual Contact       | Strathfield     | Woolworths Strathfield19/11 The Boulevard | 12pm (noon) to 5pm on Sunday 15 August 20215pm to 10pm on Saturday 14 August 2021 |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 24/08/2021      | Casual Contact       | Temora          | Shell Temora145-147 Hoskins Street | 6:15am to 6:30am on Monday 16 August 2021                    |
-| 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 6:10am to 6:10am on Tuesday 17 August 20216:15am to 4:35pm on Monday 16 August 2021 |
-| 24/08/2021      | Casual Contact       | Temora          | Wylies Newsagency226 Hoskins Street | 4:40pm to 4:50pm on Monday 16 August 2021                    |
+| 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 6:15am to 6:35pm on Monday 16 August 2021                    |
+| 24/08/2021      | Casual Contact       | Temora          | Wylies Newsagency226 Hoskins Street | 4:35pm to 4:50pm on Monday 16 August 2021                    |
 | 19/08/2021      | Casual Contact       | Tenambit        | Foodworks Tenambit45 Maize Street | 2pm to 2:10pm on Wednesday 11 August 2021                    |
 | 20/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 20212:10pm to 2:15pm on Wednesday 11 August 2021 |
 | 18/08/2021      | Casual Contact       | Thornton        | Coles ThorntonThornton Shopping Centre, Taylor Avenue and Thomas Coke Drive | 12pm (noon) to 12:15pm on Wednesday 11 August 2021           |
@@ -203,4 +203,4 @@
 | 23/08/2021      | Casual Contact       | Wollongong      | Sydney Tools Wollongong63 Flinders Street | 8:25am to 8:40am on Saturday 21 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wollongong      | Toro Robata Sushi9/129 Corrimal Street | 6:45pm to 7:05pm on Saturday 21 August 2021                  |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11:40am to 12:20pm on Wednesday 11 August 2021               |
-| 24/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Saturday 21 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
+| 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |

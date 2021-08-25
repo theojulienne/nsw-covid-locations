@@ -1,6 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 24/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Saturday 21 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
+| 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
 | 24/08/2021      | Casual Contact       | Wollongong      | Toro Robata Sushi9/129 Corrimal Street | 6:45pm to 7:05pm on Saturday 21 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wollongong      | Levendi WollongongCliff Road and Harbour Street | 2pm to 5pm on Saturday 21 August 2021                        |
 | 24/08/2021      | Casual Contact       | Winmalee        | Winmalee Shopping Village14/28 White Cross Road | 3:15pm to 4:15pm on Sunday 15 August 2021                    |
@@ -14,8 +14,8 @@
 | 24/08/2021      | Casual Contact       | Wellington      | Wellington Newsagency118 Percy Street | 9:10am to 9:20am on Sunday 22 August 2021                    |
 | 24/08/2021      | Casual Contact       | Wellington      | Shell Service Station Wellington16 Mitchell Highway | 12:20pm to 12:30pm on Sunday 22 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wellington      | D&J Rural Services Wellington134 Thornton Street | 2:15pm to 2:30pm on Wednesday 18 August 2021                 |
-| 24/08/2021      | Casual Contact       | Temora          | Wylies Newsagency226 Hoskins Street | 4:40pm to 4:50pm on Monday 16 August 2021                    |
-| 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 6:10am to 6:10am on Tuesday 17 August 20216:15am to 4:35pm on Monday 16 August 2021 |
+| 24/08/2021      | Casual Contact       | Temora          | Wylies Newsagency226 Hoskins Street | 4:35pm to 4:50pm on Monday 16 August 2021                    |
+| 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 6:15am to 6:35pm on Monday 16 August 2021                    |
 | 24/08/2021      | Casual Contact       | Temora          | Shell Temora145-147 Hoskins Street | 6:15am to 6:30am on Monday 16 August 2021                    |
 | 24/08/2021      | Casual Contact       | Orange          | Woolworths Orange197-203 Anson Street | 4:30pm to 5:50pm on Friday 20 August 20213:40pm to 4:35pm on Saturday 14 August 20214:30pm to 4:50pm on Thursday 12 August 20214pm to 4:15pm on Wednesday 11 August 2021 |
 | 24/08/2021      | Casual Contact       | Orange          | Red Rooster Orange94/98 Bathurst Road | 6:55pm to 7:05pm on Friday 20 August 2021                    |
