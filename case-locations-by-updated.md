@@ -111,8 +111,6 @@
 | 22/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 21/08/2021      | Close Contact        | Westmead        | Sydney West Retina OphthalmologyU 30/ 1A Ashley Lane | 7:45am to 4:30pm on Friday 13 August 20217:45am to 4:30pm on Thursday 12 August 2021 |
 | 21/08/2021      | Close Contact        | Rooty Hill      | Rooty Hill Medical and Dental Centre31 Rooty Hill Road | 1:50pm to 2:05pm on Sunday 15 August 2021                    |
-| 21/08/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond TerraceRaymond Central Plaza, 39-41 Glenelg Street | 10am to 10:05am on Sunday 15 August 2021                     |
-| 21/08/2021      | Casual Contact       | Raymond Terrace | TerryWhite Chemmart Raymond TerraceShop SP04 Terrace Central Plaza, Corner Sturgeon and Glenelg Street | 10am to 10:15am on Sunday 15 August 2021                     |
 | 21/08/2021      | Casual Contact       | Narromine       | Narromine Pharmacy53 Dandaloo Street | 12:40pm to 12:50pm on Wednesday 18 August 2021               |
 | 21/08/2021      | Casual Contact       | Narromine       | Narromine Liberty Petrol Station49 Burraway Street | 12:50pm to 1pm on Wednesday 18 August 2021                   |
 | 21/08/2021      | Casual Contact       | Kempsey         | Coles KempseyBelgrave Street | 11:45am to 12:10pm on Tuesday 17 August 2021                 |
