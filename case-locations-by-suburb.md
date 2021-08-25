@@ -115,6 +115,7 @@
 | 21/08/2021      | Casual Contact       | Kempsey         | Coles KempseyBelgrave Street | 11:45am to 12:10pm on Tuesday 17 August 2021                 |
 | 24/08/2021      | Casual Contact       | Kempsey         | Puma Petrol Station, Kempsey629 Pacific Highway | 12:04pm to 12:10pm on Friday 20 August 2021                  |
 | 20/08/2021      | Casual Contact       | Kiama           | Woolworths KiamaKiama View Shopping Centre, 143 Terralong Street | 10:25am to 10:30am on Thursday 19 August 2021                |
+| 25/08/2021      | Casual Contact       | Lake Haven      | Dominos Pizza Lake HavenBannister Drive | 5:25pm to 5:55pm on Saturday 14 August 2021                  |
 | 18/08/2021      | Casual Contact       | Lake Munmorah   | Friendly Pharmacy Lake MunmorahShop M02/275 Pacific Highway | 10:10am to 10:20am on Friday 13 August 2021                  |
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Lake Munmorah Shopping CentreKemira Road | 10am to 10:30am on Friday 13 August 2021                     |
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Lucky 7 - Munmorah Mini Mart93 Anita Avenue | 3:10pm to 3:25pm on Thursday 12 August 2021                  |
