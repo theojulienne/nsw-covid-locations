@@ -62,7 +62,6 @@
 | 24/08/2021      | Casual Contact       | Dubbo           | Orana Radiology168 Brisbane Street | 1:50pm to 3:15pm on Friday 20 August 2021                    |
 | 18/08/2021      | Casual Contact       | Dubbo           | Orana Tobacconist DubboOrana Mall Shopping Centre, 56 Windsor Parade | 11:50am to 12pm (noon) on Saturday 14 August 2021            |
 | 24/08/2021      | Casual Contact       | Dubbo           | Petrie's Mitre 10 Dubbo64-70 Macquarie Street | 11:30am to 11:45am on Tuesday 17 August 2021                 |
-| 15/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 9am to 4pm on Friday 20 August 20211:40pm to 2:20pm on Tuesday 10 August 2021 |
 | 20/08/2021      | Casual Contact       | Dubbo           | Rams International Groceries37 Macquarie Street | 1:55pm to 2:05pm on Sunday 15 August 2021                    |
 | 15/08/2021      | Close Contact        | Dubbo           | Russo's Coffee BarUrban Village, 33-43 Whylandra Street | 7:50am to 8am on Wednesday 11 August 2021                    |
 | 23/08/2021      | Casual Contact       | Dubbo           | Service NSW Dubbo258/260 Macquarie Street | 11:30am to 11:50am on Saturday 21 August 2021                |
@@ -196,7 +195,7 @@
 | 24/08/2021      | Casual Contact       | Wellington      | Wing Garden Asian Restaurant122 Lee Street | 5:45pm to 6pm on Saturday 21 August 2021                     |
 | 24/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 9am to 9:15am on Monday 23 August 20219:30am to 9:50am on Sunday 22 August 20212:55pm to 3:30pm on Friday 20 August 20212:15pm to 2:45pm on Thursday 19 August 202111am to 11:30am on Thursday 19 August 20212pm to 2:20pm on Wednesday 18 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
-| 22/01/1900      | Casual Contact       | West Dubbo      | IGA West DubboVictoria Street | 11am to 11:20am on Friday 20 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
+| 22/08/2021      | Casual Contact       | West Dubbo      | IGA West DubboVictoria Street | 11am to 11:20am on Friday 20 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
 | 21/08/2021      | Close Contact        | Westmead        | Sydney West Retina OphthalmologyU 30/ 1A Ashley Lane | 7:45am to 4:30pm on Friday 13 August 20217:45am to 4:30pm on Thursday 12 August 2021 |
 | 18/08/2021      | Casual Contact       | Wilcannia       | Wilcannia Roadhouse Grahams Motel2 Myers Street | 9am to 9:10am on Saturday 14 August 2021                     |
 | 24/08/2021      | Casual Contact       | Windsor         | Rum Corps Barracks Golf Centre61A Hawkesbury Valley Way | 2:15pm to 4pm on Tuesday 17 August 2021                      |

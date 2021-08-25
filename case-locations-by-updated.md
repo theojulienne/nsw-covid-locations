@@ -83,6 +83,7 @@
 | 23/08/2021      | Casual Contact       | Bathurst        | Specsavers BathurstShop 4 and 5, Bathurst City Centre, 210 Howick Street | 9:30am to 10am on Friday 20 August 2021                      |
 | 23/08/2021      | Casual Contact       | Bathurst        | DHM Pathology193 Russell Street | 2:10pm to 2:15pm on Thursday 19 August 2021                  |
 | 23/08/2021      | Casual Contact       | Bathurst        | Barratt and Smith Pathology193 Russell Street | 9am to 9:30am on Friday 20 August 2021                       |
+| 22/08/2021      | Casual Contact       | West Dubbo      | IGA West DubboVictoria Street | 11am to 11:20am on Friday 20 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish MarketsCorner of Pyrmont Birdge Road and Bank Street | 12am (midnight) to 3am on Wednesday 18 August 20215:15pm to 12am (midnight) on Tuesday 17 August 202112am (midnight) to 3am on Monday 16 August 20215pm to 12am (midnight) on Sunday 15 August 2021 |
@@ -197,7 +198,6 @@
 | 15/08/2021      | Casual Contact       | Lake Munmorah   | Lake Munmorah Shopping CentreKemira Road | 10am to 10:30am on Friday 13 August 2021                     |
 | 15/08/2021      | Casual Contact       | Dubbo           | South Dubbo Newsagency93 Tamworth Street | 2:15pm to 2:25pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Close Contact        | Dubbo           | Russo's Coffee BarUrban Village, 33-43 Whylandra Street | 7:50am to 8am on Wednesday 11 August 2021                    |
-| 15/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 9am to 4pm on Friday 20 August 20211:40pm to 2:20pm on Tuesday 10 August 2021 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Spine Centre1/63-65 Boundary Road | 1:40pm to 2:05pm on Thursday 12 August 2021                  |
 | 15/08/2021      | Casual Contact       | Dubbo           | Bob Jane T-Marts Dubbo223 Macquarie Street | 8am to 8:30am on Wednesday 11 August 2021                    |
 | 15/08/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenCorner of Chelmsford and Pacific Highway | 8:50am to 9:15am on Thursday 12 August 2021                  |
@@ -209,4 +209,3 @@
 | 13/08/2021      | Close Contact        | Dubbo           | United Service Station195 Cobra Street | 12:20pm to 12:40pm on Thursday 12 August 2021                |
 | 13/08/2021      | Casual Contact       | Dubbo           | Manera Plaza COVID testing clinic77 Myall Street | 10:10am to 11:35am on Thursday 12 August 2021                |
 | 13/08/2021      | Close Contact        | Dubbo           | Blues Meats91 Tamworth Street | 1:20pm to 1:30pm on Wednesday 11 August 2021                 |
-| 22/01/1900      | Casual Contact       | West Dubbo      | IGA West DubboVictoria Street | 11am to 11:20am on Friday 20 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
