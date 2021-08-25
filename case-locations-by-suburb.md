@@ -146,11 +146,13 @@
 | 18/08/2021      | Close Contact        | Newtown         | Summer House Backpackers Newtown5-11 Egan Street | All day on Friday 13 August 2021All day on Thursday 12 August 2021 |
 | 22/08/2021      | Casual Contact       | Nyngan          | BP Truckstop Nyngan124 Nymagee Street | 4:30pm to 4:40pm on Saturday 14 August 2021                  |
 | 22/08/2021      | Casual Contact       | Orange          | 7 Eleven Orange90 Bathurst Road | 8:30am to 8:40am on Wednesday 11 August 2021                 |
+| 25/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange 90 Bathurst Road | 7am to 3:15pm on Saturday 21 August 2021                     |
 | 22/08/2021      | Casual Contact       | Orange          | Ashcrofts IGA Orange 210 Peisley Street | 3:10pm to 3:20pm on Tuesday 17 August 2021                   |
 | 23/08/2021      | Casual Contact       | Orange          | BP North Orange5 Hanrahan Place | 1:15pm to 1:25pm on Saturday 21 August 20215:55pm to 6pm on Friday 20 August 2021 |
 | 22/08/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner Northern Distributor and Leeds Parade | 1:05pm to 1:15pm on Saturday 21 August 20218:05am to 8:20am on Monday 16 August 2021 |
 | 24/08/2021      | Casual Contact       | Orange          | McDonalds Orange NorthFarrell Road and Northern Distributor Road | 5:55pm to 6:05pm on Thursday 19 August 2021                  |
 | 24/08/2021      | Casual Contact       | Orange          | McDonalds Orange100-110 Bathurst Road | 7:40pm to 8pm on Friday 20 August 20215:55pm to 7:05pm on Friday 20 August 2021 |
+| 25/08/2021      | Casual Contact       | Orange          | Metro Petroleum Bathurst Rd 68 Bathurst Road | 9pm to 9:10pm on Wednesday 18 August 20219pm to 9:10pm on Tuesday 17 August 2021 |
 | 24/08/2021      | Casual Contact       | Orange          | Red Rooster Orange94/98 Bathurst Road | 6:55pm to 7:05pm on Friday 20 August 2021                    |
 | 22/08/2021      | Casual Contact       | Orange          | United Petrol Orange174 Woodward Street | 4:30pm to 4:45pm on Saturday 21 August 20212:30pm to 2:45pm on Thursday 19 August 2021 |
 | 23/08/2021      | Casual Contact       | Orange          | Vivien's HotbreadNorth Orange Shopping Centre | 12pm (noon) to 1pm on Friday 20 August 2021                  |
@@ -182,6 +184,7 @@
 | 18/08/2021      | Casual Contact       | Thornton        | Coles ThorntonThornton Shopping Centre, Taylor Avenue and Thomas Coke Drive | 12pm (noon) to 12:15pm on Wednesday 11 August 2021           |
 | 19/08/2021      | Casual Contact       | Thornton        | Phoenix House ChineseThornton Shopping Centre, Taylor Avenue | 11:55am to 12:15pm on Wednesday 11 August 2021               |
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
+| 25/08/2021      | Casual Contact       | Walgett         | Walgett RSL 71 Fox Street | 1:40pm to 2:10pm on Saturday 14 August 2021                  |
 | 23/08/2021      | Casual Contact       | Wallsend        | BWS WallsendCorner of Cowper and Murnin Street | 4:23pm to 4:29pm on Saturday 14 August 20214:20pm to 4:30pm on Saturday 14 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
@@ -200,7 +203,9 @@
 | 24/08/2021      | Casual Contact       | Winmalee        | Blue Mountains mobile phonesWinmalee Village Shopping Centre, 32/44 White Cross Road | 3:20pm to 3:35pm on Sunday 15 August 2021                    |
 | 24/08/2021      | Casual Contact       | Winmalee        | Coles Winmalee32/44 White Cross Road | 3:35pm to 4:10pm on Sunday 15 August 2021                    |
 | 24/08/2021      | Casual Contact       | Winmalee        | Winmalee Shopping Village14/28 White Cross Road | 3:15pm to 4:15pm on Sunday 15 August 2021                    |
+| 25/08/2021      | Casual Contact       | Wollongong      | Chemist Warehouse Wollongong 243 Crown Street | 3:15pm to 3:20pm on Monday 23 August 2021                    |
 | 24/08/2021      | Casual Contact       | Wollongong      | Levendi WollongongCliff Road and Harbour Street | 2pm to 5pm on Saturday 21 August 2021                        |
+| 25/08/2021      | Casual Contact       | Wollongong      | Priceline Pharmacy Wollongong  Shop 105 Level 1, 200 Crown Street | 12:45pm to 1pm on Saturday 21 August 2021                    |
 | 23/08/2021      | Casual Contact       | Wollongong      | Sydney Tools Wollongong63 Flinders Street | 8:25am to 8:40am on Saturday 21 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wollongong      | Toro Robata Sushi9/129 Corrimal Street | 6:45pm to 7:05pm on Saturday 21 August 2021                  |
 | 14/08/2021      | Casual Contact       | Woy Woy         | Deepwater PlazaRailway Street | 11:40am to 12:20pm on Wednesday 11 August 2021               |
