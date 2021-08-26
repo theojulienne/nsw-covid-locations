@@ -1,8 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
+| 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:30am to 10:15am on Sunday 22 August 2021                   |
 | 26/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange - Molong Road68 Molong Road | 2pm to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 2021 |
 | 26/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange - Bathurst Road90 Bathurst Road | 7am to 3:15pm on Saturday 21 August 2021                     |
+| 26/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo 10 Erskine Street, Dubbo | 4:45pm to 5pm on Wednesday 18 August 2021                    |
+| 26/08/2021      | Casual Contact       | Dubbo           | Dominos Pizza Dubbo58 Erskine street | 6:55pm to 7:10pm on Wednesday 18 August 2021                 |
+| 26/08/2021      | Casual Contact       | Berkeley        | Coles Berkeley 65 Winnima Way | 11:10am to 11:25am on Saturday 21 August 2021                |
 | 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
 | 25/08/2021      | Casual Contact       | Wollongong      | Priceline Pharmacy WollongongShop 105 Level 1, 200 Crown Street | 12:45pm to 1pm on Saturday 21 August 2021                    |
 | 25/08/2021      | Casual Contact       | Wollongong      | North Kiosk1 Cliff Road   | 10am to 11am on Sunday 22 August 2021                        |
@@ -56,7 +60,7 @@
 | 24/08/2021      | Casual Contact       | Dubbo           | Delroy Park Shopping CentreMinore Road | 10:40am to 12pm (noon) on Friday 20 August 2021              |
 | 24/08/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 3:20pm to 4:05pm on Wednesday 18 August 20217pm to 8pm on Tuesday 17 August 202110:40am to 10:55am on Monday 16 August 20217:15pm to 7:45pm on Friday 13 August 20218:20am to 8:30am on Thursday 12 August 202110am to 10:20am on Thursday 12 August 202111:50am to 12:25pm on Wednesday 11 August 2021 |
 | 24/08/2021      | Casual Contact       | Dubbo           | Bunnings DubboCorner Mitchell Highway and Sheraton Road | 9:25am to 9:45am on Saturday 21 August 20211pm to 1:45pm on Saturday 21 August 20212pm to 2:30pm on Thursday 19 August 20219:30am to 10:45am on Wednesday 18 August 20212pm to 4pm on Saturday 14 August 20218:12am to 8:20am on Monday 9 August 2021 |
-| 24/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | All day on Friday 20 August 202110:15am to 10:20am on Tuesday 17 August 20216:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
+| 24/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | All day on Friday 20 August 20215pm to 5:10pm on Wednesday 18 August 202110:15am to 10:20am on Tuesday 17 August 20216:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
 | 24/08/2021      | Casual Contact       | Broken Hill     | Liquorland Broken HillCorner Grossan Street and Blende Street | 10:25am to 11:25am on Friday 20 August 2021                  |
 | 24/08/2021      | Casual Contact       | Broken Hill     | Good Price Pharmacy Warehouse4-5 Broken Hill Village Shopping Centre, Corner South Road and Gossan Street | 9:30am to 9:40am on Friday 20 August 2021                    |
 | 24/08/2021      | Casual Contact       | Broken Hill     | Broken Hill Gourmet MeatCorner Grossan Street and Blende Street | 11:45am to 11:55am on Friday 20 August 2021                  |

@@ -11,6 +11,7 @@
 | 23/08/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner Bellambi Lane and Watts Lane | 8am to 8:30am on Saturday 21 August 2021                     |
 | 17/08/2021      | Casual Contact       | Beresfield      | The Steggles ShopHawthorne Street | 7:20am to 2:50pm on Thursday 12 August 2021                  |
 | 25/08/2021      | Casual Contact       | Berkeley        | Aish's Seafood and TakeawayNorthcliffe Drive | 4:50pm to 5:30pm on Sunday 22 August 2021                    |
+| 26/08/2021      | Casual Contact       | Berkeley        | Coles Berkeley 65 Winnima Way | 11:10am to 11:25am on Saturday 21 August 2021                |
 | 20/08/2021      | Casual Contact       | Boolaroo        | Bunnings GlendaleT C Frith Avenue | 2:45pm to 3pm on Sunday 15 August 20215pm to 5:45pm on Saturday 14 August 2021 |
 | 23/08/2021      | Close Contact        | Boolaroo        | Costco Warehouse1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 22/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
@@ -30,7 +31,7 @@
 | 20/08/2021      | Casual Contact       | Dubbo           | Ashcroft's IGA Dubbo95 Tamworth Street | 3:15pm to 3:30pm on Saturday 14 August 202112pm (noon) to 12:15pm on Friday 13 August 202112:55pm to 1:05pm on Friday 13 August 20214:50pm to 5pm on Thursday 12 August 20214:30pm to 4:45pm on Thursday 12 August 20212pm to 2:30pm on Thursday 12 August 20211pm to 1:20pm on Wednesday 11 August 202112:35pm to 12:55pm on Sunday 8 August 2021 |
 | 23/08/2021      | Casual Contact       | Dubbo           | Atlas KebabsShop 7, Riverdale Shopping Centre, 49/65 Macquarie Street | 11am to 9pm on Friday 20 August 202111am to 9pm on Thursday 19 August 202111am to 9pm on Wednesday 18 August 2021 |
 | 23/08/2021      | Casual Contact       | Dubbo           | BP Dubbo West51-63 Whylandra Street | 3:55pm to 4:10pm on Thursday 19 August 20218:50am to 8:55am on Monday 16 August 2021 |
-| 24/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | All day on Friday 20 August 202110:15am to 10:20am on Tuesday 17 August 20216:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
+| 24/08/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street | All day on Friday 20 August 20215pm to 5:10pm on Wednesday 18 August 202110:15am to 10:20am on Tuesday 17 August 20216:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
 | 18/08/2021      | Casual Contact       | Dubbo           | BWS Dubbo - Delroy ParkDelroy Park Shopping Centre, Corner Baird Drive and Torvean Avenue | 5pm to 5:05pm on Monday 16 August 2021                       |
 | 21/08/2021      | Casual Contact       | Dubbo           | BWS Dubbo - RiverdaleRiverdale Shopping Centre, 49/65 Macquarie Street | 4:30pm to 4:40pm on Monday 16 August 2021                    |
 | 22/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 11:20am to 11:50am on Tuesday 17 August 20219am to 9:05am on Friday 13 August 202111am to 11:20am on Thursday 12 August 20218:30am to 10:30am on Wednesday 11 August 202110am to 12pm (noon) on Monday 9 August 2021 |
@@ -44,6 +45,7 @@
 | 16/08/2021      | Casual Contact       | Dubbo           | Coles Express West DubboWhylandra Street | 1:50pm to 1:55pm on Thursday 12 August 2021                  |
 | 23/08/2021      | Casual Contact       | Dubbo           | Dan Murphy's DubboCorner Windsor Parade and Birch Avenue | 3:55pm to 4:10pm on Thursday 19 August 20212:30pm to 3pm on Tuesday 10 August 20212pm to 2:20pm on Monday 9 August 2021 |
 | 24/08/2021      | Casual Contact       | Dubbo           | Delroy Park Shopping CentreMinore Road | 10:40am to 12pm (noon) on Friday 20 August 2021              |
+| 26/08/2021      | Casual Contact       | Dubbo           | Dominos Pizza Dubbo58 Erskine street | 6:55pm to 7:10pm on Wednesday 18 August 2021                 |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Spine Centre1/63-65 Boundary Road | 1:40pm to 2:05pm on Thursday 12 August 2021                  |
 | 24/08/2021      | Casual Contact       | Dubbo           | Inland Petroleum West Dubbo98 Victoria Street | 5pm to 5:10pm on Saturday 21 August 20218:45am to 8:55am on Monday 16 August 20219:35am to 9:40am on Sunday 15 August 2021 |
 | 25/08/2021      | Casual Contact       | Dubbo           | Local Coffee Co124 Brisbane Street | 8:36am to 8:46am on Friday 20 August 2021                    |
@@ -53,6 +55,7 @@
 | 18/08/2021      | Close Contact        | Dubbo           | Myall Street Mini Mart 272 Myall Street | 2:15pm to 2:30pm on Friday 13 August 2021                    |
 | 23/08/2021      | Casual Contact       | Dubbo           | Myall Street Mini Mart272 Myall Street | 12:15pm to 12:35pm on Friday 20 August 202110:45am to 11am on Friday 20 August 20212pm to 5pm on Thursday 19 August 20214:45pm to 5pm on Tuesday 17 August 20212pm to 2:20pm on Tuesday 17 August 202112pm (noon) to 12:05pm on Monday 16 August 202110:40am to 11am on Monday 16 August 20213:15pm to 3:35pm on Sunday 15 August 202111am to 11:20am on Sunday 15 August 20211:15pm to 1:35pm on Saturday 14 August 20213:25pm to 3:45pm on Monday 9 August 2021 |
 | 16/08/2021      | Casual Contact       | Dubbo           | News Extra Dubbo117 Macquarie Street | 4pm to 5pm on Thursday 12 August 2021                        |
+| 26/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo 10 Erskine Street, Dubbo | 4:45pm to 5pm on Wednesday 18 August 2021                    |
 | 24/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyShop 110-111 Orana Mall, Wheelers Lane | 10:30am to 12:30pm on Friday 20 August 2021                  |
 | 24/08/2021      | Casual Contact       | Dubbo           | Orana Radiology168 Brisbane Street | 1:50pm to 3:15pm on Friday 20 August 2021                    |
 | 18/08/2021      | Casual Contact       | Dubbo           | Orana Tobacconist DubboOrana Mall Shopping Centre, 56 Windsor Parade | 11:50am to 12pm (noon) on Saturday 14 August 2021            |
@@ -168,6 +171,7 @@
 | 23/08/2021      | Casual Contact       | Wallsend        | BWS WallsendCorner of Cowper and Murnin Street | 4:23pm to 4:29pm on Saturday 14 August 20214:20pm to 4:30pm on Saturday 14 August 2021 |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Wallsend        | Coles WallsendWallsend Village, Cowper Street and Kokera South Street | 7:15pm to 7:30pm on Sunday 15 August 202112:30pm to 1pm on Friday 13 August 20217:30pm to 7:45pm on Monday 9 August 2021 |
+| 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:30am to 10:15am on Sunday 22 August 2021                   |
 | 24/08/2021      | Casual Contact       | Wellington      | D&J Rural Services Wellington134 Thornton Street | 2:15pm to 2:30pm on Wednesday 18 August 2021                 |
 | 24/08/2021      | Casual Contact       | Wellington      | Shell Wellington16 Mitchell Highway | 12:20pm to 12:30pm on Sunday 22 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wellington      | Wellington Newsagency118 Percy Street | 9:10am to 9:20am on Sunday 22 August 2021                    |
