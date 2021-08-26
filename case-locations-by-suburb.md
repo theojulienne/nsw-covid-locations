@@ -46,7 +46,7 @@
 | 24/08/2021      | Casual Contact       | Dubbo           | Delroy Park Shopping CentreMinore Road | 10:40am to 12pm (noon) on Friday 20 August 2021              |
 | 15/08/2021      | Casual Contact       | Dubbo           | Dubbo Spine Centre1/63-65 Boundary Road | 1:40pm to 2:05pm on Thursday 12 August 2021                  |
 | 24/08/2021      | Casual Contact       | Dubbo           | Inland Petroleum West Dubbo98 Victoria Street | 5pm to 5:10pm on Saturday 21 August 20218:45am to 8:55am on Monday 16 August 20219:35am to 9:40am on Sunday 15 August 2021 |
-| 25/08/2021      | Casual Contact       | Dubbo           | Local Coffee Co124 Brisbane Street | All day on Friday 20 August 2021                             |
+| 26/08/2021      | Casual Contact       | Dubbo           | Local Coffee Co124 Brisbane Street | 8:36am to 8:46am on Friday 20 August 2021                    |
 | 24/08/2021      | Casual Contact       | Dubbo           | Lucky 733-43 Whylandra Street | 4:45pm to 4:50pm on Saturday 14 August 2021                  |
 | 24/08/2021      | Casual Contact       | Dubbo           | Mackintosh Mechanical13 Evans Street | 10am to 10:25am on Monday 16 August 2021                     |
 | 13/08/2021      | Casual Contact       | Dubbo           | Manera Plaza COVID testing clinic77 Myall Street | 10:10am to 11:35am on Thursday 12 August 2021                |
