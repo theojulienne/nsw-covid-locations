@@ -1,7 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
-| 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:30am to 10:15am on Sunday 22 August 2021                   |
+| 26/08/2021      | Casual Contact       | Wellington      | Metro Petroleum Wellington 145 Arthur St | 10:30am to 10:40am on Sunday 22 August 2021                  |
+| 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:20am to 10:15am on Sunday 22 August 2021                   |
 | 26/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange - Molong Road68 Molong Road | 2pm to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 2021 |
 | 26/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange - Bathurst Road90 Bathurst Road | 7am to 3:15pm on Saturday 21 August 2021                     |
 | 26/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo 10 Erskine Street, Dubbo | 4:45pm to 5pm on Wednesday 18 August 2021                    |
@@ -30,7 +31,7 @@
 | 24/08/2021      | Casual Contact       | Winmalee        | Coles Winmalee32/44 White Cross Road | 3:35pm to 4:10pm on Sunday 15 August 2021                    |
 | 24/08/2021      | Casual Contact       | Winmalee        | Blue Mountains mobile phonesWinmalee Village Shopping Centre, 32/44 White Cross Road | 3:20pm to 3:35pm on Sunday 15 August 2021                    |
 | 24/08/2021      | Casual Contact       | Windsor         | Rum Corps Barracks Golf Centre61A Hawkesbury Valley Way | 2:15pm to 4pm on Tuesday 17 August 2021                      |
-| 24/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 9am to 9:15am on Monday 23 August 20219:30am to 9:50am on Sunday 22 August 20212:55pm to 3:30pm on Friday 20 August 20212:15pm to 2:45pm on Thursday 19 August 202111am to 11:30am on Thursday 19 August 20212pm to 2:20pm on Wednesday 18 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
+| 24/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 9am to 9:15am on Monday 23 August 20219:30am to 9:50am on Sunday 22 August 202110:10am to 10:35am on Sunday 22 August 20212:55pm to 3:30pm on Friday 20 August 20212:15pm to 2:45pm on Thursday 19 August 202111am to 11:30am on Thursday 19 August 20212pm to 2:20pm on Wednesday 18 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
 | 24/08/2021      | Casual Contact       | Wellington      | Wing Garden Asian Restaurant122 Lee Street | 5:45pm to 6pm on Saturday 21 August 2021                     |
 | 24/08/2021      | Casual Contact       | Wellington      | Wellington Smiles Dental116-118 Lee Street | 10am to 11:30am on Wednesday 18 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wellington      | Wellington School Shop114 Arthur Street | 8:50am to 9am on Monday 23 August 20215:40pm to 5:50pm on Saturday 21 August 20213:15pm to 3:25pm on Friday 20 August 2021 |
