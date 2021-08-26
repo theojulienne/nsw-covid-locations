@@ -1,12 +1,13 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
 | 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
 | 25/08/2021      | Casual Contact       | Wollongong      | Priceline Pharmacy WollongongShop 105 Level 1, 200 Crown Street | 12:45pm to 1pm on Saturday 21 August 2021                    |
 | 25/08/2021      | Casual Contact       | Wollongong      | North Kiosk1 Cliff Road   | 10am to 11am on Sunday 22 August 2021                        |
 | 25/08/2021      | Casual Contact       | Wollongong      | Chemist Warehouse Wollongong243 Crown Street | 3:15pm to 3:20pm on Monday 23 August 2021                    |
 | 25/08/2021      | Casual Contact       | Walgett         | Walgett RSL71 Fox Street  | 1:40pm to 2:10pm on Saturday 14 August 2021                  |
 | 25/08/2021      | Casual Contact       | Orange          | Metro Petroleum Orange68 Bathurst Road | 9pm to 9:10pm on Wednesday 18 August 20219pm to 9:10pm on Tuesday 17 August 2021 |
-| 25/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange90 Bathurst Road | 8:30am to 8:40am on Wednesday 11 August 20217am to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 2021 |
+| 25/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange90 Bathurst Road | 7am to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 20218:30am to 8:40am on Wednesday 11 August 2021 |
 | 25/08/2021      | Casual Contact       | Lake Haven      | Dominos Pizza Lake HavenBannister Drive | 5:25pm to 5:55pm on Saturday 14 August 2021                  |
 | 25/08/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Centre, Lake Haven Drive | 4:50pm to 5:10pm on Saturday 14 August 2021                  |
 | 25/08/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 6:20pm to 6:50pm on Saturday 21 August 2021                  |

@@ -132,7 +132,7 @@
 | 20/08/2021      | Casual Contact       | Newcastle       | Chemist Warehouse Newcastle136-140 Hunter Street | 5:25pm to 5:40pm on Wednesday 18 August 2021                 |
 | 18/08/2021      | Close Contact        | Newtown         | Summer House Backpackers Newtown5-11 Egan Street | All day on Friday 13 August 2021All day on Thursday 12 August 2021 |
 | 22/08/2021      | Casual Contact       | Nyngan          | BP Truckstop Nyngan124 Nymagee Street | 4:30pm to 4:40pm on Saturday 14 August 2021                  |
-| 25/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange90 Bathurst Road | 8:30am to 8:40am on Wednesday 11 August 20217am to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 2021 |
+| 25/08/2021      | Casual Contact       | Orange          | 7-Eleven Orange90 Bathurst Road | 7am to 10pm on Saturday 21 August 20212pm to 10pm on Friday 20 August 20218:30am to 8:40am on Wednesday 11 August 2021 |
 | 22/08/2021      | Casual Contact       | Orange          | Ashcrofts IGA Orange 210 Peisley Street | 3:10pm to 3:20pm on Tuesday 17 August 2021                   |
 | 23/08/2021      | Casual Contact       | Orange          | BP North Orange5 Hanrahan Place | 1:15pm to 1:25pm on Saturday 21 August 20215:55pm to 6pm on Friday 20 August 2021 |
 | 22/08/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner Northern Distributor and Leeds Parade | 1:05pm to 1:15pm on Saturday 21 August 20218:05am to 8:20am on Monday 16 August 2021 |
@@ -178,6 +178,7 @@
 | 22/08/2021      | Casual Contact       | West Dubbo      | IGA West DubboVictoria Street | 11am to 11:20am on Friday 20 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
 | 21/08/2021      | Close Contact        | Westmead        | Sydney West Retina OphthalmologyU 30/ 1A Ashley Lane | 7:45am to 4:30pm on Friday 13 August 20217:45am to 4:30pm on Thursday 12 August 2021 |
 | 18/08/2021      | Casual Contact       | Wilcannia       | Wilcannia Roadhouse Grahams Motel2 Myers Street | 9am to 9:10am on Saturday 14 August 2021                     |
+| 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
 | 24/08/2021      | Casual Contact       | Windsor         | Rum Corps Barracks Golf Centre61A Hawkesbury Valley Way | 2:15pm to 4pm on Tuesday 17 August 2021                      |
 | 24/08/2021      | Casual Contact       | Winmalee        | Blue Mountains mobile phonesWinmalee Village Shopping Centre, 32/44 White Cross Road | 3:20pm to 3:35pm on Sunday 15 August 2021                    |
 | 24/08/2021      | Casual Contact       | Winmalee        | Coles Winmalee32/44 White Cross Road | 3:35pm to 4:10pm on Sunday 15 August 2021                    |
