@@ -11,7 +11,6 @@
 | 27/08/2021      | Casual Contact       | Bathurst        | Commonwealth Bank Bathurst80-84 William Street | 2:15pm to 2:35pm on Sunday 22 August 20215:25pm to 6:45pm on Friday 20 August 2021 |
 | 23/08/2021      | Casual Contact       | Bathurst        | DHM Pathology193 Russell Street | 2:10pm to 2:15pm on Thursday 19 August 2021                  |
 | 27/08/2021      | Casual Contact       | Bathurst        | Dan Murphy's Bathurst57 George Street | 10:40am to 11:15am on Saturday 21 August 2021                |
-| 27/08/2021      | Casual Contact       | Bathurst        | Lo's Rose Garden Chinese Restaurant12/82 Church Street and George Street | 8:45pm to 9:05pm on Sunday 22 August 20213:10pm to 3:30pm on Sunday 22 August 20212:15pm to 2:35pm on Sunday 22 August 20218:35am to 8:55am on Saturday 21 August 202110:40am to 11am on Saturday 21 August 20215:55pm to 6:10pm on Friday 20 August 2021 |
 | 27/08/2021      | Casual Contact       | Bathurst        | Metro Petroleum Bathurst45 Bant Street | 4:55pm to 5:05pm on Friday 20 August 2021                    |
 | 23/08/2021      | Casual Contact       | Bathurst        | Specsavers BathurstShop 4 and 5, Bathurst City Centre, 210 Howick Street | 9:30am to 10am on Friday 20 August 2021                      |
 | 27/08/2021      | Casual Contact       | Bathurst        | Woolworths BathurstArmada Shopping Centre, 121 Howick Street | 8:45am to 9:25am on Saturday 21 August 2021                  |
