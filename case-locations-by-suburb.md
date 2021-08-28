@@ -90,6 +90,7 @@
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Hotel Elermore Bottle Shop145 Croudace Road | 7pm to 7:05pm on Friday 13 August 2021                       |
 | 20/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:15am to 10:45am on Sunday 15 August 2021                  |
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Liquor Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:21am to 10:45am on Sunday 15 August 2021                  |
+| 28/08/2021      | Casual Contact       | Erina           | Woolworths Erina Fair (area between Nextra, the customer service desk, and centre entry/exit)Terrigal Drive | 11am to 11:45am on Monday 23 August 20211pm to 1:40pm on Tuesday 24 August 2021 |
 | 22/08/2021      | Close Contact        | Ermington       | Ermington Butcher2 Betty Cuthbert Avenue | 7am to 4pm on Thursday 19 August 2021                        |
 | 23/08/2021      | Casual Contact       | Forbes          | Bunnings ForbesCorner of Newell Highway and Lamb Street | 10:30am to 11:05am on Saturday 21 August 2021                |
 | 23/08/2021      | Casual Contact       | Gilgandra       | BP Gilgandra13 Castlereagh Street | 12pm (noon) to 1pm on Monday 16 August 2021                  |
@@ -171,6 +172,7 @@
 | 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 5:55am to 6:10am on Tuesday 17 August 20216:15am to 6:35am on Monday 16 August 2021 |
 | 24/08/2021      | Casual Contact       | Temora          | Wylies Newsagency226 Hoskins Street | 4:35pm to 4:50pm on Monday 16 August 2021                    |
 | 20/08/2021      | Casual Contact       | Tenambit        | Tenambit Pharmacy47 Maize Street | 11am to 11:05am on Friday 13 August 20212:10pm to 2:15pm on Wednesday 11 August 2021 |
+| 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 25/08/2021      | Casual Contact       | Walgett         | Walgett RSL71 Fox Street  | 1:40pm to 2:10pm on Saturday 14 August 2021                  |
 | 23/08/2021      | Casual Contact       | Wallsend        | BWS WallsendCorner of Cowper and Murnin Street | 4:23pm to 4:29pm on Saturday 14 August 20214:20pm to 4:30pm on Saturday 14 August 2021 |
