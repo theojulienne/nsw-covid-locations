@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
+| 28/08/2021      | Casual Contact       | Thornton        | Thornton Discount Drug StoreThornton Shopping Centre, Shop 20, 21/1 Taylor Avenue | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 28/08/2021      | Casual Contact       | Erina           | Erina Fair                   (The Woolworths end of Erina Fair - area between Nextra, the customer service desk, and centre entry/exit)Terrigal Drive | 11am to 11:45am on Monday 23 August 20211pm to 1:40pm on Tuesday 24 August 2021 |
 | 28/08/2021      | Casual Contact       | East Maitland   | The Cheesecake Shop East Maitland7a/23 Mitchell Drive | 11:35am to 11:45am on Saturday 21 August 2021                |
 | 27/08/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong 63 Burelli Street | 6:30pm to 6:45pm on Wednesday 18 August 2021                 |
