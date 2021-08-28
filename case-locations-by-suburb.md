@@ -90,7 +90,7 @@
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Hotel Elermore Bottle Shop145 Croudace Road | 7pm to 7:05pm on Friday 13 August 2021                       |
 | 20/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:15am to 10:45am on Sunday 15 August 2021                  |
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Liquor Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:21am to 10:45am on Sunday 15 August 2021                  |
-| 28/08/2021      | Casual Contact       | Erina           | Woolworths Erina Fair (area between Nextra, the customer service desk, and centre entry/exit)Terrigal Drive | 11am to 11:45am on Monday 23 August 20211pm to 1:40pm on Tuesday 24 August 2021 |
+| 28/08/2021      | Casual Contact       | Erina           | Erina Fair (The Woolworths end of Erina Fair - area between Nextra, the customer service desk, and centre entry/exit)Terrigal Drive | 11am to 11:45am on Monday 23 August 20211pm to 1:40pm on Tuesday 24 August 2021 |
 | 22/08/2021      | Close Contact        | Ermington       | Ermington Butcher2 Betty Cuthbert Avenue | 7am to 4pm on Thursday 19 August 2021                        |
 | 23/08/2021      | Casual Contact       | Forbes          | Bunnings ForbesCorner of Newell Highway and Lamb Street | 10:30am to 11:05am on Saturday 21 August 2021                |
 | 23/08/2021      | Casual Contact       | Gilgandra       | BP Gilgandra13 Castlereagh Street | 12pm (noon) to 1pm on Monday 16 August 2021                  |
