@@ -95,6 +95,9 @@
 | 22/08/2021      | Casual Contact       | Edmonson Park   | McDonald's Edmonson Park1952-1985 Camden Valley Way | 8:55am to 11:30am on Friday 20 August 20216am to 2pm on Thursday 19 August 2021 |
 | 20/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:15am to 10:45am on Sunday 15 August 2021                  |
 | 21/08/2021      | Casual Contact       | Elermore Vale   | Ritchie's IGA Liquor Elermore ValeElermore Vale Shopping Centre, 1/137 Croudace Road | 10:21am to 10:45am on Sunday 15 August 2021                  |
+| 29/08/2021      | Casual Contact       | Erina           | 7-Eleven Erina214 The Entrance Road | 10:55am to 11:10am on Monday 23 August 2021                  |
+| 29/08/2021      | Casual Contact       | Erina           | Aldi ErinaErina Fair, Terrigal Drive | 1:15pm to 1:35pm on Tuesday 24 August 202111:10am to 11:40am on Monday 23 August 2021 |
+| 29/08/2021      | Casual Contact       | Erina           | Chemist Warehouse ErinaErina Fair, Terrigal Drive | 11:25am to 11:40am on Monday 23 August 2021                  |
 | 28/08/2021      | Casual Contact       | Erina           | Erina Fair - Woolworths end  (area between Nextra, the customer service desk and centre entry/exit)Terrigal Drive | 1pm to 1:40pm on Tuesday 24 August 202111am to 11:45am on Monday 23 August 2021 |
 | 22/08/2021      | Close Contact        | Ermington       | Ermington Butcher2 Betty Cuthbert Avenue | 7am to 4pm on Thursday 19 August 2021                        |
 | 23/08/2021      | Casual Contact       | Forbes          | Bunnings ForbesCorner of Newell Highway and Lamb Street | 10:30am to 11:05am on Saturday 21 August 2021                |
@@ -105,6 +108,7 @@
 | 22/08/2021      | Casual Contact       | Glendale        | Coles GlendaleLake Road and Stockland Drive | 8am to 8:20am on Wednesday 18 August 2021                    |
 | 21/08/2021      | Casual Contact       | Glendale        | Soul Origin GlendaleStockland Glendale Shopping Centre, Kiosk 3/387, Lake Road | 1:35pm to 1:40pm on Tuesday 17 August 2021                   |
 | 22/08/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 10am to 10:15am on Thursday 19 August 20215:25pm to 5:35pm on Monday 9 August 2021 |
+| 29/08/2021      | Casual Contact       | Gosford         | 7-Eleven Gosford West55 Central Coast Highway | 6:15pm to 6:40pm on Tuesday 24 August 20218:40pm to 8:55pm on Monday 23 August 2021 |
 | 23/08/2021      | Casual Contact       | Gulargambone    | Australia Post Gulargambone39 Bourbah Street | 3:25pm to 3:40pm on Wednesday 18 August 2021                 |
 | 23/08/2021      | Casual Contact       | Gulargambone    | Gulargambone Bowling Club41 Armitre Street | 5:25pm to 5:40pm on Thursday 19 August 2021                  |
 | 21/08/2021      | Casual Contact       | Hamilton        | Aldi Hamilton11 Swan Street | 1pm to 1:25pm on Friday 20 August 2021                       |
@@ -118,6 +122,7 @@
 | 24/08/2021      | Casual Contact       | Kempsey         | Puma Petrol Station, Kempsey629 Pacific Highway | 12:04pm to 12:10pm on Friday 20 August 2021                  |
 | 20/08/2021      | Casual Contact       | Kiama           | Woolworths KiamaKiama View Shopping Centre, 143 Terralong Street | 10:25am to 10:30am on Thursday 19 August 2021                |
 | 25/08/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 6:20pm to 6:50pm on Saturday 21 August 2021                  |
+| 29/08/2021      | Casual Contact       | Kotara          | Kinn ThaiWestfield Kotara, Northcott Drive | 6:30pm to 6:40pm on Wednesday 25 August 2021                 |
 | 20/08/2021      | Casual Contact       | Lightning Ridge | Khans Supa IGA Lightning Ridge33 Opal Street | 2:15pm to 2:30pm on Tuesday 17 August 2021                   |
 | 22/08/2021      | Casual Contact       | Lithgow         | Aldi Lithgow2 Valley Drive | 12:30pm to 1pm on Wednesday 18 August 2021                   |
 | 22/08/2021      | Casual Contact       | Lithgow         | Coles LithgowCorner of Lithgow Street and Bent Street | 11:40am to 12:30pm on Thursday 19 August 20211:20pm to 1:45pm on Tuesday 17 August 2021 |
@@ -153,6 +158,9 @@
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish MarketsCorner of Pyrmont Birdge Road and Bank Street | 12am (midnight) to 3am on Wednesday 18 August 20215:15pm to 12am (midnight) on Tuesday 17 August 202112am (midnight) to 3am on Monday 16 August 20215pm to 12am (midnight) on Sunday 15 August 2021 |
 | 19/08/2021      | Casual Contact       | Queanbeyan      | Amcal Pharmacy Queanbeyan23 Antill Street | 9am to 11:30am on Monday 16 August 2021                      |
 | 19/08/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford and Antill Street | 9am to 11:30am on Monday 16 August 2021                      |
+| 29/08/2021      | Casual Contact       | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
+| 29/08/2021      | Casual Contact       | Raymond Terrace | Wok Express 88MarketPlace Raymond Terrace, 35-39 William Street | 12pm (noon) to 12:05pm on Wednesday 25 August 2021           |
+| 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
 | 21/08/2021      | Close Contact        | Rooty Hill      | Rooty Hill Medical and Dental Centre31 Rooty Hill Road | 1:50pm to 2:05pm on Sunday 15 August 2021                    |
 | 20/08/2021      | Casual Contact       | Strathfield     | Woolworths Strathfield19/11 The Boulevard | 12pm (noon) to 5pm on Sunday 15 August 20215pm to 10pm on Saturday 14 August 2021 |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
@@ -162,7 +170,7 @@
 | 28/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 6:10pm to 6:30pm on Monday 23 August 2021                    |
 | 28/08/2021      | Casual Contact       | Thornton        | Thornton Discount Drug StoreThornton Shopping Centre, Shop 20, 21/1 Taylor Avenue | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
-| 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Saturday 28 August 2021                  |
+| 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
 | 20/08/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 2:15pm to 2:30pm on Sunday 15 August 2021                    |
