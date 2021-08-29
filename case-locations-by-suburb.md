@@ -5,7 +5,6 @@
 | 27/08/2021      | Casual Contact       | Bathurst        | Aldi Bathurst128 Russell Street | 12:05pm to 12:40pm on Monday 23 August 20219:20am to 10:05am on Saturday 21 August 2021 |
 | 23/08/2021      | Casual Contact       | Bathurst        | Barratt and Smith Pathology193 Russell Street | 9am to 9:30am on Friday 20 August 2021                       |
 | 27/08/2021      | Casual Contact       | Bathurst        | Blooms the Chemist BathurstArmada Shopping Centre, 121 Howick Street | 8:40am to 9am on Saturday 21 August 2021                     |
-| 27/08/2021      | Casual Contact       | Bathurst        | Capital Chemist Bathurst117 George Street | 9:25am to 9:45am on Tuesday 24 August 2021                   |
 | 27/08/2021      | Casual Contact       | Bathurst        | Commonwealth Bank Bathurst80-84 William Street | 2:15pm to 2:35pm on Sunday 22 August 20215:25pm to 6:45pm on Friday 20 August 2021 |
 | 23/08/2021      | Casual Contact       | Bathurst        | DHM Pathology193 Russell Street | 2:10pm to 2:15pm on Thursday 19 August 2021                  |
 | 27/08/2021      | Casual Contact       | Bathurst        | Dan Murphy's Bathurst57 George Street | 10:40am to 11:15am on Saturday 21 August 2021                |
