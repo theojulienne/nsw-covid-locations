@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
+| 29/08/2021      | Casual Contact       | Thornton        | BP Truskstop Thornton5 Glenwood Drive | 8am to 8:10am on Saturday 21 August 2021                     |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Wok Express 88MarketPlace Raymond Terrace, 35-39 William Street | 12pm (noon) to 12:05pm on Wednesday 25 August 2021           |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
@@ -18,6 +19,7 @@
 | 29/08/2021      | Casual Contact       | Dubbo           | Hungry Jacks Dubbo69-73 Cobra Street | 9:15am to 9:20am on Friday 20 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | BP Dubbo107 Erskine Street | 9:55am to 9:05am on Tuesday 24 August 20217:10pm to 7:25pm on Monday 23 August 202111:30am to 11:35am on Friday 20 August 2021 |
+| 29/08/2021      | Casual Contact       | Cessnock        | Cessnock Day Night Pharmacy202 Wollombi Road | 6:15pm to 6:30pm on Friday 27 August 2021                    |
 | 29/08/2021      | Casual Contact       | Berkeley        | Berkeley West Takeaway - The Munch House1/6 Kelly Street | 1:55pm to 2pm on Wednesday 25 August 2021                    |
 | 28/08/2021      | Casual Contact       | West Gosford    | KFC West Gosford69 Central Coast Highway | 3:30pm to 3:50pm on Sunday 22 August 2021                    |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
