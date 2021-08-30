@@ -1,5 +1,9 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 30/08/2021      | Casual Contact       | Whitebridge     | Foodworks Whitebridge138 Dudley Road | 4:40pm to 4:45pm on Friday 27 August 2021                    |
+| 30/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 2021                       |
+| 30/08/2021      | Casual Contact       | Dubbo           | Atlas Motel140 Bourke Street | All day on Friday 27 August 2021All day on Thursday 26 August 2021All day on Wednesday 25 August 2021All day on Tuesday 24 August 2021All day on Monday 23 August 2021All day on Sunday 22 August 2021All day on Saturday 21 August 2021All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021All day on Sunday 15 August 2021 |
+| 30/08/2021      | Casual Contact       | Cessnock        | BP Cessnock36 Wine Country Drive | 9:30am to 9:40am on Wednesday 25 August 2021                 |
 | 29/08/2021      | Casual Contact       | Wollongong      | Schnitz Wollongong CentralCrown Central West Building, W115/200 Crown Street | 3:20pm to 3:40pm on Thursday 19 August 2021                  |
 | 29/08/2021      | Casual Contact       | Wollongong      | Australia Post WollongongShop 18 110-116 Crown Street | 3:05pm to 3:15pm on Monday 23 August 2021                    |
 | 29/08/2021      | Casual Contact       | Wollongong      | 7-Eleven West Wollongong346 Crown Street | 2:45pm to 4pm on Sunday 22 August 2021                       |
@@ -8,7 +12,7 @@
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Wok Express 88MarketPlace Raymond Terrace, 35-39 William Street | 12pm (noon) to 12:05pm on Wednesday 25 August 2021           |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
-| 29/08/2021      | Casual Contact       | Orange          | Woolworths North OrangeNorth Orange Shopping Centre, 9 Telopea Way | 12:30pm to 12:45pm on Monday 16 August 202111:35am to 11:50am on Sunday 22 August 2021 |
+| 29/08/2021      | Casual Contact       | Orange          | Woolworths North OrangeNorth Orange Shopping Centre, 9 Telopea Way | 11:35am to 11:50am on Sunday 22 August 202112:30pm to 12:45pm on Monday 16 August 2021 |
 | 29/08/2021      | Casual Contact       | Orange          | Coles OrangeAnson Street and Byng Street | 2pm to 4:30pm on Monday 23 August 2021                       |
 | 29/08/2021      | Casual Contact       | Orange          | Caltex Orange357-361 Summer Street and Corner of William Street | 9:45am to 11am on Monday 23 August 2021                      |
 | 29/08/2021      | Casual Contact       | Narromine       | Narromine Pharmacy53 Dandaloo Street | 11am to 11:30am on Thursday 26 August 202112:40pm to 12:50pm on Wednesday 18 August 2021 |
