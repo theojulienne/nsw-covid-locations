@@ -1,7 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 31/08/2021      | Casual Contact       | Wyoming         | Bowen's Pharmacy WyomingWyoming Shopping Centre, Corner Pacific Highway and Kinarra Avenue | 2:45pm to 3pm on Saturday 28 August 2021                     |
 | 31/08/2021      | Casual Contact       | Wyoming         | Aldi Wyoming489 Pacific Highway | 5:10pm to 5:35pm on Thursday 26 August 2021                  |
-| 31/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy65 Wingewarra Street | 2:45pm to 3pm on Saturday 28 August 20211:40pm to 2:45pm on Monday 23 August 2021 |
+| 31/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy Dubbo65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
 | 30/08/2021      | Casual Contact       | Wyoming         | Wyoming Shopping CentreCorner Pacific Highway and Kinarra Avenue  | 2:50pm to 3:20pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wyoming         | Coles WyomingCorner Pacific Highway and Kinarra Avenue  | 2:55pm to 3:15pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
