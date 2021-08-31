@@ -2,16 +2,16 @@
 | --- | --- | --- | --- | --- |
 | 31/08/2021      | Casual Contact       | Wyoming         | Bowen's Pharmacy WyomingWyoming Shopping Centre, Corner Pacific Highway and Kinarra Avenue | 2:45pm to 3pm on Saturday 28 August 2021                     |
 | 31/08/2021      | Casual Contact       | Wyoming         | Aldi Wyoming489 Pacific Highway | 5:10pm to 5:35pm on Thursday 26 August 2021                  |
-| 31/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy Dubbo65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
+| 31/08/2021      | Casual Contact       | Moree           | Puma Moree3 Blueberry Road | 2:20pm to 2:25pm on Tuesday 24 August 2021                   |
 | 30/08/2021      | Casual Contact       | Wyoming         | Wyoming Shopping CentreCorner Pacific Highway and Kinarra Avenue  | 2:50pm to 3:20pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wyoming         | Coles WyomingCorner Pacific Highway and Kinarra Avenue  | 2:55pm to 3:15pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
 | 30/08/2021      | Casual Contact       | Whitebridge     | Foodworks Whitebridge138 Dudley Road | 4:40pm to 4:45pm on Friday 27 August 2021                    |
+| 30/08/2021      | Casual Contact       | Warren          | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Close Contact        | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
 | 30/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5pm on Tuesday 24 August 2021 |
-| 30/08/2021      | Casual Contact       | Ravenswood      | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 30/08/2021      | Close Contact        | North Gosford   | KI Building Services Pty Ltd5 Ormond Street | All day on Friday 27 August 2021All day on Thursday 26 August 2021All day on Wednesday 25 August 2021All day on Tuesday 24 August 2021All day on Monday 23 August 2021All day on Saturday 21 August 2021 |
 | 30/08/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 9:25am to 9:55am on Saturday 21 August 20212pm to 11pm on Friday 20 August 2021 |
 | 30/08/2021      | Casual Contact       | Erina           | Erina Fair - Woolworths end  (area between Nextra, the customer service desk and centre entry/exit)Terrigal Drive | 1pm to 1:40pm on Tuesday 24 August 202111am to 11:45am on Monday 23 August 2021 |
@@ -68,6 +68,7 @@
 | 29/08/2021      | Casual Contact       | Dubbo           | Hungry Jacks Dubbo69-73 Cobra Street | 9:15am to 9:20am on Friday 20 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | Caltex Dubbo NorthLot 51 Bourke Street | 7:30pm to 8:30pm on Sunday 22 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | Bunnings DubboCorner of Mitchell Highway and Sheraton Road | 9:25am to 9:45am on Saturday 21 August 20211pm to 1:45pm on Saturday 21 August 20212pm to 2:30pm on Thursday 19 August 20219:30am to 10:45am on Wednesday 18 August 20214:45pm to 5:30pm on Wednesday 18 August 20212pm to 4pm on Saturday 14 August 20218:12am to 8:20am on Monday 9 August 2021 |
+| 29/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy Dubbo65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 3:40pm to 4pm on Sunday 22 August 202112:55pm to 1:10pm on Saturday 21 August 202111:20am to 11:50am on Tuesday 17 August 20219am to 9:05am on Friday 13 August 202111am to 11:20am on Thursday 12 August 20218:30am to 10:30am on Wednesday 11 August 202110am to 12pm (noon) on Monday 9 August 2021 |
 | 29/08/2021      | Casual Contact       | Dubbo           | BP Dubbo107 Erskine Street | 9:55am to 9:05am on Tuesday 24 August 20217:10pm to 7:25pm on Monday 23 August 202111:30am to 11:35am on Friday 20 August 2021 |
 | 29/08/2021      | Casual Contact       | Cessnock        | Cessnock Day Night Pharmacy202 Wollombi Road | 6:15pm to 6:30pm on Friday 27 August 2021                    |

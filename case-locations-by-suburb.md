@@ -44,7 +44,7 @@
 | 29/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 3:40pm to 4pm on Sunday 22 August 202112:55pm to 1:10pm on Saturday 21 August 202111:20am to 11:50am on Tuesday 17 August 20219am to 9:05am on Friday 13 August 202111am to 11:20am on Thursday 12 August 20218:30am to 10:30am on Wednesday 11 August 202110am to 12pm (noon) on Monday 9 August 2021 |
 | 27/08/2021      | Casual Contact       | Dubbo           | Blues Meats91 Tamworth Street | 2:45pm to 2:55pm on Monday 23 August 2021                    |
 | 28/08/2021      | Casual Contact       | Dubbo           | Bottle Shop Westside Hotel22-30 Whylandra Street | 6:05pm to 6:10pm on Wednesday 25 August 2021                 |
-| 31/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy Dubbo65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
+| 29/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy Dubbo65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
 | 29/08/2021      | Casual Contact       | Dubbo           | Bunnings DubboCorner of Mitchell Highway and Sheraton Road | 9:25am to 9:45am on Saturday 21 August 20211pm to 1:45pm on Saturday 21 August 20212pm to 2:30pm on Thursday 19 August 20219:30am to 10:45am on Wednesday 18 August 20214:45pm to 5:30pm on Wednesday 18 August 20212pm to 4pm on Saturday 14 August 20218:12am to 8:20am on Monday 9 August 2021 |
 | 29/08/2021      | Casual Contact       | Dubbo           | Caltex Dubbo NorthLot 51 Bourke Street | 7:30pm to 8:30pm on Sunday 22 August 2021                    |
 | 30/08/2021      | Casual Contact       | Dubbo           | Caltex DubboCobra and Brisbane Streets | 5:15am to 5:30am on Wednesday 25 August 20215:45pm to 6:15pm on Tuesday 24 August 2021 |
@@ -133,6 +133,7 @@
 | 23/08/2021      | Casual Contact       | Lithgow         | Lithgow Medical Clinic11 Bridge Street | 9:50am to 10:40am on Friday 20 August 2021                   |
 | 23/08/2021      | Casual Contact       | Lithgow         | Westend Newsagency (Australia Post Bowenfels)341a Main Street | 1:45pm to 1:55pm on Tuesday 17 August 2021                   |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
+| 31/08/2021      | Casual Contact       | Moree           | Puma Moree3 Blueberry Road | 2:20pm to 2:25pm on Tuesday 24 August 2021                   |
 | 30/08/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 9:25am to 9:55am on Saturday 21 August 20212pm to 11pm on Friday 20 August 2021 |
 | 22/08/2021      | Casual Contact       | Narellan        | Crust Pizza Narellan1/4 George Hunter Drive | 5:30pm to 9:30pm on Tuesday 17 August 2021                   |
 | 29/08/2021      | Casual Contact       | Narromine       | Coles NarromineDandaloo St Kirerath's Shopping Square | 5:30pm to 5:35pm on Monday 23 August 2021                    |
@@ -165,7 +166,6 @@
 | 22/08/2021      | Casual Contact       | Parkes          | Parkes Pharmacy279/283 Clarinda Street | 5:25pm to 5:50pm on Friday 20 August 2021                    |
 | 23/08/2021      | Casual Contact       | Parkes          | Woolworths Parkes235 Clarinda Street | 5:10pm to 5:20pm on Saturday 21 August 202111:10am to 12:10pm on Friday 20 August 2021 |
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish MarketsCorner of Pyrmont Birdge Road and Bank Street | 12am (midnight) to 3am on Wednesday 18 August 20215:15pm to 12am (midnight) on Tuesday 17 August 202112am (midnight) to 3am on Monday 16 August 20215pm to 12am (midnight) on Sunday 15 August 2021 |
-| 30/08/2021      | Casual Contact       | Ravenswood      | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
 | 30/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5pm on Tuesday 24 August 2021 |
 | 30/08/2021      | Close Contact        | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
@@ -181,6 +181,7 @@
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
 | 27/08/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Shopping Center, Corner of Northcliffe Drive and King Street | 12pm (noon) to 12:20pm on Sunday 22 August 202111:30am to 11:50am on Friday 20 August 2021 |
+| 30/08/2021      | Casual Contact       | Warren          | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:20am to 10:15am on Sunday 22 August 2021                   |
 | 24/08/2021      | Casual Contact       | Wellington      | D&J Rural Services Wellington134 Thornton Street | 2:15pm to 2:30pm on Wednesday 18 August 2021                 |
 | 26/08/2021      | Casual Contact       | Wellington      | Metro Petroleum Wellington145 Arthur Street | 10:30am to 10:40am on Sunday 22 August 2021                  |
