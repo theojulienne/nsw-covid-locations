@@ -196,7 +196,7 @@
 | 30/08/2021      | Casual Contact       | Whitebridge     | Foodworks Whitebridge138 Dudley Road | 4:40pm to 4:45pm on Friday 27 August 2021                    |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
 | 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
-| 27/08/2021      | Casual Contact       | Windradryne     | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |
+| 27/08/2021      | Casual Contact       | Windradyne      | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |
 | 24/08/2021      | Casual Contact       | Windsor         | Rum Corps Barracks Golf Centre61A Hawkesbury Valley Way | 2:15pm to 4pm on Tuesday 17 August 2021                      |
 | 29/08/2021      | Casual Contact       | Wollongong      | 7-Eleven West Wollongong346 Crown Street | 2:45pm to 4pm on Sunday 22 August 2021                       |
 | 29/08/2021      | Casual Contact       | Wollongong      | Australia Post WollongongShop 18 110-116 Crown Street | 3:05pm to 3:15pm on Monday 23 August 2021                    |

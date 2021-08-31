@@ -95,7 +95,7 @@
 | 28/08/2021      | Casual Contact       | Dubbo           | Bottle Shop Westside Hotel22-30 Whylandra Street | 6:05pm to 6:10pm on Wednesday 25 August 2021                 |
 | 27/08/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 6:30pm to 6:45pm on Wednesday 18 August 2021                 |
 | 27/08/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 12:55pm to 1:10pm on Saturday 21 August 2021                 |
-| 27/08/2021      | Casual Contact       | Windradryne     | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |
+| 27/08/2021      | Casual Contact       | Windradyne      | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |
 | 27/08/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Shopping Center, Corner of Northcliffe Drive and King Street | 12pm (noon) to 12:20pm on Sunday 22 August 202111:30am to 11:50am on Friday 20 August 2021 |
 | 27/08/2021      | Casual Contact       | Oak Flats       | Lakeview Hotel Bottle Shop4 Government Road | 4:30pm to 4:35pm on Friday 20 August 2021                    |
 | 27/08/2021      | Casual Contact       | Dubbo           | Tim Koerstz Pharmacy Dubbo93 Tamworth Street | 4:25pm to 4:40pm on Monday 23 August 202112:25pm to 12:35pm on Monday 23 August 20211:40pm to 1:50pm on Monday 23 August 2021 |
