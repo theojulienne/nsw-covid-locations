@@ -44,7 +44,7 @@
 | 29/08/2021      | Casual Contact       | Dubbo           | Big W DubboOrana Mall Shopping Centre, Wheeler Lane | 3:40pm to 4pm on Sunday 22 August 202112:55pm to 1:10pm on Saturday 21 August 202111:20am to 11:50am on Tuesday 17 August 20219am to 9:05am on Friday 13 August 202111am to 11:20am on Thursday 12 August 20218:30am to 10:30am on Wednesday 11 August 202110am to 12pm (noon) on Monday 9 August 2021 |
 | 27/08/2021      | Casual Contact       | Dubbo           | Blues Meats91 Tamworth Street | 2:45pm to 2:55pm on Monday 23 August 2021                    |
 | 28/08/2021      | Casual Contact       | Dubbo           | Bottle Shop Westside Hotel22-30 Whylandra Street | 6:05pm to 6:10pm on Wednesday 25 August 2021                 |
-| 29/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy65 Wingewarra Street | 1:40pm to 2:45pm on Monday 23 August 2021                    |
+| 31/08/2021      | Casual Contact       | Dubbo           | Bowen's Pharmacy65 Wingewarra Street | 2:45pm to 3pm on Saturday 28 August 20211:40pm to 2:45pm on Monday 23 August 2021 |
 | 29/08/2021      | Casual Contact       | Dubbo           | Bunnings DubboCorner of Mitchell Highway and Sheraton Road | 9:25am to 9:45am on Saturday 21 August 20211pm to 1:45pm on Saturday 21 August 20212pm to 2:30pm on Thursday 19 August 20219:30am to 10:45am on Wednesday 18 August 20214:45pm to 5:30pm on Wednesday 18 August 20212pm to 4pm on Saturday 14 August 20218:12am to 8:20am on Monday 9 August 2021 |
 | 29/08/2021      | Casual Contact       | Dubbo           | Caltex Dubbo NorthLot 51 Bourke Street | 7:30pm to 8:30pm on Sunday 22 August 2021                    |
 | 30/08/2021      | Casual Contact       | Dubbo           | Caltex DubboCobra and Brisbane Streets | 5:15am to 5:30am on Wednesday 25 August 20215:45pm to 6:15pm on Tuesday 24 August 2021 |
@@ -174,7 +174,7 @@
 | 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 5:55am to 6:10am on Tuesday 17 August 20216:15am to 6:35am on Monday 16 August 2021 |
 | 29/08/2021      | Casual Contact       | Thornton        | BP Truckstop Thornton5 Glenwood Drive | 8am to 8:10am on Saturday 21 August 2021                     |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
-| 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6:20pm to 6:30pm on Monday 23 August 20216pm to 6:10pm on Monday 23 August 2021 |
+| 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 28/08/2021      | Casual Contact       | Thornton        | Thornton Discount Drug StoreThornton Shopping Centre, Shop 20, 21/1 Taylor Avenue | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
@@ -208,6 +208,7 @@
 | 23/08/2021      | Casual Contact       | Wollongong      | Sydney Tools Wollongong63 Flinders Street | 8:25am to 8:40am on Saturday 21 August 2021                  |
 | 24/08/2021      | Casual Contact       | Wollongong      | Toro Robata Sushi9/129 Corrimal Street | 6:45pm to 7:05pm on Saturday 21 August 2021                  |
 | 27/08/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 6:30pm to 6:45pm on Wednesday 18 August 2021                 |
+| 31/08/2021      | Casual Contact       | Wyoming         | Aldi Wyoming489 Pacific Highway | 5:10pm to 5:35pm on Thursday 26 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wyoming         | Coles WyomingCorner Pacific Highway and Kinarra Avenue  | 2:55pm to 3:15pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wyoming         | Wyoming Shopping CentreCorner Pacific Highway and Kinarra Avenue  | 2:50pm to 3:20pm on Saturday 28 August 2021                  |
 | 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
