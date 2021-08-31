@@ -73,7 +73,7 @@
 | 27/08/2021      | Casual Contact       | Dubbo           | Mr Wang KitchenRiverdale Shopping Centre, 65 Macquarie Street | 6:15pm to 6:30pm on Monday 23 August 20211:40pm to 1:50pm on Monday 23 August 2021 |
 | 23/08/2021      | Casual Contact       | Dubbo           | Myall Street Mini Mart272 Myall Street | 12:15pm to 12:35pm on Friday 20 August 202110:45am to 11am on Friday 20 August 20212pm to 5pm on Thursday 19 August 20214:45pm to 5pm on Tuesday 17 August 20212pm to 2:20pm on Tuesday 17 August 202112pm (noon) to 12:05pm on Monday 16 August 202110:40am to 11am on Monday 16 August 20213:15pm to 3:35pm on Sunday 15 August 202111am to 11:20am on Sunday 15 August 20211:15pm to 1:35pm on Saturday 14 August 20213:25pm to 3:45pm on Monday 9 August 2021 |
 | 30/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo10 Erskine Street | 4:45pm to 6:05pm on Wednesday 25 August 202111:45am to 11:55am on Wednesday 25 August 202111:30am to 4pm on Tuesday 24 August 202111am to 11:10am on Thursday 19 August 20214:45pm to 5pm on Wednesday 18 August 2021 |
-| 24/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyOrana Mall Shopping Centre, 56 Windsor Parade | 10:30am to 12:30pm on Friday 20 August 2021                  |
+| 24/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyOrana Mall Shopping Centre, 56 Windsor Parade | 11:15am to 11:20am on Wednesday 25 August 202111:30am to 11:40am on Sunday 22 August 202110:30am to 12:30pm on Friday 20 August 2021 |
 | 24/08/2021      | Casual Contact       | Dubbo           | Orana Radiology168 Brisbane Street | 1:50pm to 3:15pm on Friday 20 August 2021                    |
 | 30/08/2021      | Casual Contact       | Dubbo           | Petrie's Mitre 10 Dubbo64-70 Macquarie Street | 9am to 5:30pm on Friday 27 August 20219am to 5:30pm on Thursday 26 August 20218am to 4pm on Sunday 22 August 20218am to 4pm on Saturday 21 August 20214:20pm to 4:30pm on Wednesday 18 August 202111:30am to 11:45am on Tuesday 17 August 2021 |
 | 28/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 4:10pm to 4:30pm on Friday 27 August 2021                    |
@@ -117,6 +117,8 @@
 | 23/08/2021      | Casual Contact       | Gulargambone    | Australia Post Gulargambone39 Bourbah Street | 3:25pm to 3:40pm on Wednesday 18 August 2021                 |
 | 23/08/2021      | Casual Contact       | Gulargambone    | Gulargambone Bowling Club41 Armitre Street | 5:25pm to 5:40pm on Thursday 19 August 2021                  |
 | 21/08/2021      | Casual Contact       | Hamilton        | Aldi Hamilton11 Swan Street | 1pm to 1:25pm on Friday 20 August 2021                       |
+| 31/08/2021      | Casual Contact       | Hay             | Caltex Roadhouse South HaySturt Highway (429-431 Moama Street) | 8:15pm to 9pm on Friday 27 August 2021                       |
+| 31/08/2021      | Casual Contact       | Hay             | Shell Service Station HaySturt Highway (329 Moama Street) | 8:20pm to 9pm on Sunday 29 August 20217:05am to 7:45am on Sunday 29 August 20217:15am to 7:45am on Friday 27 August 2021 |
 | 23/08/2021      | Casual Contact       | Kelso           | Clancy Ford202 Sydney Road | 2:20pm to 2:30pm on Thursday 19 August 2021                  |
 | 23/08/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street | 9am to 9:15am on Sunday 22 August 2021                       |
 | 23/08/2021      | Casual Contact       | Kelso           | IGA Trinity HeightsTrinity Heights Shopping Centre, Gilmour Street | 1:40pm to 2pm on Thursday 19 August 2021                     |
@@ -135,6 +137,8 @@
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
 | 31/08/2021      | Casual Contact       | Moree           | Puma Moree3 Blueberry Road | 2:20pm to 2:25pm on Tuesday 24 August 2021                   |
 | 30/08/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 9:25am to 9:55am on Saturday 21 August 20212pm to 11pm on Friday 20 August 2021 |
+| 31/08/2021      | Casual Contact       | Mudgee          | Ningana Motel Mudgee76 Mortimer Street | 12am (midnight) to 6:15am on Tuesday 24 August 20217:15pm to 11:59pm on Monday 23 August 2021 |
+| 31/08/2021      | Casual Contact       | Mudgee          | Shell Petrol Station Mudgee (Sydney Road)56 Sydney Road | 10am to 11am on Monday 23 August 2021                        |
 | 22/08/2021      | Casual Contact       | Narellan        | Crust Pizza Narellan1/4 George Hunter Drive | 5:30pm to 9:30pm on Tuesday 17 August 2021                   |
 | 29/08/2021      | Casual Contact       | Narromine       | Coles NarromineDandaloo St Kirerath's Shopping Square | 5:30pm to 5:35pm on Monday 23 August 2021                    |
 | 29/08/2021      | Casual Contact       | Narromine       | Inland Petroleum Narromine1 Third Avenue North | 2:35pm to 2:50pm on Tuesday 24 August 2021                   |
@@ -167,8 +171,7 @@
 | 23/08/2021      | Casual Contact       | Parkes          | Woolworths Parkes235 Clarinda Street | 5:10pm to 5:20pm on Saturday 21 August 202111:10am to 12:10pm on Friday 20 August 2021 |
 | 22/08/2021      | Casual Contact       | Pyrmont         | Sydney Fish MarketsCorner of Pyrmont Birdge Road and Bank Street | 12am (midnight) to 3am on Wednesday 18 August 20215:15pm to 12am (midnight) on Tuesday 17 August 202112am (midnight) to 3am on Monday 16 August 20215pm to 12am (midnight) on Sunday 15 August 2021 |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
-| 30/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5pm on Tuesday 24 August 2021 |
-| 30/08/2021      | Close Contact        | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
+| 31/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5:15pm on Tuesday 24 August 2021 |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Wok Express 88MarketPlace Raymond Terrace, 35-39 William Street | 12pm (noon) to 12:05pm on Wednesday 25 August 2021           |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 24/08/2021      | Casual Contact       | Temora          | Temora French Hot Bread158 Hoskins Street | 5:55am to 6:10am on Tuesday 17 August 20216:15am to 6:35am on Monday 16 August 2021 |
@@ -176,6 +179,7 @@
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 28/08/2021      | Casual Contact       | Thornton        | Thornton Discount Drug StoreThornton Shopping Centre, Shop 20, 21/1 Taylor Avenue | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
+| 31/08/2021      | Casual Contact       | Tooleybuc       | Lucky Phils Budget Rite and Takeaway55 Murray Street | 9:35am to 10:05am on Sunday 29 August 2021                   |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
@@ -193,7 +197,10 @@
 | 26/08/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 9am to 9:15am on Monday 23 August 20219:30am to 9:50am on Sunday 22 August 202110:10am to 10:35am on Sunday 22 August 20212:55pm to 3:30pm on Friday 20 August 20212:15pm to 2:45pm on Thursday 19 August 202111am to 11:30am on Thursday 19 August 20212pm to 2:20pm on Wednesday 18 August 20213:50pm to 4:20pm on Tuesday 17 August 202111:25am to 11:40am on Sunday 15 August 2021 |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
 | 28/08/2021      | Casual Contact       | West Gosford    | KFC West Gosford69 Central Coast Highway | 3:30pm to 3:50pm on Sunday 22 August 2021                    |
+| 31/08/2021      | Casual Contact       | West Wyalong    | Shell Coles Express West WyalongMid-Western Highway and Nicholson Lane  | 12am (midnight) to 12:15am on Monday 30 August 202111:30pm to 11:59pm on Sunday 29 August 20216pm to 6:35pm on Saturday 28 August 202112am (midnight) to 12:15am on Saturday 28 August 202111:15pm to 11:59pm on Friday 27 August 2021 |
+| 31/08/2021      | Casual Contact       | West Wyalong    | Shell Coles Express and Coolabah Tree CafeMid-Western Highway and Nicholson Lane  | 6:45pm to 8:15pm on Thursday 26 August 2021                  |
 | 30/08/2021      | Casual Contact       | Whitebridge     | Foodworks Whitebridge138 Dudley Road | 4:40pm to 4:45pm on Friday 27 August 2021                    |
+| 31/08/2021      | Casual Contact       | Whitebridge     | Whitebridge Cellars140 Dudley Road | 3:45pm to 3:50pm on Friday 27 August 20214pm to 4:05pm on Saturday 28 August 2021 |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
 | 26/08/2021      | Casual Contact       | Windale         | Windale Takeaway6 Lake Street | 5:35pm to 5:45pm on Saturday 21 August 2021                  |
 | 27/08/2021      | Casual Contact       | Windradyne      | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |

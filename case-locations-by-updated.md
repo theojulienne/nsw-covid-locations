@@ -2,7 +2,16 @@
 | --- | --- | --- | --- | --- |
 | 31/08/2021      | Casual Contact       | Wyoming         | Bowen's Pharmacy WyomingWyoming Shopping Centre, Corner Pacific Highway and Kinarra Avenue | 2:45pm to 3pm on Saturday 28 August 2021                     |
 | 31/08/2021      | Casual Contact       | Wyoming         | Aldi Wyoming489 Pacific Highway | 5:10pm to 5:35pm on Thursday 26 August 2021                  |
+| 31/08/2021      | Casual Contact       | Whitebridge     | Whitebridge Cellars140 Dudley Road | 3:45pm to 3:50pm on Friday 27 August 20214pm to 4:05pm on Saturday 28 August 2021 |
+| 31/08/2021      | Casual Contact       | West Wyalong    | Shell Coles Express and Coolabah Tree CafeMid-Western Highway and Nicholson Lane  | 6:45pm to 8:15pm on Thursday 26 August 2021                  |
+| 31/08/2021      | Casual Contact       | West Wyalong    | Shell Coles Express West WyalongMid-Western Highway and Nicholson Lane  | 12am (midnight) to 12:15am on Monday 30 August 202111:30pm to 11:59pm on Sunday 29 August 20216pm to 6:35pm on Saturday 28 August 202112am (midnight) to 12:15am on Saturday 28 August 202111:15pm to 11:59pm on Friday 27 August 2021 |
+| 31/08/2021      | Casual Contact       | Tooleybuc       | Lucky Phils Budget Rite and Takeaway55 Murray Street | 9:35am to 10:05am on Sunday 29 August 2021                   |
+| 31/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5:15pm on Tuesday 24 August 2021 |
+| 31/08/2021      | Casual Contact       | Mudgee          | Shell Petrol Station Mudgee (Sydney Road)56 Sydney Road | 10am to 11am on Monday 23 August 2021                        |
+| 31/08/2021      | Casual Contact       | Mudgee          | Ningana Motel Mudgee76 Mortimer Street | 12am (midnight) to 6:15am on Tuesday 24 August 20217:15pm to 11:59pm on Monday 23 August 2021 |
 | 31/08/2021      | Casual Contact       | Moree           | Puma Moree3 Blueberry Road | 2:20pm to 2:25pm on Tuesday 24 August 2021                   |
+| 31/08/2021      | Casual Contact       | Hay             | Shell Service Station HaySturt Highway (329 Moama Street) | 8:20pm to 9pm on Sunday 29 August 20217:05am to 7:45am on Sunday 29 August 20217:15am to 7:45am on Friday 27 August 2021 |
+| 31/08/2021      | Casual Contact       | Hay             | Caltex Roadhouse South HaySturt Highway (429-431 Moama Street) | 8:15pm to 9pm on Friday 27 August 2021                       |
 | 30/08/2021      | Casual Contact       | Wyoming         | Wyoming Shopping CentreCorner Pacific Highway and Kinarra Avenue  | 2:50pm to 3:20pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wyoming         | Coles WyomingCorner Pacific Highway and Kinarra Avenue  | 2:55pm to 3:15pm on Saturday 28 August 2021                  |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
@@ -10,8 +19,6 @@
 | 30/08/2021      | Casual Contact       | Warren          | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
-| 30/08/2021      | Close Contact        | Raymond Terrace | Subway Raymond TerraceMarketPlace Raymond Terrace, 35-39 William Street | 11:55pm to 12pm (noon) on Wednesday 25 August 2021           |
-| 30/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5pm on Tuesday 24 August 2021 |
 | 30/08/2021      | Close Contact        | North Gosford   | KI Building Services Pty Ltd5 Ormond Street | All day on Friday 27 August 2021All day on Thursday 26 August 2021All day on Wednesday 25 August 2021All day on Tuesday 24 August 2021All day on Monday 23 August 2021All day on Saturday 21 August 2021 |
 | 30/08/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 9:25am to 9:55am on Saturday 21 August 20212pm to 11pm on Friday 20 August 2021 |
 | 30/08/2021      | Casual Contact       | Erina           | Erina Fair - Woolworths end  (area between Nextra, the customer service desk and centre entry/exit)Terrigal Drive | 1pm to 1:40pm on Tuesday 24 August 202111am to 11:45am on Monday 23 August 2021 |
@@ -150,7 +157,7 @@
 | 24/08/2021      | Casual Contact       | Dubbo           | Terry White Chemmart DubboShop 15 Delroy Park Shopping Centre, Corner of Baird Drive and Torvean Avenue | 10:10am to 10:40am on Thursday 19 August 20213:45pm to 3:55pm on Wednesday 11 August 2021 |
 | 24/08/2021      | Casual Contact       | Dubbo           | Snare Newsagency93-95 Tabragar Street | 3:35pm to 3:40pm on Friday 20 August 2021                    |
 | 24/08/2021      | Casual Contact       | Dubbo           | Orana Radiology168 Brisbane Street | 1:50pm to 3:15pm on Friday 20 August 2021                    |
-| 24/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyOrana Mall Shopping Centre, 56 Windsor Parade | 10:30am to 12:30pm on Friday 20 August 2021                  |
+| 24/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyOrana Mall Shopping Centre, 56 Windsor Parade | 11:15am to 11:20am on Wednesday 25 August 202111:30am to 11:40am on Sunday 22 August 202110:30am to 12:30pm on Friday 20 August 2021 |
 | 24/08/2021      | Casual Contact       | Dubbo           | Delroy Park Shopping CentreMinore Road | 10:40am to 12pm (noon) on Friday 20 August 2021              |
 | 24/08/2021      | Casual Contact       | Broken Hill     | Liquorland Broken HillCorner of Grossan Street and Blende Street | 10:25am to 11:25am on Friday 20 August 2021                  |
 | 24/08/2021      | Casual Contact       | Broken Hill     | Good Price Pharmacy Warehouse4-5 Broken Hill Village Shopping Centre, Corner of South Road and Gossan Street | 9:30am to 9:40am on Friday 20 August 2021                    |
