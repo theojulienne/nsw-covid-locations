@@ -219,6 +219,7 @@
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
 | 23/08/2021      | Casual Contact       | Valla           | BP Nambucca Heads2 Corkwood Road | 2pm to 2:15pm on Thursday 19 August 2021                     |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
+| 01/09/2021      | Casual Contact       | Warners Bay     | Officeworks Warners Bay   | 10am to 10:10am on Sunday 29 August 2021                     |
 | 27/08/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Shopping Center, Corner of Northcliffe Drive and King Street | 12pm (noon) to 12:20pm on Sunday 22 August 202111:30am to 11:50am on Friday 20 August 2021 |
 | 30/08/2021      | Casual Contact       | Warren          | Uncle Clarry's Service Station2 Oxley Highway | 9:50am to 10am on Friday 20 August 2021                      |
 | 26/08/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 9:20am to 10:15am on Sunday 22 August 2021                   |

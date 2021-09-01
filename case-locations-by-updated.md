@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 01/09/2021      | Casual Contact       | Warners Bay     | Officeworks Warners Bay   | 10am to 10:10am on Sunday 29 August 2021                     |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
 | 01/09/2021      | Casual Contact       | Salamander Bay  | Liquorland Salamander BayShop 78 Salamander Bay Shopping Centre, 2 Town Centre Circuit | 2:30pm to 7:30pm on Saturday 28 August 20214:10pm to 10:10pm on Friday 27 August 2021 |
 | 01/09/2021      | Casual Contact       | Redhead         | The Redhead Bakehouse113 Cowlishaw Street | 11:20am to 11:30am on Friday 27 August 2021                  |
