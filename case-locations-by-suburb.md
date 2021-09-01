@@ -187,6 +187,7 @@
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Barrington BakeryTerrace Central, Sturgeon Street and Glenelg Street | 3:45pm to 3:50pm on Thursday 26 August 2021                  |
 | 31/08/2021      | Casual Contact       | Raymond Terrace | Big W Raymond TerraceMarket Place, Bourke Street and Port Stephens Street | 9am to 5pm on Wednesday 25 August 20219am to 5:15pm on Tuesday 24 August 2021 |
 | 29/08/2021      | Casual Contact       | Raymond Terrace | Wok Express 88MarketPlace Raymond Terrace, 35-39 William Street | 12pm (noon) to 12:05pm on Wednesday 25 August 2021           |
+| 01/09/2021      | Casual Contact       | Redhead         | The Redhead Bakehouse113 Cowlishaw Street | 11:20am to 11:30am on Friday 27 August 2021                  |
 | 22/08/2021      | Close Contact        | Telopea         | The Valley Pharmacy4 Benaud Place | All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 29/08/2021      | Casual Contact       | Thornton        | BP Truckstop Thornton5 Glenwood Drive | 8am to 8:10am on Saturday 21 August 2021                     |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
