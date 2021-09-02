@@ -8,6 +8,7 @@
 | 02/09/2021      | Casual Contact       | Ettalong Beach  | Ettalong Beach Waterfront Reserve59/60 The Esplanade | 2:10pm to 4:40pm on Sunday 29 August 2021                    |
 | 02/09/2021      | Casual Contact       | Dubbo           | BWS Dubbo - Orana MallOrana Mall Shopping Centre, Corner of Mitchell Highway and Wheelers Lane | 5:30pm to 6:30pm on Sunday 29 August 20218:20pm to 8:30pm on Tuesday 24 August 2021 |
 | 02/09/2021      | Casual Contact       | Dubbo           | BWS Dubbo - Delroy ParkDelroy Park Shopping Centre, Corner of Baird Drive and Torvean Avenue | 2pm to 2:15pm on Tuesday 31 August 2021                      |
+| 02/09/2021      | Casual Contact       | Charlestown     | Dan Murphy's Charlestown Square30 Pearson Street | 11:20am to 11:30am on Sunday 29 August 2021                  |
 | 01/09/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 9:25am to 9:40am on Wednesday 25 August 202112:55pm to 1:10pm on Saturday 21 August 2021 |
 | 01/09/2021      | Casual Contact       | Warners Bay     | Officeworks Warners Bay240-260 Hillsborough Road | 10am to 10:10am on Sunday 29 August 2021                     |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
