@@ -24,6 +24,7 @@
 | 03/09/2021      | Casual Contact       | Bathurst        | Food Buds125 Bentinck Street  | 5:15am to 5:20pm on Thursday 26 August 2021                  |
 | 23/08/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner of Bellambi Lane and Watts Lane | 8am to 8:30am on Saturday 21 August 2021                     |
 | 03/09/2021      | Casual Contact       | Belmont         | Aldi BelmontCorner Pacific Highwasy and Maude Street | 4:35pm to 4:45pm on Saturday 28 August 2021                  |
+| 03/09/2021      | Casual Contact       | Belmont         | Woolworths BelmontCorner Macquarie Street and Singleton Road | 4:55pm to 5:10pm on Saturday 28 August 2021                  |
 | 25/08/2021      | Casual Contact       | Berkeley        | Aish's Seafood and TakeawayNorthcliffe Drive | 4:50pm to 5:30pm on Sunday 22 August 2021                    |
 | 29/08/2021      | Casual Contact       | Berkeley        | Berkeley West Takeaway - The Munch House1/6 Kelly Street | 1:55pm to 2pm on Wednesday 25 August 2021                    |
 | 27/08/2021      | Casual Contact       | Berkeley        | Coles Berkeley65 Winnima Way | 11am to 11:15am on Sunday 22 August 202111:10am to 11:25am on Saturday 21 August 20212:05pm to 2:20pm on Friday 20 August 202110:45am to 11am on Thursday 19 August 20217:20pm to 7:35pm on Wednesday 18 August 2021 |
@@ -50,7 +51,7 @@
 | 01/09/2021      | Casual Contact       | Charlestown     | Charlestown Medical and Dental Centre316 Charlestown Road | 9am to 10am on Monday 23 August 2021                         |
 | 02/09/2021      | Casual Contact       | Charlestown     | Coles CharlestownCharlestown Square, Pearson Street | 10:25am to 11:25am on Sunday 29 August 202110:15am to 10:25am on Wednesday 25 August 2021 |
 | 02/09/2021      | Casual Contact       | Charlestown     | Dan Murphy's Charlestown Square30 Pearson Street | 11:20am to 11:30am on Sunday 29 August 2021                  |
-| 03/09/2021      | Casual Contact       | Charlestown     | Woolworths Charlestown30 Pearson Street | 2:15pm to 2:35pm on Tuesday 24 August 20213:30pm to 4pm on Sunday 22 August 2021 |
+| 03/09/2021      | Casual Contact       | Charlestown     | Woolworths Charlestown30 Pearson Street | 4pm to 4:35pm on Tuesday 24 August 20212:15pm to 2:35pm on Tuesday 24 August 20213:30pm to 4pm on Sunday 22 August 2021 |
 | 01/09/2021      | Casual Contact       | Cringila        | Illawarra Mixed Business1/44 Steel Street | 2:45pm to 3:15pm on Wednesday 25 August 2021                 |
 | 03/09/2021      | Casual Contact       | Doyalson        | Metro Petroleum Doyalson50 Pacific Highway | 12:05pm to 12:30pm on Wednesday 25 August 2021               |
 | 02/09/2021      | Casual Contact       | Dubbo           | ANZ Dubbo155 Macquarie Street | All day on Friday 27 August 20218am to 6pm on Thursday 26 August 2021 |
@@ -95,6 +96,7 @@
 | 30/08/2021      | Casual Contact       | Dubbo           | Lucky 7 Urban Village Convenience33-43 Whylandra Street | 4:10pm to 4:30pm on Wednesday 25 August 202110:05am to 10:25am on Wednesday 25 August 20213pm to 3:20pm on Tuesday 24 August 202111:35am to 11:45am on Tuesday 24 August 20213:05pm to 3:25pm on Sunday 22 August 20214:45pm to 4:50pm on Saturday 14 August 2021 |
 | 02/09/2021      | Casual Contact       | Dubbo           | McDonald's Dubbo22 Cobra Street | 8:30am to 8:35am on Thursday 26 August 20217am to 10am on Tuesday 24 August 20217am to 7:40pm on Monday 23 August 2021 |
 | 02/09/2021      | Casual Contact       | Dubbo           | McDonald's West Dubbo101 Whylandra Street | 12pm (noon) to 12:30pm on Sunday 29 August 20216pm to 6:15pm on Wednesday 25 August 202111:40am to 12pm (noon) on Wednesday 25 August 2021 |
+| 03/09/2021      | Casual Contact       | Dubbo           | Ming Hing Asian Restaurant248 Macquarie Street | 6:35pm to 6:45pm on Thursday 26 August 2021                  |
 | 03/09/2021      | Casual Contact       | Dubbo           | Mr Wang KitchenRiverdale Shopping Centre, 65 Macquarie Street | 1pm to 1:15pm on Friday 27 August 20216:15pm to 6:30pm on Monday 23 August 20211:40pm to 1:50pm on Monday 23 August 2021 |
 | 23/08/2021      | Casual Contact       | Dubbo           | Myall Street Mini Mart272 Myall Street | 12:15pm to 12:35pm on Friday 20 August 202110:45am to 11am on Friday 20 August 20212pm to 5pm on Thursday 19 August 20214:45pm to 5pm on Tuesday 17 August 20212pm to 2:20pm on Tuesday 17 August 202112pm (noon) to 12:05pm on Monday 16 August 202110:40am to 11am on Monday 16 August 20213:15pm to 3:35pm on Sunday 15 August 202111am to 11:20am on Sunday 15 August 20211:15pm to 1:35pm on Saturday 14 August 20213:25pm to 3:45pm on Monday 9 August 2021 |
 | 30/08/2021      | Casual Contact       | Dubbo           | Officeworks Dubbo10 Erskine Street | 4:45pm to 6:05pm on Wednesday 25 August 202111:45am to 11:55am on Wednesday 25 August 202111:30am to 4pm on Tuesday 24 August 202111am to 11:10am on Thursday 19 August 20214:45pm to 5pm on Wednesday 18 August 2021 |
@@ -139,6 +141,7 @@
 | 31/08/2021      | Casual Contact       | Faulconbridge   | Coles Express Faulconbridge575-581 Great Western Highway | 7:20pm to 7:30pm on Friday 27 August 2021                    |
 | 01/09/2021      | Casual Contact       | Figtree         | Coles FigtreePrinces Highway and The Avenue | 10:30am to 12pm (noon) on Sunday 29 August 2021              |
 | 29/08/2021      | Casual Contact       | Flinders        | Flinders Corner Shop53 Wattle Road | 1:25pm to 1:40pm on Saturday 21 August 2021                  |
+| 03/09/2021      | Casual Contact       | Flinders        | Flinders Friendly Grocer53 Wattle Road | 4:50pm to 5:00pm on Tuesday 31 August 20213:45pm to 4:55pm on Sunday 29 August 2021 |
 | 23/08/2021      | Casual Contact       | Forbes          | Bunnings ForbesCorner of Newell Highway and Lamb Street | 10:30am to 11:05am on Saturday 21 August 2021                |
 | 31/08/2021      | Casual Contact       | Geurie          | Dubbo Regional Council Wise ParkMitchell Highway | 8:45am to 8:50am on Monday 30 August 2021                    |
 | 31/08/2021      | Casual Contact       | Geurie          | Geurie Pit Stop Garage63 Buckenbah Street | 8:50am to 8:55am on Monday 30 August 2021                    |
@@ -220,6 +223,7 @@
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 6pm to 6:15pm on Tuesday 31 August 20212pm to 2:05pm on Saturday 28 August 2021 |
 | 02/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 ShoalBay Road | 10:50am to 11am on Saturday 28 August 2021                   |
+| 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2:00pm on Tuesday 31 August 2021                   |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
 | 29/08/2021      | Casual Contact       | Thornton        | BP Truckstop Thornton5 Glenwood Drive | 8am to 8:10am on Saturday 21 August 2021                     |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
@@ -230,6 +234,8 @@
 | 03/09/2021      | Casual Contact       | Toowoon Bay     | Two Birds Gallery Cafe104 Pacific Street | 9:45am to 10am on Monday 30 August 20218:15am to 8:30am on Sunday 29 August 2021 |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
+| 03/09/2021      | Casual Contact       | Tuggerah        | Westfield TuggerahCobbs Road | 8:45am to 9:05am on Monday 30 August 20211:55pm to 10:50am on Friday 27 August 2021 |
+| 03/09/2021      | Casual Contact       | Unanderra       | The Hardware Man53-57 Princes Motorway | 9:55am to 10:35am on Thursday 26 August 2021                 |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
 | 03/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 2:30pm to 2:35pm on Sunday 29 August 2021                    |
 | 02/09/2021      | Casual Contact       | Warilla         | Aldi WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 1:20pm to 1:50pm on Friday 27 August 2021                    |
