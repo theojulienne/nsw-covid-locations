@@ -147,6 +147,7 @@
 | 31/08/2021      | Casual Contact       | Hay             | Caltex Roadhouse South HaySturt Highway (429-431 Moama Street) | 8:40am to 8:45am on Friday 27 August 20218:15pm to 9pm on Friday 27 August 2021 |
 | 31/08/2021      | Casual Contact       | Hay             | Shell Service Station HaySturt Highway (329 Moama Street) | 8:20pm to 9pm on Sunday 29 August 20217:05am to 7:45am on Sunday 29 August 20217:15am to 7:45am on Friday 27 August 2021 |
 | 31/08/2021      | Casual Contact       | Hay South       | Hay Shell Service Station414 Russell Street | 8:35pm to 8:45pm on Sunday 29 August 20217:15am to 7:30am on Sunday 29 August 20217am to 7:05am on Friday 27 August 2021 |
+| 03/09/2021      | Casual Contact       | Heatherbrae     | Caltex Heatherbrae2283 Pacific Highway | 8:55pm to 9pm on Tuesday 31 August 20216am to 10am on Monday 30 August 2021 |
 | 02/09/2021      | Casual Contact       | Kangy Angy      | Tuggerah Garden Centre2 Old Tuggerah Road | 8am to 3pm on Saturday 28 August 20217am to 4pm on Friday 27 August 2021 |
 | 01/09/2021      | Casual Contact       | Katoomba        | Coles Katoomba34 Parke Street | 8am to 9am on Saturday 28 August 20219:30am to 5pm on Thursday 26 August 2021 |
 | 23/08/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street | 9am to 9:15am on Sunday 22 August 2021                       |
@@ -225,6 +226,7 @@
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
+| 03/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 2:30pm to 2:35pm on Sunday 29 August 2021                    |
 | 02/09/2021      | Casual Contact       | Warilla         | Aldi WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 1:20pm to 1:50pm on Friday 27 August 2021                    |
 | 03/09/2021      | Casual Contact       | Warilla         | CTC Tobacco Store WarillaShop 9A Warilla Grove Shopping Centre,  43-57 Shellharbour Road | 10am to 5pm on Saturday 28 August 20218:15am to 5:15pm on Friday 27 August 20218:30am to 4:30pm on Thursday 26 August 2021 |
 | 02/09/2021      | Casual Contact       | Warilla         | Woolworths WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 2:15pm to 3pm on Tuesday 31 August 20219:15am to 9:45am on Sunday 29 August 20211:45pm to 2pm on Friday 27 August 20217:15pm to 7:45pm on Thursday 26 August 2021 |
