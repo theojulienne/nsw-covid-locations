@@ -4,16 +4,15 @@
 | 04/09/2021      | Casual Contact       | West Gosford    | Ampol Foodary West Gosford30A Central Coast Highway | 5:35pm to 5:45pm on Friday 27 August 2021                    |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall near Big W entryCobbs Road | 1:55pm to 2:45pm on Friday 27 August 2021                    |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall from main entry near fountains to Optus shopCobbs Road | 8:45am to 9:05am on Monday 30 August 2021                    |
-| 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 9:30am to 9:45am on Tuesday 24 August 202111:45am to 12pm (noon) on Tuesday 31 August 2021 |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 11:45am to 12pm (noon) on Tuesday 31 August 20219:30am to 9:45am on Tuesday 24 August 2021 |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Newspower TuggerahShop 2048/49, Westfield Shopping Centre, 50 Wyong Road | 11:50am to 12:05pm on Thursday 26 August 2021                |
-| 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 11:35am to 11:50am on Thursday 26 August 20211:35pm to 1:55pm on Friday 27 August 2021 |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 1:35pm to 1:55pm on Friday 27 August 202111:35am to 11:50am on Thursday 26 August 2021 |
 | 04/09/2021      | Casual Contact       | Terrigal        | 31 Fish TerrigalShop 6, 42 Terrigal Esplanade | 12:15pm to 12:35pm on Tuesday 24 August 2021                 |
-| 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:35pm to 4:40pm on Monday 30 August 202110:10am to 10:20am on Wednesday 1 September 20214:15pm to 4:25pm on Wednesday 1 September 2021 |
-| 04/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 Shoal Bay Road | 10:50am to 11am on Saturday 28 August 20218:50am to 8:55am on Wednesday 1 September 20214:55pm to 5:05pm on Thursday 2 September 2021 |
+| 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:15pm to 4:25pm on Wednesday 1 September 202110:10am to 10:20am on Wednesday 1 September 20214:35pm to 4:40pm on Monday 30 August 2021 |
 | 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
-| 04/09/2021      | Casual Contact       | Dubbo           | Free Choice Tobacconist42C Victoria Street | 11:35am to 11:40am on Wednesday 25 August 202111:30am to 11:40am on Tuesday 24 August 2021 |
+| 04/09/2021      | Casual Contact       | Dubbo           | Dubbo Tobacconist and Hydroponics (FreeChoice Tobacconist)42C Victoria Street | 11:35am to 11:40am on Wednesday 25 August 202111:30am to 11:35am on Tuesday 24 August 202111:30am to 11:40am on Tuesday 24 August 2021 |
 | 04/09/2021      | Casual Contact       | Dubbo           | Ashcroft's IGA Dubbo95 Tamworth Street | 2:15pm to 2:30pm on Monday 30 August 20217:30pm to 7:40pm on Tuesday 24 August 20211:05pm to 1:10pm on Tuesday 24 August 20215:30pm to 5:45pm on Monday 23 August 20215:30pm to 5:35pm on Monday 23 August 20212:50pm to 3:05pm on Monday 23 August 20211:10pm to 1:30pm on Monday 23 August 20213:15pm to 3:30pm on Saturday 14 August 202112pm (noon) to 12:15pm on Friday 13 August 202112:55pm to 1:05pm on Friday 13 August 20214:50pm to 5pm on Thursday 12 August 20214:30pm to 4:45pm on Thursday 12 August 20212pm to 2:30pm on Thursday 12 August 20211pm to 1:20pm on Wednesday 11 August 202112:35pm to 12:55pm on Sunday 8 August 2021 |
-| 04/09/2021      | Casual Contact       | Bateau Bay      | TerryWhite Chemmart Bateau Bay SquareShop 75, Bateau Bay Square, Bay Village Road | 11:15am to 11:50am on Tuesday 31 August 20212pm to 2:30pm on Tuesday 31 August 2021 |
+| 04/09/2021      | Casual Contact       | Bateau Bay      | TerryWhite Chemmart Bateau Bay SquareShop 75, Bateau Bay Square, Bay Village Road | 2pm to 2:30pm on Tuesday 31 August 202111:15am to 11:50am on Tuesday 31 August 2021 |
 | 03/09/2021      | Casual Contact       | Wyong           | Australia Post Wyong21-23 Alison Road | 3:15pm to 3:25pm on Friday 27 August 2021                    |
 | 03/09/2021      | Casual Contact       | Wyoming         | Caltex Woolworths/EG Fuel Wyoming522 Pacific Highway | 12:20pm to 12:30pm on Saturday 28 August 2021                |
 | 03/09/2021      | Casual Contact       | West Gosford    | Petbarn West Gosford356 Manns Road | 10:45am to 11am on Saturday 28 August 2021                   |
@@ -60,6 +59,7 @@
 | 02/09/2021      | Casual Contact       | Warilla         | Woolworths WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 2:15pm to 3pm on Tuesday 31 August 20219:15am to 9:45am on Sunday 29 August 20211:45pm to 2pm on Friday 27 August 20217:15pm to 7:45pm on Thursday 26 August 2021 |
 | 02/09/2021      | Casual Contact       | Warilla         | Aldi WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 1:20pm to 1:50pm on Friday 27 August 2021                    |
 | 02/09/2021      | Casual Contact       | Toowoon Bay     | Family Bean Coffee Shop90 Toowoon Bay Road | 7:25am to 7:35am on Saturday 28 August 2021                  |
+| 02/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 202110:50am to 11am on Saturday 28 August 2021 |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 6pm to 6:15pm on Tuesday 31 August 20212pm to 2:05pm on Saturday 28 August 2021 |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |
 | 02/09/2021      | Casual Contact       | Richmond        | Richmond Inn Hotel Motel90 March Street | 12:55pm to 1:05pm on Tuesday 31 August 202112:35pm to 1:35pm on Monday 30 August 2021 |
@@ -224,7 +224,7 @@
 | 28/08/2021      | Casual Contact       | Dubbo           | Priceline Pharmacy Dubbo86 Macquarie Street | 4:10pm to 4:30pm on Friday 27 August 2021                    |
 | 28/08/2021      | Casual Contact       | Dubbo           | Kmart DubboDubbo Square, Corner of Bultje and Macquarie Street | 4pm to 4:40pm on Wednesday 25 August 2021                    |
 | 28/08/2021      | Casual Contact       | Dubbo           | Inland Petroleum South Dubbo125 Cobra Street | 8:10am to 9am on Tuesday 24 August 202111:30am to 12:30pm on Tuesday 24 August 20216:55pm to 7:30pm on Sunday 22 August 2021 |
-| 28/08/2021      | Casual Contact       | Dubbo           | DMC Meat and Seafood55 Wheelers Lane | 2:30pm to 2:45pm on Friday 27 August 202112pm (noon) to 3pm on Friday 27 August 2021 |
+| 28/08/2021      | Casual Contact       | Dubbo           | DMC Meat and Seafood55 Wheelers Lane | 12pm (noon) to 3:15pm on Friday 27 August 2021               |
 | 28/08/2021      | Casual Contact       | Dubbo           | Bottle Shop Westside Hotel22-30 Whylandra Street | 6:05pm to 6:10pm on Wednesday 25 August 2021                 |
 | 27/08/2021      | Casual Contact       | Windradyne      | IGA BathurstWestpoint Shopping Centre, Wark Parade | 3:05pm to 3:30pm on Friday 20 August 2021                    |
 | 27/08/2021      | Casual Contact       | Oak Flats       | Lakeview Hotel Bottle Shop4 Government Road | 4:30pm to 4:35pm on Friday 20 August 2021                    |
@@ -282,13 +282,10 @@
 | 23/08/2021      | Close Contact        | Boolaroo        | Costco Warehouse1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
 | 23/08/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner of Bellambi Lane and Watts Lane | 8am to 8:30am on Saturday 21 August 2021                     |
 | 23/08/2021      | Casual Contact       | Bathurst        | Specsavers BathurstShop 4 and 5, Bathurst City Centre, 210 Howick Street | 9:30am to 10am on Friday 20 August 2021                      |
-| 23/08/2021      | Casual Contact       | Bathurst        | Barratt and Smith Pathology193 Russell Street | 9am to 9:30am on Friday 20 August 2021                       |
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
 | 22/08/2021      | Casual Contact       | Parkes          | Parkes Pharmacy279/283 Clarinda Street | 5:25pm to 5:50pm on Friday 20 August 2021                    |
-| 22/08/2021      | Casual Contact       | Parkes          | BWS ParkesParkes Metroplaza, 299 Clarinda Street | 5:30pm to 5:45pm on Friday 20 August 2021                    |
 | 22/08/2021      | Casual Contact       | Orange          | United Orange174 Woodward Street | 4:30pm to 4:45pm on Saturday 21 August 20212:30pm to 2:45pm on Thursday 19 August 2021 |
 | 22/08/2021      | Close Contact        | Ermington       | Ermington Butcher2 Betty Cuthbert Avenue | 7am to 4pm on Thursday 19 August 2021                        |
 | 22/08/2021      | Casual Contact       | Edmonson Park   | McDonald's Edmonson Park1952-1985 Camden Valley Way | 8:55am to 11:30am on Friday 20 August 20216am to 2pm on Thursday 19 August 2021 |
 | 22/08/2021      | Casual Contact       | Boolaroo        | Costco petrol station and membership office1 Cressy Road | All day on Friday 20 August 2021All day on Thursday 19 August 2021All day on Wednesday 18 August 2021All day on Tuesday 17 August 2021All day on Monday 16 August 2021 |
-| 21/08/2021      | Casual Contact       | Hamilton        | Aldi Hamilton11 Swan Street | 1pm to 1:25pm on Friday 20 August 2021                       |
 | 20/08/2021      | Casual Contact       | Dubbo           | The Nourish Bowl68 Gipps Street | 11am to 11:10am on Friday 20 August 2021                     |
