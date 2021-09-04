@@ -176,6 +176,7 @@
 | 29/08/2021      | Casual Contact       | Narromine       | Narromine Fruit and Vegetables63 Dandaloo Street | 12pm (noon) to 12:05pm on Monday 23 August 2021              |
 | 29/08/2021      | Casual Contact       | Narromine       | Narromine Pharmacy53 Dandaloo Street | 11am to 11:30am on Thursday 26 August 202112:40pm to 12:50pm on Wednesday 18 August 2021 |
 | 02/09/2021      | Casual Contact       | Narromine       | Soul Food Depot and Gallery1 Dandaloo Street | 9:45am to 10:25am on Sunday 29 August 2021                   |
+| 04/09/2021      | Casual Contact       | Nelson Bay      | Shells Coles Express23-27 Stockton Street | 9.45am to 9.50am on Tuesday 31 August 20217.20pm to 7.25pm on Tuesday 31 August 2021 |
 | 30/08/2021      | Close Contact        | North Gosford   | KI Building Services Pty Ltd5 Ormond Street | All day on Friday 27 August 2021All day on Thursday 26 August 2021All day on Wednesday 25 August 2021All day on Tuesday 24 August 2021All day on Monday 23 August 2021All day on Saturday 21 August 2021 |
 | 01/09/2021      | Casual Contact       | Nyngan          | Khan’s SUPA IGA Plus Liquor Nyngan139 Pangee Street | 1:30pm to 2:30pm on Friday 27 August 202110am to 12pm (noon) on Tuesday 24 August 202110am to 12pm (noon) on Monday 23 August 2021 |
 | 27/08/2021      | Casual Contact       | Oak Flats       | Lakeview Hotel Bottle Shop4 Government Road | 4:30pm to 4:35pm on Friday 20 August 2021                    |
