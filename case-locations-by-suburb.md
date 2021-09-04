@@ -6,6 +6,7 @@
 | 31/08/2021      | Casual Contact       | Balranald       | BP Balnarald94 Sturt Highway | 8:30am to 8:45am on Sunday 29 August 20219:30am to 9:45am on Friday 27 August 2021 |
 | 25/08/2021      | Casual Contact       | Bateau Bay      | Bateau Bay Square Shopping Centre - Food Court12 Bay Village Road | 9:35am to 9:55am on Sunday 22 August 2021                    |
 | 03/09/2021      | Casual Contact       | Bateau Bay      | Woolworths Bateau BayCharter Hall Square, 12 Bay Village Road | 6pm to 6:30pm on Monday 30 August 20218:35am to 9:30am on Sunday 29 August 20217:25pm to 8pm on Friday 27 August 2021 |
+| 04/09/2021      | Casual Contact       | Bateau Bay      | TerryWhite Chemmart Bateau Bay SquareShop 75, Bateau Bay Square, Bay Village Road | 11:15am to 11:50am on Tuesday 31 August 20212pm to 2:30pm on Tuesday 31 August 2021 |
 | 01/09/2021      | Casual Contact       | Bathurst        | Aldi Bathurst128 Russell Street | 12:45pm to 1pm on Saturday 28 August 202112:05pm to 12:40pm on Monday 23 August 20219:20am to 10:05am on Saturday 21 August 2021 |
 | 01/09/2021      | Casual Contact       | Bathurst        | Australia Post Bathurst West300 Stewart Street | 10:55am to 11:10am on Tuesday 24 August 2021                 |
 | 31/08/2021      | Casual Contact       | Bathurst        | BP Bathurst255 Stewart Street | 4pm to 4:25pm on Thursday 26 August 2021                     |
@@ -165,6 +166,7 @@
 | 02/09/2021      | Casual Contact       | Lake Heights    | Australia Post Lake Heightsshop 4/22 Weringa Ave | 4:30pm to 4:45pm on Wednesday 25 August 2021                 |
 | 01/09/2021      | Casual Contact       | Lake Illawarra  | Mitchell's Market WarillaShop 10 & 11 Warilla Grove | 3:30pm to 4pm on Friday 27 August 2021                       |
 | 03/09/2021      | Casual Contact       | Lambton         | 7-Eleven Service Station Lambton 21 Croudace Street | 9:55am to 10am on Wednesday 25 August 2021                   |
+| 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
 | 23/08/2021      | Casual Contact       | Lithgow         | Lithgow Medical Clinic11 Bridge Street | 9:50am to 10:40am on Friday 20 August 2021                   |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
 | 31/08/2021      | Casual Contact       | Moree           | Puma Moree3 Blueberry Road | 2:20pm to 2:30pm on Tuesday 24 August 2021                   |
@@ -225,6 +227,7 @@
 | 02/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 ShoalBay Road | 10:50am to 11am on Saturday 28 August 2021                   |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2:00pm on Tuesday 31 August 2021                   |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
+| 04/09/2021      | Casual Contact       | Terrigal        | 31 Fish TerrigalShop 6, 42 Terrigal Esplanade | 12:15pm to 12:35pm on Tuesday 24 August 2021                 |
 | 29/08/2021      | Casual Contact       | Thornton        | BP Truckstop Thornton5 Glenwood Drive | 8am to 8:10am on Saturday 21 August 2021                     |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
@@ -234,7 +237,10 @@
 | 03/09/2021      | Casual Contact       | Toowoon Bay     | Two Birds Gallery Cafe104 Pacific Street | 9:45am to 10am on Monday 30 August 20218:15am to 8:30am on Sunday 29 August 2021 |
 | 28/08/2021      | Casual Contact       | Tuggerah        | BP Tuggerah100 Pacific Highway | 12:15pm to 12:30pm on Saturday 21 August 2021                |
 | 28/08/2021      | Casual Contact       | Tuggerah        | Pacific Smiles Dental TuggerahWestfield Tuggerah, 50 Wyong Road | 4:20pm to 4:40pm on Monday 23 August 2021                    |
-| 03/09/2021      | Casual Contact       | Tuggerah        | Westfield TuggerahCobbs Road | 8:45am to 9:05am on Monday 30 August 20211:55pm to 10:50am on Friday 27 August 2021 |
+| 03/09/2021      | Casual Contact       | Tuggerah        | Westfield TuggerahCobbs Road | 8:45am to 9:05am on Monday 30 August 20211:55pm to 2:45pm on Friday 27 August 2021 |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 11:35am to 11:50am on Thursday 26 August 20211:35pm to 1:55pm on Friday 27 August 2021 |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Newspower TuggerahShop 2048/49, Westfield Shopping Centre, 50 Wyong Road | 11:50am to 12:05pm on Thursday 26 August 2021                |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 9:30am to 9:45am on Tuesday 24 August 202111:45am to 12pm (noon) on Tuesday 31 August 2021 |
 | 03/09/2021      | Casual Contact       | Unanderra       | The Hardware Man53-57 Princes Motorway | 9:55am to 10:35am on Thursday 26 August 2021                 |
 | 29/08/2021      | Close Contact        | Villawood       | Koonoona Park Villawood, Basketball Courts1 Karella Avenue | 1pm to 6pm on Sunday 22 August 2021                          |
 | 03/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 2:30pm to 2:35pm on Sunday 29 August 2021                    |
@@ -257,6 +263,7 @@
 | 22/08/2021      | Casual Contact       | West Ballina    | BP Travel Centre41 Bruxner Highway | 8am to 8:30am on Friday 20 August 2021                       |
 | 28/08/2021      | Casual Contact       | West Gosford    | KFC West Gosford69 Central Coast Highway | 3:30pm to 3:50pm on Sunday 22 August 2021                    |
 | 03/09/2021      | Casual Contact       | West Gosford    | Petbarn West Gosford356 Manns Road | 10:45am to 11am on Saturday 28 August 2021                   |
+| 04/09/2021      | Casual Contact       | West Gosford    | Ampol Foodary West Gosford30A Central Coast Highway | 5:35pm to 5:45pm on Friday 27 August 2021                    |
 | 02/09/2021      | Casual Contact       | Whitebridge     | Foodworks Whitebridge138 Dudley Road | 4:05pm to 4:10pm on Saturday 28 August 202112:10pm to 12:15pm on Saturday 28 August 20214:40pm to 4:45pm on Friday 27 August 20213:45pm to 3:55pm on Friday 27 August 2021 |
 | 31/08/2021      | Casual Contact       | Whitebridge     | Whitebridge Cellars140 Dudley Road | 4pm to 4:05pm on Saturday 28 August 20213:45pm to 3:50pm on Friday 27 August 2021 |
 | 30/08/2021      | Casual Contact       | Wickham         | WestEnd Cafe Wickham17 Charles Street | 9:25am to 9:40am on Monday 23 August 2021                    |
@@ -283,3 +290,4 @@
 | 03/09/2021      | Casual Contact       | Wyong           | Australia Post Wyong21-23 Alison Road | 3:15pm to 3:25pm on Friday 27 August 2021                    |
 | 02/09/2021      | Casual Contact       | Wyong           | Blooms Chemist Wyong74 Pacific Highway | 10am to 11am on Sunday 22 August 2021                        |
 | 25/08/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
+| 04/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146-148 Pacific Highway | 8am to 8pm on Monday 30 August 2021                          |
