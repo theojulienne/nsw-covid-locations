@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- |
 | 04/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146-148 Pacific Highway | 8am to 8pm on Monday 30 August 2021                          |
 | 04/09/2021      | Casual Contact       | West Gosford    | Ampol Foodary West Gosford30A Central Coast Highway | 5:35pm to 5:45pm on Friday 27 August 2021                    |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall near Big W entryCobbs Road | 1:55pm to 2:45pm on Friday 27 August 2021                    |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall from main entry near fountains to Optus shopCobbs Road | 8:45am to 9:05am on Monday 30 August 2021                    |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 9:30am to 9:45am on Tuesday 24 August 202111:45am to 12pm (noon) on Tuesday 31 August 2021 |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Newspower TuggerahShop 2048/49, Westfield Shopping Centre, 50 Wyong Road | 11:50am to 12:05pm on Thursday 26 August 2021                |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 11:35am to 11:50am on Thursday 26 August 20211:35pm to 1:55pm on Friday 27 August 2021 |
@@ -14,7 +16,6 @@
 | 03/09/2021      | Casual Contact       | Warilla         | CTC Tobacco Store WarillaShop 9A Warilla Grove Shopping Centre,  43-57 Shellharbour Road | 10am to 5pm on Saturday 28 August 20218:15am to 5:15pm on Friday 27 August 20218:30am to 4:30pm on Thursday 26 August 2021 |
 | 03/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 2:30pm to 2:35pm on Sunday 29 August 2021                    |
 | 03/09/2021      | Casual Contact       | Unanderra       | The Hardware Man53-57 Princes Motorway | 9:55am to 10:35am on Thursday 26 August 2021                 |
-| 03/09/2021      | Casual Contact       | Tuggerah        | Westfield TuggerahCobbs Road | 8:45am to 9:05am on Monday 30 August 20211:55pm to 2:45pm on Friday 27 August 2021 |
 | 03/09/2021      | Casual Contact       | Toowoon Bay     | Two Birds Gallery Cafe104 Pacific Street | 9:45am to 10am on Monday 30 August 20218:15am to 8:30am on Sunday 29 August 2021 |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2:00pm on Tuesday 31 August 2021                   |
 | 03/09/2021      | Casual Contact       | San Remo        | First Choice Liquor Market San Remo17-33 Pacific Highway | 1:30pm to 1:45pm on Tuesday 24 August 2021                   |
