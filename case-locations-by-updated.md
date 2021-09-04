@@ -8,6 +8,7 @@
 | 04/09/2021      | Casual Contact       | Tuggerah        | Newspower TuggerahShop 2048/49, Westfield Shopping Centre, 50 Wyong Road | 11:50am to 12:05pm on Thursday 26 August 2021                |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 11:35am to 11:50am on Thursday 26 August 20211:35pm to 1:55pm on Friday 27 August 2021 |
 | 04/09/2021      | Casual Contact       | Terrigal        | 31 Fish TerrigalShop 6, 42 Terrigal Esplanade | 12:15pm to 12:35pm on Tuesday 24 August 2021                 |
+| 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:35pm to 4:40pm on Monday 30 August 202110:10am to 10:20am on Wednesday 1 September 20214:15pm to 4:25pm on Wednesday 1 September 2021 |
 | 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
 | 04/09/2021      | Casual Contact       | Bateau Bay      | TerryWhite Chemmart Bateau Bay SquareShop 75, Bateau Bay Square, Bay Village Road | 11:15am to 11:50am on Tuesday 31 August 20212pm to 2:30pm on Tuesday 31 August 2021 |
 | 03/09/2021      | Casual Contact       | Wyong           | Australia Post Wyong21-23 Alison Road | 3:15pm to 3:25pm on Friday 27 August 2021                    |

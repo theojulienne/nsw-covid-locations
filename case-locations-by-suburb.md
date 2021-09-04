@@ -225,6 +225,7 @@
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 6pm to 6:15pm on Tuesday 31 August 20212pm to 2:05pm on Saturday 28 August 2021 |
 | 02/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 ShoalBay Road | 10:50am to 11am on Saturday 28 August 2021                   |
+| 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:35pm to 4:40pm on Monday 30 August 202110:10am to 10:20am on Wednesday 1 September 20214:15pm to 4:25pm on Wednesday 1 September 2021 |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2:00pm on Tuesday 31 August 2021                   |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
 | 04/09/2021      | Casual Contact       | Terrigal        | 31 Fish TerrigalShop 6, 42 Terrigal Esplanade | 12:15pm to 12:35pm on Tuesday 24 August 2021                 |
