@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 05/09/2021      | Close Contact        | Hamyln Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 04/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146-148 Pacific Highway | 8:00am to 8:00pm on Monday 30 August 2021                    |
 | 04/09/2021      | Casual Contact       | Wyoming         | EG Fuelco (Australia) Ltd 522 Pacific Hwy | 12:20pm to 12:30pm on Saturday 28 August 2021                |
 | 04/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong 63 Burelli Street | 6:00pm to 6:35pm on Thursday 26 August 2021                  |

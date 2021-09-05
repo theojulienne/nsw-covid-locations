@@ -163,6 +163,7 @@
 | 02/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 4:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
 | 04/09/2021      | Casual Contact       | Goulburn        | Trappers Bakery 4 Sowerby Street | 8:45am to 9:30am on Thursday 26 August 2021                  |
 | 02/09/2021      | Casual Contact       | Hamlyn Terrace  | Bottlemart Shop, The Dam HotelCorner of Minnesota Road and Pacific Highway | 2:45pm to 3pm on Friday 27 August 2021                       |
+| 05/09/2021      | Close Contact        | Hamyln Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 31/08/2021      | Casual Contact       | Hay             | Caltex Roadhouse South HaySturt Highway (429-431 Moama Street) | 8:40am to 8:45am on Friday 27 August 20218:15pm to 9pm on Friday 27 August 2021 |
 | 31/08/2021      | Casual Contact       | Hay             | Shell Service Station HaySturt Highway (329 Moama Street) | 8:20pm to 9pm on Sunday 29 August 20217:05am to 7:45am on Sunday 29 August 20217:15am to 7:45am on Friday 27 August 2021 |
 | 31/08/2021      | Casual Contact       | Hay South       | Hay Shell Service Station414 Russell Street | 8:35pm to 8:45pm on Sunday 29 August 20217:15am to 7:30am on Sunday 29 August 20217am to 7:05am on Friday 27 August 2021 |
