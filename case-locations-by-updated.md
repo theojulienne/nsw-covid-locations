@@ -6,6 +6,7 @@
 | 05/09/2021      | Casual Contact       | Shoal Bay       | Cellarbrations Bottle Shop Shoal Bay35-45 Shoal Bay Road | 5:05pm to 5:10pm on Wednesday 1 September 20214:40pm to 4:50pm on Monday 30 August 2021 |
 | 05/09/2021      | Close Contact        | Hamlyn Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 05/09/2021      | Casual Contact       | Dubbo           | Tim Koerstz Pharmacy Dubbo93 Tamworth Street | 2pm to 2:30pm on Monday 30 August 20214:25pm to 4:40pm on Monday 23 August 202112:25pm to 12:35pm on Monday 23 August 20211:40pm to 1:50pm on Monday 23 August 2021 |
+| 05/09/2021      | Casual Contact       | Beresfield      | BP BeresfieldLot 201 John Renshaw Drive | 1:20pm to 1:30pm on Friday 3 September 2021                  |
 | 04/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146-148 Pacific Highway | 8am to 8pm on Monday 30 August 2021                          |
 | 04/09/2021      | Casual Contact       | Wyoming         | EG Fuelco (Australia) Ltd522 Pacific Hwy | 12:20pm to 12:30pm on Saturday 28 August 2021                |
 | 04/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 6pm to 6:35pm on Thursday 26 August 2021                     |

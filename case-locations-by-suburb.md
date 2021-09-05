@@ -22,6 +22,7 @@
 | 04/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner of Bellambi Lane and Watts Lane | 1:10pm to 1:30pm on Thursday 2 September 20218am to 8:30am on Saturday 21 August 2021 |
 | 03/09/2021      | Casual Contact       | Belmont         | Aldi BelmontCorner Pacific Highwasy and Maude Street | 4:35pm to 4:45pm on Saturday 28 August 2021                  |
 | 03/09/2021      | Casual Contact       | Belmont         | Woolworths BelmontCorner Macquarie Street and Singleton Road | 4:55pm to 5:10pm on Saturday 28 August 2021                  |
+| 05/09/2021      | Casual Contact       | Beresfield      | BP BeresfieldLot 201 John Renshaw Drive | 1:20pm to 1:30pm on Friday 3 September 2021                  |
 | 25/08/2021      | Casual Contact       | Berkeley        | Aish's Seafood and TakeawayNorthcliffe Drive | 4:50pm to 5:30pm on Sunday 22 August 2021                    |
 | 29/08/2021      | Casual Contact       | Berkeley        | Berkeley West Takeaway - The Munch House1/6 Kelly Street | 1:55pm to 2pm on Wednesday 25 August 2021                    |
 | 27/08/2021      | Casual Contact       | Berkeley        | Coles Berkeley65 Winnima Way | 11am to 11:15am on Sunday 22 August 202111:10am to 11:25am on Saturday 21 August 20212:05pm to 2:20pm on Friday 20 August 202110:45am to 11am on Thursday 19 August 20217:20pm to 7:35pm on Wednesday 18 August 2021 |
