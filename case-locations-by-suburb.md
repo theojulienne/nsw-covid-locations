@@ -209,9 +209,11 @@
 | 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:15pm to 4:25pm on Wednesday 1 September 202110:10am to 10:20am on Wednesday 1 September 20214:35pm to 4:40pm on Monday 30 August 2021 |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2:00pm on Tuesday 31 August 2021                   |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
+| 05/09/2021      | Casual Contact       | Taylors Beach   | Bunnings Port StephensCorner Port Stephens Drive and Taylors Beach Road | 10:35am to 10:45am on Wednesday 1 September 20213:55pm to 4:30pm on Friday 27 August 2021 |
 | 04/09/2021      | Casual Contact       | Terrigal        | 31 Fish TerrigalShop 6, 42 Terrigal Esplanade | 12:15pm to 12:35pm on Tuesday 24 August 2021                 |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
 | 30/08/2021      | Casual Contact       | Thornton        | Discount Drug Store ThorntonThornton Shopping Centre, Shop 20 21/1 Taylor Ave | 6pm to 6:10pm on Monday 23 August 20216:20pm to 6:30pm on Monday 23 August 2021 |
+| 05/09/2021      | Casual Contact       | Thornton        | Subway ThorntonSupa Centre Shop 9 Lot 1, Corner New England Highway | 1:20pm to 1:30pm on Friday 3 September 2021                  |
 | 31/08/2021      | Casual Contact       | Tomingley       | BP Tomingley Truck Travellers StopNewell Highway | 7:15am to 7:20am on Sunday 29 August 2021                    |
 | 31/08/2021      | Casual Contact       | Tooleybuc       | Lucky Phils Budget Rite and Takeaway55 Murray Street | 9:45am to 10:05am on Sunday 29 August 2021                   |
 | 02/09/2021      | Casual Contact       | Toowoon Bay     | Family Bean Coffee Shop90 Toowoon Bay Road | 7:25am to 7:35am on Saturday 28 August 2021                  |

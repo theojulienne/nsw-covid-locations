@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 05/09/2021      | Casual Contact       | Thornton        | Subway ThorntonSupa Centre Shop 9 Lot 1, Corner New England Highway | 1:20pm to 1:30pm on Friday 3 September 2021                  |
+| 05/09/2021      | Casual Contact       | Taylors Beach   | Bunnings Port StephensCorner Port Stephens Drive and Taylors Beach Road | 10:35am to 10:45am on Wednesday 1 September 20213:55pm to 4:30pm on Friday 27 August 2021 |
 | 05/09/2021      | Casual Contact       | Shoal Bay       | Cellarbrations Bottle Shop Shoal Bay35-45 Shoal Bay Road | 5:05pm to 5:10pm on Wednesday 1 September 20214:40pm to 4:50pm on Monday 30 August 2021 |
 | 05/09/2021      | Close Contact        | Hamyln Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 04/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146-148 Pacific Highway | 8:00am to 8:00pm on Monday 30 August 2021                    |
