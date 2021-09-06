@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 06/09/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 7:35am to 8:10am on Wednesday 1 September 202110:45am to 11:15am on Wednesday 1 September 2021 |
 | 06/09/2021      | Casual Contact       | Singleton       | 7-Eleven Singleton1/3 Maitland Road | 5:45am to 5:50am on Wednesday 1 September 2021               |
 | 06/09/2021      | Casual Contact       | Henty           | Shell Henty29 Railway Parade | 4:45pm to 4:50pm on Thursday 26 August 2021                  |
 | 06/09/2021      | Casual Contact       | Coolac          | Mobil Highway Service Centre518 Coolac Road | 4:30pm to 5pm on Tuesday 31 August 2021                      |
@@ -41,7 +42,6 @@
 | 04/09/2021      | Casual Contact       | Wyoming         | EG Fuelco (Australia) Ltd522 Pacific Hwy | 12:20pm to 12:30pm on Saturday 28 August 2021                |
 | 04/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 6pm to 6:35pm on Thursday 26 August 2021                     |
 | 04/09/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 9pm to 9:35pm on Tuesday 31 August 20217:50pm to 8:20pm on Thursday 26 August 20219:25am to 9:40am on Wednesday 25 August 202112:55pm to 1:10pm on Saturday 21 August 2021 |
-| 04/09/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 7:35am to 8:10am on Wednesday 1 September 202110:10am to 10:45am on Wednesday 1 September 2021 |
 | 04/09/2021      | Casual Contact       | West Gosford    | Ampol Foodary West Gosford30A Central Coast Highway | 5:35pm to 5:45pm on Friday 27 August 2021                    |
 | 04/09/2021      | Casual Contact       | Warilla         | CTC Tobacco Store WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 10am to 5pm on Saturday 28 August 20218:15am to 5:15pm on Friday 27 August 20218:30am to 4:30pm on Thursday 26 August 202110am to 5pm on Thursday 26 August 2021 |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall near Big W entryCobbs Road | 1:55pm to 2:45pm on Friday 27 August 2021                    |
