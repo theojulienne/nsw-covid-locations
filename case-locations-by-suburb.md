@@ -209,6 +209,7 @@
 | 05/09/2021      | Casual Contact       | Shoal Bay       | Cellarbrations Bottle Shop Shoal Bay35-45 Shoal Bay Road | 5:05pm to 5:10pm on Wednesday 1 September 20214:40pm to 4:50pm on Monday 30 August 2021 |
 | 04/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 202110:50am to 11am on Saturday 28 August 2021 |
 | 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:15pm to 4:25pm on Wednesday 1 September 202110:10am to 10:20am on Wednesday 1 September 20214:35pm to 4:40pm on Monday 30 August 2021 |
+| 06/09/2021      | Casual Contact       | Singleton       | 7-Eleven Singleton1/3 Maitland Road | 5:45am to 5:50am on Wednesday 1 September 2021               |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2pm on Tuesday 31 August 2021                      |
 | 05/09/2021      | Casual Contact       | South Nowra     | Bunnings South Nowra147-167 Princes Highway | 4pm to 4:30pm on Tuesday 31 August 2021                      |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |

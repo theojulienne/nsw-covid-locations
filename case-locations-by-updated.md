@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 06/09/2021      | Casual Contact       | Singleton       | 7-Eleven Singleton1/3 Maitland Road | 5:45am to 5:50am on Wednesday 1 September 2021               |
 | 06/09/2021      | Casual Contact       | Henty           | Shell Henty29 Railway Parade | 4:45pm to 4:50pm on Thursday 26 August 2021                  |
 | 06/09/2021      | Casual Contact       | Coolac          | Mobil Highway Service Centre518 Coolac Road | 4:30pm to 5pm on Tuesday 31 August 2021                      |
 | 05/09/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, Corner of Alison Road and Henley Street | 7:10pm to 7:35pm on Wednesday 25 August 20217:05am to 7:30am on Sunday 22 August 20219:05pm to 9:15pm on Friday 20 August 2021 |
