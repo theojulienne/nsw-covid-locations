@@ -1,11 +1,19 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 07/09/2021      | Casual Contact       | Yass            | IGA Yass63 Laidlaw Street | 4pm to 4:30pm on Thursday 2 September 2021                   |
 | 07/09/2021      | Casual Contact       | West Gosford    | Tradelink West Gosford3 Grieve Close | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | West Gosford    | Reece Plumbing Supplies West Gosford240 Manns Road | 8:40am to 9:10am on Wednesday 1 September 20214:20pm to 4:45pm on Wednesday 1 September 2021 |
+| 07/09/2021      | Casual Contact       | Thornton        | Chemist Outlet ThorntonSuite 5/2, Poynton Place | 3:30pm to 3:40pm on Tuesday 31 August 2021                   |
 | 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
 | 07/09/2021      | Casual Contact       | Nelson Bay      | Westpac Nelson Bay134 Magnus Street | 12:35pm to 12:45pm on Friday 27 August 2021                  |
+| 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonalds Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
+| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnSloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |
+| 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
+| 07/09/2021      | Casual Contact       | East Maitland   | Good Health Greenhills6 Molly Morgan Drive | 10:20am to 10:25am on Friday 3 September 2021                |
+| 07/09/2021      | Casual Contact       | East Maitland   | Costi Fish Market East Maitland 1 Molly Morgan Drive | 10:40am to 10:50am on Friday 3 September 20211:55pm to 2pm on Thursday 2 September 20213:20pm to 3:30pm on Wednesday 1 September 20213:15pm to 3:30pm on Tuesday 31 August 2021 |
+| 07/09/2021      | Casual Contact       | Dubbo           | Inland Petroleum South Dubbo125 Cobra Street | 1:45pm to 2:45pm on Saturday 28 August 20211:30pm to 1:45pm on Saturday 28 August 20214:25pm to 4:35pm on Wednesday 25 August 20218:10am to 9am on Tuesday 24 August 202111:30am to 12:30pm on Tuesday 24 August 20216:55pm to 7:30pm on Sunday 22 August 2021 |
 | 07/09/2021      | Casual Contact       | Broken Hill     | The Reject Shop Broken HillShop/37 Galena Street | 11am to 5pm on Saturday 4 September 202110am to 5pm on Sunday 29 August 2021 |
 | 07/09/2021      | Close Contact        | Broken Hill     | The Reject Shop Broken Hill - Staff onlyShop/37 Galena Street | 11am to 5pm on Saturday 4 September 202110am to 5pm on Sunday 29 August 2021 |
 | 06/09/2021      | Casual Contact       | Whitebridge     | Morning Market Coffee2/142 Dudley Road | 12:35pm to 12:40pm on Saturday 28 August 2021                |
@@ -59,7 +67,6 @@
 | 05/09/2021      | Casual Contact       | Dubbo           | Ted's Milk Bar (Takeaway)26 Victoria Street | 8am to 8pm on Sunday 29 August 2021                          |
 | 05/09/2021      | Casual Contact       | Dubbo           | TSG Dubbo213 Macquarie Street | 2:30pm to 3pm on Tuesday 31 August 2021                      |
 | 05/09/2021      | Casual Contact       | Dubbo           | News Extra Dubbo117 Macquarie Street | 9am to 10am on Monday 30 August 2021                         |
-| 05/09/2021      | Casual Contact       | Dubbo           | Inland Petroleum South Dubbo125 Cobra Street | 1:45pm to 2:45pm on Saturday 28 August 20211:30pm to 1:45pm on Saturday 28 August 20218:10am to 9am on Tuesday 24 August 202111:30am to 12:30pm on Tuesday 24 August 20216:55pm to 7:30pm on Sunday 22 August 2021 |
 | 05/09/2021      | Casual Contact       | Dubbo           | Dubbo Square177 Macquarie Street | 7am to 10pm on Tuesday 31 August 20211pm to 1:30pm on Saturday 28 August 20214pm to 4:40pm on Wednesday 25 August 2021 |
 | 05/09/2021      | Casual Contact       | Dubbo           | Coles DubboDubbo Square, Bultje Street | 9am to 10am on Monday 30 August 20217:20pm to 7:55pm on Monday 30 August 20215:15pm to 5:40pm on Saturday 28 August 20211pm to 1:30pm on Saturday 28 August 202110:30am to 12pm (noon) on Saturday 28 August 202112pm (noon) to 12:30pm on Friday 27 August 20214pm to 4:40pm on Wednesday 25 August 202110:50am to 11:15am on Tuesday 24 August 202110:45am to 10:55am on Thursday 19 August 20213:20pm to 4:05pm on Wednesday 18 August 20217pm to 8pm on Tuesday 17 August 202111:20pm to 11:35am on Monday 16 August 202110:40am to 10:55am on Monday 16 August 20217:15pm to 7:45pm on Friday 13 August 20218:20am to 8:30am on Thursday 12 August 202110am to 10:20am on Thursday 12 August 202111:50am to 12:25pm on Wednesday 11 August 2021 |
 | 05/09/2021      | Casual Contact       | Dubbo           | Centrelink Dubbo64 Wingewarra Stree | 8:20am to 8:40am on Monday 30 August 2021                    |
@@ -231,7 +238,6 @@
 | 31/08/2021      | Casual Contact       | Dubbo           | Three Rivers Cafe170 Myall Street | 1:45pm to 1:55pm on Friday 27 August 2021                    |
 | 31/08/2021      | Casual Contact       | Dubbo           | Orana Mall Shopping Centre56 Windsor Parade | 2:30pm to 12am (midnight) on Wednesday 25 August 2021        |
 | 31/08/2021      | Casual Contact       | Dubbo           | Orana Mall PharmacyOrana Mall Shopping Centre, 56 Windsor Parade | 11:15am to 11:20am on Wednesday 25 August 202111:30am to 11:40am on Sunday 22 August 202110:30am to 12:30pm on Friday 20 August 2021 |
-| 31/08/2021      | Casual Contact       | Dubbo           | Inland South Dubbo125 Cobra Street | 4:25pm to 4:35pm on Wednesday 25 August 2021                 |
 | 31/08/2021      | Casual Contact       | Dubbo           | Commonwealth Bank Dubbo188 Macquarie Street | 10:30am to 10:45am on Tuesday 24 August 2021                 |
 | 31/08/2021      | Casual Contact       | Cessnock        | Coles CessnockCooper Street | 8:35am to 8:45am on Friday 27 August 2021                    |
 | 31/08/2021      | Casual Contact       | Brewarrina      | Shell Brewarrina39 Doyle Stret | 2pm to 2:30pm on Thursday 26 August 2021                     |
