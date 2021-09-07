@@ -210,6 +210,7 @@
 | 02/09/2021      | Casual Contact       | Richmond        | Richmond Inn Hotel Motel90 March Street | 12:55pm to 1:05pm on Tuesday 31 August 202112:35pm to 1:35pm on Monday 30 August 2021 |
 | 01/09/2021      | Casual Contact       | Salamander Bay  | Liquorland Salamander BayShop 78 Salamander Bay Shopping Centre, 2 Town Centre Circuit | 2:30pm to 7:30pm on Saturday 28 August 20214:10pm to 10:10pm on Friday 27 August 2021 |
 | 06/09/2021      | Casual Contact       | Salt Ash        | Saxby’s Bakery CafeNelson Bay Road and Richardson Road | 9:10am to 9:25am on Wednesday 1 September 2021               |
+| 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
 | 04/09/2021      | Casual Contact       | San Remo        | Coles San Remo21 Pacific Highway | 1:35pm to 1:50pm on Tuesday 24 August 2021                   |
 | 03/09/2021      | Casual Contact       | San Remo        | First Choice Liquor Market San Remo17-33 Pacific Highway | 1:30pm to 1:45pm on Tuesday 24 August 2021                   |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |

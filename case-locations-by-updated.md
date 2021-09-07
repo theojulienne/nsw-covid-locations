@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 07/09/2021      | Casual Contact       | West Gosford    | Tradelink West Gosford3 Grieve Close | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | West Gosford    | Reece Plumbing Supplies West Gosford240 Manns Road | 8:40am to 9:10am on Wednesday 1 September 20214:20pm to 4:45pm on Wednesday 1 September 2021 |
+| 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
 | 07/09/2021      | Casual Contact       | Nelson Bay      | Westpac Nelson Bay134 Magnus Street | 12:35pm to 12:45pm on Friday 27 August 2021                  |
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonalds Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
