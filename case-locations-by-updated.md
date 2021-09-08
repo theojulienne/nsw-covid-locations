@@ -1,5 +1,14 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 08/09/2021      | Casual Contact       | Woy Woy         | Woolworths Woy WoyPeninsula Plaza, 63 Blackwall Road | 5:10pm to 6pm on Monday 30 August 2021                       |
+| 08/09/2021      | Casual Contact       | Wadalba         | Woolworths Wadalba1 Figtree Boulevarde | 10:25am to 11:10am on Wednesday 1 September 2021             |
+| 08/09/2021      | Casual Contact       | Umina           | Woolworths Umina261-275 Trafalgar Street, Corner of West Street | 4:!5pm to 4:45pm on Wednesday 1 September 2021               |
+| 08/09/2021      | Casual Contact       | Lake Haven      | Woolworths Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 7:40pm to 8:10pm on Wednesday 1 September 20213:20pm to 3:45pm on Tuesday 31 August 202112:30pm to 1pm on Tuesday 31 August 20216:15pm to 6:45pm on Monday 30 August 2021 |
+| 08/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 2:20pm to 2:35pm on Thursday 2 September 20212:50pm to 3:15pm on Wednesday 1 September 20214:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
+| 08/09/2021      | Casual Contact       | Glendale        | Chemistworks GlendaleStockland Shopping Centre, 22/387 Lake Road | 4:20pm to 4:25pm on Saturday 4 September 20213:50pm to 3:55pm on Saturday 4 September 2021 |
+| 08/09/2021      | Casual Contact       | Doyalson        | Metro Petroleum Doyalson50 Pacific Highway | 4:30pm to 4:40pm on Wednesday 1 September 202112:05pm to 12:30pm on Wednesday 25 August 2021 |
+| 08/09/2021      | Casual Contact       | Bateau Bay      | Bateau Bay Square - southern end12 Bay Village Road | 2:05pm to 2:25pm on Tuesday 31 August 2021                   |
+| 08/09/2021      | Casual Contact       | Bateau Bay      | Australia Post Bateau Bay (Bay Village)Shop 60 Bateau Bay Square, 5 Bay Village Road | 2:05pm to 2:20pm on Tuesday 31 August 2021                   |
 | 07/09/2021      | Casual Contact       | Yass            | IGA Yass63 Laidlaw Street | 4pm to 4:30pm on Thursday 2 September 2021                   |
 | 07/09/2021      | Casual Contact       | West Gosford    | Tradelink West Gosford3 Grieve Close | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | West Gosford    | Reece Plumbing Supplies West Gosford240 Manns Road | 8:40am to 9:10am on Wednesday 1 September 20214:20pm to 4:45pm on Wednesday 1 September 2021 |
@@ -134,14 +143,13 @@
 | 03/09/2021      | Casual Contact       | Orange          | Harris Farm Markets OrangeOrange Arcade, Shop 3/150 Summer Street | 2:50pm to 3:10pm on Monday 30 August 2021                    |
 | 03/09/2021      | Casual Contact       | Lambton         | 7-Eleven Lambton21 Croudace Street | 9:55am to 10am on Wednesday 25 August 2021                   |
 | 03/09/2021      | Casual Contact       | Heatherbrae     | Caltex Heatherbrae2283 Pacific Highway | 8:55pm to 9pm on Tuesday 31 August 20216am to 10am on Monday 30 August 2021 |
-| 03/09/2021      | Casual Contact       | Gosford         | Kermat's Pies and Kebabs111 Donnison Street | 2:20pm to 2:25pm on Sunday 29 August 2021                    |
+| 03/09/2021      | Casual Contact       | Gosford         | Kermat's Pies and Kebabs111 Donnison Street | 2:50pm to 3:15pm on Wednesday 1 September 2021               |
 | 03/09/2021      | Casual Contact       | Flinders        | Flinders Friendly Grocer53 Wattle Road | 4:50pm to 5pm on Tuesday 31 August 20213:45pm to 4:55pm on Sunday 29 August 2021 |
 | 03/09/2021      | Casual Contact       | Dubbo           | Village Bakehouse Dubbo113A Darling Street | 11:30am to 11:45am on Saturday 28 August 20219:08am to 9:17am on Saturday 21 August 2021 |
 | 03/09/2021      | Casual Contact       | Dubbo           | Short Street Store11 Short Street | 9:50am to 10:05am on Sunday 29 August 2021                   |
 | 03/09/2021      | Casual Contact       | Dubbo           | Ming Hing Asian Restaurant248 Macquarie Street | 6:35pm to 6:45pm on Thursday 26 August 2021                  |
 | 03/09/2021      | Casual Contact       | Dubbo           | Blooms the Chemist Dubbo177 Macquarie Street | 10:30am to 11am on Sunday 29 August 2021                     |
 | 03/09/2021      | Casual Contact       | Dubbo           | Australia Post Dubbo65 Talbragar Street | 3:50pm to 4:10pm on Friday 27 August 202111:40am to 12:10pm on Thursday 26 August 20216:10pm to 6:45pm on Tuesday 24 August 2021 |
-| 03/09/2021      | Casual Contact       | Doyalson        | Metro Petroleum Doyalson50 Pacific Highway | 12:05pm to 12:30pm on Wednesday 25 August 2021               |
 | 03/09/2021      | Casual Contact       | Belmont         | Woolworths BelmontCorner Macquarie Street and Singleton Road | 4:55pm to 5:10pm on Saturday 28 August 2021                  |
 | 03/09/2021      | Casual Contact       | Belmont         | Aldi BelmontCorner Pacific Highwasy and Maude Street | 4:35pm to 4:45pm on Saturday 28 August 2021                  |
 | 03/09/2021      | Casual Contact       | Bathurst        | Food Buds125 Bentinck Street | 5:15am to 5:20pm on Thursday 26 August 2021                  |
@@ -166,7 +174,6 @@
 | 02/09/2021      | Casual Contact       | Narromine       | Soul Food Depot and Gallery1 Dandaloo Street | 9:45am to 10:25am on Sunday 29 August 2021                   |
 | 02/09/2021      | Casual Contact       | Lake Heights    | Australia Post Lake HeightsShop 4/22 Weringa Avenue | 4:30pm to 4:45pm on Wednesday 25 August 2021                 |
 | 02/09/2021      | Casual Contact       | Hamlyn Terrace  | Bottlemart Shop, The Dam HotelCorner of Minnesota Road and Pacific Highway | 2:45pm to 3pm on Friday 27 August 2021                       |
-| 02/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 4:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
 | 02/09/2021      | Casual Contact       | Ettalong Beach  | The Box on the Water Cafe, Ettalong Beach Waterfront Reserve59/60 The Esplanade | 3:30pm to 3:45pm on Sunday 29 August 2021                    |
 | 02/09/2021      | Casual Contact       | Ettalong Beach  | Ettalong Beach Waterfront Reserve59/60 The Esplanade | 2:10pm to 4:40pm on Sunday 29 August 2021                    |
 | 02/09/2021      | Casual Contact       | Dubbo           | McDonald's West Dubbo101 Whylandra Street | 12pm (noon) to 12:30pm on Sunday 29 August 20216pm to 6:15pm on Wednesday 25 August 202111:40am to 12pm (noon) on Wednesday 25 August 2021 |
