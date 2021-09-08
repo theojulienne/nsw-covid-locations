@@ -185,7 +185,7 @@
 | 02/09/2021      | Casual Contact       | Narromine       | Soul Food Depot and Gallery1 Dandaloo Street | 9:45am to 10:25am on Sunday 29 August 2021                   |
 | 04/09/2021      | Casual Contact       | Nelson Bay      | Shell Coles Express Nelson Bay23-27 Stockton Street | 9:45am to 9:50am on Tuesday 31 August 20217:20pm to 7:25pm on Tuesday 31 August 2021 |
 | 07/09/2021      | Casual Contact       | Nelson Bay      | Westpac Nelson Bay134 Magnus Street | 12:35pm to 12:45pm on Friday 27 August 2021                  |
-| 08/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson Bay - all customers and staffCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 2021                     |
+| 08/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 2021                     |
 | 30/08/2021      | Close Contact        | North Gosford   | KI Building Services Pty Ltd5 Ormond Street | All day on Friday 27 August 2021All day on Thursday 26 August 2021All day on Wednesday 25 August 2021All day on Tuesday 24 August 2021All day on Monday 23 August 2021All day on Saturday 21 August 2021 |
 | 01/09/2021      | Casual Contact       | Nyngan          | Khan’s SUPA IGA Plus Liquor Nyngan139 Pangee Street | 1:30pm to 2:30pm on Friday 27 August 202110am to 12pm (noon) on Tuesday 24 August 202110am to 12pm (noon) on Monday 23 August 2021 |
 | 08/09/2021      | Casual Contact       | Nyngan          | Nyngan News Agency94 Pangee Street |  2:40pm to 3:10pm on Thursday 2 September 2021               |
