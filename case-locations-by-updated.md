@@ -17,7 +17,7 @@
 | 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
 | 07/09/2021      | Casual Contact       | Nelson Bay      | Westpac Nelson Bay134 Magnus Street | 12:35pm to 12:45pm on Friday 27 August 2021                  |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
-| 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45am to 6:50am on Saturday 4 September 2021                |
+| 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonald's Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street |  4:50pm to 5:15pm on Friday 3 September 2021                 |
 | 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |

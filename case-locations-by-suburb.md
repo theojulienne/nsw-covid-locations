@@ -163,7 +163,7 @@
 | 03/09/2021      | Casual Contact       | Lambton         | 7-Eleven Lambton21 Croudace Street | 9:55am to 10am on Wednesday 25 August 2021                   |
 | 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
 | 05/09/2021      | Casual Contact       | Liverpool       | Coles LiverpoolWestfield Liverpool Shopping Centre, Elizabeth Street | 12:30pm to 9:15pm on Sunday 29 August 2021                   |
-| 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45am to 6:50am on Saturday 4 September 2021                |
+| 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 2:05pm to 2:45pm on Tuesday 31 August 2021                   |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
 | 05/09/2021      | Casual Contact       | Moss Vale       | Ashcroft's Supa IGA Moss Vale11-13 Clarence Street | 4:15pm to 4:45pm on Monday 30 August 2021                    |
