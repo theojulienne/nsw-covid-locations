@@ -17,7 +17,7 @@
 | 08/09/2021      | Casual Contact       | Walgett         | Walgett Pharmacy48 Fox Street |  1:30pm to 2:30pm on Monday 6 September 2021                 |
 | 08/09/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street |  9:30am to 11am on Sunday 5 September 2021                   |
 | 08/09/2021      | Casual Contact       | Wadalba         | Woolworths Wadalba1 Figtree Boulevarde | 10:25am to 11:10am on Wednesday 1 September 2021             |
-| 08/09/2021      | Casual Contact       | Umina           | Woolworths Umina261-275 Trafalgar Street, Corner of West Street | 4:!5pm to 4:45pm on Wednesday 1 September 2021               |
+| 08/09/2021      | Casual Contact       | Umina Beach     | Woolworths Umina Beach261-275 Trafalgar Street, Corner of West Street | 4:!5pm to 4:45pm on Wednesday 1 September 2021               |
 | 08/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Friday 3 September 20213:10pm to 3:15pm on Friday 3 September 2021 |
 | 08/09/2021      | Casual Contact       | Thornton        | Australia Post ThorntonThornton Shopping Centre, Shop 19/1 Taylor Avenue |  3:10pm to 3:45pm on Monday 30 August 2021                   |
 | 08/09/2021      | Casual Contact       | Tarrawanna      | Meadow Street Grocers and Deli TarrawannaShop 1/104 Meadow Street |  5am to 9am on Monday 6 September 2021 5am to 10am on Sunday 5 September 2021 5am to 3pm on Saturday 4 September 2021 5am to 5pm on Friday 3 September 2021 5am to 5pm on Thursday 2 September 2021 |
@@ -51,7 +51,7 @@
 | 07/09/2021      | Casual Contact       | West Gosford    | Tradelink West Gosford3 Grieve Close | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | West Gosford    | Reece Plumbing Supplies West Gosford240 Manns Road | 8:40am to 9:10am on Wednesday 1 September 20214:20pm to 4:45pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Thornton        | Chemist Outlet ThorntonSuite 5/2, Poynton Place | 3:30pm to 3:40pm on Tuesday 31 August 2021                   |
-| 07/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay26 - 27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 20215:50pm to 6pm on Sunday 29 August 202110:50am to 11am on Saturday 28 August 20211:40pm to 1:55pm on Thursday 26 August 2021 |
+| 07/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay25-27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 20215:50pm to 6pm on Wednesday 1 September 20211:40pm to 1:55pm on Wednesday 1 September 20215:50pm to 6pm on Sunday 29 August 202110:50am to 11am on Saturday 28 August 20211:40pm to 1:55pm on Thursday 26 August 2021 |
 | 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
 | 07/09/2021      | Casual Contact       | Nelson Bay      | Westpac Nelson Bay134 Magnus Street | 12:35pm to 12:45pm on Friday 27 August 2021                  |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
@@ -68,8 +68,8 @@
 | 07/09/2021      | Casual Contact       | Dubbo           | BP Truckstop Dubbo107 Erskine Street |  6:10pm to 6:30pm on Tuesday 31 August 202110:50am to 11:05am on Sunday 29 August 20219:35am to 9:45am on Saturday 28 August 20219:55am to 9:05am on Tuesday 24 August 20217:10pm to 7:25pm on Monday 23 August 2021All day on Friday 20 August 20215pm to 5:10pm on Wednesday 18 August 202110:15am to 10:20am on Tuesday 17 August 20216:30am to 6:45am on Thursday 12 August 20218:20am to 8:30am on Saturday 7 August 2021 |
 | 07/09/2021      | Casual Contact       | Cooks Hill      | Darby Kebab and Pide126 Darby Street | 10:10pm to 10:30pm on Tuesday 31 August 2021                 |
 | 07/09/2021      | Casual Contact       | Canowindra      | BP Canowindra76 Rodd Street |  3:20pm to 3:45pm on Sunday 5 September 2021                 |
-| 07/09/2021      | Casual Contact       | Broken Hill     | The Reject Shop Broken HillShop/37 Galena Street | 11am to 5pm on Saturday 4 September 2021                     |
-| 07/09/2021      | Close Contact        | Broken Hill     | The Reject Shop Broken Hill - Staff onlyShop/37 Galena Street | 11am to 5pm on Saturday 4 September 2021                     |
+| 07/09/2021      | Casual Contact       | Broken Hill     | The Reject Shop Broken HillShop/37 Galena Street | 11am to 5pm on Saturday 4 September 202110am to 5pm on Sunday 29 August 2021 |
+| 07/09/2021      | Close Contact        | Broken Hill     | The Reject Shop Broken Hill - Staff onlyShop/37 Galena Street | 11am to 5pm on Saturday 4 September 202110am to 5pm on Sunday 29 August 2021 |
 | 07/09/2021      | Casual Contact       | Balranald       | IGA Balranald102 Market Street |  1:10pm to 1:30pm on Thursday 2 September 2021               |
 | 07/09/2021      | Casual Contact       | Balranald       | Foodworks Balranald121 Market Street |  9:55am to 10:30am on Saturday 4 September 2021              |
 | 06/09/2021      | Casual Contact       | Whitebridge     | Morning Market Coffee2/142 Dudley Road | 12:35pm to 12:40pm on Saturday 28 August 2021                |
@@ -132,8 +132,8 @@
 | 04/09/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 9pm to 9:35pm on Tuesday 31 August 20217:50pm to 8:20pm on Thursday 26 August 20219:25am to 9:40am on Wednesday 25 August 202112:55pm to 1:10pm on Saturday 21 August 2021 |
 | 04/09/2021      | Casual Contact       | West Gosford    | Ampol Foodary West Gosford30A Central Coast Highway | 5:35pm to 5:45pm on Friday 27 August 2021                    |
 | 04/09/2021      | Casual Contact       | Warilla         | CTC Tobacco Store WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 10am to 5pm on Saturday 28 August 20218:15am to 5:15pm on Friday 27 August 20218:30am to 4:30pm on Thursday 26 August 202110am to 5pm on Thursday 26 August 2021 |
-| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall near Big W entryCobbs Road | 1:55pm to 2:45pm on Friday 27 August 2021                    |
-| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - inside mall from main entry near fountains to Optus shopCobbs Road | 8:45am to 9:05am on Monday 30 August 2021                    |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - Inside near Big W entryCobbs Road | 1:55pm to 2:45pm on Friday 27 August 2021                    |
+| 04/09/2021      | Casual Contact       | Tuggerah        | Westfield Tuggerah - Inside main entry from near fountains to Optus shopCobbs Road | 8:45am to 9:05am on Monday 30 August 2021                    |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Supanews TuggerahShop 2048/49 Westfield Tuggerah, Corner of Cobbs Road and Gavenlock Roads | 11:50am to 12:05pm on Thursday 26 August 2021                |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 11:45am to 12pm (noon) on Tuesday 31 August 20219:30am to 9:45am on Tuesday 24 August 2021 |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Newspower TuggerahShop 2048/49, Westfield Shopping Centre, 50 Wyong Road | 11:50am to 12:05pm on Thursday 26 August 2021                |
