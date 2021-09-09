@@ -162,6 +162,7 @@
 | 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
 | 05/09/2021      | Casual Contact       | Liverpool       | Coles LiverpoolWestfield Liverpool Shopping Centre, Elizabeth Street | 12:30pm to 9:15pm on Sunday 29 August 2021                   |
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
+| 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield East Village77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 9:55am to 10:25am on Friday 3 September 20216pm to 6:15pm on Tuesday 31 August 20212:05pm to 2:45pm on Tuesday 31 August 2021 |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
 | 05/09/2021      | Casual Contact       | Moss Vale       | Ashcroft's Supa IGA Moss Vale11-13 Clarence Street | 4:15pm to 4:45pm on Monday 30 August 2021                    |
@@ -213,6 +214,7 @@
 | 01/09/2021      | Casual Contact       | Salamander Bay  | Liquorland Salamander BayShop 78 Salamander Bay Shopping Centre, 2 Town Centre Circuit | 2:30pm to 7:30pm on Saturday 28 August 20214:10pm to 10:10pm on Friday 27 August 2021 |
 | 06/09/2021      | Casual Contact       | Salt Ash        | Saxby’s Bakery CafeNelson Bay Road and Richardson Road | 9:10am to 9:25am on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | Salt Ash        | The Pit Stop CafeNelson Bay Road | 4:35pm to 4:40pm on Thursday 26 August 2021                  |
+| 09/09/2021      | Casual Contact       | Sanctuary Point | Sanctuary Point BakeryShop 1/20 Paradise Beach Road | 12:50pm to 1pm on Thursday 2 September 2021                  |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |
 | 02/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 6pm to 6:15pm on Tuesday 31 August 20212pm to 2:05pm on Saturday 28 August 2021 |
 | 06/09/2021      | Casual Contact       | Shoal Bay       | Cellarbrations Bottle Shop Shoal Bay35-45 Shoal Bay Road | 3:05pm to 3:10pm on Wednesday 1 September 20214:40pm to 4:50pm on Monday 30 August 2021 |
