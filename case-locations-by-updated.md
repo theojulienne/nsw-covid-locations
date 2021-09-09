@@ -1,7 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 09/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Monday 30 August 20213:10pm to 3:15pm on Monday 30 August 2021 |
+| 09/09/2021      | Casual Contact       | Speers Point    | Cold Rock Mobile VanSpeers Point Park, Park Road | 11am to 4pm on Sunday 5 September 2021                       |
 | 09/09/2021      | Casual Contact       | Sanctuary Point | Sanctuary Point BakeryShop 1/20 Paradise Beach Road | 12:50pm to 1pm on Thursday 2 September 2021                  |
 | 09/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 20216:15pm to 6:40pm on Wednesday 1 September 20217:20pm to 7:35pm on Monday 30 August 2021 |
+| 09/09/2021      | Casual Contact       | Morisette       | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield East Village77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 09/09/2021      | Casual Contact       | East Maitland   | Woolworths East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 10:30am to 10:45am on Friday 3 September 202111:40am to 12pm on Sunday 29 August 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Woolworths Cooma12-20 Vale Street | 6pm to 6:45pm on Thursday 2 September 2021                   |
@@ -10,6 +13,7 @@
 | 09/09/2021      | Casual Contact       | Cooma           | China Town76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 2021              |
 | 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 5:15pm to 5:50pm on Thursday 2 September 2021                |
 | 09/09/2021      | Casual Contact       | Cooma           | Alpine Hotel170 Sharp Street | 12pm (noon) to 12:45pm on Saturday 4 September 2021          |
+| 09/09/2021      | Casual Contact       | Cardiff         | New Nero Espresso Bar Cardiff40 Harrison Street | 7:20am to 7:30am on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Woolworths Batemans BayBridge Plaza, 9-13 Clyde Street | 8am to 9:30am on Saturday 4 September 20218am to 9am on Friday 3 September 2021 |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Dan Murphy's Batemans Bay51/53A Orient Street | 9am to 10am on Saturday 4 September 2021                     |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Australia Post Batemans Bay7 Orient Street | 9am to 9:10am on Saturday 4 September 2021                   |
@@ -20,8 +24,6 @@
 | 08/09/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street |  9:30am to 11am on Sunday 5 September 2021                   |
 | 08/09/2021      | Casual Contact       | Wadalba         | Woolworths Wadalba1 Figtree Boulevarde | 10:25am to 11:10am on Wednesday 1 September 2021             |
 | 08/09/2021      | Casual Contact       | Umina Beach     | Woolworths Umina Beach261-275 Trafalgar Street, Corner of West Street | 4:!5pm to 4:45pm on Wednesday 1 September 2021               |
-| 08/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Friday 3 September 20213:10pm to 3:15pm on Friday 3 September 2021 |
-| 08/09/2021      | Casual Contact       | Thornton        | Australia Post ThorntonThornton Shopping Centre, Shop 19/1 Taylor Avenue |  3:10pm to 3:45pm on Monday 30 August 2021                   |
 | 08/09/2021      | Casual Contact       | Tarrawanna      | Meadow Street Grocers and Deli TarrawannaShop 1/104 Meadow Street |  5am to 9am on Monday 6 September 2021 5am to 10am on Sunday 5 September 2021 5am to 3pm on Saturday 4 September 2021 5am to 5pm on Friday 3 September 2021 5am to 5pm on Thursday 2 September 2021 |
 | 08/09/2021      | Casual Contact       | Salamander Bay  | Coles Salamander BaySalamander Bay Shopping Centre, Bagnall Beach Road | 4:40pm to 5pm on Saturday 28 August 2021                     |
 | 08/09/2021      | Casual Contact       | Nyngan          | Nyngan News Agency94 Pangee Street |  2:40pm to 3:10pm on Thursday 2 September 2021               |

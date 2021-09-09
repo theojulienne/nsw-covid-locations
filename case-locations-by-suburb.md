@@ -44,6 +44,7 @@
 | 01/09/2021      | Casual Contact       | Cameron Park    | Caltex Cameron Park119 Stenhouse Drive | 1:15pm to 1:20pm on Friday 27 August 2021                    |
 | 08/09/2021      | Casual Contact       | Cameron Park    | Subway Cameron ParkShop 3/119 Stenhouse Drive | 10:20am to 10:30am on Wednesday 1 September 2021             |
 | 07/09/2021      | Casual Contact       | Canowindra      | BP Canowindra76 Rodd Street |  3:20pm to 3:45pm on Sunday 5 September 2021                 |
+| 09/09/2021      | Casual Contact       | Cardiff         | New Nero Espresso Bar Cardiff40 Harrison Street | 7:20am to 7:30am on Friday 3 September 2021                  |
 | 29/08/2021      | Casual Contact       | Cessnock        | Cessnock Day Night Pharmacy202 Wollombi Road | 6:15pm to 6:30pm on Friday 27 August 2021                    |
 | 31/08/2021      | Casual Contact       | Cessnock        | Coles CessnockCooper Street | 8:35am to 8:45am on Friday 27 August 2021                    |
 | 01/09/2021      | Casual Contact       | Cessnock        | Metro Petroleum Cessnock102 Wollombi Road | 12:50am to 1am on Thursday 26 August 2021                    |
@@ -165,6 +166,7 @@
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield East Village77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 9:55am to 10:25am on Friday 3 September 20216pm to 6:15pm on Tuesday 31 August 20212:05pm to 2:45pm on Tuesday 31 August 2021 |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
+| 09/09/2021      | Casual Contact       | Morisette       | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
 | 05/09/2021      | Casual Contact       | Moss Vale       | Ashcroft's Supa IGA Moss Vale11-13 Clarence Street | 4:15pm to 4:45pm on Monday 30 August 2021                    |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern - Bottle Shop36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
@@ -223,14 +225,14 @@
 | 06/09/2021      | Casual Contact       | Singleton       | 7-Eleven Singleton1/3 Maitland Road | 5:45am to 5:50am on Wednesday 1 September 2021               |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2pm on Tuesday 31 August 2021                      |
 | 05/09/2021      | Casual Contact       | South Nowra     | Bunnings South Nowra147-167 Princes Highway | 4pm to 4:30pm on Tuesday 31 August 2021                      |
+| 09/09/2021      | Casual Contact       | Speers Point    | Cold Rock Mobile VanSpeers Point Park, Park Road | 11am to 4pm on Sunday 5 September 2021                       |
 | 01/09/2021      | Casual Contact       | Swansea         | Salty's at Swansea Bridge84 Pacific Highway | 12:15pm to 12:25pm on Sunday 29 August 2021                  |
 | 08/09/2021      | Casual Contact       | Tarrawanna      | Meadow Street Grocers and Deli TarrawannaShop 1/104 Meadow Street |  5am to 9am on Monday 6 September 2021 5am to 10am on Sunday 5 September 2021 5am to 3pm on Saturday 4 September 2021 5am to 5pm on Friday 3 September 2021 5am to 5pm on Thursday 2 September 2021 |
 | 05/09/2021      | Casual Contact       | Taylors Beach   | Bunnings Port StephensCorner Port Stephens Drive and Taylors Beach Road | 10:35am to 10:45am on Wednesday 1 September 20213:55pm to 4:30pm on Friday 27 August 2021 |
-| 08/09/2021      | Casual Contact       | Thornton        | Australia Post ThorntonThornton Shopping Centre, Shop 19/1 Taylor Avenue |  3:10pm to 3:45pm on Monday 30 August 2021                   |
 | 07/09/2021      | Casual Contact       | Thornton        | Chemist Outlet ThorntonSuite 5/2, Poynton Place | 3:30pm to 3:40pm on Tuesday 31 August 2021                   |
 | 30/08/2021      | Casual Contact       | Thornton        | Coles ThorntonTaylor Avenue and Thomas Coke Drive | 4:45pm to 5:05pm on Thursday 26 August 20216:10pm to 6:30pm on Monday 23 August 2021 |
 | 05/09/2021      | Casual Contact       | Thornton        | Subway ThorntonSupa Centre Shop 9 Lot 1, Corner New England Highway | 1:20pm to 1:30pm on Friday 3 September 2021                  |
-| 08/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Friday 3 September 20213:10pm to 3:15pm on Friday 3 September 2021 |
+| 09/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Monday 30 August 20213:10pm to 3:15pm on Monday 30 August 2021 |
 | 31/08/2021      | Casual Contact       | Tomingley       | BP Tomingley Truck Travellers StopNewell Highway | 7:15am to 7:20am on Sunday 29 August 2021                    |
 | 31/08/2021      | Casual Contact       | Tooleybuc       | Lucky Phils Budget Rite and Takeaway55 Murray Street | 9:45am to 10:05am on Sunday 29 August 2021                   |
 | 02/09/2021      | Casual Contact       | Toowoon Bay     | Family Bean Coffee Shop90 Toowoon Bay Road | 7:25am to 7:35am on Saturday 28 August 2021                  |
