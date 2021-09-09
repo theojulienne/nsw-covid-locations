@@ -83,7 +83,6 @@
 | 06/09/2021      | Casual Contact       | Orange          | D'Aquino's Liquor Orange129 Bathurst Road |  6:10pm to 6:40pm on Wednesday 1 September 2021              |
 | 06/09/2021      | Casual Contact       | Orange          | Coffee Rush133 Lords Place |  12:45pm to 1:15pm on Tuesday 31 August 2021                 |
 | 06/09/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street |  3:30pm to 3:50pm on Tuesday 31 August 2021                  |
-| 06/09/2021      | Casual Contact       | Orange          | Ashcroft's SUPA IGA Orange88 Summer Street |  5:05pm to 5:20pm on Thursday 2 September 2021               |
 | 06/09/2021      | Casual Contact       | Orange          | Ashcroft's IGA Orange210 Peisley Street |  5:50pm to 6:10pm on Wednesday 1 September 20215:30pm to 5:45pm on Tuesday 31 August 202110am to 2pm on Tuesday 31 August 2021 5pm to 6:15pm on Monday 30 August 202112:25pm to 1pm on Sunday 29 August 2021 |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 9:55am to 10:25am on Friday 3 September 20216pm to 6:15pm on Tuesday 31 August 20212:05pm to 2:45pm on Tuesday 31 August 2021 |
 | 06/09/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane |  7pm to 7:30pm on Saturday 28 August 2021                    |

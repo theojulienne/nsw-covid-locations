@@ -181,7 +181,6 @@
 | 08/09/2021      | Casual Contact       | Nyngan          | Nyngan News Agency94 Pangee Street |  2:40pm to 3:10pm on Thursday 2 September 2021               |
 | 05/09/2021      | Casual Contact       | Orange          | 7-Eleven Orange90 Bathurst Road | 12:30pm to 1:15pm on Tuesday 31 August 2021                  |
 | 06/09/2021      | Casual Contact       | Orange          | Ashcroft's IGA Orange210 Peisley Street |  5:50pm to 6:10pm on Wednesday 1 September 20215:30pm to 5:45pm on Tuesday 31 August 202110am to 2pm on Tuesday 31 August 2021 5pm to 6:15pm on Monday 30 August 202112:25pm to 1pm on Sunday 29 August 2021 |
-| 06/09/2021      | Casual Contact       | Orange          | Ashcroft's SUPA IGA Orange88 Summer Street |  5:05pm to 5:20pm on Thursday 2 September 2021               |
 | 06/09/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street |  3:30pm to 3:50pm on Tuesday 31 August 2021                  |
 | 06/09/2021      | Casual Contact       | Orange          | Coffee Rush133 Lords Place |  12:45pm to 1:15pm on Tuesday 31 August 2021                 |
 | 02/09/2021      | Casual Contact       | Orange          | Coles OrangeAnson Street and Byng Street | 1:15pm to 1:35pm on Saturday 28 August 20212pm to 4:30pm on Monday 23 August 2021 |
