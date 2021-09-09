@@ -1,11 +1,20 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 09/09/2021      | Casual Contact       | Tura Beach      | Woolworths Tura BeachTura Beach Drive | 11:30am to 11:45am on Sunday 5 September 202111:50am to 12pm on Friday 3 September 20213:30pm to 4:45pm on Thursday 2 September 20211pm to 1:30pm on Thursday 2 September 2021 |
+| 09/09/2021      | Casual Contact       | Tura Beach      | Harvey Norman Tura Beach1 Tura Beach Drive | 9:30am to 10:30am on Tuesday 7 September 20219:30am to 4pm on Monday 6 September 20219:30am to 4pm on Sunday 5 September 2021 |
 | 09/09/2021      | Casual Contact       | Thornton        | Thornton Post and NewsThornton Shopping Centre, shop 19/1 Taylor Avenue | 3:25pm to 3:45pm on Monday 30 August 20213:10pm to 3:15pm on Monday 30 August 2021 |
 | 09/09/2021      | Casual Contact       | Speers Point    | Cold Rock Mobile VanSpeers Point Park, Park Road | 11am to 4pm on Sunday 5 September 2021                       |
 | 09/09/2021      | Casual Contact       | Sanctuary Point | Sanctuary Point BakeryShop 1/20 Paradise Beach Road | 12:50pm to 1pm on Thursday 2 September 2021                  |
+| 09/09/2021      | Casual Contact       | Pambula         | Mitre 10 Pambula10 Toallo Street | 7:15am to 7:45am on Wednesday 1 September 2021               |
+| 09/09/2021      | Casual Contact       | Pambula         | Auto One Pambula9 Toallo Street | 3:30pm to 4:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 20216:15pm to 6:40pm on Wednesday 1 September 20217:20pm to 7:35pm on Monday 30 August 2021 |
 | 09/09/2021      | Casual Contact       | Morisette       | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
+| 09/09/2021      | Casual Contact       | Merimbula       | Sapphire Cellars Merimbula5 Park Street | 11:50am to 12pm on Thursday 2 September 2021                 |
+| 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
+| 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:30pm to 2:30pm on Friday 3 September 2021                  |
+| 09/09/2021      | Casual Contact       | Merimbula       | Cranky Cafe33 Ocean Drive | 9:50am to 10:15am on Tuesday 31 August 2021                  |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield East Village77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
+| 09/09/2021      | Casual Contact       | Eden            | Caltex Eden159 Imlay Street | 3:25pm to 3:40pm on Wednesday 1 September 2021               |
 | 09/09/2021      | Casual Contact       | East Maitland   | Woolworths East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 10:30am to 10:45am on Friday 3 September 202111:40am to 12pm on Sunday 29 August 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Woolworths Cooma12-20 Vale Street | 6pm to 6:45pm on Thursday 2 September 2021                   |
 | 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs42 Sharp Street | 7:15pm to 7:25pm on Thursday 2 September 2021                |
@@ -92,7 +101,7 @@
 | 06/09/2021      | Casual Contact       | Jesmond         | KFC Jesmond46-50 Blue Gum Road |  12:20pm to 1:10pm on Sunday 29 August 2021                  |
 | 06/09/2021      | Casual Contact       | Henty           | Shell Henty29 Railway Parade | 4:45pm to 4:50pm on Thursday 26 August 2021                  |
 | 06/09/2021      | Casual Contact       | Dubbo           | Myall Street Mini Mart272 Myall Street |  1:15pm to 2pm on Wednesday 1 September 2021                 |
-| 06/09/2021      | Casual Contact       | Dubbo           | Lucky 7 Urban Village Convenience33-43 Whylandra Street | 12:55pm to 1:10pm on Friday 3 September 20219:55am to 10:10am on Thursday 2 September 20217:35am to 7:45am on Tuesday 31 August 2021 6:25am to 7:30am on Tuesday 31 August 20214:10pm to 4:30pm on Wednesday 25 August 202110:05am to 10:25am on Wednesday 25 August 20213pm to 3:20pm on Tuesday 24 August 202111:35am to 11:45am on Tuesday 24 August 20213:05pm to 3:25pm on Sunday 22 August 20214:45pm to 4:50pm on Saturday 14 August 2021 |
+| 06/09/2021      | Casual Contact       | Dubbo           | Lucky 7 Urban Village Convenience33-43 Whylandra Street | 12:55pm to 1:10pm on Friday 3 September 20219:55am to 10:10am on Thursday 2 September 2021 6:25am to 7:30am on Tuesday 31 August 20214:10pm to 4:30pm on Wednesday 25 August 202110:05am to 10:25am on Wednesday 25 August 20213pm to 3:20pm on Tuesday 24 August 202111:35am to 11:45am on Tuesday 24 August 20213:05pm to 3:25pm on Sunday 22 August 20214:45pm to 4:50pm on Saturday 14 August 2021 |
 | 06/09/2021      | Casual Contact       | Dubbo           | IGA West Dubbo38-40 Victoria Street | 5:50pm to 5:55pm on Tuesday 31 August 20215:20pm to 5:30pm on Sunday 29 August 202112:50pm to 1pm on Friday 27 August 20212:50pm to 3:20pm on Thursday 26 August 202111am to 11:20am on Friday 20 August 20212:10pm to 2:25pm on Monday 16 August 202110:30am to 10:45am on Monday 16 August 202111am to 11:30am on Wednesday 11 August 2021 |
 | 06/09/2021      | Close Contact        | Dubbo           | IGA West Dubbo 38-40 Victoria Street | 5:45am to 6am on Tuesday 31 August 2021                      |
 | 06/09/2021      | Casual Contact       | Dubbo           | Caltex DubboCorner of Cobra and Brisbane Streets |  10:45am to 11:15am on Wednesday 1 September 20215am to 5:30am on Wednesday 25 August 2021 |
