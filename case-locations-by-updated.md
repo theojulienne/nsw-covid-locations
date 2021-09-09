@@ -18,6 +18,7 @@
 | 09/09/2021      | Casual Contact       | Pambula         | Mitre 10 Pambula10 Toallo Street | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 09/09/2021      | Casual Contact       | Pambula         | Auto One Pambula9 Toallo Street | 3:30pm to 4:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 20216:15pm to 6:40pm on Wednesday 1 September 20217:20pm to 7:35pm on Monday 30 August 2021 |
+| 09/09/2021      | Casual Contact       | Morisset        | Coles MorissetSquare Shopping Centre, 35 Yambo Street | 12pm (noon) to 12:30pm on Friday 3 September 2021            |
 | 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Morisset        | Bunnings MorissetAdvantage Avenue | 10:05am to 10:15am on Wednesday 1 September 2021             |
 | 09/09/2021      | Casual Contact       | Merimbula       | Sapphire Cellars Merimbula5 Park Street | 11:50am to 12pm on Thursday 2 September 2021                 |
@@ -25,6 +26,7 @@
 | 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:30pm to 2:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Merimbula       | Cranky Cafe33 Ocean Drive | 9:50am to 10:15am on Tuesday 31 August 2021                  |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield East Village77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
+| 09/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259/277 Lang Street | 6pm to 6:30pm on Monday 6 September 2021                     |
 | 09/09/2021      | Casual Contact       | Kincumber       | 7-Eleven Kincumber28/30 Avoca Drive |  6:20pm to 7:35pm on Thursday 2 September 2021               |
 | 09/09/2021      | Casual Contact       | Eden            | Caltex Eden159 Imlay Street | 3:25pm to 3:40pm on Wednesday 1 September 2021               |
 | 09/09/2021      | Casual Contact       | East Maitland   | Woolworths East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 10:30am to 10:45am on Friday 3 September 202111:40am to 12pm on Sunday 29 August 2021 |
@@ -33,11 +35,10 @@
 | 09/09/2021      | Casual Contact       | Dubbo           | Hing Wah Restaurant143 Talbragar Street |  8:05pm to 8:10pm on Sunday 5 September 2021                 |
 | 09/09/2021      | Casual Contact       | Dubbo           | Dubbo Pet and Stockfeed14 Jannali Road |  12:05pm to 12:55pm on Thursday 2 September 2021             |
 | 09/09/2021      | Casual Contact       | Cooma           | Woolworths Cooma12-20 Vale Street | 6pm to 6:45pm on Thursday 2 September 2021                   |
-| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs42 Sharp Street | 7:15pm to 7:25pm on Thursday 2 September 2021                |
-| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs Petrol42 Sharp Street | 9:50am to 10am on Saturday 4 September 2021                  |
-| 09/09/2021      | Casual Contact       | Cooma           | China Town76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 2021              |
-| 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 5:15pm to 5:50pm on Thursday 2 September 2021                |
+| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs Petrol42 Sharp Street | 9:50am to 10am on Saturday 4 September 20217:15pm to 7:25pm on Thursday 2 September 2021 |
+| 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 20215:15pm to 5:50pm on Thursday 2 September 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Alpine Hotel170 Sharp Street | 12pm (noon) to 12:45pm on Saturday 4 September 2021          |
+| 09/09/2021      | Casual Contact       | Cooks Hill      | Harris Farm Market Cooks Hill227 Darby Street | 1:20pm to 1:40pm on Monday 30 August 2021                    |
 | 09/09/2021      | Casual Contact       | Cardiff         | New Nero Espresso Bar Cardiff40 Harrison Street | 7:20am to 7:30am on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Bourke          | Khans Supa IGA BourkeOxley Street | 10:50am to 11:50am on Friday 3 September 2021 6:05pm to 7pm on Thursday 2 September 20211:20pm to 1:40pm on Tuesday 31 August 2021 6pm to 6:30pm on Sunday 29 August 20211pm to 1:15pm on Saturday 28 August 2021 6:45pm to 7pm on Saturday 28 August 2021 4pm to 4:10pm on Monday 23 August 202110am to 5pm on Sunday 22 August 202110:10am to 10:20am on Monday 16 August 20215:55pm to 6:10pm on Saturday 14 August 20215:55pm to 6pm on Friday 13 August 2021 |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Woolworths Batemans BayBridge Plaza, 9-13 Clyde Street | 8am to 9:30am on Saturday 4 September 20218am to 9am on Friday 3 September 2021 |

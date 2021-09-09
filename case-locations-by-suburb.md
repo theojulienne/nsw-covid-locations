@@ -52,12 +52,11 @@
 | 02/09/2021      | Casual Contact       | Charlestown     | Dan Murphy's CharlestownCharlestown Square, Pearson Street | 11:20am to 11:30am on Sunday 29 August 2021                  |
 | 04/09/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner of Chelmsford Road and Pacific Highway | 3:45pm to 4:10pm on Wednesday 1 September 2021               |
 | 07/09/2021      | Casual Contact       | Cooks Hill      | Darby Kebab and Pide126 Darby Street | 10:10pm to 10:30pm on Tuesday 31 August 2021                 |
+| 09/09/2021      | Casual Contact       | Cooks Hill      | Harris Farm Market Cooks Hill227 Darby Street | 1:20pm to 1:40pm on Monday 30 August 2021                    |
 | 06/09/2021      | Casual Contact       | Coolac          | Mobil Highway Service Centre518 Coolac Road | 4:30pm to 5pm on Tuesday 31 August 2021                      |
 | 09/09/2021      | Casual Contact       | Cooma           | Alpine Hotel170 Sharp Street | 12pm (noon) to 12:45pm on Saturday 4 September 2021          |
-| 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 5:15pm to 5:50pm on Thursday 2 September 2021                |
-| 09/09/2021      | Casual Contact       | Cooma           | China Town76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 2021              |
-| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs Petrol42 Sharp Street | 9:50am to 10am on Saturday 4 September 2021                  |
-| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs42 Sharp Street | 7:15pm to 7:25pm on Thursday 2 September 2021                |
+| 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 20215:15pm to 5:50pm on Thursday 2 September 2021 |
+| 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs Petrol42 Sharp Street | 9:50am to 10am on Saturday 4 September 20217:15pm to 7:25pm on Thursday 2 September 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Woolworths Cooma12-20 Vale Street | 6pm to 6:45pm on Thursday 2 September 2021                   |
 | 06/09/2021      | Casual Contact       | Cudal           | Cudal Bowling ClubBrown Street |  5:30pm to 6:30pm on Thursday 2 September 2021               |
 | 08/09/2021      | Casual Contact       | Doyalson        | Metro Petroleum Doyalson50 Pacific Highway | 4:30pm to 4:40pm on Wednesday 1 September 202112:05pm to 12:30pm on Wednesday 25 August 2021 |
@@ -159,6 +158,7 @@
 | 04/09/2021      | Casual Contact       | Killarney Vale  | Shell Coles Express Killarney Vale102-106 Wyong Road | 8:35am to 8:50am on Tuesday 31 August 2021                   |
 | 09/09/2021      | Casual Contact       | Kincumber       | 7-Eleven Kincumber28/30 Avoca Drive |  6:20pm to 7:35pm on Thursday 2 September 2021               |
 | 29/08/2021      | Casual Contact       | Kotara          | Kinn ThaiWestfield Kotara, Northcott Drive | 6:30pm to 6:40pm on Wednesday 25 August 2021                 |
+| 09/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259/277 Lang Street | 6pm to 6:30pm on Monday 6 September 2021                     |
 | 05/09/2021      | Casual Contact       | Lake Haven      | BWS Lake HavenLake Haven Centre, 7 Bannister Drive | 5:20pm to 5:30pm on Friday 3 September 2021                  |
 | 04/09/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenCorner of Lake Haven Drive and Goobarabah Avenue | 2:15pm to 2:35pm on Wednesday 1 September 20215:45pm to 6:10pm on Tuesday 31 August 20216:35pm to 7pm on Monday 30 August 2021 |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonald's Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
@@ -176,6 +176,7 @@
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
 | 09/09/2021      | Casual Contact       | Morisset        | Bunnings MorissetAdvantage Avenue | 10:05am to 10:15am on Wednesday 1 September 2021             |
 | 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
+| 09/09/2021      | Casual Contact       | Morisset        | Coles MorissetSquare Shopping Centre, 35 Yambo Street | 12pm (noon) to 12:30pm on Friday 3 September 2021            |
 | 05/09/2021      | Casual Contact       | Moss Vale       | Ashcroft's Supa IGA Moss Vale11-13 Clarence Street | 4:15pm to 4:45pm on Monday 30 August 2021                    |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern - Bottle Shop36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
