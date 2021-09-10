@@ -173,8 +173,7 @@
 | 09/09/2021      | Casual Contact       | Morisset        | Coles MorissetSquare Shopping Centre, 35 Yambo Street | 12pm (noon) to 12:30pm on Friday 3 September 2021            |
 | 05/09/2021      | Casual Contact       | Moss Vale       | Ashcroft's Supa IGA Moss Vale11-13 Clarence Street | 4:15pm to 4:45pm on Monday 30 August 2021                    |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
-| 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern - Bottle Shop36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
-| 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern36 Sydney Street |  6:15pm to 6:40pm on Thursday 2 September 2021               |
+| 10/09/2021      | Casual Contact       | Muswellbrook    | Bottlemart Muswellbrook36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | TSG (Southside Newsagency) MuswellbrookShop 3/27-29 Maitland Street | 11am to 11:30am on Friday 3 September 2021                   |
 | 08/09/2021      | Casual Contact       | Narromine       | Coles NarromineDandaloo St Kirerath's Shopping Square | 3:50pm to 4:20pm on Friday 3 September 20214:45pm to 5pm on Saturday 28 August 20216pm to 7pm on Friday 27 August 202111:30am to 11:45am on Thursday 26 August 202111am to 11:45am on Tuesday 24 August 20216pm to 7pm on Monday 23 August 20215:30pm to 5:35pm on Monday 23 August 20219:30pm to 10pm on Sunday 22 August 2021 |
 | 04/09/2021      | Casual Contact       | Nelson Bay      | Shell Coles Express Nelson Bay23-27 Stockton Street | 9:45am to 9:50am on Tuesday 31 August 20217:20pm to 7:25pm on Tuesday 31 August 2021 |

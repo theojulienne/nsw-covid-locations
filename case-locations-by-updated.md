@@ -14,6 +14,7 @@
 | 10/09/2021      | Casual Contact       | Ourimbah        | Pie Face - United Petroleum Ourimbah51 Pacific Highway | 3:50pm to 4:15pm on Tuesday 7 September 2021                 |
 | 10/09/2021      | Casual Contact       | North Wyong     | IGA North WyongShop 2 34-38 Cutler Drive | 12:50pm to 3:40pm on Monday 6 September 202112:15pm to 12:35pm on Monday 30 August 2021 |
 | 10/09/2021      | Casual Contact       | North Gosford   | Saifon Thai Restaurant352 Mann Street | 7:30pm to 7:50pm on Friday 3 September 2021                  |
+| 10/09/2021      | Casual Contact       | Muswellbrook    | Bottlemart Muswellbrook36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
 | 10/09/2021      | Casual Contact       | Lake Munmorah   | Phone Culture Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:20pm to 2:50pm on Wednesday 1 September 2021               |
 | 10/09/2021      | Casual Contact       | Lake Munmorah   | Nargis Gourmet Food Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:20pm to 2:50pm on Wednesday 1 September 2021               |
 | 10/09/2021      | Casual Contact       | Killarney Vale  | 21 Red Espresso130 Wyong Road | 6:35am to 6:55am on Sunday 5 September 2021                  |
@@ -79,8 +80,6 @@
 | 08/09/2021      | Casual Contact       | Nyngan          | Nyngan News Agency94 Pangee Street |  2:40pm to 3:10pm on Thursday 2 September 2021               |
 | 08/09/2021      | Casual Contact       | Narromine       | Coles NarromineDandaloo St Kirerath's Shopping Square | 3:50pm to 4:20pm on Friday 3 September 20214:45pm to 5pm on Saturday 28 August 20216pm to 7pm on Friday 27 August 202111:30am to 11:45am on Thursday 26 August 202111am to 11:45am on Tuesday 24 August 20216pm to 7pm on Monday 23 August 20215:30pm to 5:35pm on Monday 23 August 20219:30pm to 10pm on Sunday 22 August 2021 |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | TSG (Southside Newsagency) MuswellbrookShop 3/27-29 Maitland Street | 11am to 11:30am on Friday 3 September 2021                   |
-| 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern36 Sydney Street |  6:15pm to 6:40pm on Thursday 2 September 2021               |
-| 08/09/2021      | Casual Contact       | Muswellbrook    | Prince of Wales Tavern - Bottle Shop36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
 | 08/09/2021      | Casual Contact       | Lake Haven      | Woolworths Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 7:40pm to 8:10pm on Wednesday 1 September 20213:20pm to 3:45pm on Tuesday 31 August 202112:30pm to 1pm on Tuesday 31 August 20216:15pm to 6:45pm on Monday 30 August 2021 |
 | 08/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnAuburn Street and Clifford Street |  11:15am to 12:10pm on Friday 3 September 2021 7:45pm to 8pm on Wednesday 1 September 2021 |
 | 08/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 2:20pm to 2:35pm on Thursday 2 September 20212:50pm to 3:15pm on Wednesday 1 September 20214:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
