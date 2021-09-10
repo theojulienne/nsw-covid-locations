@@ -10,9 +10,11 @@
 | 10/09/2021      | Casual Contact       | Tura Beach      | Harvey Norman Tura Beach1 Tura Beach Drive | 8:30am to 9:30am on Tuesday 7 September 20219:30am to 4pm on Monday 6 September 20219:30am to 4pm on Sunday 5 September 2021 |
 | 10/09/2021      | Casual Contact       | The Entrance    | The Entrance Newsagency185 The Entrance Road | 10:15am to 10:25am on Thursday 2 September 2021              |
 | 10/09/2021      | Casual Contact       | The Entrance    | Lollies 'n' Stuff117 The Entrance Road | 10:50am to 11:30am on Wednesday 1 September 2021             |
+| 10/09/2021      | Casual Contact       | South Kempsey   | Puma Kempsey629 Pacific Highway | 5:10pm to 5:45pm on Sunday 5 September 2021                  |
 | 10/09/2021      | Casual Contact       | Shelly Beach    | Munchas Cafe and CateringGround Floor, Surf Club Shelly Beach, Shelly Beach Road | 10:20am to 10:40am on Saturday 4 September 2021              |
 | 10/09/2021      | Casual Contact       | Shellharbour    | Woolworths Shellharbour (Stockland)211 Lake Entrance Road | 5:30pm to 6:15pm on Saturday 4 September 2021                |
 | 10/09/2021      | Casual Contact       | Shellharbour    | KFC Shellharbour1 Holme Place  |  11:45am to 12:15pm on Monday 6 September 2021               |
+| 10/09/2021      | Casual Contact       | Sanctuary Point | Plough and Harrow Bakery3/12 Paradise Beach Road | 12:50pm to 1pm on Thursday 2 September 2021                  |
 | 10/09/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 3:25pm to 3:45pm on Wednesday 1 September 20212:45pm to 3:10pm on Wednesday 1 September 2021 |
 | 10/09/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 4:30pm to 5:15pm on Monday 6 September 20213:30pm to 4pm on Wednesday 1 September 20212:20pm to 3:10pm on Wednesday 1 September 2021 |
 | 10/09/2021      | Casual Contact       | Ourimbah        | Pie Face - United Petroleum Ourimbah51 Pacific Highway | 3:50pm to 4:15pm on Tuesday 7 September 2021                 |
@@ -48,7 +50,6 @@
 | 09/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay25-27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 20215:50pm to 6pm on Wednesday 1 September 20211:40pm to 2pm on Wednesday 1 September 20215:50pm to 6pm on Sunday 29 August 202110:50am to 11am on Saturday 28 August 20211:40pm to 1:55pm on Thursday 26 August 2021 |
 | 09/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 6pm to 6:15pm on Tuesday 31 August 20212pm to 2:05pm on Saturday 28 August 2021 |
 | 09/09/2021      | Casual Contact       | Shell Cove      | Woolworths Shell Cove100 Cove Boulevarde |  4pm to 5pm on Thursday 2 September 2021                     |
-| 09/09/2021      | Casual Contact       | Sanctuary Point | Sanctuary Point BakeryShop 1/20 Paradise Beach Road | 12:50pm to 1pm on Thursday 2 September 2021                  |
 | 09/09/2021      | Casual Contact       | Pambula         | Mitre 10 Pambula10 Toallo Street | 7:15am to 7:45am on Wednesday 1 September 2021               |
 | 09/09/2021      | Casual Contact       | Pambula         | Auto One Pambula9 Toallo Street | 3:30pm to 4:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayCorner of Stockton Street and Donald Street | 4pm to 10pm on Saturday 4 September 20216:15pm to 6:40pm on Wednesday 1 September 20217:20pm to 7:35pm on Monday 30 August 2021 |
