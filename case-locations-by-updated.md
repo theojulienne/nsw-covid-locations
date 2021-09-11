@@ -12,6 +12,7 @@
 | 11/09/2021      | Casual Contact       | Salamander Bay  | Woolworths Salamander Bay2 Town Centre Circuit | 4:45pm to 5pm on Sunday 5 September 2021                     |
 | 11/09/2021      | Casual Contact       | Ourimbah        | Shell Coles Express Ourimbah78 Pacific Highway | 8:40am to 8:55am on Thursday 2 September 2021                |
 | 11/09/2021      | Casual Contact       | Mannering Park  | Coastie's Kitchen2/72 Vales Road | 4:45pm to 8:15pm on Sunday 5 September 20215:15pm to 8:45pm on Saturday 4 September 20214:45pm to 8:15pm on Thursday 2 September 20214:45pm to 8:15pm on Wednesday 1 September 2021 |
+| 11/09/2021      | Casual Contact       | Maitland        | Woolworths MaitlandPender Place Shopping Centre, 44 Elgin Street | 6:25pm to 6:50pm on Monday 6 September 2021                  |
 | 11/09/2021      | Casual Contact       | Lake Munmorah   | Caltex Woolworths Lake Munmorah275 Pacific Highway | 12:50pm to 1pm on Friday 3 September 2021                    |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | TSG Chittaway Bay Shopping Centre100 Chittaway Road | 10:45am to 11:10am on Monday 6 September 20212:05pm to 2:30pm on Sunday 5 September 2021 |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Pariza Kebab & Indian- Chittaway Bay Shopping Centre 100 Chittaway Road | 9:45am to 8:15pm on Monday 6 September 2021                  |

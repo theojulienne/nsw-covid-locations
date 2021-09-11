@@ -158,6 +158,7 @@
 | 10/09/2021      | Casual Contact       | Lake Munmorah   | Phone Culture Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:20pm to 2:50pm on Wednesday 1 September 2021               |
 | 04/09/2021      | Casual Contact       | Lisarow         | 7-Eleven Lisarow911 Pacific Highway | 7:55am to 8:20am on Sunday 29 August 2021                    |
 | 05/09/2021      | Casual Contact       | Liverpool       | Coles LiverpoolWestfield Liverpool Shopping Centre, Elizabeth Street | 12:30pm to 9:15pm on Sunday 29 August 2021                   |
+| 11/09/2021      | Casual Contact       | Maitland        | Woolworths MaitlandPender Place Shopping Centre, 44 Elgin Street | 6:25pm to 6:50pm on Monday 6 September 2021                  |
 | 11/09/2021      | Casual Contact       | Mannering Park  | Coastie's Kitchen2/72 Vales Road | 4:45pm to 8:15pm on Sunday 5 September 20215:15pm to 8:45pm on Saturday 4 September 20214:45pm to 8:15pm on Thursday 2 September 20214:45pm to 8:15pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 10/09/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 5:05pm to 5:25pm on Thursday 9 September 2021                |
