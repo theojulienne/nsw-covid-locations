@@ -164,7 +164,7 @@
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 9:55am to 10:25am on Friday 3 September 20216pm to 6:15pm on Tuesday 31 August 20212:05pm to 2:45pm on Tuesday 31 August 2021 |
 | 09/09/2021      | Casual Contact       | Merimbula       | Cranky Cafe33 Ocean Drive | 9:50am to 10:15am on Tuesday 31 August 2021                  |
-| 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:30pm to 2:30pm on Friday 3 September 2021                  |
+| 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:15pm to 2:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
 | 10/09/2021      | Casual Contact       | Merimbula       | Sapphire Cellars Merimbula5 Park Street | 5:45pm to 6:10pm on Thursday 2 September 2021                |
 | 29/08/2021      | Close Contact        | Merrylands      | Quality Medical Centre417 Merrylands Road | 9am to 7pm on Saturday 28 August 20219am to 7pm on Friday 27 August 20219am to 7pm on Thursday 26 August 20219am to 7pm on Wednesday 25 August 20219am to 7pm on Tuesday 24 August 20219am to 7pm on Monday 23 August 2021 |
@@ -187,7 +187,7 @@
 | 06/09/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street |  3:30pm to 3:50pm on Tuesday 31 August 2021                  |
 | 06/09/2021      | Casual Contact       | Orange          | Coffee Rush133 Lords Place |  12:45pm to 1:15pm on Tuesday 31 August 2021                 |
 | 02/09/2021      | Casual Contact       | Orange          | Coles OrangeAnson Street and Byng Street | 1:15pm to 1:35pm on Saturday 28 August 20212pm to 4:30pm on Monday 23 August 2021 |
-| 02/09/2021      | Casual Contact       | Orange          | Credit Union Orange288 Summer Street | 10am to 1pm on Tuesday 31 August 2021                        |
+| 02/09/2021      | Casual Contact       | Orange          | Credit Union Orange288 Summer Street | 11:30am to 11:35am on Tuesday 31 August 2021                 |
 | 06/09/2021      | Casual Contact       | Orange          | D'Aquino's Liquor Orange129 Bathurst Road |  6:10pm to 6:40pm on Wednesday 1 September 2021              |
 | 03/09/2021      | Casual Contact       | Orange          | Harris Farm Markets OrangeOrange Arcade, Shop 3/150 Summer Street | 2:50pm to 3:10pm on Monday 30 August 2021                    |
 | 05/09/2021      | Casual Contact       | Orange          | Orange Central Square Shopping Centre227 Summer Street | 11:30am to 12:30pm on Saturday 28 August 2021                |
@@ -211,6 +211,7 @@
 | 02/09/2021      | Casual Contact       | Richmond        | Richmond Inn Hotel Motel90 March Street | 12:55pm to 1:05pm on Tuesday 31 August 202112:35pm to 1:35pm on Monday 30 August 2021 |
 | 08/09/2021      | Casual Contact       | Salamander Bay  | Coles Salamander BaySalamander Bay Shopping Centre, Bagnall Beach Road | 4:40pm to 5pm on Saturday 28 August 2021                     |
 | 01/09/2021      | Casual Contact       | Salamander Bay  | Liquorland Salamander BayShop 78 Salamander Bay Shopping Centre, 2 Town Centre Circuit | 2:30pm to 7:30pm on Saturday 28 August 20214:10pm to 10:10pm on Friday 27 August 2021 |
+| 11/09/2021      | Casual Contact       | Salamander Bay  | Woolworths Salamander Bay2 Town Centre Circuit | 4:45pm to 5pm on Sunday 5 September 2021                     |
 | 06/09/2021      | Casual Contact       | Salt Ash        | Saxby’s Bakery CafeNelson Bay Road and Richardson Road | 9:10am to 9:25am on Wednesday 1 September 2021               |
 | 10/09/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 4:30pm to 5:15pm on Monday 6 September 20213:30pm to 4pm on Wednesday 1 September 20212:20pm to 3:10pm on Wednesday 1 September 2021 |
 | 10/09/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 3:25pm to 3:45pm on Wednesday 1 September 20212:45pm to 3:10pm on Wednesday 1 September 2021 |
@@ -226,6 +227,7 @@
 | 09/09/2021      | Casual Contact       | Shoal Bay       | IGA X-Press Shoal Bay25-27 Shoal Bay Road | 4:55pm to 5:05pm on Thursday 2 September 20218:50am to 8:55am on Wednesday 1 September 20215:50pm to 6pm on Wednesday 1 September 20211:40pm to 2pm on Wednesday 1 September 20215:50pm to 6pm on Sunday 29 August 202110:50am to 11am on Saturday 28 August 20211:40pm to 1:55pm on Thursday 26 August 2021 |
 | 04/09/2021      | Casual Contact       | Shoal Bay       | Shoal Bay Pharmacy59 Shoal Bay Road | 4:15pm to 4:25pm on Wednesday 1 September 202110:10am to 10:20am on Wednesday 1 September 20214:35pm to 4:40pm on Monday 30 August 2021 |
 | 06/09/2021      | Casual Contact       | Singleton       | 7-Eleven Singleton1/3 Maitland Road | 5:45am to 5:50am on Wednesday 1 September 2021               |
+| 11/09/2021      | Casual Contact       | Singleton       | Coles SingletonGowrie Street Mall, 1 Gowrie Street | 6:10am to 6:35am on Saturday 4 September 2021                |
 | 10/09/2021      | Casual Contact       | South Kempsey   | Puma Kempsey629 Pacific Highway | 5:10pm to 5:45pm on Sunday 5 September 2021                  |
 | 03/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 6:30am to 2pm on Tuesday 31 August 2021                      |
 | 05/09/2021      | Casual Contact       | South Nowra     | Bunnings South Nowra147-167 Princes Highway | 4pm to 4:30pm on Tuesday 31 August 2021                      |

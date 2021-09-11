@@ -8,6 +8,8 @@
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Saltwater Takeaway 94 Toowoon Bay Road | 3:15pm to 3:35pm on Wednesday 8 September 2021               |
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Amcal Toowoon Bay Pharmacy96 Toowoon Bay Road | 3pm to 3:15pm on Wednesday 8 September 2021                  |
 | 11/09/2021      | Casual Contact       | The Entrance    | Chi Cong Bakery221 The Entrance Road | 8:30am to 8:50am on Monday 6 September 2021                  |
+| 11/09/2021      | Casual Contact       | Singleton       | Coles SingletonGowrie Street Mall, 1 Gowrie Street | 6:10am to 6:35am on Saturday 4 September 2021                |
+| 11/09/2021      | Casual Contact       | Salamander Bay  | Woolworths Salamander Bay2 Town Centre Circuit | 4:45pm to 5pm on Sunday 5 September 2021                     |
 | 11/09/2021      | Casual Contact       | Ourimbah        | Shell Coles Express Ourimbah78 Pacific Highway | 8:40am to 8:55am on Thursday 2 September 2021                |
 | 11/09/2021      | Casual Contact       | Mannering Park  | Coastie's Kitchen2/72 Vales Road | 4:45pm to 8:15pm on Sunday 5 September 20215:15pm to 8:45pm on Saturday 4 September 20214:45pm to 8:15pm on Thursday 2 September 20214:45pm to 8:15pm on Wednesday 1 September 2021 |
 | 11/09/2021      | Casual Contact       | Lake Munmorah   | Caltex Woolworths Lake Munmorah275 Pacific Highway | 12:50pm to 1pm on Friday 3 September 2021                    |
@@ -77,7 +79,7 @@
 | 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 11am to 4pm on Sunday 5 September 20213:30pm to 7:30pm on Friday 3 September 2021 |
 | 09/09/2021      | Casual Contact       | Morisset        | Bunnings MorissetAdvantage Avenue | 10:05am to 10:15am on Wednesday 1 September 2021             |
 | 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
-| 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:30pm to 2:30pm on Friday 3 September 2021                  |
+| 09/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:15pm to 2:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Merimbula       | Cranky Cafe33 Ocean Drive | 9:50am to 10:15am on Tuesday 31 August 2021                  |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 09/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259/277 Lang Street | 6pm to 6:30pm on Monday 6 September 2021                     |
@@ -251,7 +253,7 @@
 | 02/09/2021      | Casual Contact       | Shellharbour    | Coles Shellharbour SquareStcokland Shellharbour Shopping Centre, 1 Holm Place | 12:45pm to 1pm on Sunday 29 August 2021                      |
 | 02/09/2021      | Casual Contact       | Richmond        | Richmond Inn Hotel Motel90 March Street | 12:55pm to 1:05pm on Tuesday 31 August 202112:35pm to 1:35pm on Monday 30 August 2021 |
 | 02/09/2021      | Casual Contact       | Orange          | Woolworths Orange197-203 Anson Street | 5pm to 5:35pm on Sunday 29 August 20214:30pm to 5:50pm on Friday 20 August 20213:40pm to 4:35pm on Saturday 14 August 20214:30pm to 4:50pm on Thursday 12 August 20214pm to 4:15pm on Wednesday 11 August 2021 |
-| 02/09/2021      | Casual Contact       | Orange          | Credit Union Orange288 Summer Street | 10am to 1pm on Tuesday 31 August 2021                        |
+| 02/09/2021      | Casual Contact       | Orange          | Credit Union Orange288 Summer Street | 11:30am to 11:35am on Tuesday 31 August 2021                 |
 | 02/09/2021      | Casual Contact       | Orange          | Coles OrangeAnson Street and Byng Street | 1:15pm to 1:35pm on Saturday 28 August 20212pm to 4:30pm on Monday 23 August 2021 |
 | 02/09/2021      | Casual Contact       | Hamlyn Terrace  | Bottlemart Shop, The Dam HotelCorner of Minnesota Road and Pacific Highway | 2:45pm to 3pm on Friday 27 August 2021                       |
 | 02/09/2021      | Casual Contact       | Ettalong Beach  | The Box on the Water Cafe, Ettalong Beach Waterfront Reserve59/60 The Esplanade | 3:30pm to 3:45pm on Sunday 29 August 2021                    |
