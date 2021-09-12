@@ -1,7 +1,17 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 12/09/2021      | Casual Contact       | Wyong           | 7-Eleven Wyong156 Pacific Highway | 11:35am to 11:45am on Wednesday 1 September 2021             |
+| 12/09/2021      | Casual Contact       | Tuggerah        | Woolworths TuggerahWestfield Shopping Centre | 5:50pm to 6:25pm on Saturday 4 September 2021                |
+| 12/09/2021      | Casual Contact       | Tuggerah        | Coles TuggerahWestfield Shopping Centre, 50 Wyong Road | 4:20pm to 5:10pm on Friday 3 September 2021                  |
+| 12/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 8pm to 8:35pm on Monday 6 September 2021                     |
 | 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7/47/63 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
+| 12/09/2021      | Casual Contact       | Stroud          | Friendly Grocer Stroud50 Cowper Street | 3:15pm to 3:25pm on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Narrabri        | BP Service Station Narrabri65 Cooma Road | 8pm to 8:05pm on Tuesday 7 September 2021                    |
+| 12/09/2021      | Casual Contact       | Mannering Park  | Crystal Blue Takeaway, Mannering Park74 Vales Road | 3:05pm to 3:30pm on Monday 30 August 2021                    |
+| 12/09/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake Munmorah1 Tall Timbers Road | 12:45pm to 1pm on Friday 3 September 2021                    |
+| 12/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:40pm to 5:55pm on Sunday 5 September 2021                  |
+| 12/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:45pm to 6:15pm on Sunday 5 September 2021                  |
+| 12/09/2021      | Casual Contact       | Bateau Bay      | Coles Bateau BayBateau Bay Square, The Entrance Road | 11am to 11:55am on Tuesday 7 September 2021                  |
 | 11/09/2021      | Casual Contact       | Wyong           | Caltex Twin Service Centre - SouthboundM1 Wyong | 10:30am to 10:40am on Friday 3 September 2021                |
 | 11/09/2021      | Casual Contact       | Wyoming         | Caltex Wyoming465 Pacific Highway | 7:25pm to 7:35pm on Friday 3 September 2021                  |
 | 11/09/2021      | Casual Contact       | Warners Bay     | BWS Warners Bay87 King Street | 3:45pm to 4:00pm on Monday 6 September 2021                  |
@@ -53,7 +63,7 @@
 | 10/09/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 3:25pm to 3:45pm on Wednesday 1 September 20212:45pm to 3:10pm on Wednesday 1 September 2021 |
 | 10/09/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 4:30pm to 5:15pm on Monday 6 September 20213:30pm to 4pm on Wednesday 1 September 20212:20pm to 3:10pm on Wednesday 1 September 2021 |
 | 10/09/2021      | Casual Contact       | Ourimbah        | Pie Face - United Petroleum Ourimbah51 Pacific Highway | 3:50pm to 4:15pm on Tuesday 7 September 2021                 |
-| 10/09/2021      | Casual Contact       | North Wyong     | IGA North WyongShop 2 34-38 Cutler Drive | 12:50pm to 3:40pm on Monday 6 September 202112:15pm to 12:35pm on Monday 30 August 2021 |
+| 10/09/2021      | Casual Contact       | North Wyong     | IGA North WyongShop 2 34-38 Cutler Drive | 12:50pm to 3:40pm on Monday 6 September 202111:20am to 11:45am on Wednesday 1 September 20214pm to 4:15pm on Monday 30 August 202112:15pm to 12:35pm on Monday 30 August 2021 |
 | 10/09/2021      | Casual Contact       | North Gosford   | Saifon Thai Restaurant352 Mann Street | 7:30pm to 7:50pm on Friday 3 September 2021                  |
 | 10/09/2021      | Casual Contact       | Nelson Bay      | Services Australia (Centrelink) Nelson Bay18-20 Yacaaba Street | 9:25am to 9:45am on Monday 30 August 20212pm to 2:30pm on Monday 30 August 2021 |
 | 10/09/2021      | Casual Contact       | Merimbula       | Sapphire Cellars Merimbula5 Park Street | 5:45pm to 6:10pm on Thursday 2 September 2021                |
