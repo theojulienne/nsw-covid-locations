@@ -122,8 +122,8 @@
 | 31/08/2021      | Casual Contact       | Geurie          | Geurie Pit Stop Garage63 Buckenbah Street | 8:50am to 8:55am on Monday 30 August 2021                    |
 | 08/09/2021      | Casual Contact       | Glendale        | Chemistworks GlendaleStockland Glendale, 22/387 Lake Road | 4:20pm to 4:25pm on Saturday 4 September 20213:50pm to 3:55pm on Saturday 4 September 20213:45pm to 3:55pm on Friday 3 September 2021 |
 | 08/09/2021      | Casual Contact       | Glendale        | Coles Stockland GlendaleLake Road and Stockland Drive |  4:10pm to 4:40pm on Saturday 4 September 2021               |
-| 11/09/2021      | Casual Contact       | Glendale        | Hot Bargain, Stocklands Glendale387 Lake Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
-| 11/09/2021      | Casual Contact       | Glendale        | The Reject Shop, Glendale387 Lake Road | 10:55am to 11:05am on Tuesday 7 September 2021               |
+| 11/09/2021      | Casual Contact       | Glendale        | Hot Bargain Stockland Glendale387 Lake Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
+| 11/09/2021      | Casual Contact       | Glendale        | The Reject Shop Glendale387 Lake Road | 10:55am to 11:05am on Tuesday 7 September 2021               |
 | 10/09/2021      | Casual Contact       | Gorokan         | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 9:45am to 10am on Thursday 2 September 2021                  |
 | 10/09/2021      | Casual Contact       | Gorokan         | Guardian Pharmacy Gorokan70 Wallarah Road | 6:35pm to 6:50pm on Saturday 4 September 2021                |
 | 10/09/2021      | Casual Contact       | Gosford         | BWS GosfordImperial Centre Gosford, 40-46 William Street | 7pm to 7:15pm on Friday 3 September 2021                     |
@@ -181,6 +181,7 @@
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | Bottlemart Muswellbrook36 Sydney Street | 6:25pm to 6:30pm on Thursday 2 September 2021                |
 | 08/09/2021      | Casual Contact       | Muswellbrook    | TSG (Southside Newsagency) MuswellbrookShop 3/27-29 Maitland Street | 11am to 11:30am on Friday 3 September 2021                   |
+| 12/09/2021      | Casual Contact       | Narrabri        | BP Service Station Narrabri65 Cooma Road | 8pm to 8:05pm on Tuesday 7 September 2021                    |
 | 08/09/2021      | Casual Contact       | Narromine       | Coles NarromineDandaloo St Kirerath's Shopping Square | 3:50pm to 4:20pm on Friday 3 September 20214:45pm to 5pm on Saturday 28 August 20216pm to 7pm on Friday 27 August 202111:30am to 11:45am on Thursday 26 August 202111am to 11:45am on Tuesday 24 August 20216pm to 7pm on Monday 23 August 20215:30pm to 5:35pm on Monday 23 August 20219:30pm to 10pm on Sunday 22 August 2021 |
 | 10/09/2021      | Casual Contact       | Nelson Bay      | Services Australia (Centrelink) Nelson Bay18-20 Yacaaba Street | 9:25am to 9:45am on Monday 30 August 20212pm to 2:30pm on Monday 30 August 2021 |
 | 04/09/2021      | Casual Contact       | Nelson Bay      | Shell Coles Express Nelson Bay23-27 Stockton Street | 9:45am to 9:50am on Tuesday 31 August 20217:20pm to 7:25pm on Tuesday 31 August 2021 |
@@ -254,6 +255,7 @@
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Saltwater Takeaway 94 Toowoon Bay Road | 3:15pm to 3:35pm on Wednesday 8 September 2021               |
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Toowoon Bay Newsagency145-147 Bay Road | 3:15pm to 3:35pm on Tuesday 7 September 20218:05am to 8:30am on Monday 6 September 2021 |
 | 03/09/2021      | Casual Contact       | Toowoon Bay     | Two Birds Gallery Cafe104 Pacific Street | 9:45am to 10am on Monday 30 August 20218:15am to 8:30am on Sunday 29 August 2021 |
+| 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7/47/63 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Big W TuggerahWestfield Shopping Centre, Cobbs Road | 1:35pm to 1:55pm on Friday 27 August 202111:35am to 11:50am on Thursday 26 August 2021 |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Cosmo Coffee50 Wyong Road | 9:25am to 9:40am on Tuesday 31 August 2021                   |
 | 04/09/2021      | Casual Contact       | Tuggerah        | Officeworks Tuggerah9 Bryant Drive | 11:45am to 12pm (noon) on Tuesday 31 August 20219:30am to 9:45am on Tuesday 24 August 2021 |

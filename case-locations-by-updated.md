@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7/47/63 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
+| 12/09/2021      | Casual Contact       | Narrabri        | BP Service Station Narrabri65 Cooma Road | 8pm to 8:05pm on Tuesday 7 September 2021                    |
 | 11/09/2021      | Casual Contact       | Wyong           | Caltex Twin Service Centre - SouthboundM1 Wyong | 10:30am to 10:40am on Friday 3 September 2021                |
 | 11/09/2021      | Casual Contact       | Wyoming         | Caltex Wyoming465 Pacific Highway | 7:25pm to 7:35pm on Friday 3 September 2021                  |
 | 11/09/2021      | Casual Contact       | Warners Bay     | BWS Warners Bay87 King Street | 3:45pm to 4:00pm on Monday 6 September 2021                  |
@@ -21,8 +23,8 @@
 | 11/09/2021      | Casual Contact       | Mannering Park  | Coastie's Kitchen2/72 Vales Road | 4:45pm to 8:15pm on Sunday 5 September 20215:15pm to 8:45pm on Saturday 4 September 20214:45pm to 8:15pm on Thursday 2 September 20214:45pm to 8:15pm on Wednesday 1 September 2021 |
 | 11/09/2021      | Casual Contact       | Maitland        | Woolworths MaitlandPender Place Shopping Centre, 44 Elgin Street | 6:25pm to 6:50pm on Monday 6 September 2021                  |
 | 11/09/2021      | Casual Contact       | Lake Munmorah   | Caltex Woolworths Lake Munmorah275 Pacific Highway | 12:50pm to 1pm on Friday 3 September 2021                    |
-| 11/09/2021      | Casual Contact       | Glendale        | The Reject Shop, Glendale387 Lake Road | 10:55am to 11:05am on Tuesday 7 September 2021               |
-| 11/09/2021      | Casual Contact       | Glendale        | Hot Bargain, Stocklands Glendale387 Lake Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
+| 11/09/2021      | Casual Contact       | Glendale        | The Reject Shop Glendale387 Lake Road | 10:55am to 11:05am on Tuesday 7 September 2021               |
+| 11/09/2021      | Casual Contact       | Glendale        | Hot Bargain Stockland Glendale387 Lake Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | TSG Chittaway Bay Shopping Centre100 Chittaway Road | 10:45am to 11:10am on Monday 6 September 20212:05pm to 2:30pm on Sunday 5 September 2021 |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Pariza Kebab & Indian- Chittaway Bay Shopping Centre 100 Chittaway Road | 9:45am to 8:15pm on Monday 6 September 2021                  |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Coles Chittaway- Chittaway Bay Shopping Centre100 Chittaway Road | 9:40am to 10:05am on Monday 6 September 20217:40pm to 8pm on Monday 6 September 20213:10pm to 3:30pm on Monday 6 September 20211:45pm to 2:05pm on Monday 6 September 20218:45am to 4:15pm on Sunday 5 September 2021 |
