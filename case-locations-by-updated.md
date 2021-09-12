@@ -17,6 +17,7 @@
 | 12/09/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:55am to 12:30pm on Monday 6 September 2021                |
 | 12/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:40pm to 5:55pm on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:45pm to 6:15pm on Sunday 5 September 2021                  |
+| 12/09/2021      | Casual Contact       | Boolaroo        | Costco Boolaroo1 Cressy Road | 10:20am to 10:35am on Tuesday 7 September 2021               |
 | 11/09/2021      | Casual Contact       | Wyong           | Caltex Wyong SouthboundM1 Wyong | 10:30am to 10:40am on Friday 3 September 2021                |
 | 11/09/2021      | Casual Contact       | Wyoming         | Caltex Wyoming465 Pacific Highway | 7:25pm to 7:35pm on Friday 3 September 2021                  |
 | 11/09/2021      | Casual Contact       | Warners Bay     | BWS Warners Bay87 King Street | 3:45pm to 4pm on Monday 6 September 2021                     |
@@ -123,7 +124,7 @@
 | 09/09/2021      | Casual Contact       | Cooma           | Alpine Hotel170 Sharp Street | 12pm (noon) to 12:45pm on Saturday 4 September 2021          |
 | 09/09/2021      | Casual Contact       | Cooks Hill      | Harris Farm Market Cooks Hill227 Darby Street | 1:20pm to 1:40pm on Monday 30 August 2021                    |
 | 09/09/2021      | Casual Contact       | Cardiff         | New Nero Espresso Bar40 Harrison Street | 7:20am to 7:30am on Friday 3 September 2021                  |
-| 09/09/2021      | Casual Contact       | Bourke          | Khans Supa IGA BourkeOxley Street | 10:50am to 11:50am on Friday 3 September 20216:05pm to 7pm on Thursday 2 September 20211:20pm to 1:40pm on Tuesday 31 August 20216pm to 6:30pm on Sunday 29 August 20211pm to 1:15pm on Saturday 28 August 20216:45pm to 7pm on Saturday 28 August 20214pm to 4:10pm on Monday 23 August 202110am to 5pm on Sunday 22 August 202110:10am to 10:20am on Monday 16 August 20215:55pm to 6:10pm on Saturday 14 August 20215:55pm to 6pm on Friday 13 August 2021 |
+| 09/09/2021      | Casual Contact       | Bourke          | Khans Supa IGA BourkeOxley Street | 10:50am to 11:50am on Friday 3 September 20216:05pm to 7pm on Thursday 2 September 20211:20pm to 1:40pm on Tuesday 31 August 20216pm to 6:30pm on Sunday 29 August 20216:45pm to 7pm on Saturday 28 August 20211pm to 1:15pm on Saturday 28 August 20214pm to 4:10pm on Monday 23 August 202110am to 5pm on Sunday 22 August 202110:10am to 10:20am on Monday 16 August 20215:55pm to 6:10pm on Saturday 14 August 20215:55pm to 6pm on Friday 13 August 2021 |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Woolworths Batemans BayBridge Plaza, 9-13 Clyde Street | 8am to 9:30am on Saturday 4 September 20218am to 9am on Friday 3 September 2021 |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Dan Murphy's Batemans Bay51/53A Orient Street | 9am to 10am on Saturday 4 September 2021                     |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Australia Post Batemans Bay7 Orient Street | 9am to 9:10am on Saturday 4 September 2021                   |
