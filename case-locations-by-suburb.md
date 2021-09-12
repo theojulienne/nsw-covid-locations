@@ -138,6 +138,7 @@
 | 07/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street |  11:20am to 11:30am on Friday 3 September 2021               |
 | 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |
 | 10/09/2021      | Casual Contact       | Gulgong         | Gulgong Automotive Services22C Station Street  | 2pm to 2:30pm on Thursday 2 September 2021                   |
+| 12/09/2021      | Casual Contact       | Hamilton        | Oasis Village Kebab Shop Hamilton5/55 Beaumont Street | 7:05pm to 7:25pm on Friday 10 September 2021                 |
 | 02/09/2021      | Casual Contact       | Hamlyn Terrace  | Bottlemart Shop, The Dam HotelCorner of Minnesota Road and Pacific Highway | 2:45pm to 3pm on Friday 27 August 2021                       |
 | 05/09/2021      | Close Contact        | Hamlyn Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street |  4:50pm to 5:15pm on Friday 3 September 2021                 |
@@ -219,6 +220,7 @@
 | 31/08/2021      | Casual Contact       | Parkes          | PetBarn Parkes6 Bogan Street | 11:20am to 11:50am on Saturday 28 August 2021                |
 | 01/09/2021      | Casual Contact       | Parkes          | Woolworths Parkes235 Clarinda Street | 2:10pm to 2:30pm on Saturday 28 August 20215:25pm to 5:40pm on Friday 27 August 20212:50pm to 3:40pm on Friday 27 August 20219:50am to 10:10am on Thursday 26 August 20212:50pm to 3:10pm on Thursday 26 August 20213:50pm to 4:15pm on Wednesday 25 August 20215:10pm to 5:20pm on Saturday 21 August 202111:10am to 12:10pm on Friday 20 August 2021 |
 | 01/09/2021      | Casual Contact       | Port Kembla     | Xtra Newsagency Port Kembla53 Wentworth Street | 7am to 7:05am on Saturday 28 August 20217:05am to 7:10am on Friday 27 August 20216:55am to 7am on Thursday 26 August 2021 |
+| 12/09/2021      | Casual Contact       | Rathmines       | Australia Post RathminesShop 1/6 Fishing Point Road | 11:45pm to 11:50pm on Thursday 9 September 2021              |
 | 06/09/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond Terrace NorthMarketplace, Corner Port Stephens and Bourke Streets | 10:05am to 10:30am on Thursday 2 September 2021              |
 | 02/09/2021      | Casual Contact       | Richmond        | Richmond Inn Hotel Motel90 March Street | 12:55pm to 1:05pm on Tuesday 31 August 202112:35pm to 1:35pm on Monday 30 August 2021 |
 | 08/09/2021      | Casual Contact       | Salamander Bay  | Coles Salamander BaySalamander Bay Shopping Centre, Bagnall Beach Road | 4:40pm to 5pm on Saturday 28 August 2021                     |

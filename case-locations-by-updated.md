@@ -6,9 +6,11 @@
 | 12/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 8pm to 8:35pm on Monday 6 September 2021                     |
 | 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7/47/63 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
 | 12/09/2021      | Casual Contact       | Stroud          | Friendly Grocer Stroud50 Cowper Street | 3:15pm to 3:25pm on Sunday 5 September 2021                  |
+| 12/09/2021      | Casual Contact       | Rathmines       | Australia Post RathminesShop 1/6 Fishing Point Road | 11:45pm to 11:50pm on Thursday 9 September 2021              |
 | 12/09/2021      | Casual Contact       | Narrabri        | BP Service Station Narrabri65 Cooma Road | 8pm to 8:05pm on Tuesday 7 September 2021                    |
 | 12/09/2021      | Casual Contact       | Mannering Park  | Crystal Blue Takeaway, Mannering Park74 Vales Road | 3:05pm to 3:30pm on Monday 30 August 2021                    |
 | 12/09/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake Munmorah1 Tall Timbers Road | 12:45pm to 1pm on Friday 3 September 2021                    |
+| 12/09/2021      | Casual Contact       | Hamilton        | Oasis Village Kebab Shop Hamilton5/55 Beaumont Street | 7:05pm to 7:25pm on Friday 10 September 2021                 |
 | 12/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:40pm to 5:55pm on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair Shopping Centre, Terrigal Dirve | 5:45pm to 6:15pm on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Bateau Bay      | Coles Bateau BayBateau Bay Square, The Entrance Road | 11am to 11:55am on Tuesday 7 September 2021                  |
