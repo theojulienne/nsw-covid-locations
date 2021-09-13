@@ -59,7 +59,7 @@
 | 07/09/2021      | Casual Contact       | Cooks Hill      | Darby Kebab and Pide126 Darby Street | 10:10pm to 10:30pm on Tuesday 31 August 2021                 |
 | 09/09/2021      | Casual Contact       | Cooks Hill      | Harris Farm Market Cooks Hill227 Darby Street | 1:20pm to 1:40pm on Monday 30 August 2021                    |
 | 06/09/2021      | Casual Contact       | Coolac          | Mobil Highway Service Centre518 Coolac Road | 4:30pm to 5pm on Tuesday 31 August 2021                      |
-| 12/09/2021      | Close Contact        | Cooma           | Alpine Hotel170 Sharp Street | 11:52pm to 12:52pm on Saturday 4 September 2021              |
+| 13/09/2021      | Close Contact        | Cooma           | Alpine Hotel170 Sharp Street | 11:52pm to 12:52pm on Saturday 4 September 2021              |
 | 09/09/2021      | Casual Contact       | Cooma           | China Town Chinese Restaurant76 Sharp Street | 11:40am to 11:58am on Saturday 4 September 20215:15pm to 5:50pm on Thursday 2 September 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Metro 24Hrs Petrol42 Sharp Street | 9:50am to 10am on Saturday 4 September 20217:15pm to 7:25pm on Thursday 2 September 2021 |
 | 09/09/2021      | Casual Contact       | Cooma           | Woolworths Cooma12-20 Vale Street | 6pm to 6:45pm on Thursday 2 September 2021                   |
@@ -131,13 +131,16 @@
 | 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street | 11:20am to 11:30am on Friday 3 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |
+| 10/09/2021      | Casual Contact       | Gulgong         | Gulgong Automotive Services22C Station Street | 2pm to 2:30pm on Thursday 2 September 2021                   |
 | 13/09/2021      | Close Contact        | Hamilton        | Oasis Village Kebab Shop5/55 Beaumont Street | 7:05pm to 7:25pm on Friday 10 September 2021                 |
 | 05/09/2021      | Close Contact        | Hamlyn Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
+| 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street | 4:50pm to 5:15pm on Friday 3 September 2021                  |
 | 03/09/2021      | Casual Contact       | Heatherbrae     | Caltex Heatherbrae2283 Pacific Highway | 8:55pm to 9pm on Tuesday 31 August 20216am to 10am on Monday 30 August 2021 |
 | 04/09/2021      | Casual Contact       | Kangy Angy      | Tuggerah Garden Centre2 Old Tuggerah Road | 7am to 4pm on Tuesday 31 August 20217am to 4pm on Monday 30 August 20218am to 3pm on Saturday 28 August 20217am to 4pm on Friday 27 August 2021 |
 | 12/09/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane Kelso | 9:45am to 10:15am on Friday 10 September 20211:55pm to 2:05pm on Wednesday 8 September 2021 |
 | 04/09/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 12:05pm to 12:15pm on Tuesday 31 August 202112:55pm to 1:15pm on Monday 30 August 202112:55pm to 2pm on Sunday 29 August 20214:15pm to 4:40pm on Thursday 26 August 2021 |
 | 12/09/2021      | Casual Contact       | Killarney Vale  | 21 Red Espresso130 Wyong Road | 6:30am to 7am on Sunday 5 September 2021                     |
+| 13/09/2021      | Casual Contact       | Killarney Vale  | Central Coast Cycles118 Wyong Road | 10:30am to 11am on Saturday 4 September 2021                 |
 | 13/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 11:55am to 12:10pm on Monday 6 September 202110:25pm to 10:40pm on Sunday 5 September 20212:30pm to 2:45pm on Saturday 4 September 20217:50am to 8:05am on Wednesday 1 September 20216:20pm to 6:50pm on Saturday 21 August 2021 |
 | 04/09/2021      | Casual Contact       | Killarney Vale  | Shell Coles Express Killarney Vale102-106 Wyong Road | 11am to 11:15am on Saturday 4 September 20218:35am to 8:50am on Tuesday 31 August 2021 |
 | 09/09/2021      | Casual Contact       | Kincumber       | 7-Eleven Kincumber28/30 Avoca Drive | 6:20pm to 7:35pm on Thursday 2 September 2021                |
