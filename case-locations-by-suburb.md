@@ -163,7 +163,7 @@
 | 10/09/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 5:05pm to 5:25pm on Thursday 9 September 2021                |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 11:55am to 12:40pm on Saturday 4 September 2021              |
 | 06/09/2021      | Casual Contact       | Medowie         | Woolworths Medowie39-47 Ferodale Road | 9:55am to 10:25am on Friday 3 September 20216pm to 6:15pm on Tuesday 31 August 20212:05pm to 2:45pm on Tuesday 31 August 2021 |
-| 14/09/2021      | Casual Contact       | Mereweather     | Shell Coles Express Mereweather87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
+| 14/09/2021      | Casual Contact       | Merewether      | Shell Coles Express Merewether87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
 | 11/09/2021      | Casual Contact       | Merimbula       | Caltex Merimbula19/25 Merimbula Drive | 9am to 9:25am on Tuesday 7 September 202111:50am to 12:05pm on Friday 3 September 2021 |
 | 09/09/2021      | Casual Contact       | Merimbula       | Cranky Cafe33 Ocean Drive | 9:50am to 10:15am on Tuesday 31 August 2021                  |
 | 11/09/2021      | Casual Contact       | Merimbula       | Main Street Medical Centre (Vaccination clinic only)6/93 Main Street | 1:15pm to 2:30pm on Friday 3 September 2021                  |

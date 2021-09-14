@@ -7,7 +7,7 @@
 | 14/09/2021      | Casual Contact       | Yass            | Aldi Yass193 Comur Street | 6am to 9am on Saturday 11 September 20217am to 10am on Friday 10 September 20217am to 2:30pm on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 9:05am to 9:30am on Sunday 5 September 2021                  |
 | 14/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 2021               |
-| 14/09/2021      | Casual Contact       | Mereweather     | Shell Coles Express Mereweather87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
+| 14/09/2021      | Casual Contact       | Merewether      | Shell Coles Express Merewether87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
 | 14/09/2021      | Casual Contact       | Goulburn        | Woolworths QueanbeyanCorner Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20216:40am to 6:55am on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:25pm to 6pm on Tuesday 7 September 2021                    |
 | 14/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:45pm to 5:30pm on Wednesday 8 September 2021               |
