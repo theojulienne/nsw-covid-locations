@@ -19,13 +19,15 @@
 | 14/09/2021      | Casual Contact       | Toukley         | Service NSW Toukley325 Main Road | 3pm to 3:35pm on Friday 10 September 2021                    |
 | 14/09/2021      | Casual Contact       | Toukley         | Liquorland Toukley244 Main Road | 6:30pm to 6:50pm on Thursday 9 September 2021                |
 | 14/09/2021      | Casual Contact       | Toukley         | Hot Bargain Toukley47 Canton Beach Road | 2:50pm to 3:10pm on Thursday 9 September 2021                |
-| 14/09/2021      | Casual Contact       | Toukley         | Hearts and Minds Barber Emporium Coffee ShopShop 5/243 Main Road  | 9:10am to 9:29am on Wednesday 8 September 20219:15am to 9:25am on Tuesday 7 September 2021 |
+| 14/09/2021      | Casual Contact       | Toukley         | Hearts and Minds Barber Emporium Coffee ShopShop 5/243 Main Road  | 9:10am to 9:20am on Wednesday 8 September 20219:15am to 9:25am on Tuesday 7 September 2021 |
 | 14/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 5:10pm to 5:35pm on Wednesday 8 September 20218pm to 8:35pm on Monday 6 September 2021 |
 | 14/09/2021      | Casual Contact       | Toukley         | Cincotta Discount Chemist Toukley213-217 Main Road | 8:40am to 3:15pm on Wednesday 8 September 20218:45am to 3:15pm on Tuesday 7 September 2021 |
 | 14/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 2021               |
+| 14/09/2021      | Casual Contact       | Taylors Beach   | PETQuarters Taylors Beach12 Innovation Close | 10:20am to 10:45am on Sunday 12 September 2021               |
 | 14/09/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 5:50pm to 5:55pm on Friday 10 September 20212:30pm to 4pm on Wednesday 1 September 2021 |
-| 14/09/2021      | Casual Contact       | Queanbeyan      | Woolworths Queanbeyan  Antill Street Queanbeyanâ€“Palerang Regional Council |  6:25am to 7:15am on Friday 10 September 2021 6:40am to 7:00am on Thursday 9 September 2021 |
+| 14/09/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20216:40am to 6:55am on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Newcastle West  | Newcastle Central PlazaNewcastle Central Plaza, 714 Hunter Street | 12am to 10:50am on Thursday 9 September 20216:45pm to 11:59pm on Wednesday 8 September 2021 |
+| 14/09/2021      | Casual Contact       | Newcastle       | Newcastle Courthouse343 Hunter Street | 9:30am to 12pm on Friday 10 September 2021                   |
 | 14/09/2021      | Casual Contact       | Merewether      | Shell Coles Express Mereweather87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
 | 14/09/2021      | Casual Contact       | Lake Haven      | Woolworths Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 9:10am to 9:50am on Thursday 2 September 20217:40pm to 8:10pm on Wednesday 1 September 20213:20pm to 3:45pm on Tuesday 31 August 202112:30pm to 1pm on Tuesday 31 August 20216:15pm to 6:45pm on Monday 30 August 2021 |
 | 14/09/2021      | Casual Contact       | Lake Haven      | Crazy Bargain Warehouse Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 5:15pm to 5:30pm on Friday 10 September 2021                 |
@@ -36,7 +38,6 @@
 | 14/09/2021      | Casual Contact       | Jesmond         | Hot Bargain Jesmond 28 Blue Gum Road  | 10:45am to 10:55am on Tuesday 7 September 2021               |
 | 14/09/2021      | Casual Contact       | Hamilton South  | Diggers Bottle Shop18 Hassall Street Hamilton South | 1:40pm to 1:45pm on Friday 10 September 2021                 |
 | 14/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 11:20am to 11:50am on Thursday 9 September 2021              |
-| 14/09/2021      | Casual Contact       | Goulburn        | Woolworths QueanbeyanCorner Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20216:40am to 6:55am on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:25pm to 6pm on Tuesday 7 September 2021                    |
 | 14/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:45pm to 5:30pm on Wednesday 8 September 2021               |
 | 14/09/2021      | Casual Contact       | Goulburn        | Free Choice Tobacconist GoulburnGoulburn Square, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
@@ -45,6 +46,7 @@
 | 14/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 7pm to 8pm on Friday 3 September 20212:20pm to 2:35pm on Thursday 2 September 20212:50pm to 3:15pm on Wednesday 1 September 20214:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
 | 14/09/2021      | Casual Contact       | Gorokan         | Shell Coles Express Gorokan67 Wallarah Road | 6:45pm to 6:55pm on Thursday 9 September 2021                |
 | 14/09/2021      | Casual Contact       | Gerringong      | Gerringong Hardware1 45 Rowlins Road  |  12:18pm to 12:23pm on Saturday 11 September 2021            |
+| 14/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair Shopping Centre, Terrigal Dirve | 4:30pm to 4:50pm on Wednesday 8 September 20215:40pm to 5:55pm on Sunday 5 September 2021 |
 | 14/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair Shopping Centre, Terrigal Dirve | 4:35pm to 5pm on Wednesday 8 September 20215:45pm to 6:15pm on Sunday 5 September 2021 |
 | 14/09/2021      | Casual Contact       | Erina           | Blooms The Chemist ErinaErina Fair, Terrigal Drive | 8:40am to 9am on Thursday 9 September 2021                   |
 | 14/09/2021      | Casual Contact       | East Gosford    | IGA East Gosford87/91 Victoria Street | 11:40am to 12:10pm on Friday 10 September 2021               |
@@ -141,7 +143,6 @@
 | 12/09/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:55am to 12:30pm on Monday 6 September 2021                |
 | 12/09/2021      | Casual Contact       | Gosford         | BWS GosfordImperial Centre Gosford, 40-46 William Street | 6:45pm to 7:30pm on Friday 3 September 2021                  |
 | 12/09/2021      | Casual Contact       | Gorokan         | Guardian Pharmacy Gorokan70 Wallarah Road | 6:20pm to 7pm on Saturday 4 September 2021                   |
-| 12/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair Shopping Centre, Terrigal Dirve | 4:30pm to 4:50pm on Wednesday 8 September 20215:40pm to 5:55pm on Sunday 5 September 2021 |
 | 12/09/2021      | Casual Contact       | East Gosford    | East Gosford Newsagency and Post Office53-55 Victoria Street | 4pm to 5pm on Thursday 2 September 2021                      |
 | 12/09/2021      | Casual Contact       | Dubbo           | Liquorland DubboShop 21, 177 Macquarie Street | 3:30pm to 7pm on Monday 6 September 2021                     |
 | 12/09/2021      | Casual Contact       | Cardiff         | Woolworths CardiffCardiff Shopping Centre, 43 Macquarie Road | 9:15pm to 9:50pm on Tuesday 7 September 2021                 |
