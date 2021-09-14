@@ -50,7 +50,7 @@
 | 04/09/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner of Chelmsford Road and Pacific Highway | 3:45pm to 4:10pm on Wednesday 1 September 2021               |
 | 11/09/2021      | Casual Contact       | Charmhaven      | Caltex San Remo13-15 Pacific Highway | 7:30pm to 7:40pm on Wednesday 1 September 2021               |
 | 10/09/2021      | Casual Contact       | Chinderah       | Ampol Foodary Chinderah112 Tweed Valley Way | 12:45pm to 1:30pm on Monday 6 September 2021                 |
-| 14/09/2021      | Casual Contact       | Chinderah       | BP Service Station, Southbound M160 Ozone Street | 1:45pm to 4:30pm on Wednesday 8 September 2021               |
+| 14/09/2021      | Casual Contact       | Chinderah       | BP Chinderah (Southbound Service Centre, Pacific Motorway)69 Ozone Street | 1:45pm to 4:30pm on Wednesday 8 September 2021               |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Chittaway BakehouseChittaway Bay Shopping Centre, 100 Chittaway Road | 2pm to 2:20pm on Monday 6 September 2021                     |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Coles Chittaway BayChittaway Bay Shopping Centre, 100 Chittaway Road | 9:40am to 10:05am on Monday 6 September 20217:40pm to 8pm on Monday 6 September 20213:10pm to 3:30pm on Monday 6 September 20211:45pm to 2:05pm on Monday 6 September 20218:45am to 4:15pm on Sunday 5 September 2021 |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Pariza Kebab & IndianChittaway Bay Shopping Centre, 100 Chittaway Road | 9:45am to 8:15pm on Monday 6 September 2021                  |

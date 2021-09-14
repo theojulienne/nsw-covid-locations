@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 14/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 2021               |
 | 14/09/2021      | Casual Contact       | Mereweather     | Shell Coles Express Mereweather87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
-| 14/09/2021      | Casual Contact       | Chinderah       | BP Service Station, Southbound M160 Ozone Street | 1:45pm to 4:30pm on Wednesday 8 September 2021               |
+| 14/09/2021      | Casual Contact       | Chinderah       | BP Chinderah (Southbound Service Centre, Pacific Motorway)69 Ozone Street | 1:45pm to 4:30pm on Wednesday 8 September 2021               |
 | 13/09/2021      | Casual Contact       | Wyong           | The Old Bakery12/34-48 Cutler Drive | 8:45am to 8:50am on Tuesday 31 August 2021                   |
 | 13/09/2021      | Casual Contact       | Wyong           | Lou's Eatery Wyong13/34-38 Cutler Drive | 5:10pm to 6:55pm on Tuesday 7 September 2021                 |
 | 13/09/2021      | Casual Contact       | Wyong           | Liquorland WyongVillage Central Wyong, 11-18 Alison Road | 12:45pm to 12:55pm on Tuesday 31 August 2021                 |
