@@ -13,6 +13,7 @@
 | 14/09/2021      | Casual Contact       | Wangi Wangi     | IGA Plus Liquor WangiShop 11 226 Watkins Road | 2:05pm to 2:20pm on Sunday 12 September 20211:30pm to 1:45pm on Friday 10 September 20211:40pm to 1:50pm on Wednesday 8 September 20213:37pm to 4:11pm on Monday 6 September 2021 |
 | 14/09/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 9:05am to 9:30am on Sunday 5 September 2021                  |
 | 14/09/2021      | Casual Contact       | Walgett         | Inland Petroleum 21 Fox Street  |  6:00am to 6:20am on Thursday 9 September 2021 4:50pm to 5:10pm on Wednesday 8 September 2021 4:00pm to 4:30pm on Monday 6 September 2021 11:50am to 12:20pm on Monday 6 September 2021 |
+| 14/09/2021      | Casual Contact       | Valla           | BP Valla2 Corkwood Road   | 6:15pm to 6:45pm on Tuesday 7 September 2021                 |
 | 14/09/2021      | Casual Contact       | Umina Beach     | Umina Charcoal Chicken325 West Street | 6:20pm to 6:30pm on Wednesday 8 September 2021               |
 | 14/09/2021      | Casual Contact       | Tuggerah        | Grill’d TuggerahWestfield Tuggerah, 50 Wyong Road | 2:30pm to 8pm on Monday 6 September 2021                     |
 | 14/09/2021      | Casual Contact       | Toukley         | Westside Petrol Station Toukley356 Main Road | 3pm to 3:15pm on Wednesday 8 September 202112pm to 12:15pm on Wednesday 8 September 2021 |
@@ -34,11 +35,14 @@
 | 14/09/2021      | Casual Contact       | Lake Haven      | Commonwealth Bank Lake Haven BranchShop 72 Lake Haven Drive  |  7:35pm to 7:50pm on Wednesday 1 September 2021              |
 | 14/09/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 8:10pm to 8:50pm on Thursday 9 September 20219:30am to 10:15am on Thursday 2 September 20212:15pm to 2:35pm on Wednesday 1 September 20215:45pm to 6:10pm on Tuesday 31 August 20216:35pm to 7pm on Monday 30 August 2021 |
 | 14/09/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village Shopping Centre, 43 Avoca Drive | 11:40am to 12:15pm on Thursday 9 September 2021              |
+| 14/09/2021      | Casual Contact       | Kiama           | Blooms the Chemist Kiama118 Terralong Street  | 9am to 9:10am on Sunday 12 September 2021                    |
 | 14/09/2021      | Casual Contact       | Kanwal          | Amcal+ Pharmacy KanwalKanwal Village, 1/258 Wallarah Road | 6:05pm to 6:30pm on Friday 10 September 20215:25pm to 5:35pm on Friday 10 September 20212:35pm to 2:50pm on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Jesmond         | Hot Bargain Jesmond 28 Blue Gum Road  | 10:45am to 10:55am on Tuesday 7 September 2021               |
+| 14/09/2021      | Casual Contact       | Heatherbrae     | 7-Eleven Heatherbrae369 Pacific Highway | 10pm to 10:05pm on Wednesday 8 September 2021                |
 | 14/09/2021      | Casual Contact       | Hamilton South  | Diggers Bottle Shop18 Hassall Street Hamilton South | 1:40pm to 1:45pm on Friday 10 September 2021                 |
 | 14/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 11:20am to 11:50am on Thursday 9 September 2021              |
-| 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:25pm to 6pm on Tuesday 7 September 2021                    |
+| 14/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
+| 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:15pm to 6pm on Tuesday 7 September 2021                    |
 | 14/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:45pm to 5:30pm on Wednesday 8 September 2021               |
 | 14/09/2021      | Casual Contact       | Goulburn        | Free Choice Tobacconist GoulburnGoulburn Square, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
 | 14/09/2021      | Casual Contact       | Goulburn        | Aldi GoulburnGoulburn Marketplace, 13 Clinton Street | 5:30pm to 6:30pm on Tuesday 7 September 2021                 |
@@ -56,6 +60,7 @@
 | 14/09/2021      | Casual Contact       | Broken Hill     | Cheap as Chips7-11 Gossan Street | 12pm to 12:30pm CST on Friday 10 September 202111:40am to 12pm CST on Friday 3 September 2021 |
 | 14/09/2021      | Casual Contact       | Broken Hill     | Centrelink and Medicare 180 Beryl Street  |  11:20am to 11:50am on Monday 6 September 2021 1:40pm to 2:10pm on Monday 6 September 2021 |
 | 14/09/2021      | Casual Contact       | Broken Hill     | Australia Post Broken Hill 260 Argent Street  |  6:10pm to 6:30pm on Friday 10 September 2021 4:00pm to 4:20pm on Friday 10 September 2021 |
+| 14/09/2021      | Casual Contact       | Bathurst        | Tamarin Indian Restaurant Bathurst126 William Street  | 6:30pm to 6:45pm on Saturday 11 September 2021               |
 | 14/09/2021      | Casual Contact       | Bateau Bay      | The Bottle-O Bateau Bay HotelThe Entrance Rd and Lumby Drive | 9:35pm to 9:50pm on Thursday 9 September 2021                |
 | 14/09/2021      | Casual Contact       | Bateau Bay      | IGA Bateau BayCresthaven Shopping Centre, Cresthaven Avenue | 12:55pm to 1:15pm on Sunday 5 September 2021                 |
 | 14/09/2021      | Casual Contact       | Bateau Bay      | Coles Bateau Bay  The Entrance Road  |  3:30pm to 4:10pm on Friday 3 September 2021                 |
@@ -259,7 +264,6 @@
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonald's Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street | 4:50pm to 5:15pm on Friday 3 September 2021                  |
-| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
 | 07/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street | 11:20am to 11:30am on Friday 3 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | Caltex Goulburn68 Goldsmith Street Corner of Bourke Street | 10:25am to 10:40am on Sunday 5 September 2021                |
