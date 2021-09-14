@@ -123,11 +123,17 @@
 | 12/09/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:55am to 12:30pm on Monday 6 September 2021                |
 | 03/09/2021      | Casual Contact       | Gosford         | Kermat's Pies and Kebabs111 Donnison Street | 2:50pm to 3:15pm on Wednesday 1 September 2021               |
 | 08/09/2021      | Casual Contact       | Gosford         | Woolworths GosfordImperial Centre, 40/446 William Street | 2:20pm to 2:35pm on Thursday 2 September 20212:50pm to 3:15pm on Wednesday 1 September 20214:30pm to 5pm on Friday 27 August 20212:20pm to 2:50pm on Tuesday 24 August 2021 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Akira Sushi GoulburnGoulburn Square Food Court, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Aldi GoulburnGoulburn Marketplace, 13 Clinton Street | 5:30pm to 6:30pm on Tuesday 7 September 2021                 |
 | 07/09/2021      | Casual Contact       | Goulburn        | Caltex Goulburn68 Goldsmith Street Corner of Bourke Street | 10:25am to 10:40am on Sunday 5 September 2021                |
 | 08/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnAuburn Street and Clifford Street | 11:15am to 12:10pm on Friday 3 September 20217:45pm to 8pm on Wednesday 1 September 2021 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Free Choice Tobacconist GoulburnGoulburn Square, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:45pm to 5:30pm on Wednesday 8 September 2021               |
 | 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
+| 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:25pm to 6pm on Tuesday 7 September 2021                    |
 | 07/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street | 11:20am to 11:30am on Friday 3 September 2021                |
-| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |
+| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Woolworths QueanbeyanCorner Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20216:40am to 6:55am on Thursday 9 September 2021 |
 | 10/09/2021      | Casual Contact       | Gulgong         | Gulgong Automotive Services22C Station Street | 2pm to 2:30pm on Thursday 2 September 2021                   |
 | 13/09/2021      | Close Contact        | Hamilton        | Oasis Village Kebab Shop5/55 Beaumont Street | 7:05pm to 7:25pm on Friday 10 September 2021                 |
 | 05/09/2021      | Close Contact        | Hamlyn Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
@@ -256,6 +262,7 @@
 | 08/09/2021      | Casual Contact       | Walgett         | Walgett Pharmacy48 Fox Street | 1:30pm to 2:30pm on Monday 6 September 2021                  |
 | 12/09/2021      | Casual Contact       | Walgett         | Wongs Fish N Chips40 Fox Street | 5:45pm to 6pm on Wednesday 8 September 202111:45am to 12pm on Wednesday 8 September 2021 |
 | 12/09/2021      | Casual Contact       | Wallsend        | Australia Post WallsendShop 27/24 Wallsend Village, Cowper Street | 4:40pm to 4:45pm on Tuesday 7 September 2021                 |
+| 14/09/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 9:05am to 9:30am on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Wangi Wangi     | IGA Plus Liquor WangiShop 11 226 Watkins Road | 1:40pm to 1:50pm on Wednesday 8 September 20213:37pm to 4:11pm on Monday 6 September 2021 |
 | 02/09/2021      | Casual Contact       | Warilla         | Woolworths WarillaWarilla Grove Shopping Centre, 29-30 Shellharbour Road | 2:15pm to 3pm on Tuesday 31 August 20219:15am to 9:45am on Sunday 29 August 20211:45pm to 2pm on Friday 27 August 20217:15pm to 7:45pm on Thursday 26 August 2021 |
 | 11/09/2021      | Casual Contact       | Warners Bay     | BWS Warners Bay87 King Street | 3:45pm to 4pm on Monday 6 September 2021                     |
@@ -286,5 +293,10 @@
 | 13/09/2021      | Casual Contact       | Wyong           | Lou's Eatery Wyong13/34-38 Cutler Drive | 5:10pm to 6:55pm on Tuesday 7 September 2021                 |
 | 10/09/2021      | Casual Contact       | Wyong           | Subway Wyong250/300 Pacific Highway | 4pm to 4:20pm on Saturday 4 September 2021                   |
 | 13/09/2021      | Casual Contact       | Wyong           | The Old Bakery12/34-48 Cutler Drive | 8:45am to 8:50am on Tuesday 31 August 2021                   |
+| 14/09/2021      | Casual Contact       | Yass            | Aldi Yass193 Comur Street | 6am to 9am on Saturday 11 September 20217am to 10am on Friday 10 September 20217am to 2:30pm on Thursday 9 September 2021 |
+| 14/09/2021      | Casual Contact       | Yass            | Caltex Yass1715 Yass Valley Way | 8:30am to 8:35am on Friday 10 September 2021                 |
+| 14/09/2021      | Casual Contact       | Yass            | Domino's Pizza Yass63 Laidlaw Street | 1:10pm to 1:20pm on Saturday 11 September 2021               |
 | 07/09/2021      | Casual Contact       | Yass            | IGA Yass63 Laidlaw Street | 4pm to 4:30pm on Thursday 2 September 2021                   |
+| 14/09/2021      | Casual Contact       | Yass            | Mobil Yass44 Comur Street | 6:15am to 6:20am on Friday 10 September 2021                 |
+| 14/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 2021 |
 | 09/09/2021      | Casual Contact       | Yetholme        | Caltex Yetholme3529 Great Western Highway | 3pm to 3:10pm on Thursday 2 September 20213pm to 3:10pm on Thursday 2 September 2021 |

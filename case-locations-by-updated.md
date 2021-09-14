@@ -1,7 +1,19 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 14/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 2021 |
+| 14/09/2021      | Casual Contact       | Yass            | Mobil Yass44 Comur Street | 6:15am to 6:20am on Friday 10 September 2021                 |
+| 14/09/2021      | Casual Contact       | Yass            | Domino's Pizza Yass63 Laidlaw Street | 1:10pm to 1:20pm on Saturday 11 September 2021               |
+| 14/09/2021      | Casual Contact       | Yass            | Caltex Yass1715 Yass Valley Way | 8:30am to 8:35am on Friday 10 September 2021                 |
+| 14/09/2021      | Casual Contact       | Yass            | Aldi Yass193 Comur Street | 6am to 9am on Saturday 11 September 20217am to 10am on Friday 10 September 20217am to 2:30pm on Thursday 9 September 2021 |
+| 14/09/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 9:05am to 9:30am on Sunday 5 September 2021                  |
 | 14/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 2021               |
 | 14/09/2021      | Casual Contact       | Mereweather     | Shell Coles Express Mereweather87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
+| 14/09/2021      | Casual Contact       | Goulburn        | Woolworths QueanbeyanCorner Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20216:40am to 6:55am on Thursday 9 September 2021 |
+| 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:25pm to 6pm on Tuesday 7 September 2021                    |
+| 14/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:45pm to 5:30pm on Wednesday 8 September 2021               |
+| 14/09/2021      | Casual Contact       | Goulburn        | Free Choice Tobacconist GoulburnGoulburn Square, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Aldi GoulburnGoulburn Marketplace, 13 Clinton Street | 5:30pm to 6:30pm on Tuesday 7 September 2021                 |
+| 14/09/2021      | Casual Contact       | Goulburn        | Akira Sushi GoulburnGoulburn Square Food Court, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
 | 14/09/2021      | Casual Contact       | Chinderah       | BP Chinderah (Southbound Service Centre, Pacific Motorway)69 Ozone Street | 1:45pm to 4:30pm on Wednesday 8 September 2021               |
 | 13/09/2021      | Casual Contact       | Wyong           | The Old Bakery12/34-48 Cutler Drive | 8:45am to 8:50am on Tuesday 31 August 2021                   |
 | 13/09/2021      | Casual Contact       | Wyong           | Lou's Eatery Wyong13/34-38 Cutler Drive | 5:10pm to 6:55pm on Tuesday 7 September 2021                 |
@@ -219,7 +231,7 @@
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
 | 07/09/2021      | Casual Contact       | Lake Haven      | McDonald's Lake HavenGoobarabah Avenue | 10am to 3:15pm on Friday 3 September 20217am to 11:15am on Thursday 2 September 202111:15am to 3:30pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street | 4:50pm to 5:15pm on Friday 3 September 2021                  |
-| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 8:45am to 10:05am on Sunday 5 September 2021                 |
+| 07/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
 | 07/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street | 11:20am to 11:30am on Friday 3 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
 | 07/09/2021      | Casual Contact       | Goulburn        | Caltex Goulburn68 Goldsmith Street Corner of Bourke Street | 10:25am to 10:40am on Sunday 5 September 2021                |
