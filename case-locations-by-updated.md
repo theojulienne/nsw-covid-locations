@@ -1,5 +1,9 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 16/09/2021      | Casual Contact       | Lismore         | Silly Solly’s135 Keen Street | 8:55am to 9:00am on Tuesday 14 September 2021                |
+| 16/09/2021      | Casual Contact       | Lismore         | Lismore Base Hospital Fever ClinicUralba Street | 9:30am to 10:30am on Wednesday 15 September 2021             |
+| 16/09/2021      | Casual Contact       | Lismore         | Lifeline Shop71 Magellan Street | 9:05am to 9:20am on Tuesday 14 September 2021                |
+| 16/09/2021      | Casual Contact       | Evans Head      | Muzza’s Milk Bar1/5 Oak Street | 1:15pm to 1:45pm on Sunday 12 September 2021                 |
 | 15/09/2021      | Casual Contact       | Young           | Woolworths Young263 Boorowa Street  | 3:15pm to 4pm on Friday 3 September 2021                     |
 | 15/09/2021      | Casual Contact       | Young           | BWS YoungBoorowa Street   | 3:15pm to 4pm on Friday 3 September 2021                     |
 | 15/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 4:45pm to 5:15pm on Wednesday 8 September 2021               |

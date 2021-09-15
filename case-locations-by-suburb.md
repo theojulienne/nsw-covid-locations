@@ -111,6 +111,7 @@
 | 14/09/2021      | Casual Contact       | Erina           | Blooms The Chemist ErinaErina Fair, Terrigal Drive | 8:40am to 9am on Thursday 9 September 2021                   |
 | 14/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, Terrigal Drive | 4:35pm to 5pm on Wednesday 8 September 20215:45pm to 6:15pm on Sunday 5 September 2021 |
 | 14/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair, Terrigal Drive | 4:30pm to 4:50pm on Wednesday 8 September 20215:40pm to 5:55pm on Sunday 5 September 2021 |
+| 16/09/2021      | Casual Contact       | Evans Head      | Muzza’s Milk Bar1/5 Oak Street | 1:15pm to 1:45pm on Sunday 12 September 2021                 |
 | 15/09/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway  | 11am to 11:31am on Monday 13 September 20218:57am to 9:25am on Thursday 9 September 2021 |
 | 05/09/2021      | Casual Contact       | Forbes          | BP ForbesDowling Street   | 9:20am to 9:25am on Wednesday 1 September 20219am to 11:15am on Tuesday 31 August 20217:20am to 7:55am on Saturday 28 August 2021 |
 | 14/09/2021      | Casual Contact       | Gerringong      | Gerringong Hardware1/45 Rowlins Road | 12:18pm to 12:23pm on Saturday 11 September 2021             |
@@ -164,6 +165,9 @@
 | 13/09/2021      | Casual Contact       | Lake Munmorah   | Nargis Gourmet Food Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:30pm to 2:50pm on Tuesday 7 September 20212pm to 3pm on Wednesday 1 September 2021 |
 | 12/09/2021      | Casual Contact       | Lake Munmorah   | Phone Culture Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2pm to 3pm on Wednesday 1 September 2021                     |
 | 13/09/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake Munmorah1 Tall Timbers Road | 12:45pm to 1pm on Friday 3 September 202112:45pm to 1pm on Friday 3 September 2021 |
+| 16/09/2021      | Casual Contact       | Lismore         | Lifeline Shop71 Magellan Street | 9:05am to 9:20am on Tuesday 14 September 2021                |
+| 16/09/2021      | Casual Contact       | Lismore         | Lismore Base Hospital Fever ClinicUralba Street | 9:30am to 10:30am on Wednesday 15 September 2021             |
+| 16/09/2021      | Casual Contact       | Lismore         | Silly Solly’s135 Keen Street | 8:55am to 9:00am on Tuesday 14 September 2021                |
 | 11/09/2021      | Casual Contact       | Maitland        | Woolworths MaitlandPender Place Shopping Centre, 44 Elgin Street | 6:25pm to 6:50pm on Monday 6 September 2021                  |
 | 11/09/2021      | Casual Contact       | Mannering Park  | Coastie's Kitchen2/72 Vales Road | 4:45pm to 8:15pm on Sunday 5 September 20215:15pm to 8:45pm on Saturday 4 September 20214:45pm to 8:15pm on Thursday 2 September 20214:45pm to 8:15pm on Wednesday 1 September 2021 |
 | 07/09/2021      | Casual Contact       | Mayfield        | BWS MayfieldCorner of Maitland Road and Valencia Street | 6:45pm to 6:50pm on Saturday 4 September 2021                |
