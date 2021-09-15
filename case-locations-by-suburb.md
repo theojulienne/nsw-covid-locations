@@ -194,6 +194,7 @@
 | 12/09/2021      | Casual Contact       | Rathmines       | Australia Post RathminesShop 1, 6 Fishing Point Road | 11:45pm to 11:50pm on Thursday 9 September 2021              |
 | 12/09/2021      | Casual Contact       | Rathmines       | IGA RathminesShop 2, 8 Fishing Point Road | 1:10pm to 1:20pm on Tuesday 7 September 2021                 |
 | 06/09/2021      | Casual Contact       | Raymond Terrace | Woolworths Raymond TerraceMarketPlace Raymond Terrace, Corner Port Stephens and Bourke Streets | 10:05am to 10:30am on Thursday 2 September 2021              |
+| 15/09/2021      | Casual Contact       | Rutherford      | PETQuarters Rutherford58 Shipley Drive | 10:40am to 10:50am on Saturday 11 September 2021             |
 | 13/09/2021      | Casual Contact       | Salamander      | Coles SalamanderSalamander Bay Square, Bagnall Beach Road | 7:25pm to 7:35pm on Sunday 5 September 2021                  |
 | 06/09/2021      | Casual Contact       | Salt Ash        | Saxby’s Bakery CafeNelson Bay Road and Richardson Road | 9:10am to 9:25am on Wednesday 1 September 2021               |
 | 14/09/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 4pm to 5:45pm on Monday 6 September 20215:45pm to 6pm on Sunday 5 September 20212pm to 4:30pm on Wednesday 1 September 2021 |
@@ -228,6 +229,7 @@
 | 13/09/2021      | Casual Contact       | Toronto         | Aldi Toronto189-197 Brighton Avenue | 9:20am to 9:30am on Thursday 9 September 2021                |
 | 13/09/2021      | Casual Contact       | Toronto         | Coles TorontoToronto Town Square, 63 The Boulevarde | 9:35am to 10:05am on Thursday 9 September 20211:15pm to 1:35pm on Tuesday 7 September 2021 |
 | 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7, 47 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
+| 15/09/2021      | Casual Contact       | Toronto         | The Reject Shop TorontoShop 17, Toronto Town Square, 63 The Boulevarde | 11:25am to 11:30am on Thursday 9 September 202110:50am to 11:10am on Wednesday 8 September 2021 |
 | 14/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 2021               |
 | 14/09/2021      | Casual Contact       | Toukley         | Cincotta Discount Chemist Toukley213-217 Main Road | 8:40am to 3:15pm on Wednesday 8 September 20218:45am to 3:15pm on Tuesday 7 September 2021 |
 | 14/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 5:10pm to 5:35pm on Wednesday 8 September 20218pm to 8:35pm on Monday 6 September 2021 |
