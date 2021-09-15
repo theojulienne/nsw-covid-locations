@@ -20,6 +20,7 @@
 | 10/09/2021      | Casual Contact       | Bathurst        | Woolworths BathurstArmada Bathurst Shopping Centre, 121 Howick Street | 2:40pm to 3:40pm on Tuesday 7 September 20211:05pm to 1:20pm on Saturday 28 August 2021 |
 | 04/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiCorner of Bellambi Lane and Watts Lane | 1:10pm to 1:30pm on Thursday 2 September 2021                |
 | 05/09/2021      | Casual Contact       | Beresfield      | BP BeresfieldLot 201 John Renshaw Drive | 1:20pm to 1:30pm on Friday 3 September 2021                  |
+| 15/09/2021      | Casual Contact       | Beresfield      | Woolworths BeresfieldNewton Street and Lawson Avenue | 5:45pm to 6:20pm on Friday 10 September 20219am to 9:15am on Wednesday 8 September 2021 |
 | 11/09/2021      | Casual Contact       | Berkeley Vale   | Shell Berkeley Vale1a Tumbi Creek Road | 9:05am to 9:15am on Thursday 2 September 2021                |
 | 12/09/2021      | Casual Contact       | Boolaroo        | Costco Boolaroo1 Cressy Road | 10:20am to 10:35am on Tuesday 7 September 2021               |
 | 08/09/2021      | Casual Contact       | Bourke          | Bourke Home Hardware36-38 Oxley Street | 10:20am to 2:41pm on Thursday 2 September 2021               |
@@ -141,7 +142,6 @@
 | 05/09/2021      | Close Contact        | Hamlyn Terrace  | Wyong Hospital Emergency Department waiting room2263 Pacific Highway | 8:45pm to 11:59pm on Thursday 2 September 2021               |
 | 07/09/2021      | Casual Contact       | Harden          | IGA Harden45 Neill Street | 4:50pm to 5:15pm on Friday 3 September 2021                  |
 | 14/09/2021      | Casual Contact       | Heatherbrae     | 7-Eleven Heatherbrae369 Pacific Highway | 10pm to 10:05pm on Wednesday 8 September 2021                |
-| 14/09/2021      | Casual Contact       | Jesmond         | Hot Bargain Jesmond28 Blue Gum Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
 | 14/09/2021      | Casual Contact       | Kanwal          | Amcal+ Pharmacy KanwalKanwal Village, 1/258 Wallarah Road | 6:05pm to 6:30pm on Friday 10 September 20215:25pm to 5:35pm on Friday 10 September 20212:35pm to 2:50pm on Thursday 9 September 2021 |
 | 12/09/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane Kelso | 9:45am to 10:15am on Friday 10 September 20211:55pm to 2:05pm on Wednesday 8 September 2021 |
 | 14/09/2021      | Casual Contact       | Kiama           | Blooms the Chemist Kiama118 Terralong Street | 9am to 9:10am on Sunday 12 September 2021                    |

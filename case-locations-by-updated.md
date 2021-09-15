@@ -27,6 +27,7 @@
 | 15/09/2021      | Casual Contact       | Bowral          | Priceline Pharmacy Bowral10-15 310-312 Bong Bong Street  | 10am to 10:03am on Monday 13 September 2021                  |
 | 15/09/2021      | Casual Contact       | Bowral          | Liquorland Bowral33 Bendooley Street  | 10am to 10:06am on Monday 13 September 2021                  |
 | 15/09/2021      | Casual Contact       | Bowral          | Home No.9 Thai Cuisine by Bangkok House Bowral328-332 Bong Bong Street  | 7:30pm to 7:40pm on Thursday 9 September 2021                |
+| 15/09/2021      | Casual Contact       | Beresfield      | Woolworths BeresfieldNewton Street and Lawson Avenue | 5:45pm to 6:20pm on Friday 10 September 20219am to 9:15am on Wednesday 8 September 2021 |
 | 15/09/2021      | Casual Contact       | Barrack Heights | Ampol Foodary Barrack Heights332-336 Shellharbour Road  | 7pm to 7:05pm on Tuesday 7 September 2021                    |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street  | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 14/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner of Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 2021 |
@@ -65,7 +66,6 @@
 | 14/09/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village, 43 Avoca Drive | 11:40am to 12:15pm on Thursday 9 September 2021              |
 | 14/09/2021      | Casual Contact       | Kiama           | Blooms the Chemist Kiama118 Terralong Street | 9am to 9:10am on Sunday 12 September 2021                    |
 | 14/09/2021      | Casual Contact       | Kanwal          | Amcal+ Pharmacy KanwalKanwal Village, 1/258 Wallarah Road | 6:05pm to 6:30pm on Friday 10 September 20215:25pm to 5:35pm on Friday 10 September 20212:35pm to 2:50pm on Thursday 9 September 2021 |
-| 14/09/2021      | Casual Contact       | Jesmond         | Hot Bargain Jesmond28 Blue Gum Road | 10:45am to 10:55am on Tuesday 7 September 2021               |
 | 14/09/2021      | Casual Contact       | Heatherbrae     | 7-Eleven Heatherbrae369 Pacific Highway | 10pm to 10:05pm on Wednesday 8 September 2021                |
 | 14/09/2021      | Casual Contact       | Hamilton South  | Diggers Bottle Shop18 Hassall Street | 1:40pm to 1:45pm on Friday 10 September 2021                 |
 | 14/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 11:20am to 11:50am on Thursday 9 September 2021              |
