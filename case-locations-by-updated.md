@@ -4,6 +4,7 @@
 | 17/09/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Family Practice4 Jacaranda Avenue | 3:25pm to 4pm on Sunday 12 September 2021                    |
 | 17/09/2021      | Casual Contact       | Newcastle       | Subway Newcastle105 Hunter Street | 3:05pm to 3:15pm on Thursday 9 September 2021                |
 | 17/09/2021      | Casual Contact       | Mayfield        | Priceline Pharmacy Mayfield230 Maitland Road | 5:10pm to 5:30pm on Saturday 4 September 2021                |
+| 17/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 7:20am to 7:30am on Wednesday 8 September 20214:30pm to 4:45pm on Tuesday 7 September 202111:55am to 12:40pm on Saturday 4 September 2021 |
 | 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 7:45am to 10:45am on Friday 10 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
@@ -284,7 +285,6 @@
 | 09/09/2021      | Casual Contact       | Pambula         | Auto One Pambula9 Toallo Street | 3:30pm to 4:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
 | 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
-| 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 7:20am to 7:30am on Wednesday 8 September 20214:30pm to 4:45pm on Tuesday 7 September 202111:55am to 12:40pm on Saturday 4 September 2021 |
 | 09/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259/277 Lang Street | 6pm to 6:30pm on Monday 6 September 2021                     |
 | 09/09/2021      | Casual Contact       | East Maitland   | Woolworths East MaitlandStockland Green Hills, 1 Molly Morgan Drive | 10:30am to 10:45am on Friday 3 September 202111:40am to 12pm (noon) on Sunday 29 August 2021 |
 | 09/09/2021      | Casual Contact       | Dubbo           | Hing Wah Restaurant143 Talbragar Street | 8:05pm to 8:10pm on Sunday 5 September 2021                  |
