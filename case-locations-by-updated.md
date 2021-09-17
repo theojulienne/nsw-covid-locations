@@ -9,10 +9,16 @@
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
 | 17/09/2021      | Casual Contact       | Kogarah         | Benny and the Pets41 President Avenue | 12pm to 1pm on Wednesday 8 September 2021                    |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles Express Halfway CreekLemon Tree Road | 3pm to 4pm on Thursday 9 December 2021                       |
-| 17/09/2021      | Casual Contact       | Glendale        | Coles GlendaleStockland Glendale, Lake Road and Stockland Drive | 4:20pm to 4:25pm on Sunday 12 September 20215:30pm to 5:45pm on Wednesday 8 September 20213:30pm to 3:50pm on Wednesday 8 September 20214:10pm to 4:40pm on Saturday 4 September 2021 |
+| 17/09/2021      | Casual Contact       | Glendale        | Coles GlendaleStockland Glendale, Lake Road and Stockland Drive | 4:10pm to 4:40pm on Saturday 4 September 2021                |
+| 17/09/2021      | Casual Contact       | Glendale        | Coles GlendaleStockland Glendale, Lake Road and Stockland Drive | 3:30pm to 3:50pm on Wednesday 8 September 2021               |
+| 17/09/2021      | Casual Contact       | Glendale        | Coles GlendaleStockland Glendale, Lake Road and Stockland Drive | 4:20pm to 4:25pm on Sunday 12 September 20215:30pm to 5:45pm on Wednesday 8 September 2021 |
 | 17/09/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowElliotts Road | 3:30pm to 4:00pm on Saturday 9 October 2021                  |
-| 17/09/2021      | Casual Contact       | Edgeworth       | Coles EdgeworthMain Road and Callan Street | 9am to 9:05am on Wednesday 15 September 20216:25pm to 6:40pm on Tuesday 14 September 202110:40am to 10:55am on Tuesday 14 September 2021 |
+| 17/09/2021      | Casual Contact       | Edgeworth       | Coles EdgeworthMain Road and Callan Street | 10:40am to 10:55am on Tuesday 14 September 2021              |
+| 17/09/2021      | Casual Contact       | Edgeworth       | Coles EdgeworthMain Road and Callan Street | 6:25pm to 6:40pm on Tuesday 14 September 2021                |
+| 17/09/2021      | Casual Contact       | Edgeworth       | Coles EdgeworthMain Road and Callan Street | 9am to 9:05am on Wednesday 15 September 2021                 |
 | 17/09/2021      | Casual Contact       | Dapto           | Dapto Convenience309 Princes Highway | 12:05pm to 12:20pm on Friday 3 September 2021                |
+| 17/09/2021      | Casual Contact       | Cessnock        | Petstock13-15 Cessnock Street | 8:45am to 9am on Saturday 11 September 2021                  |
+| 17/09/2021      | Casual Contact       | Cessnock        | Petstock13-15 Cessnock Street | 10:15am to 10:20am on Sunday 12 September 2021               |
 | 17/09/2021      | Casual Contact       | Cameron Park    | Choice Pharmacy Cameron ParkShop T02A Cameron Park Plaza, 309 George Booth Drive | 2:45pm to 2:55pm on Friday 10 September 2021                 |
 | 17/09/2021      | Close Contact        | Batemans Bay    | Commonwealth Bank Batemans Bay19 Orient Street | 2pm to 2:45pm on Friday 10 September 2021                    |
 | 17/09/2021      | Casual Contact       | Batemans Bay    | Centrelink (Services Australia) Batemans Bay3 Flora Cresent | 12pm to 1pm on Thursday 9 September 2021                     |
