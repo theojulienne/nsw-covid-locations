@@ -3,13 +3,16 @@
 | 17/09/2021      | Close Contact        | Yass            | Australia Post Yass95-101 Comur Street | 11:15am to 11:45am on Monday 6 September 2021                |
 | 17/09/2021      | Casual Contact       | Newcastle       | Subway Newcastle105 Hunter Street | 3:05pm to 3:15pm on Thursday 9 September 2021                |
 | 17/09/2021      | Casual Contact       | Mayfield        | Priceline Pharmacy Mayfield230 Maitland Road | 5:10pm to 5:30pm on Saturday 4 September 2021                |
-| 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare47 Conway Street | 7:45am to 9:45am on Friday 10 September 2021                 |
+| 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 7:45am to 10:45am on Friday 10 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
-| 17/09/2021      | Casual Contact       | Kogarah         | Benny and the Pets41 President Avenue | 12pm to 1pm on Wednesday 8 September 2021                    |
+| 17/09/2021      | Casual Contact       | Kiama           | Manning Street Deli Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
+| 17/09/2021      | Casual Contact       | Jesmond         | Priceline Pharmacy COVID-19 Vaccination Centre JesmondShop 20A, 28 Blue Gum Road | 8:45am to 9:30am on Saturday 11 September 2021               |
+| 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles ExpressLemon Tree Road  | 4pm to 5pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles Express Halfway CreekLemon Tree Road | 3pm to 4pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Glendale        | Coles GlendaleStockland Glendale, Lake Road and Stockland Drive | 4:20pm to 4:25pm on Sunday 12 September 20215:30pm to 5:45pm on Wednesday 8 September 20213:30pm to 3:50pm on Wednesday 8 September 20214:10pm to 4:40pm on Saturday 4 September 2021 |
-| 17/09/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowElliotts Road | 3:30pm to 4:00pm on Friday 10 September 2021                 |
+| 17/09/2021      | Casual Contact       | Glendale        | Bunnings GlendaleT C Firth Avenue | 2:30pm to 2:45pm on Tuesday 7 September 2021                 |
+| 17/09/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowElliotts Road | 4:30pm to 5pm on Friday 10 September 20213:30pm to 4:00pm on Friday 10 September 2021 |
 | 17/09/2021      | Casual Contact       | Edgeworth       | Coles EdgeworthMain Road and Callan Street | 9am to 9:05am on Wednesday 15 September 20216:25pm to 6:40pm on Tuesday 14 September 202110:40am to 10:55am on Tuesday 14 September 2021 |
 | 17/09/2021      | Casual Contact       | Dapto           | Dapto Convenience309 Princes Highway | 12:05pm to 12:20pm on Friday 3 September 2021                |
 | 17/09/2021      | Casual Contact       | Cessnock        | Petstock13-15 Cessnock Street | 10:15am to 10:20am on Sunday 12 September 20218:45am to 9am on Saturday 11 September 2021 |
@@ -56,7 +59,6 @@
 | 16/09/2021      | Casual Contact       | Maitland        | Bunnings MaitlandCorner of Bungaree Street and New England Highway | 2:55pm to 3:10pm on Thursday 9 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Silly Sollys185 Keen Street | 8:55am to 9:00am on Tuesday 14 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Lifeline Shop71 Magellan Street | 9:05am to 9:20am on Tuesday 14 September 2021                |
-| 16/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 8:45am to 10:45am on Friday 10 September 2021                |
 | 16/09/2021      | Casual Contact       | Kotara          | Bunnings Kotara30 Northcott Drive | 3:50pm to 4:15pm on Friday 10 September 2021                 |
 | 16/09/2021      | Casual Contact       | Killarney Vale  | The Entrance Dsitrict After Hours Pharmacy112 Wyong Road | 6:40pm to 6:55pm on Tuesday 14 September 2021                |
 | 16/09/2021      | Casual Contact       | Islington       | Pumped Up Kicks (inside the Neighbourhood Barber)13 Beaumont Street | 11:55am to 12:20pm on Wednesday 8 September 2021             |
