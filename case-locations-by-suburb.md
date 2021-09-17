@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 17/09/2021      | Casual Contact       | Albury          | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
+| 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 202111:20am to 2:30pm on Monday 13 September 2021 |
 | 13/09/2021      | Casual Contact       | Anna Bay        | IGA X-press Anna Bay118 Gan Gan Road | 11:35am to 11:45am on Tuesday 7 September 2021               |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street  | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 07/09/2021      | Casual Contact       | Balranald       | Foodworks Balranald121 Market Street | 9:55am to 10:30am on Saturday 4 September 2021               |
@@ -10,8 +12,11 @@
 | 14/09/2021      | Casual Contact       | Bateau Bay      | Coles Bateau BayThe Entrance Road | 9:10am to 9:40am on Saturday 11 September 20213:30pm to 4:10pm on Friday 3 September 2021 |
 | 14/09/2021      | Casual Contact       | Bateau Bay      | IGA Bateau BayCresthaven Shopping Centre, Cresthaven Avenue | 12:55pm to 1:15pm on Sunday 5 September 2021                 |
 | 14/09/2021      | Casual Contact       | Bateau Bay      | The Bottle-O Bateau Bay HotelThe Entrance Road and Lumby Drive | 9:35pm to 9:50pm on Thursday 9 September 2021                |
+| 17/09/2021      | Close Contact        | Batehaven       | Australia Post Batehaven248 Beach Road | 3:30pm to 4pm on Friday 10 September 2021                    |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Australia Post Batemans Bay7 Orient Street | 9am to 9:10am on Saturday 4 September 2021                   |
+| 17/09/2021      | Casual Contact       | Batemans Bay    | Centrelink (Services Australia) Batemans Bay3 Flora Cresent | 12pm to 1pm on Thursday 9 September 2021                     |
 | 16/09/2021      | Casual Contact       | Batemans Bay    | Coles Batemans BayVesper Street and Click and Collect Bays, Princes Highway | 6:15pm to 7:15pm on Sunday 12 September 20215pm to 6pm on Sunday 12 September 2021 |
+| 17/09/2021      | Close Contact        | Batemans Bay    | Commonwealth Bank Batemans Bay19 Orient Street | 2pm to 2:45pm on Friday 10 September 2021                    |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Dan Murphy's Batemans Bay51/53A Orient Street | 9am to 10am on Saturday 4 September 2021                     |
 | 16/09/2021      | Casual Contact       | Batemans Bay    | The Reject Shop Batemans BayShop 20, Bridge Plaze, 7-13 Clyde Street | 3:45pm to 4:15pm on Sunday 12 September 2021                 |
 | 09/09/2021      | Casual Contact       | Batemans Bay    | Woolworths Batemans BayBridge Plaza, 9-13 Clyde Street | 11:45am to 12:30pm on Wednesday 15 September 20213:15pm to 4pm on Tuesday 14 September 20214pm to 4:30pm on Monday 13 September 202111:45am to 12:30pm on Monday 13 September 20214:30pm to 5:15pm on Sunday 12 September 20218am to 9:30am on Saturday 4 September 20218am to 9am on Friday 3 September 2021 |
@@ -183,6 +188,9 @@
 | 13/09/2021      | Casual Contact       | Lake Munmorah   | Nargis Gourmet Food Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:30pm to 2:50pm on Tuesday 7 September 20212pm to 3pm on Wednesday 1 September 2021 |
 | 12/09/2021      | Casual Contact       | Lake Munmorah   | Phone Culture Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2pm to 3pm on Wednesday 1 September 2021                     |
 | 13/09/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake Munmorah1 Tall Timbers Road | 12:45pm to 1pm on Friday 3 September 202112:45pm to 1pm on Friday 3 September 2021 |
+| 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
+| 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing Albury463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
+| 17/09/2021      | Casual Contact       | Lavington       | Reece PlumbingDallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 8:45am to 10:45am on Friday 10 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Lifeline Shop71 Magellan Street | 9:05am to 9:20am on Tuesday 14 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Silly Sollys185 Keen Street | 8:55am to 9:00am on Tuesday 14 September 2021                |
@@ -308,8 +316,8 @@
 | 14/09/2021      | Casual Contact       | Valla           | BP Valla2 Corkwood Road   | 6:15pm to 6:45pm on Tuesday 7 September 2021                 |
 | 11/09/2021      | Casual Contact       | Vincentia       | Cignall Vincentia167 The Wool Road | 2:45am to 3:45am on Saturday 4 September 2021                |
 | 08/09/2021      | Casual Contact       | Wadalba         | Woolworths Wadalba1 Figtree Boulevarde | 10:25am to 11:10am on Wednesday 1 September 2021             |
-| 15/09/2021      | Casual Contact       | Wagga Wagga     | Caltex Northend Wagga Wagga170 Fitzmaurice Street  | 5:15pm to 5:56pm on Tuesday 31 August 2021                   |
-| 16/09/2021      | Casual Contact       | Wagga Wagga     | Mantra Pavillion Hotel Wagga Wagga22-30 Kincaid Street | All day on Friday 3 September 2021All day on Thursday 2 September 2021 |
+| 15/09/2021      | Casual Contact       | Wagga Wagga     | Caltex Northend Wagga Wagga170 Fitzmaurice Street  | 5:15pm to 6pm on Tuesday 31 August 2021                      |
+| 16/09/2021      | Casual Contact       | Wagga Wagga     | Mantra Pavillion Hotel Wagga Wagga22-30 Kincaid Street | All day on Friday 3 September 2021All day on Thursday 2 September 2021All day on Wednesday 1 September 2021All day on Tuesday 31 August 2021All day on Monday 30 August 2021 |
 | 15/09/2021      | Casual Contact       | Wagga Wagga     | Northside Pharmacy Wagga Wagga12 Gurwood Street  | 9:15am to 9:45am on Monday 30 August 2021                    |
 | 15/09/2021      | Casual Contact       | Wagga Wagga     | O'Brien's Wagga Hot Bake Bakery89A Morgan Street  | 6:50am to 7am on Friday 3 September 2021                     |
 | 15/09/2021      | Casual Contact       | Wagga Wagga     | Woolworths Wagga Wagga30 Gurwood Street  | 9:15am to 10am on Monday 30 August 2021                      |
@@ -357,6 +365,7 @@
 | 13/09/2021      | Casual Contact       | Wyong           | Lou's Eatery Wyong13/34-38 Cutler Drive | 6:10pm to 6:55pm on Tuesday 7 September 2021                 |
 | 10/09/2021      | Casual Contact       | Wyong           | Subway Wyong250/300 Pacific Highway | 4pm to 4:20pm on Saturday 4 September 2021                   |
 | 14/09/2021      | Casual Contact       | Yass            | Aldi Yass193 Comur Street | 6am to 9am on Saturday 11 September 20217am to 10am on Friday 10 September 20217am to 2:30pm on Thursday 9 September 2021 |
+| 17/09/2021      | Close Contact        | Yass            | Australia Post Yass95-101 Comur Street | 11:15am to 11:45am on Monday 6 September 2021                |
 | 16/09/2021      | Casual Contact       | Yass            | BWS YassCorner of Comur and Polding Street | 3:45pm to 4:15pm on Monday 6 September 202112pm to 12:10pm on Monday 6 September 2021 |
 | 14/09/2021      | Casual Contact       | Yass            | Caltex Yass1715 Yass Valley Way | 8:30am to 8:35am on Friday 10 September 2021                 |
 | 14/09/2021      | Casual Contact       | Yass            | Domino's Pizza Yass63 Laidlaw Street | 1:10pm to 1:20pm on Saturday 11 September 2021               |
