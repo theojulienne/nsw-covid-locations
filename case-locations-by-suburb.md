@@ -159,14 +159,14 @@
 | 10/09/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 5:30pm to 6:15pm on Saturday 11 September 202112:30pm to 1:15pm on Saturday 11 September 20215:05pm to 5:25pm on Thursday 9 September 2021 |
 | 09/09/2021      | Casual Contact       | Mayfield        | Coles Mayfield77 Maitland Road | 7:20am to 7:30am on Wednesday 8 September 20214:30pm to 4:45pm on Tuesday 7 September 202111:55am to 12:40pm on Saturday 4 September 2021 |
 | 17/09/2021      | Casual Contact       | Mayfield        | Priceline Pharmacy Mayfield230 Maitland Road | 5:10pm to 5:30pm on Saturday 4 September 2021                |
-| 16/09/2021      | Casual Contact       | Mayfield        | Woolworths MayfieldCorner of Maitland Road and Valencia Street | 6:05pm to 6:20pm on Saturday 11 September 20216:55pm to 7:05pm on Thursday 9 September 20217:55pm to 8:15pm on Wednesday 8 September 20212:45pm to 3:05pm on Wednesday 8 September 2021 |
+| 16/09/2021      | Casual Contact       | Mayfield        | Woolworths MayfieldCorner of Maitland Road and Valencia Street | 8:05pm to 8:45pm on Sunday 12 September 20218:10pm to 8:40pm on Saturday 11 September 20216:05pm to 6:20pm on Saturday 11 September 20216:55pm to 7:05pm on Thursday 9 September 20217:55pm to 8:15pm on Wednesday 8 September 20212:45pm to 3:05pm on Wednesday 8 September 2021 |
 | 14/09/2021      | Casual Contact       | Merewether      | Shell Coles Express Merewether87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
 | 11/09/2021      | Casual Contact       | Merimbula       | Caltex Merimbula19/25 Merimbula Drive | 9am to 9:25am on Tuesday 7 September 202111:50am to 12:05pm on Friday 3 September 2021 |
 | 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
 | 13/09/2021      | Casual Contact       | Merimbula       | Woolworths Merimbula111 Main Street | 3:30pm to 4:40pm on Saturday 4 September 2021                |
 | 15/09/2021      | Casual Contact       | Mittagong       | Bunnings MittagongTyree Place  | 2:20pm to 2:40pm on Thursday 9 September 2021                |
-| 18/09/2021      | Casual Contact       | Moonbi          | Caltex Moonbi16 Gill Street  |  11:45am to 12:30pm on Wednesday 15 September 2021 8:00am to 9:00am on Wednesday 15 September 2021 5:45am to 6:45am on Monday 13 September 2021 |
-| 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 11am to 4pm on Sunday 5 September 20213:30pm to 7:30pm on Friday 3 September 2021 |
+| 18/09/2021      | Casual Contact       | Moonbi          | Caltex Moonbi16 Gill Street  |  8:00am to 9:00am on Wednesday 15 September 2021 11:45am to 12:30pm on Wednesday 15 September 2021 5:45am to 6:45am on Monday 13 September 2021 |
+| 09/09/2021      | Casual Contact       | Morisset        | Cold Rock Mobile VanParked across from McDonalds along Dora Street | 3:30pm to 7:30pm on Friday 3 September 2021                  |
 | 15/09/2021      | Casual Contact       | Mudgee          | Mudgee Corner Store72 Lewis Street  | 10am to 10:20am on Wednesday 8 September 2021                |
 | 07/09/2021      | Casual Contact       | Murrumburrah    | South West Fuel and Cafe294 Albury Street | 6:10am to 6:40am on Saturday 4 September 2021                |
 | 12/09/2021      | Casual Contact       | Narrabri        | BP Service Station Narrabri65 Cooma Road | 8pm to 8:05pm on Tuesday 7 September 2021                    |
@@ -196,6 +196,7 @@
 | 12/09/2021      | Casual Contact       | Shelly Beach    | Munchas Cafe and CateringShelly Beach Road | 10am to 11am on Saturday 4 September 2021                    |
 | 12/09/2021      | Casual Contact       | Singleton       | Coles SingletonGowrie Street Mall, 1 Gowrie Street | 6:10am to 6:35am on Saturday 4 September 2021                |
 | 10/09/2021      | Casual Contact       | South Kempsey   | Puma Kempsey629 Pacific Highway | 5:10pm to 5:45pm on Sunday 5 September 2021                  |
+| 09/09/2021      | Casual Contact       | Speers Point    | Cold Rock Mobile VanSpeers Point Park, Park Road | 11am to 4pm on Sunday 5 September 2021                       |
 | 12/09/2021      | Casual Contact       | Stroud          | Friendly Grocer Stroud50 Cowper Street | 3:15pm to 3:25pm on Sunday 5 September 2021                  |
 | 12/09/2021      | Casual Contact       | Swansea         | Woolworths Swansea126 Pacific Highway | 6:55pm to 7:35pm on Tuesday 7 September 2021                 |
 | 16/09/2021      | Casual Contact       | Tamworth        | Pickles Auctions Tamworth37-39 Armstrong Street | 8:55am to 9am on Wednesday 15 September 2021                 |
@@ -245,7 +246,8 @@
 | 14/09/2021      | Casual Contact       | Valla           | BP Valla2 Corkwood Road   | 6:15pm to 6:45pm on Tuesday 7 September 2021                 |
 | 11/09/2021      | Casual Contact       | Vincentia       | Cignall Vincentia167 The Wool Road | 2:45am to 3:45am on Saturday 4 September 2021                |
 | 16/09/2021      | Casual Contact       | Wagga Wagga     | Mantra Pavillion Hotel Wagga Wagga22-30 Kincaid Street | All day on Friday 3 September 2021All day on Thursday 2 September 2021All day on Wednesday 1 September 2021All day on Tuesday 31 August 2021All day on Monday 30 August 2021 |
-| 12/09/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street | 10:35am to 10:50am on Saturday 11 September 2021 9:35am to 10:10am on Saturday 11 September 20215:10pm to 5:20pm on Friday 10 September 202110:50am to 12:10pm on Wednesday 8 September 20218:30am to 10am on Monday 6 September 202110:30am to 10:50am on Sunday 5 September 2021 |
+| 09/09/2021      | Test (isolate w/ symptoms) | Walgett         | IGA Plus Liquor Walgett36 Fox Street | 8:30am to 10am on Monday 6 September 2021                    |
+| 12/09/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street | 10:35am to 10:50am on Saturday 11 September 2021 9:35am to 10:10am on Saturday 11 September 20215:10pm to 5:20pm on Friday 10 September 202110:50am to 12:10pm on Wednesday 8 September 202110:30am to 10:50am on Sunday 5 September 2021 |
 | 14/09/2021      | Casual Contact       | Walgett         | Inland Petroleum Walgett21 Fox Street | 10am to 10:15am on Saturday 11 September 20216am to 6:20am on Thursday 9 September 20214:50pm to 5:10pm on Wednesday 8 September 20214pm to 4:30pm on Monday 6 September 202111:50am to 12:20pm on Monday 6 September 2021 |
 | 08/09/2021      | Casual Contact       | Walgett         | Walgett Pharmacy48 Fox Street | 1:30pm to 2:30pm on Monday 6 September 2021                  |
 | 12/09/2021      | Casual Contact       | Walgett         | Wongs Fish N Chips40 Fox Street | 5:45pm to 6pm on Wednesday 8 September 202111:45am to 12pm on Wednesday 8 September 2021 |
@@ -253,12 +255,13 @@
 | 12/09/2021      | Casual Contact       | Wallsend        | Australia Post WallsendShop 27/24 Wallsend Village, Cowper Street | 4:40pm to 4:45pm on Tuesday 7 September 2021                 |
 | 14/09/2021      | Casual Contact       | Wallsend        | Bunnings WallsendCorner of Sandgate Road and Minmi Road | 9:05am to 9:30am on Sunday 5 September 2021                  |
 | 18/09/2021      | Casual Contact       | Wamberal        | Wamberal Pharmacy658 The Entrance Road | 3:20pm to 3:35pm on Tuesday 14 September 2021                |
-| 14/09/2021      | Casual Contact       | Wangi Wangi     | IGA Plus Liquor WangiShop 11, 226 Watkins Road |  4:00pm to 4:45pm on Sunday 12 September 20212:05pm to 2:20pm on Sunday 12 September 2021 3:00pm to 3:30pm on Saturday 11 September 20211:30pm to 1:45pm on Friday 10 September 20217:30pm to 7:40pm on Thursday 9 September 20211:40pm to 1:50pm on Wednesday 8 September 20213:37pm to 4:11pm on Monday 6 September 2021 |
+| 14/09/2021      | Casual Contact       | Wangi Wangi     | IGA Plus Liquor WangiShop 11, 226 Watkins Road | 2:05pm to 2:20pm on Sunday 12 September 2021 4:00pm to 4:45pm on Sunday 12 September 2021 3:00pm to 3:30pm on Saturday 11 September 20211:30pm to 1:45pm on Friday 10 September 20217:30pm to 7:40pm on Thursday 9 September 20211:40pm to 1:50pm on Wednesday 8 September 20213:37pm to 4:11pm on Monday 6 September 2021 |
 | 15/09/2021      | Casual Contact       | Wangi Wangi     | Wangi Wangi Bakehouse242 Watkins Road | 11:15am to 12pm on Sunday 5 September 2021                   |
 | 15/09/2021      | Casual Contact       | Waratah         | Coles WaratahTurton Road and Georgetown Road | 4:45pm to 5:15pm on Wednesday 8 September 2021               |
 | 11/09/2021      | Casual Contact       | Warners Bay     | BWS Warners Bay87 King Street | 3:45pm to 4pm on Monday 6 September 2021                     |
 | 14/09/2021      | Casual Contact       | Warners Bay     | Officeworks Warners Bay240-260 Hillsborough Road | 4:30pm to 5pm on Wednesday 8 September 2021                  |
-| 02/09/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Corner of Northcliffe Drive and King Street |  6:00am to 12:00pm on Wednesday 8 September 20218:30pm to 9pm on Wednesday 1 September 2021 |
+| 18/09/2021      | Test (isolate w/ symptoms) | Warrawong       | Coles Warrawong  Cowper Street Wollongong City Council |  6:00am to 12:00pm on Wednesday 8 September 2021             |
+| 02/09/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Corner of Northcliffe Drive and King Street | 8:30pm to 9pm on Wednesday 1 September 2021                  |
 | 16/09/2021      | Casual Contact       | Warrawong       | Warrawong Accident and Medical CentreLevel 2, Shop 134 - 136 Warrawong Plaza | 10:24am to 10:51am on Sunday 5 September 2021                |
 | 13/09/2021      | Casual Contact       | Wellington      | Sang's Hot Bread112 Percy Street | 11:20am to 11:25am on Monday 6 September 2021                |
 | 14/09/2021      | Casual Contact       | Wellington      | Wellington Newspower118 Percy Street | 9:20am to 9:50am on Sunday 12 September 2021                 |
