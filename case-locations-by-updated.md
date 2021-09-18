@@ -21,7 +21,7 @@
 | 17/09/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Family Practice4 Jacaranda Avenue | 3:25pm to 4pm on Sunday 12 September 2021                    |
 | 17/09/2021      | Casual Contact       | Newcastle       | Subway Newcastle105 Hunter Street | 3:05pm to 3:15pm on Thursday 9 September 2021                |
 | 17/09/2021      | Casual Contact       | Mayfield        | Priceline Pharmacy Mayfield230 Maitland Road | 5:10pm to 5:30pm on Saturday 4 September 2021                |
-| 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street |  7:45am to 9:45am on Saturday 9 October 20217:45am to 10:45am on Friday 10 September 2021 |
+| 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 7:45am to 10:45am on Friday 10 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
 | 17/09/2021      | Casual Contact       | Jesmond         | Priceline Pharmacy COVID-19 Vaccination Centre JesmondShop 20A, 28 Blue Gum Road | 8:45am to 9:30am on Saturday 11 September 2021               |
