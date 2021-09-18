@@ -146,7 +146,7 @@
 | 14/09/2021      | Casual Contact       | Kanwal          | Amcal+ Pharmacy KanwalKanwal Village, 1/258 Wallarah Road | 6:05pm to 6:30pm on Friday 10 September 20215:25pm to 5:35pm on Friday 10 September 20212:35pm to 2:50pm on Thursday 9 September 2021 |
 | 12/09/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane Kelso | 9:45am to 10:15am on Friday 10 September 20211:55pm to 2:05pm on Wednesday 8 September 2021 |
 | 14/09/2021      | Casual Contact       | Kiama           | Blooms the Chemist Kiama118 Terralong Street | 9am to 9:10am on Sunday 12 September 2021                    |
-| 17/09/2021      | Casual Contact       | Kiama           | Manning Street Deli Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
+| 18/09/2021      | Casual Contact       | Kiama           | Wild Patch Cafe Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
 | 12/09/2021      | Casual Contact       | Killarney Vale  | 21 Red Espresso130 Wyong Road | 6:30am to 7am on Sunday 5 September 2021                     |
 | 13/09/2021      | Casual Contact       | Killarney Vale  | Central Coast Cycles118 Wyong Road | 10:30am to 11am on Saturday 4 September 2021                 |
 | 13/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 11:55am to 12:10pm on Monday 6 September 202110:25pm to 10:40pm on Sunday 5 September 20212:30pm to 2:45pm on Saturday 4 September 20217:50am to 8:05am on Wednesday 1 September 2021 |

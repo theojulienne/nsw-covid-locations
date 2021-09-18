@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 18/09/2021      | Casual Contact       | Kiama           | Wild Patch Cafe Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
 | 17/09/2021      | Close Contact        | Yass            | Australia Post Yass95-101 Comur Street | 11:15am to 11:45am on Monday 6 September 2021                |
 | 17/09/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Family Practice4 Jacaranda Avenue | 3:25pm to 4pm on Sunday 12 September 2021                    |
 | 17/09/2021      | Casual Contact       | Newcastle       | Subway Newcastle105 Hunter Street | 3:05pm to 3:15pm on Thursday 9 September 2021                |
@@ -8,7 +9,6 @@
 | 17/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 7:45am to 10:45am on Friday 10 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Wednesday 8 September 2021                  |
-| 17/09/2021      | Casual Contact       | Kiama           | Manning Street Deli Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
 | 17/09/2021      | Casual Contact       | Jesmond         | Priceline Pharmacy COVID-19 Vaccination Centre JesmondShop 20A, 28 Blue Gum Road | 8:45am to 9:30am on Saturday 11 September 2021               |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles ExpressLemon Tree Road  | 4pm to 5pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles Express Halfway CreekLemon Tree Road | 3pm to 4pm on Sunday 12 September 2021                       |
