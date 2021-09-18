@@ -10,6 +10,7 @@
 | 18/09/2021      | Casual Contact       | Lake Munmorah   | Matts Diner Takeaway1 Elizabeth Bay Drive | 3:15pm to 3:55pm on Sunday 12 September 2021                 |
 | 18/09/2021      | Casual Contact       | Kiama           | Wild Patch Cafe Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
 | 18/09/2021      | Casual Contact       | Kanwal          | 7- Eleven Kanwal 207 Wallarah Road | 11:50am to 12:20pm on Monday 13 September 2021               |
+| 18/09/2021      | Casual Contact       | Gateshead       | Lake Macquarie Specialist Medical Centre (lift, common public areas of ground floor and entrance & waiting rooms of second floor)6/8 Sydney Street | 8:30am to 9:30am on Wednesday 8 September 2021               |
 | 18/09/2021      | Casual Contact       | Empire Bay      | Empire Bay Cellars3 Sorrento Road | 5:05pm to 5:15pm on Tuesday 14 September 2021                |
 | 18/09/2021      | Casual Contact       | Dubbo           | Petrie's Mitre 1064-70 Macquarie Street |  12:45pm to 01:00pm on Friday 10 September 2021              |
 | 18/09/2021      | Casual Contact       | Dubbo           | Midwest Foods and Liquor Market2 Capital Drive  |  3:00pm to 3:30pm on Friday 10 September 2021                |
