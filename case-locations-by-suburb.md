@@ -114,6 +114,7 @@
 | 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:15pm to 6pm on Tuesday 7 September 2021                    |
 | 14/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
 | 19/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 6:45pm to 7:45pm on Saturday 11 September 202111:20am to 11:50am on Thursday 9 September 2021 |
+| 19/09/2021      | Casual Contact       | Gunnedah        | Shell Gunnedah1 Kamilaroi Highway | 6:25pm to 6:30pm on Thursday 16 September 2021               |
 | 16/09/2021      | Casual Contact       | Halfway Creek   | Halfway Creek Service Station4974 Pacific Highway | 4pm to 5pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles Express Halfway CreekLemon Tree Road | 3pm to 5pm on Sunday 12 September 2021                       |
 | 13/09/2021      | Close Contact        | Hamilton        | Oasis Village Kebab Shop5/55 Beaumont Street | 7:05pm to 7:25pm on Friday 10 September 2021                 |
