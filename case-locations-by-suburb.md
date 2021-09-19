@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 19/09/2021      | Casual Contact       | Adamstown       | PRP Diagnostic Imaging Adamstown156 Brunker Road | 8:20am to 9:30am on Tuesday 14 September 2021                |
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 13/09/2021      | Casual Contact       | Anna Bay        | IGA X-press Anna Bay118 Gan Gan Road | 11:35am to 11:45am on Tuesday 7 September 2021               |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street  | 11:15am to 11:30am on Tuesday 14 September 2021              |
@@ -94,7 +95,7 @@
 | 16/09/2021      | Casual Contact       | Evans Head      | Muzza’s Milk Bar1/5 Oak Street | 1:15pm to 1:45pm on Sunday 12 September 2021                 |
 | 17/09/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowElliotts Road | 4:30pm to 5pm on Friday 10 September 20213:30pm to 4:00pm on Friday 10 September 2021 |
 | 15/09/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway  | 11am to 11:31am on Monday 13 September 20218:57am to 9:25am on Thursday 9 September 2021 |
-| 18/09/2021      | Casual Contact       | Gateshead       | Lake Macquarie Specialist Medical Centre (lift, common public areas of ground floor and entrance & waiting rooms of second floor)6/8 Sydney Street | 8:30am to 9:30am on Wednesday 8 September 2021               |
+| 18/09/2021      | Casual Contact       | Gateshead       | Lake Macquarie Specialist Medical Centre (lift, common public areas of ground floor and entrance and waiting rooms of second floor)6/8 Sydney Street | 8:30am to 9:30am on Wednesday 8 September 2021               |
 | 14/09/2021      | Casual Contact       | Gerringong      | Gerringong Hardware1/45 Rowlins Road | 12:18pm to 12:23pm on Saturday 11 September 2021             |
 | 16/09/2021      | Casual Contact       | Glen Innes      | Kent Engineering and Mechanical Glen Innes87 Grovers Lane | 9am to 9:10am on Tuesday 14 September 2021                   |
 | 16/09/2021      | Casual Contact       | Glen Innes      | National Australia Bank Glen Innes234 Grey Street | 10:25am to 10:35am on Tuesday 14 September 2021              |
@@ -294,7 +295,7 @@
 | 18/09/2021      | Close Contact        | Yass            | Australian Hotel Motel150 Comur Street  |  6:45pm to 9:20pm on Saturday 11 September 2021              |
 | 18/09/2021      | Casual Contact       | Yass            | BWS YassCorner of Comur and Polding Street | 3:45pm to 4:15pm on Monday 6 September 202112pm to 12:10pm on Monday 6 September 2021 |
 | 14/09/2021      | Casual Contact       | Yass            | Caltex Yass1715 Yass Valley Way | 8:30am to 8:35am on Friday 10 September 2021                 |
-| 18/09/2021      | Close Contact        | Yass            | Club House Hotel190 Comur Street |  1:00pm to 3:30pm on Monday 13 September 2021 3:20pm to 6:00pm on Saturday 11 September 2021 |
+| 18/09/2021      | Close Contact        | Yass            | Club House Hotel190 Comur Street |  1pm to 3:30pm on Monday 13 September 2021 3:20pm to 6pm on Saturday 11 September 2021 |
 | 14/09/2021      | Casual Contact       | Yass            | Domino's Pizza Yass63 Laidlaw Street | 1:10pm to 1:20pm on Saturday 11 September 2021               |
 | 07/09/2021      | Casual Contact       | Yass            | IGA Yass63 Laidlaw Street | 10:10am to 10:30am on Tuesday 7 September 20214pm to 4:30pm on Thursday 2 September 2021 |
 | 16/09/2021      | Casual Contact       | Yass            | Millers Pharmacy Yass114 Comur Street | 9:30am to 10am on Monday 13 September 202112:45pm to 1:10pm on Friday 10 September 2021 |
@@ -303,7 +304,7 @@
 | 16/09/2021      | Casual Contact       | Yass            | Return and Earn YassPolding Street | 3:!5pm to 4:15pm on Monday 6 September 2021                  |
 | 18/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner of Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 20213:15pm to 4:15pm on Thursday 9 September 2021 4:45pm to 5:55pm on Thursday 9 September 2021 4:45pm to 5:55pm on Tuesday 7 September 20213:30pm to 4:30pm on Monday 6 September 202111:15am to 12:20pm on Monday 6 September 2021 |
 | 16/09/2021      | Casual Contact       | Yass            | Yass Newsagency110 Comur Street | 11:40am to 11:50am on Monday 6 September 2021                |
-| 19/09/2021      | Close Contact        | Yass            | Yass Soldiers Club86 Meehan Street |  5:00pm to 7:30pm on Monday 13 September 2021 2:00pm to 4:20pm on Saturday 11 September 2021 |
+| 19/09/2021      | Close Contact        | Yass            | Yass Soldiers Club86 Meehan Street |  5pm to 7:30pm on Monday 13 September 2021 2pm to 4:20pm on Saturday 11 September 2021 |
 | 18/09/2021      | Casual Contact       | Yass            | Yass Valley Dental - Yass practice 77 Lead Street  |  10:30am to 11:40am on Wednesday 8 September 2021            |
 | 16/09/2021      | Casual Contact       | Young           | Cherry Blossom Motor Inn Young19 Zouch Street  | All day on Tuesday 7 September 2021All day on Monday 6 September 2021All day on Sunday 5 September 2021All day on Saturday 4 September 2021All day on Friday 3 September 2021 |
 | 18/09/2021      | Casual Contact       | Young           | KFC Young24 Zouch Street  |  12:00pm to 03:00pm on Saturday 11 September 2021 4:00pm to 7:30pm on Friday 10 September 2021 |
