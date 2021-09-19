@@ -3,6 +3,7 @@
 | 19/09/2021      | Casual Contact       | Adamstown       | PRP Diagnostic Imaging Adamstown156 Brunker Road | 8:20am to 9:30am on Tuesday 14 September 2021                |
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 13/09/2021      | Casual Contact       | Anna Bay        | IGA X-press Anna Bay118 Gan Gan Road | 11:35am to 11:45am on Tuesday 7 September 2021               |
+| 19/09/2021      | Casual Contact       | Balranald       | Balranald Bakery 113 Market Street  |  11:30am to 12:00pm on Tuesday 14 September 2021             |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street  | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 07/09/2021      | Casual Contact       | Balranald       | Foodworks Balranald121 Market Street | 9:55am to 10:30am on Saturday 4 September 2021               |
 | 15/09/2021      | Casual Contact       | Barrack Heights | Ampol Foodary Barrack Heights332-336 Shellharbour Road  | 7pm to 7:05pm on Tuesday 7 September 2021                    |
@@ -29,7 +30,7 @@
 | 15/09/2021      | Casual Contact       | Bowral          | Home No.9 Thai Cuisine by Bangkok House Bowral328-332 Bong Bong Street  | 7:30pm to 7:40pm on Thursday 9 September 2021                |
 | 15/09/2021      | Casual Contact       | Bowral          | Liquorland Bowral33 Bendooley Street  | 10am to 10:06am on Monday 13 September 2021                  |
 | 15/09/2021      | Casual Contact       | Bowral          | Priceline Pharmacy Bowral10-15 310-312 Bong Bong Street  | 10am to 10:03am on Monday 13 September 2021                  |
-| 13/09/2021      | Casual Contact       | Broken Hill     | Adkin's True Value Hardware76 Oxide Street | 12:50pm to 1pm CST on Wednesday 8 September 2021             |
+| 19/09/2021      | Casual Contact       | Broken Hill     | Adkin's True Value Hardware76 Oxide Street | 2:50pm to 5:05pm CST on Tuesday 14 September 202112:50pm to 1pm CST on Wednesday 8 September 2021 |
 | 14/09/2021      | Casual Contact       | Broken Hill     | Australia Post Broken Hill260 Argent Street | 6:10pm to 6:30pm CST on Friday 10 September 20214pm to 4:20pm CST on Friday 10 September 2021 |
 | 13/09/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 9:30am to 10:15am CST on Wednesday 8 September 2021          |
 | 13/09/2021      | Casual Contact       | Broken Hill     | Caltex Broken Hill73-87 Oxide Street | 9:15am to 9:25am CST on Sunday 5 September 2021 8:45am to 8:55am CST on Sunday 5 September 20219am to 9:15am CST on Thursday 2 September 2021 |
@@ -80,6 +81,7 @@
 | 18/09/2021      | Casual Contact       | Empire Bay      | Empire Bay Cellars3 Sorrento Road | 5:05pm to 5:15pm on Tuesday 14 September 2021                |
 | 16/09/2021      | Casual Contact       | Erina           | 7-Eleven Erina214 The Entrance Road | 8:50pm to 9:05pm on Friday 10 September 2021                 |
 | 14/09/2021      | Casual Contact       | Erina           | Blooms The Chemist ErinaErina Fair, Terrigal Drive | 8:40am to 9am on Thursday 9 September 2021                   |
+| 19/09/2021      | Casual Contact       | Erina           | Cheeky Charlie's Cafe148 The Entrance Road | 8:05am to 8:15am on Tuesday 14 September 2021                |
 | 14/09/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, Terrigal Drive | 4:35pm to 5pm on Wednesday 8 September 20215:45pm to 6:15pm on Sunday 5 September 2021 |
 | 14/09/2021      | Casual Contact       | Erina           | Harris Farm Markets ErinaErina Fair, Terrigal Drive | 4:30pm to 4:50pm on Wednesday 8 September 20215:40pm to 5:55pm on Sunday 5 September 2021 |
 | 16/09/2021      | Casual Contact       | Erina           | Vizion Accounting ErinaUnit 17b/8 Karalta Road | 9am to 4:30pm on Friday 10 September 2021                    |
@@ -109,7 +111,7 @@
 | 07/09/2021      | Casual Contact       | Goulburn        | Smokemart & GiftBox & Vape Square Goulburn207 Auburn Street | 10:10am to 10:20am on Sunday 5 September 2021                |
 | 14/09/2021      | Casual Contact       | Goulburn        | The Masala Mill318 Auburn Street | 5:15pm to 6pm on Tuesday 7 September 2021                    |
 | 14/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
-| 14/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 7pm to 7:40pm on Saturday 11 September 202111:20am to 11:50am on Thursday 9 September 2021 |
+| 19/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 6:45pm to 7:45pm on Saturday 11 September 202111:20am to 11:50am on Thursday 9 September 2021 |
 | 16/09/2021      | Casual Contact       | Halfway Creek   | Halfway Creek Service Station4974 Pacific Highway | 4pm to 5pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles Express Halfway CreekLemon Tree Road | 3pm to 4pm on Sunday 12 September 2021                       |
 | 17/09/2021      | Casual Contact       | Halfway Creek   | Shell Coles ExpressLemon Tree Road  | 4pm to 5pm on Sunday 12 September 2021                       |
@@ -124,7 +126,7 @@
 | 14/09/2021      | Casual Contact       | Kiama           | Blooms the Chemist Kiama118 Terralong Street | 9am to 9:10am on Sunday 12 September 2021                    |
 | 18/09/2021      | Casual Contact       | Kiama           | Wild Patch Cafe Kiama 14 Manning Street  |  8:50am to 9am on Sunday 12 September 2021 7:25am to 7:35am on Saturday 11 September 2021 |
 | 12/09/2021      | Casual Contact       | Killarney Vale  | 21 Red Espresso130 Wyong Road | 6:30am to 7am on Sunday 5 September 2021                     |
-| 13/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 7:40pm to 8:20pm on Saturday 11 September 202111:55am to 12:10pm on Monday 6 September 202110:25pm to 10:40pm on Sunday 5 September 20212:30pm to 2:45pm on Saturday 4 September 20217:50am to 8:05am on Wednesday 1 September 2021 |
+| 19/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 7:40pm to 8:20pm on Saturday 11 September 202111:55am to 12:10pm on Monday 6 September 202110:25pm to 10:40pm on Sunday 5 September 20212:30pm to 2:45pm on Saturday 4 September 20217:50am to 8:05am on Wednesday 1 September 2021 |
 | 16/09/2021      | Casual Contact       | Killarney Vale  | The Entrance Dsitrict After Hours Pharmacy112 Wyong Road | 6:40pm to 6:55pm on Tuesday 14 September 2021                |
 | 14/09/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village, 43 Avoca Drive | 11:40am to 12:15pm on Thursday 9 September 2021              |
 | 16/09/2021      | Casual Contact       | Kotara          | Bunnings Kotara30 Northcott Drive | 3:50pm to 4:15pm on Friday 10 September 2021                 |
@@ -191,6 +193,7 @@
 | 16/09/2021      | Casual Contact       | Terrigal        | Chop N Grind3/98 Terrigal Esplanade | 12pm to 12:30pm on Sunday 12 September 2021                  |
 | 16/09/2021      | Casual Contact       | Terrigal        | Sweet Surprises TerrigalShop 2/74 Terrigal Esplanade | 5:20pm to 5:50pm on Sunday 12 September 2021                 |
 | 11/09/2021      | Casual Contact       | The Entrance    | Chi Cong Bakery221 The Entrance Road | 8:30am to 8:50am on Monday 6 September 2021                  |
+| 19/09/2021      | Casual Contact       | The Entrance    | Coles  Dening Street      |  7:45pm to 8:35pm on Thursday 9 September 2021               |
 | 18/09/2021      | Casual Contact       | The Entrance    | Coles The EntranceThe Entrance Road and Dening Street | 8pm to 8:20pm on Thursday 9 September 2021                   |
 | 16/09/2021      | Casual Contact       | The Entrance    | Jimbo’s Quality Seafoods109 The Entrance Road | 11:50am to 12:20pm on Saturday 11 September 2021             |
 | 16/09/2021      | Casual Contact       | The Entrance    | Liquorland The EntranceCorner of Warrigal Street and The Entrance Road | 7:25pm to 7:35pm on Sunday 5 September 2021                  |
@@ -200,6 +203,7 @@
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Amcal Toowoon Bay Pharmacy96 Toowoon Bay Road | 3pm to 3:15pm on Wednesday 8 September 2021                  |
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Saltwater Takeaway94 Toowoon Bay Road | 3:15pm to 3:35pm on Wednesday 8 September 2021               |
 | 11/09/2021      | Casual Contact       | Toowoon Bay     | Toowoon Bay Newsagency145-147 Bay Road | 3:15pm to 3:35pm on Tuesday 7 September 20218:05am to 8:30am on Monday 6 September 2021 |
+| 19/09/2021      | Casual Contact       | Toromto         | Manakish Turkish Takeaway5/66 The Boulevarde | 4:40pm to 8:30pm on Thursday 16 September 20214:40pm to 8:30pm on Wednesday 15 September 2021 |
 | 13/09/2021      | Casual Contact       | Toronto         | Aldi Toronto189-197 Brighton Avenue | 9:20am to 9:30am on Thursday 9 September 2021                |
 | 13/09/2021      | Casual Contact       | Toronto         | Coles TorontoToronto Town Square, 63 The Boulevarde | 9:35am to 10:05am on Thursday 9 September 20211:15pm to 1:35pm on Tuesday 7 September 2021 |
 | 12/09/2021      | Casual Contact       | Toronto         | DKS Butchery TorontoShop 7, 47 The Boulevarde | 10:05am to 10:10am on Thursday 9 September 2021              |
@@ -208,7 +212,8 @@
 | 19/09/2021      | Casual Contact       | Toronto         | Toronto Court House140/142 Cary Street | 2:25pm to 4:05pm on Tuesday 14 September 2021                |
 | 15/09/2021      | Casual Contact       | Toronto         | Woolworths TorontoCorner of Pemell Street and Brighton Avenue | 5:20pm to 6:25pm on Saturday 11 September 202111:40am to 11:55am on Friday 10 September 2021 |
 | 14/09/2021      | Casual Contact       | Toukley         | Cincotta Discount Chemist Toukley213-217 Main Road | 8:40am to 3:15pm on Wednesday 8 September 20218:45am to 3:15pm on Tuesday 7 September 2021 |
-| 14/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 1pm to 1:30pm on Tuesday 14 September 202111:50am to 12:20pm on Monday 13 September 20213:50pm to 4:20pm on Sunday 12 September 20217:55pm to 8:20pm on Saturday 11 September 20213:35pm to 3:50pm on Thursday 9 September 20215:10pm to 5:35pm on Wednesday 8 September 20215:05pm to 5:25pm on Tuesday 7 September 20212:30pm to 2:50pm on Tuesday 7 September 20218pm to 8:35pm on Monday 6 September 2021 |
+| 19/09/2021      | Casual Contact       | Toukley         | Coles ToukleyCorner of Yaralla and Hargraves Streets | 1pm to 1:30pm on Tuesday 14 September 202111:50am to 12:20pm on Monday 13 September 20213:55pm to 4:20pm on Sunday 12 September 20217:55pm to 8:20pm on Saturday 11 September 20213:35pm to 3:50pm on Thursday 9 September 20215:10pm to 5:35pm on Wednesday 8 September 20215:05pm to 5:25pm on Tuesday 7 September 20212:30pm to 2:50pm on Tuesday 7 September 20218pm to 8:35pm on Monday 6 September 2021 |
+| 19/09/2021      | Casual Contact       | Toukley         | Forest Fruit Market300 Main Road  | 8:55am to 9:10am on Sunday 12 September 2021                 |
 | 14/09/2021      | Casual Contact       | Toukley         | Hearts and Minds Barber Emporium and Specialty CoffeeShop 5, 243 Main Road | 9:10am to 9:20am on Wednesday 8 September 20219:15am to 9:25am on Tuesday 7 September 2021 |
 | 14/09/2021      | Casual Contact       | Toukley         | Hot Bargain Toukley47 Canton Beach Road | 2:50pm to 3:10pm on Thursday 9 September 2021                |
 | 16/09/2021      | Casual Contact       | Toukley         | Liquorland Toukley244 Main Road | 6:30pm to 6:50pm on Thursday 9 September 20213:40pm to 3:55pm on Thursday 9 September 20215pm to 5:10pm on Wednesday 8 September 2021 |
@@ -244,6 +249,7 @@
 | 14/09/2021      | Casual Contact       | Warners Bay     | Officeworks Warners Bay240-260 Hillsborough Road | 4:30pm to 5pm on Wednesday 8 September 2021                  |
 | 18/09/2021      | Test (isolate w/ symptoms) | Warrawong       | Coles WarrawongCowper Street Wollongong City Council |  6:00am to 12:00pm on Friday 10 September 2021 6:00am to 12:00pm on Thursday 9 September 2021 6:00am to 12:00pm on Wednesday 8 September 2021 |
 | 16/09/2021      | Casual Contact       | Warrawong       | Warrawong Accident and Medical CentreLevel 2, Shop 134 - 136 Warrawong Plaza | 10:24am to 10:51am on Sunday 5 September 2021                |
+| 19/09/2021      | Casual Contact       | Wellington      | Food 2 Go 24 Nanima Crescent  |  2:00pm to 2:30pm on Wednesday 15 September 2021             |
 | 13/09/2021      | Casual Contact       | Wellington      | Sang's Hot Bread112 Percy Street | 11:20am to 11:25am on Monday 6 September 2021                |
 | 14/09/2021      | Casual Contact       | Wellington      | Wellington Newspower118 Percy Street | 9:20am to 9:50am on Sunday 12 September 2021                 |
 | 10/09/2021      | Casual Contact       | West Ballina    | BP Travel Centre West Ballina41 Bruxner Highway | 8:30am to 9:15am on Wednesday 8 September 2021               |
