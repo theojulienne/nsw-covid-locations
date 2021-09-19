@@ -1,8 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 19/09/2021      | Close Contact        | Yass            | Yass Soldiers Club86 Meehan Street |  5:00pm to 7:30pm on Monday 13 September 2021 2:00pm to 4:20pm on Saturday 11 September 2021 |
 | 18/09/2021      | Casual Contact       | Young           | KFC Young24 Zouch Street  |  12:00pm to 03:00pm on Saturday 11 September 2021 4:00pm to 7:30pm on Friday 10 September 2021 |
 | 18/09/2021      | Casual Contact       | Yass            | Yass Valley Dental - Yass practice 77 Lead Street  |  10:30am to 11:40am on Wednesday 8 September 2021            |
-| 18/09/2021      | Close Contact        | Yass            | Yass Soldiers Club86 Meehan Street |  2:00pm to 4:20pm on Monday 13 September 2021 5:00pm to 7:30pm on Saturday 11 September 2021 |
 | 18/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner of Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 20213:15pm to 4:15pm on Thursday 9 September 2021 4:45pm to 5:55pm on Thursday 9 September 2021 4:45pm to 5:55pm on Tuesday 7 September 20213:30pm to 4:30pm on Monday 6 September 202111:15am to 12:20pm on Monday 6 September 2021 |
 | 18/09/2021      | Close Contact        | Yass            | Club House Hotel190 Comur Street |  1:00pm to 3:30pm on Monday 13 September 2021 3:20pm to 6:00pm on Saturday 11 September 2021 |
 | 18/09/2021      | Casual Contact       | Yass            | BWS YassCorner of Comur and Polding Street | 3:45pm to 4:15pm on Monday 6 September 202112pm to 12:10pm on Monday 6 September 2021 |
@@ -263,7 +263,7 @@
 | 11/09/2021      | Casual Contact       | Glendale        | Hot Bargain GlendaleStockland Glendale, Lake Road and Stockland Drive | 10:45am to 10:55am on Tuesday 7 September 2021               |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | TSG Chittaway BayChittaway Bay Shopping Centre, 100 Chittaway Road | 10:45am to 11:10am on Monday 6 September 20212:05pm to 2:30pm on Sunday 5 September 2021 |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Pariza Kebab & IndianChittaway Bay Shopping Centre, 100 Chittaway Road | 9:45am to 8:15pm on Monday 6 September 2021                  |
-| 11/09/2021      | Casual Contact       | Chittaway Bay   | Coles Chittaway BayChittaway Bay Shopping Centre, 100 Chittaway Road | 9:40am to 10:05am on Monday 6 September 20217:40pm to 8pm on Monday 6 September 20213:10pm to 3:30pm on Monday 6 September 20211:45pm to 2:05pm on Monday 6 September 20218:45am to 4:15pm on Sunday 5 September 2021 |
+| 11/09/2021      | Casual Contact       | Chittaway Bay   | Coles Chittaway BayChittaway Bay Shopping Centre, 100 Chittaway Road | 12:25pm to 12:40pm on Saturday 11 September 20219:40am to 10:05am on Monday 6 September 20217:40pm to 8pm on Monday 6 September 20213:10pm to 3:30pm on Monday 6 September 20211:45pm to 2:05pm on Monday 6 September 20218:45am to 4:15pm on Sunday 5 September 2021 |
 | 11/09/2021      | Casual Contact       | Chittaway Bay   | Chittaway BakehouseChittaway Bay Shopping Centre, 100 Chittaway Road | 2pm to 2:20pm on Monday 6 September 2021                     |
 | 10/09/2021      | Casual Contact       | Wyong           | Subway Wyong250/300 Pacific Highway | 4pm to 4:20pm on Saturday 4 September 2021                   |
 | 10/09/2021      | Casual Contact       | Wyong           | Hungry Wolf's Wyong18 Alison Road | 7:10pm to 7:30pm on Saturday 4 September 2021                |
