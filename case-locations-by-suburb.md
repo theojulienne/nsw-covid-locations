@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 19/09/2021      | Casual Contact       | Adamstown       | PRP Diagnostic Imaging Adamstown156 Brunker Road | 8:20am to 9:30am on Tuesday 14 September 2021                |
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
+| 20/09/2021      | Casual Contact       | Anna Bay        | Anna Bay Bottle Shop Anna Bay136 Gan Gan Road | 2:20pm to 2:30pm on Wednesday 8 September 202112:20pm to 12:30pm on Tuesday 7 September 2021 |
 | 13/09/2021      | Casual Contact       | Anna Bay        | IGA X-press Anna Bay118 Gan Gan Road | 11:35am to 11:45am on Tuesday 7 September 2021               |
 | 19/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:30am to 12pm (noon) on Tuesday 14 September 2021          |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
@@ -96,6 +97,7 @@
 | 15/09/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway | 11am to 11:31am on Monday 13 September 20218:57am to 9:25am on Thursday 9 September 2021 |
 | 18/09/2021      | Casual Contact       | Gateshead       | Lake Macquarie Specialist Medical Centre (lift, common public areas of ground floor and entrance and waiting rooms of second floor)6/8 Sydney Street | 8:30am to 9:30am on Wednesday 8 September 2021               |
 | 14/09/2021      | Casual Contact       | Gerringong      | Gerringong Hardware1/45 Rowlins Road | 12:18pm to 12:23pm on Saturday 11 September 2021             |
+| 20/09/2021      | Casual Contact       | Glen Innes      | Brennan and Smith Optometrist Glen Innes312 Grey Street | 3:45pm to 4pm on Monday 13 September 2021                    |
 | 16/09/2021      | Casual Contact       | Glen Innes      | Kent Engineering and Mechanical Glen Innes87 Grovers Lane | 9am to 9:10am on Tuesday 14 September 2021                   |
 | 16/09/2021      | Casual Contact       | Glen Innes      | National Australia Bank Glen Innes234 Grey Street | 10:25am to 10:35am on Tuesday 14 September 2021              |
 | 16/09/2021      | Casual Contact       | Glen Innes      | Pathology New England Collection Centre Glen Innes122 Bourke Street | 9:45am to 10:15am on Tuesday 14 September 2021               |
@@ -189,7 +191,7 @@
 | 17/09/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Family Practice4 Jacaranda Avenue | 3:25pm to 4pm on Sunday 12 September 2021                    |
 | 15/09/2021      | Casual Contact       | Rutherford      | Coles RutherfordArthur Street and East Mall | 11:45am to 12:15pm on Saturday 11 September 2021             |
 | 15/09/2021      | Casual Contact       | Rutherford      | PETQuarters Rutherford58 Shipley Drive | 10:40am to 10:50am on Saturday 11 September 2021             |
-| 20/09/2021      | Casual Contact       | Salamander Bay  | Coles Salamander BaySalamander Bay and Bagnall Beach Road | 8:05am to 9am on Wednesday 15 September 20215:20pm to 3:50pm on Sunday 5 September 2021 |
+| 20/09/2021      | Casual Contact       | Salamander Bay  | Coles Salamander BaySalamander Bay and Bagnall Beach Road | 8:05am to 9am on Wednesday 15 September 202112pm to 12:30pm on Monday 13 September 20215:20pm to 3:50pm on Sunday 5 September 2021 |
 | 19/09/2021      | Casual Contact       | Salt Ash        | FoodWorks Salt AshCorner of Richardson Road and Nelson Bay Road | 2:05pm to 2:10pm on Friday 17 September 2021                 |
 | 18/09/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 3:50pm to 5:55pm on Monday 6 September 20212:40pm to 3pm on Monday 6 September 20215:45pm to 6pm on Sunday 5 September 20212pm to 4:30pm on Wednesday 1 September 2021 |
 | 16/09/2021      | Casual Contact       | San Remo        | First Choice Liquor San RemoNorthlakes Shopping Centre, 17-33 Pacific Highway | 5:30pm to 6pm on Friday 10 September 2021                    |
