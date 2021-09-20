@@ -1,7 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 19/09/2021      | Casual Contact       | Adamstown       | PRP Diagnostic Imaging Adamstown156 Brunker Road | 8:20am to 9:30am on Tuesday 14 September 2021                |
-| 20/09/2021      | Casual Contact       | Albury          | Coles LavingtonCnr Griffith Road and Urana Road | 7am to 7:20pm on Wednesday 15 September 2021                 |
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 13/09/2021      | Casual Contact       | Anna Bay        | IGA X-press Anna Bay118 Gan Gan Road | 11:35am to 11:45am on Tuesday 7 September 2021               |
 | 19/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:30am to 12pm (noon) on Tuesday 14 September 2021          |
@@ -14,7 +13,7 @@
 | 17/09/2021      | Casual Contact       | Batehaven       | Australia Post Batehaven248 Beach Road | 3:30pm to 4pm on Friday 10 September 2021                    |
 | 17/09/2021      | Casual Contact       | Batemans Bay    | Centrelink (Services Australia) Batemans Bay3 Flora Crescent | 12pm (noon) to 1pm on Thursday 9 September 2021              |
 | 16/09/2021      | Casual Contact       | Batemans Bay    | Coles Batemans BayVesper Street and Click and Collect Bays, Princes Highway | 6:15pm to 7:15pm on Sunday 12 September 20215pm to 6pm on Sunday 12 September 2021 |
-| 17/09/2021      | Close Contact        | Batemans Bay    | Commonwealth Bank Batemans Bay19 Orient Street | 2pm to 2:45pm on Friday 10 September 2021                    |
+| 20/09/2021      | Casual Contact       | Batemans Bay    | Commonwealth Bank Batemans Bay19 Orient Street | 2pm to 2:45pm on Friday 10 September 2021                    |
 | 16/09/2021      | Casual Contact       | Batemans Bay    | The Reject Shop Batemans BayShop 20, Bridge Plaza, 7-13 Clyde Street | 3:45pm to 4:15pm on Sunday 12 September 2021                 |
 | 18/09/2021      | Casual Contact       | Batemans Bay    | Woolworths Batemans BayBridge Plaza, 9-13 Clyde Street | 11:30am to 12:45pm on Wednesday 15 September 20213pm to 4:15pm on Tuesday 14 September 20213:45pm to 4:45pm on Monday 13 September 202111:30am to 12:45pm on Monday 13 September 20214:15pm to 5:30pm on Sunday 12 September 20218am to 9:30am on Saturday 4 September 20218am to 9am on Friday 3 September 2021 |
 | 10/09/2021      | Casual Contact       | Bathurst        | Armada Bathurst Shopping Centre121 Howick Street | 2:40pm to 3:40pm on Tuesday 7 September 2021                 |
@@ -139,6 +138,7 @@
 | 18/09/2021      | Casual Contact       | Lake Munmorah   | Matt's Diner Takeaway1 Elizabeth Bay Drive | 3:15pm to 3:55pm on Sunday 12 September 2021                 |
 | 13/09/2021      | Casual Contact       | Lake Munmorah   | Nargis Gourmet Food Lake MunmorahLake Munmorah Shopping Centre, Kemira Road | 2:30pm to 2:50pm on Tuesday 7 September 20212pm to 3pm on Wednesday 1 September 2021 |
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Thursday 16 September 20217:30pm to 8pm on Wednesday 8 September 2021 |
+| 20/09/2021      | Casual Contact       | Lavington       | Coles LavingtonCnr Griffith Road and Urana Road | 7am to 7:20pm on Wednesday 15 September 2021                 |
 | 17/09/2021      | Casual Contact       | Lavington       | Reece Plumbing Lavington463 Dallinger Road | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 20/09/2021      | Casual Contact       | Lismore         | Centrelink and Medicare Lismore47 Conway Street | 7:45am to 10:45am on Friday 10 September 2021                |
 | 16/09/2021      | Casual Contact       | Lismore         | Lifeline Shop71 Magellan Street | 9:05am to 9:20am on Tuesday 14 September 2021                |
