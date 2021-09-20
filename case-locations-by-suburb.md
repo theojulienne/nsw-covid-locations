@@ -45,10 +45,12 @@
 | 20/09/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue  | 8:30am to 2:30pm on Thursday 16 September 20218:30am to 2:30pm on Wednesday 15 September 2021 |
 | 18/09/2021      | Casual Contact       | Budgewoi        | BYO Cellars Budgewoi1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
 | 18/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Cellars1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
+| 20/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20215:40pm to 5:05pm on Thursday 16 September 2021 |
 | 10/09/2021      | Casual Contact       | Budgewoi        | Pinnacle Performance and Nutrition Budgewoi4/4 Ocean Street | 11:30am to 11:45am on Monday 6 September 2021                |
 | 17/09/2021      | Casual Contact       | Cameron Park    | Choice Pharmacy Cameron ParkShop T02A Cameron Park Plaza, 309 George Booth Drive | 2:45pm to 2:55pm on Friday 10 September 2021                 |
 | 20/09/2021      | Casual Contact       | Cameron Park    | Woolworths Cameron ParkCameron Park Plaza, Corner of Portland Drive and Northbridge Drive | 4:40pm to 5:35pm on Sunday 12 September 2021                 |
 | 12/09/2021      | Casual Contact       | Cardiff         | Woolworths CardiffCardiff Shopping Centre, 43 Macquarie Road | 9:15pm to 9:50pm on Tuesday 7 September 2021                 |
+| 20/09/2021      | Casual Contact       | Cessnock        | PK's Olde General Store Cessnock73 Allandale Road | 12pm to 12:15pm on Saturday 11 September 2021                |
 | 17/09/2021      | Casual Contact       | Cessnock        | Petstock Cessnock13-15 Cessnock Street | 10:15am to 10:20am on Sunday 12 September 20218:45am to 9am on Saturday 11 September 2021 |
 | 15/09/2021      | Casual Contact       | Cessnock        | Woolworths CessnockCooper Street | 5:30pm to 6pm on Sunday 12 September 2021                    |
 | 15/09/2021      | Casual Contact       | Charlestown     | Woolworths CharlestownCharlestown Square, 30 Pearson Street | 11am to 11:25am on Saturday 11 September 20219am to 9:15am on Friday 10 September 202111:40am to 12pm (noon) on Thursday 9 September 2021 |
@@ -107,9 +109,9 @@
 | 16/09/2021      | Casual Contact       | Googong         | Discount Pharmacy GoogongShop A2/189 Gorman Drive | 6:30pm to 6:50pm on Monday 13 September 2021                 |
 | 20/09/2021      | Casual Contact       | Goonellabah     | Caltex Woolworths Goonellabah2 Simeoni Drive | 2:15pm to 2:45pm on Friday 17 September 20219am to 9:30am on Tuesday 14 September 2021 |
 | 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Pharmacy AllianceShop 1, Goonellabah Village, Corner Oliver Avenue and Simeoni Drive | 10am to 10:15am on Tuesday 14 September 2021                 |
-| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Village Newsagency3/1 Simeoni Drive | 10:15am to 10:25am on Tuesday 14 September 2021              |
-| 20/09/2021      | Casual Contact       | Goonellabah     | Just Crazy Bargains2 Simeoni Drive | 3:45pm to 4:05pm on Wednesday 15 September 2021              |
-| 20/09/2021      | Close Contact        | Goonellabah     | Lismore Workers Sports Club202 Oliver Avenue | 10:35am to 11:50am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Village Newsagency3/1 Simeoni Drive | 10:15am to 10:20am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Just Crazy Bargains2 Simeoni Drive | 3:55pm to 4:10pm on Wednesday 15 September 2021              |
+| 20/09/2021      | Close Contact        | Goonellabah     | Lismore Workers Sports Club202 Oliver Avenue | 10:35am to 11:05am on Tuesday 14 September 2021              |
 | 20/09/2021      | Casual Contact       | Goonellabah     | Woolworths Goonellabah2 Simeoni Drive | 4:05pm to 4:45pm on Wednesday 15 September 2021              |
 | 14/09/2021      | Casual Contact       | Gorokan         | Shell Coles Express Gorokan67 Wallarah Road | 6:45pm to 6:55pm on Thursday 9 September 2021                |
 | 12/09/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:55am to 12:30pm on Monday 6 September 2021                |
@@ -267,6 +269,7 @@
 | 10/09/2021      | Casual Contact       | West Gosford    | Baby Bunting West GosfordRiverside Park, Shop 5, 376 Manns Road | 3:30pm to 4:30pm on Monday 6 September 20211:45pm to 2:15pm on Sunday 5 September 2021 |
 | 20/09/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue West Gosford | 6:20pm to 6:30pm on Sunday 12 September 20217:25am to 8:15am on Friday 10 September 2021 |
 | 16/09/2021      | Casual Contact       | West Gosford    | Sydney Tools Gosford1 Yandina Road | 7:10am to 7:25am on Friday 10 September 2021                 |
+| 20/09/2021      | Casual Contact       | Williamtown     | Newcastle Airport - check-in hall, security screening, departure lounge and facilities1 Williamtown Drive | 2:20pm to 3:35pm on Friday 17 September 2021                 |
 | 18/09/2021      | Casual Contact       | Woy Woy         | Cafe on Rawson68a Rawson Road | 7:55am to 8:35am on Monday 6 September 2021                  |
 | 18/09/2021      | Casual Contact       | Wyoming         | Coles WyomingWyoming Shopping Centre, Pacific Highway | 12:10pm to 12:35pm on Sunday 12 September 20217:15pm to 7:30pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Wyong           | Aldi Wyong146/ 148 Pacific Highway | 12:50pm to 2pm on Tuesday 14 September 2021                  |
