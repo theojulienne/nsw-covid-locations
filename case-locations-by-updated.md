@@ -1,6 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 20/09/2021      | Casual Contact       | Hamilton        | Piggott's Pharmacy Hamilton83 Beaumont Street | 9am to 9:15am on Wednesday 15 September 2021                 |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Woolworths Goonellabah2 Simeoni Drive | 4:05pm to 4:45pm on Wednesday 15 September 2021              |
+| 20/09/2021      | Close Contact        | Goonellabah     | Lismore Workers Sports Club202 Oliver Avenue | 10:35am to 11:50am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Just Crazy Bargains2 Simeoni Drive | 3:45pm to 4:05pm on Wednesday 15 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Village Newsagency3/1 Simeoni Drive | 10:15am to 10:25am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Pharmacy AllianceShop 1, Goonellabah Village, Corner Oliver Avenue and Simeoni Drive | 10am to 10:15am on Tuesday 14 September 2021                 |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Caltex Woolworths Goonellabah2 Simeoni Drive | 2:15pm to 2:45pm on Friday 17 September 20219am to 9:30am on Tuesday 14 September 2021 |
 | 19/09/2021      | Close Contact        | Yass            | Yass Soldiers Club86 Meehan Street | 5pm to 7:30pm on Monday 13 September 20212pm to 4:20pm on Saturday 11 September 2021 |
 | 19/09/2021      | Casual Contact       | Yass            | Yass Medical Centre116 Meehan Street | 2pm to 3:30pm on Wednesday 15 September 2021                 |
 | 19/09/2021      | Casual Contact       | Yass            | Woolworths YassCorner of Comur and Polding Street | 8:30am to 9:30am on Sunday 12 September 20216:30pm to 7:15pm on Thursday 9 September 20213:15pm to 4:15pm on Thursday 9 September 20215pm to 5:40pm on Tuesday 7 September 20213:30pm to 4:30pm on Monday 6 September 202111:15am to 12:20pm on Monday 6 September 2021 |

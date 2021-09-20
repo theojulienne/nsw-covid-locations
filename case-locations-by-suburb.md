@@ -93,6 +93,12 @@
 | 11/09/2021      | Casual Contact       | Glendale        | The Reject Shop GlendaleStockland Glendale, Lake Road and Stockland Drive | 10:55am to 11:05am on Tuesday 7 September 2021               |
 | 16/09/2021      | Casual Contact       | Googong         | Cannons IGA Googong195 Gorman Drive | 6:30pm to 7:15pm on Monday 13 September 2021                 |
 | 16/09/2021      | Casual Contact       | Googong         | Discount Pharmacy GoogongShop A2/189 Gorman Drive | 6:30pm to 6:50pm on Monday 13 September 2021                 |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Caltex Woolworths Goonellabah2 Simeoni Drive | 2:15pm to 2:45pm on Friday 17 September 20219am to 9:30am on Tuesday 14 September 2021 |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Pharmacy AllianceShop 1, Goonellabah Village, Corner Oliver Avenue and Simeoni Drive | 10am to 10:15am on Tuesday 14 September 2021                 |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Village Newsagency3/1 Simeoni Drive | 10:15am to 10:25am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Just Crazy Bargains2 Simeoni Drive | 3:45pm to 4:05pm on Wednesday 15 September 2021              |
+| 20/09/2021      | Close Contact        | Goonellabah     | Lismore Workers Sports Club202 Oliver Avenue | 10:35am to 11:50am on Tuesday 14 September 2021              |
+| 20/09/2021      | Casual Contact       | Goonellabah     | Woolworths Goonellabah2 Simeoni Drive | 4:05pm to 4:45pm on Wednesday 15 September 2021              |
 | 14/09/2021      | Casual Contact       | Gorokan         | Shell Coles Express Gorokan67 Wallarah Road | 6:45pm to 6:55pm on Thursday 9 September 2021                |
 | 12/09/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:55am to 12:30pm on Monday 6 September 2021                |
 | 14/09/2021      | Casual Contact       | Goulburn        | Akira Sushi GoulburnGoulburn Square Food Court, 217 Auburn Street | 10am to 10:30am on Thursday 9 September 2021                 |
