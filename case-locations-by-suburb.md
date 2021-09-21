@@ -43,7 +43,7 @@
 | 20/09/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue | 8:30am to 2:30pm on Thursday 16 September 20218:30am to 2:30pm on Wednesday 15 September 2021 |
 | 18/09/2021      | Casual Contact       | Budgewoi        | BYO Cellars Budgewoi1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
 | 18/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Cellars1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
-| 20/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20215:40pm to 5:05pm on Thursday 16 September 2021 |
+| 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |
 | 17/09/2021      | Casual Contact       | Cameron Park    | Choice Pharmacy Cameron ParkShop T02A Cameron Park Plaza, 309 George Booth Drive | 2:45pm to 2:55pm on Friday 10 September 2021                 |
 | 20/09/2021      | Casual Contact       | Cameron Park    | Woolworths Cameron ParkCameron Park Plaza, Corner of Portland Drive and Northbridge Drive | 4:40pm to 5:35pm on Sunday 12 September 2021                 |
 | 12/09/2021      | Casual Contact       | Cardiff         | Woolworths CardiffCardiff Shopping Centre, 43 Macquarie Road | 9:15pm to 9:50pm on Tuesday 7 September 2021                 |

@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |
 | 20/09/2021      | Casual Contact       | Young           | Young Diagnostic Imaging12 Cloete Street | 2pm to 2:30pm on Wednesday 15 September 2021                 |
 | 20/09/2021      | Casual Contact       | Young           | Service NSW Young24 Lynch Street | 3pm to 4pm on Monday 13 September 202112:10pm to 12:40pm on Wednesday 8 September 2021 |
 | 20/09/2021      | Casual Contact       | Young           | MedCIRC Young50-66 Boorowa Street | 12:10pm to 1:45pm on Wednesday 15 September 2021             |
@@ -41,7 +42,6 @@
 | 20/09/2021      | Casual Contact       | Dapto           | Great Southern Bank Dapto (formerly CUA)Dapto Mall, 122 Princes Highway | 10am to 11am on Thursday 9 September 2021                    |
 | 20/09/2021      | Casual Contact       | Cessnock        | PK's Olde General Store73 Allandale Road | 12pm (noon) to 12:15pm on Saturday 11 September 2021         |
 | 20/09/2021      | Casual Contact       | Cameron Park    | Woolworths Cameron ParkCameron Park Plaza, Corner of Portland Drive and Northbridge Drive | 4:40pm to 5:35pm on Sunday 12 September 2021                 |
-| 20/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20215:40pm to 5:05pm on Thursday 16 September 2021 |
 | 20/09/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue | 8:30am to 2:30pm on Thursday 16 September 20218:30am to 2:30pm on Wednesday 15 September 2021 |
 | 20/09/2021      | Casual Contact       | Broken Hill     | Foodland Broken Hill347 Beryl Street | 6:35pm to 6:50pm CST on Wednesday 15 September 20216:20pm to 6:30pm CST on Saturday 11 September 20213:45pm to 3:55pm CST on Sunday 5 September 2021 |
 | 20/09/2021      | Casual Contact       | Broken Hill     | Coles Broken Hill7 Gossan Street | 6:25pm to 7:15pm CST on Sunday 12 September 202111:30am to 12:30pm CST on Friday 10 September 20215pm to 6pm CST on Tuesday 7 September 202110:15am to 10:50am CST on Sunday 5 September 202111:50am to 12:15pm CST on Friday 3 September 2021 |
