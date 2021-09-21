@@ -5,8 +5,9 @@
 | 21/09/2021      | Casual Contact       | Lismore         | Woolworths LismoreShop 71, Lismore Shopping Square, Uralna Street and Brewster Street | 1:40pm to 2:15pm on Tuesday 14 September 2021                |
 | 21/09/2021      | Casual Contact       | Lismore         | Prouds Jewellers LismoreShop 63, Lismore Shopping Square, Uralba Street and Brewster Street | 1pm to 1:40pm on Tuesday 14 September 2021                   |
 | 21/09/2021      | Casual Contact       | Lismore         | Lismore Shopping SquareCorner of Uralba Street and Brewster Street | 12:45pm to 2:30pm on Tuesday 14 September 2021               |
-| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 4pm to 9pm on Sunday 19 September 2021                       |
+| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 5:45pm to 9pm on Sunday 19 September 2021                    |
 | 21/09/2021      | Casual Contact       | Goonellabah     | IGA X-Press GoonellabahRous Road | 5:30pm to 6pm on Tuesday 14 September 2021                   |
+| 21/09/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 6:45pm to 7:10pm on Tuesday 14 September 20214:35pm to 4:55pm on Tuesday 14 September 20215:05pm to 5:20pm on Saturday 11 September 20214pm to 5:05pm on Friday 10 September 2021 |
 | 21/09/2021      | Casual Contact       | Edgeworth       | Terry White Chemmart EdgeworthEdgeworth Town Square, Shop 4-6, 720 Main Road | 11am to 11:05am on Tuesday 14 September 202110:30am to 10:40am on Tuesday 14 September 2021 |
 | 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |
 | 21/09/2021      | Casual Contact       | Broken Hill     | Metro Petroleum Broken Hill571 Beryl Street | 11am to 2pm CST on Monday 6 September 2021                   |
@@ -47,7 +48,6 @@
 | 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Village Newsagency3/1 Simeoni Drive | 10:15am to 10:20am on Tuesday 14 September 2021              |
 | 20/09/2021      | Casual Contact       | Goonellabah     | Goonellabah Pharmacy AllianceShop 1, Goonellabah Village, Corner Oliver Avenue and Simeoni Drive | 10am to 10:15am on Tuesday 14 September 2021                 |
 | 20/09/2021      | Casual Contact       | Goonellabah     | Caltex Woolworths Goonellabah2 Simeoni Drive | 2:15pm to 2:45pm on Friday 17 September 20219am to 9:30am on Tuesday 14 September 2021 |
-| 20/09/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 4:35pm to 4:55pm on Tuesday 14 September 20215:05pm to 5:20pm on Saturday 11 September 20214pm to 5:05pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Glen Innes      | Brennan and Smith Optometrist312 Grey Street | 3:45pm to 4pm on Monday 13 September 2021                    |
 | 20/09/2021      | Casual Contact       | Ettalong Beach  | IGA Ettalong Beach396 Ocean View Road | 6:30pm to 6:40pm on Monday 13 September 2021                 |
 | 20/09/2021      | Casual Contact       | Dubbo           | Butchers on Macquarie49 Macquarie Street | 1:40am to 1:50am on Monday 13 September 2021                 |
