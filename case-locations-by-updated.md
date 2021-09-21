@@ -13,14 +13,14 @@
 | 21/09/2021      | Casual Contact       | Lismore         | Prouds Jewellers LismoreShop 63, Lismore Shopping Square, Uralba Street and Brewster Street | 1pm to 1:40pm on Tuesday 14 September 2021                   |
 | 21/09/2021      | Casual Contact       | Lismore         | Lismore Shopping SquareCorner of Uralba Street and Brewster Street | 12:30pm to 2:30pm on Tuesday 14 September 2021               |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
-| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 5:45pm to 9pm on Sunday 19 September 2021                    |
+| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
 | 21/09/2021      | Casual Contact       | Gorokan         | Coles GorokanLake Haven Drive | 6:45pm to 8pm on Thursday 16 September 2021                  |
 | 21/09/2021      | Casual Contact       | Goonellabah     | IGA X-Press GoonellabahRous Road | 5:30pm to 6pm on Tuesday 14 September 2021                   |
 | 21/09/2021      | Casual Contact       | Glendale        | Woolworths Glendale387 Lake Road | 6:45pm to 7:10pm on Tuesday 14 September 20214:35pm to 4:55pm on Tuesday 14 September 20218:25pm to 8:40pm on Sunday 12 September 20215:05pm to 5:30pm on Saturday 11 September 20213:05pm to 5:05pm on Friday 10 September 2021 |
 | 21/09/2021      | Casual Contact       | Figtree         | Coles FigtreeThe Avenue   | 9:30am to 10am on Friday 17 September 2021                   |
 | 21/09/2021      | Casual Contact       | Edgeworth       | Terry White Chemmart EdgeworthEdgeworth Town Square, Shop 4-6, 720 Main Road | 11am to 11:05am on Tuesday 14 September 202110:30am to 10:40am on Tuesday 14 September 2021 |
 | 21/09/2021      | Casual Contact       | Dubbo           | Smokemart and GiftBox and Vape Square Dubbo 49-65 Macquarie Street | 9:30am to 10am on Wednesday 15 September 2021                |
-| 21/09/2021      | Casual Contact       | Dubbo           | Gasweld Tools Dubbo132 Talbragar Street  | 8:30am to 9:10am on Tuesday 9 November 2021                  |
+| 21/09/2021      | Casual Contact       | Dubbo           | Gasweld Tools Dubbo132 Talbragar Street  | 9:45am to 10:05am on Saturday 11 September 2021              |
 | 21/09/2021      | Casual Contact       | Dubbo           | Ezy Cash Pawnbrokers Dubbo90 Talbragar Street  | 9:45am to 10:15am on Wednesday 15 September 2021             |
 | 21/09/2021      | Casual Contact       | Dubbo           | Coles DubboBultje Street  | 11:50am to 3:30pm on Tuesday 14 September 2021               |
 | 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |

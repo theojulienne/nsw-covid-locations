@@ -69,7 +69,7 @@
 | 20/09/2021      | Casual Contact       | Dubbo           | Butchers on Macquarie49 Macquarie Street | 1:40am to 1:50am on Monday 13 September 2021                 |
 | 21/09/2021      | Casual Contact       | Dubbo           | Coles DubboBultje Street  | 11:50am to 3:30pm on Tuesday 14 September 2021               |
 | 21/09/2021      | Casual Contact       | Dubbo           | Ezy Cash Pawnbrokers Dubbo90 Talbragar Street  | 9:45am to 10:15am on Wednesday 15 September 2021             |
-| 21/09/2021      | Casual Contact       | Dubbo           | Gasweld Tools Dubbo132 Talbragar Street  | 8:30am to 9:10am on Tuesday 9 November 2021                  |
+| 21/09/2021      | Casual Contact       | Dubbo           | Gasweld Tools Dubbo132 Talbragar Street  | 9:45am to 10:05am on Saturday 11 September 2021              |
 | 13/09/2021      | Casual Contact       | Dubbo           | Hungry Jacks Dubbo69-73 Cobra Street | 8pm to 8:45pm on Thursday 9 September 2021                   |
 | 18/09/2021      | Casual Contact       | Dubbo           | IGA Dubbo38-40 Victoria Street | 3:50pm to 5pm on Sunday 12 September 2021                    |
 | 13/09/2021      | Casual Contact       | Dubbo           | Inland Petroleum Dubbo125 Cobra Street | 8:14am to 8:35am on Thursday 9 September 2021                |
@@ -146,7 +146,7 @@
 | 19/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 7:40pm to 8:20pm on Saturday 11 September 202111:55am to 12:10pm on Monday 6 September 202110:25pm to 10:40pm on Sunday 5 September 20212:30pm to 2:45pm on Saturday 4 September 20217:50am to 8:05am on Wednesday 1 September 2021 |
 | 16/09/2021      | Casual Contact       | Killarney Vale  | The Entrance District After Hours Pharmacy112 Wyong Road | 6:40pm to 6:55pm on Tuesday 14 September 2021                |
 | 14/09/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village, 43 Avoca Drive | 11:40am to 12:15pm on Thursday 9 September 2021              |
-| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 5:45pm to 9pm on Sunday 19 September 2021                    |
+| 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
 | 16/09/2021      | Casual Contact       | Kotara          | Bunnings Kotara30 Northcott Drive | 3:50pm to 4:15pm on Friday 10 September 2021                 |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 6:50pm to 8pm on Thursday 16 September 20218:10pm to 8:50pm on Thursday 9 September 20219:30am to 10:15am on Thursday 2 September 20212:15pm to 2:35pm on Wednesday 1 September 20215:45pm to 6:10pm on Tuesday 31 August 2021 |
