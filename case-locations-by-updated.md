@@ -16,6 +16,7 @@
 | 21/09/2021      | Casual Contact       | San Remo        | Macchina EspressoNorthlakes Shopping Centre Shop, 5/12 Pacific Highway | 8:15am to 1:35pm on Sunday 12 September 2021                 |
 | 21/09/2021      | Casual Contact       | Newcastle       | Woolworths Metro Newcastle11 Lyrique Lane  | 4pm to 4:30pm on Thursday 16 September 2021                  |
 | 21/09/2021      | Casual Contact       | Nelson Bay      | Woolworths Nelson BayDonald Street  | 5:25pm to 6:25pm on Monday 13 September 2021                 |
+| 21/09/2021      | Casual Contact       | Morisset        | The Reject Shop Morisset Morisset Square Shopping Centre, 35 Yambo Street | 5:05pm to 5:25pm on Monday 13 September 2021                 |
 | 21/09/2021      | Casual Contact       | Mayfield        | Woolworths MayfieldCorner of Maitland Road and Valencia Street | 8:05pm to 8:45pm on Sunday 12 September 20218:10pm to 8:40pm on Saturday 11 September 20216:05pm to 6:20pm on Saturday 11 September 20212pm to 2:10pm on Friday 10 September 20216:55pm to 7:05pm on Thursday 9 September 20217:55pm to 8:15pm on Wednesday 8 September 20212:45pm to 3:05pm on Wednesday 8 September 2021 |
 | 21/09/2021      | Casual Contact       | Mayfield        | Subway Mayfield109-111 Maitland Road | 6:35pm to 6:55pm on Wednesday 15 September 2021              |
 | 21/09/2021      | Casual Contact       | Lismore         | Woolworths LismoreShop 71, Lismore Shopping Square, Uralna Street and Brewster Street | 1:40pm to 2:15pm on Tuesday 14 September 2021                |
@@ -24,7 +25,7 @@
 | 21/09/2021      | Casual Contact       | Lake Haven      | Priceline Pharmacy LakehavenLake Haven Shopping Centre, Lake Haven Drive | 12pm (noon) to 12:20pm on Wednesday 15 September 2021        |
 | 21/09/2021      | Casual Contact       | Lake Haven      | National Australia Bank Lake HavenShop 50, Lake Haven Shopping Centre, Goobarabah Avenue | 12:30pm to 1:05pm on Tuesday 14 September 2021               |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
-| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village 1 Bells Boulevard  |  6:40pm to 8pm on Saturday 18 September 2021                 |
+| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village1 Bells Boulevard  |  6:40pm to 8pm on Saturday 18 September 2021                 |
 | 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
 | 21/09/2021      | Casual Contact       | Killarney Vale  | The Bottle-O Killarney ValeShop 2, 120 Wyong Road | 10:25am to 10:35am on Sunday 12 September 2021               |
 | 21/09/2021      | Casual Contact       | Goulburn        | Priceline Pharmacy Goulburn  Auburn Street  |  1pm to 1:45pm on Tuesday 14 September 2021                  |

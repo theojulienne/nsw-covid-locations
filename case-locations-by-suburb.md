@@ -156,7 +156,7 @@
 | 16/09/2021      | Casual Contact       | Killarney Vale  | The Entrance District After Hours Pharmacy112 Wyong Road | 6:40pm to 6:55pm on Tuesday 14 September 2021                |
 | 14/09/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village, 43 Avoca Drive | 11:40am to 12:15pm on Thursday 9 September 2021              |
 | 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
-| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village 1 Bells Boulevard  |  6:40pm to 8pm on Saturday 18 September 2021                 |
+| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village1 Bells Boulevard  |  6:40pm to 8pm on Saturday 18 September 2021                 |
 | 16/09/2021      | Casual Contact       | Kotara          | Bunnings Kotara30 Northcott Drive | 3:50pm to 4:15pm on Friday 10 September 2021                 |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 6:50pm to 8pm on Thursday 16 September 20218:10pm to 8:50pm on Thursday 9 September 20219:30am to 10:15am on Thursday 2 September 20212:15pm to 2:35pm on Wednesday 1 September 20215:45pm to 6:10pm on Tuesday 31 August 2021 |
@@ -189,6 +189,7 @@
 | 09/09/2021      | Casual Contact       | Merimbula       | Merimbula Medical Centre77 Merimbula Drive | 10:30am to 11:30am on Tuesday 7 September 2021               |
 | 15/09/2021      | Casual Contact       | Mittagong       | Bunnings MittagongTyree Place | 2:20pm to 2:40pm on Thursday 9 September 2021                |
 | 18/09/2021      | Casual Contact       | Moonbi          | Caltex Moonbi16 Gill Street | 8am to 9am on Wednesday 15 September 202111:45am to 12:30pm on Wednesday 15 September 20215:45am to 6:45am on Monday 13 September 2021 |
+| 21/09/2021      | Casual Contact       | Morisset        | The Reject Shop Morisset Morisset Square Shopping Centre, 35 Yambo Street | 5:05pm to 5:25pm on Monday 13 September 2021                 |
 | 20/09/2021      | Casual Contact       | Morisset        | Woolworths Morisset103-105 Dora Street | 1:50pm to 2:25pm on Wednesday 15 September 2021              |
 | 18/09/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 1:30pm to 1:45pm on Tuesday 14 September 2021                |
 | 15/09/2021      | Casual Contact       | Mudgee          | Mudgee Corner Store72 Lewis Street | 10am to 10:20am on Wednesday 8 September 2021                |
