@@ -1,7 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 21/09/2021      | Casual Contact       | Young           | MedCIRC Young50-66 Boorowa Street | 12:10pm to 1:45pm on Wednesday 15 September 202111:30am to 12pm on Tuesday 14 September 2021 |
-| 21/09/2021      | Casual Contact       | Yass            | My Medical Practice and Pharmacy Yass1a 63 Laidlaw Street  |  12:00pm to 12:45pm on Thursday 16 September 2021            |
+| 21/09/2021      | Casual Contact       | Yass            | My Medical Practice and Pharmacy Yass1a 63 Laidlaw Street  |  12pm to 12:45pm on Thursday 16 September 2021 1:55pm to 2pm on Wednesday 15 September 2021 |
+| 21/09/2021      | Casual Contact       | Yass            | Clementine Bakery69 Comur Street | 10am to 10:10am on Thursday 16 September 20218:30am to 8:40am on Wednesday 15 September 2021 |
 | 21/09/2021      | Casual Contact       | Wyong           | National Storage North Wyong2A Lucca Road | 3:50pm to 4:10pm on Monday 13 September 20211:40pm to 2:10pm on Saturday 11 September 2021 |
 | 21/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 7:40am to 7:50am on Thursday 16 September 2021               |
 | 21/09/2021      | Casual Contact       | Windale         | Geoff’s Cakes8 Lake Road  | 10:05am to 10:10am on Thursday 16 September 2021             |
@@ -23,10 +24,10 @@
 | 21/09/2021      | Casual Contact       | Lake Haven      | Priceline Pharmacy LakehavenLake Haven Shopping Centre, Lake Haven Drive | 12pm (noon) to 12:20pm on Wednesday 15 September 2021        |
 | 21/09/2021      | Casual Contact       | Lake Haven      | National Australia Bank Lake HavenShop 50, Lake Haven Shopping Centre, Goobarabah Avenue | 12:30pm to 1:05pm on Tuesday 14 September 2021               |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
-| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village 1 Bells Boulevard  |  6:40pm to 8:00pm on Saturday 18 September 2021              |
+| 21/09/2021      | Close Contact        | Kingscliff      | Salt Village 1 Bells Boulevard  |  6:40pm to 8pm on Saturday 18 September 2021                 |
 | 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
 | 21/09/2021      | Casual Contact       | Killarney Vale  | The Bottle-O Killarney ValeShop 2, 120 Wyong Road | 10:25am to 10:35am on Sunday 12 September 2021               |
-| 21/09/2021      | Casual Contact       | Goulburn        | Priceline Pharmacy Goulburn  Auburn Street  |  1:00pm to 1:45pm on Tuesday 14 September 2021               |
+| 21/09/2021      | Casual Contact       | Goulburn        | Priceline Pharmacy Goulburn  Auburn Street  |  1pm to 1:45pm on Tuesday 14 September 2021                  |
 | 21/09/2021      | Casual Contact       | Gosford         | Chemist Warehouse Gosford125 Mann Street | 5:20pm to 5:30pm on Friday 17 September 20214:45pm to 4:55pm on Friday 17 September 2021 |
 | 21/09/2021      | Casual Contact       | Gorokan         | Coles GorokanLake Haven Drive | 6:45pm to 8pm on Thursday 16 September 2021                  |
 | 21/09/2021      | Casual Contact       | Goonellabah     | IGA X-Press GoonellabahRous Road | 5:30pm to 6pm on Tuesday 14 September 2021                   |
@@ -37,7 +38,7 @@
 | 21/09/2021      | Casual Contact       | Dubbo           | Gasweld Tools Dubbo132 Talbragar Street  | 9:45am to 10:05am on Saturday 11 September 2021              |
 | 21/09/2021      | Casual Contact       | Dubbo           | Ezy Cash Pawnbrokers Dubbo90 Talbragar Street  | 9:45am to 10:15am on Wednesday 15 September 2021             |
 | 21/09/2021      | Casual Contact       | Dubbo           | Coles DubboBultje Street  | 11:50am to 3:30pm on Tuesday 14 September 2021               |
-| 21/09/2021      | Casual Contact       | Cowra           | Cowra Chiropractic Health and Wellness Centre 135A Kendal Street  |  3:00pm to 3:30pm on Thursday 16 September 2021              |
+| 21/09/2021      | Casual Contact       | Cowra           | Cowra Chiropractic Health and Wellness Centre 135A Kendal Street  |  3pm to 3:30pm on Thursday 16 September 2021                 |
 | 21/09/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner of Chelmsford Road and Pacific Highway | 2:05pm to 2:20pm on Friday 17 September 202110:15am to 11:30am on Friday 17 September 2021 |
 | 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |
 | 21/09/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue | 8:30am to 2:30pm on Thursday 16 September 20218:30am to 2:30pm on Wednesday 15 September 20219:30am to 9:45am on Wednesday 8 September 2021 |
@@ -48,6 +49,8 @@
 | 21/09/2021      | Casual Contact       | Broken Hill     | Centrelink and Medicare Broken Hill180 Beryl Street | 11:20am to 11:50am CST on Monday 6 September 20211:40pm to 2:10pm CST on Monday 6 September 2021 |
 | 21/09/2021      | Casual Contact       | Broken Hill     | Broken Hill GP Super Clinic235 Thomas Street | 3:15pm to 3:40pm CST on Thursday 16 September 2021           |
 | 21/09/2021      | Casual Contact       | Blue Haven      | Aldi Blue HavenBlue Haven Road and Roper Road | 2:15pm to 3pm on Tuesday 14 September 2021                   |
+| 21/09/2021      | Casual Contact       | Batemans Bay    | Dan Murphy's Batemans Bay57-59 Orient Street | 2:15pm to 2:45pm on Monday 13 September 2021                 |
+| 21/09/2021      | Casual Contact       | Batehaven       | Batehaven PharmacyCorner Beach Road and Edwards Road | 9:45am to 10:45am on Friday 17 September 2021                |
 | 21/09/2021      | Casual Contact       | Bateau Bay      | BWS Bateau Bay1C and 1D/16 Cresthaven Avenue | 2:30pm to 2:40pm on Saturday 11 September 2021               |
 | 21/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 21/09/2021      | Casual Contact       | Albion Park     | Woolworths Albion ParkRussell South Albion Park | 4:40pm to 5:30pm on Saturday 11 September 2021               |
