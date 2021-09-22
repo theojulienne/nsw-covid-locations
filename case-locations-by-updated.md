@@ -1,13 +1,22 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 22/09/2021      | Casual Contact       | Yass            | My Medical Practice and Pharmacy Yass1a 63 Laidlaw Street | 12pm (noon) to 12:45pm on Thursday 16 September 20211:50pm to 2:10pm on Wednesday 15 September 2021 |
+| 22/09/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford Street and Antill Street | 1:45pm to 3pm on Saturday 18 September 20219:30am to 10:15am on Monday 13 September 20216:15am to 7:10am on Friday 10 September 20218:45am to 9:15am on Thursday 9 September 20216:40am to 6:55am on Thursday 9 September 2021 |
+| 22/09/2021      | Casual Contact       | Queanbeyan      | Coles QueanbeyanRiverside Plaza, Corner Collett and Monaro Streets | 6pm to 6:45pm on Friday 17 September 20218:45am to 9:30am on Thursday 16 September 2021 |
+| 22/09/2021      | Casual Contact       | Queanbeyan      | Aldi Queanbeyan134-136 Crawford Street | 8:45am to 9:30am on Thursday 16 September 2021               |
+| 22/09/2021      | Casual Contact       | Queanbeyan      | 4th Seed Cafe227 Crawford Street | 7:30am to 7:40am on Sunday 19 September 2021                 |
+| 22/09/2021      | Casual Contact       | Mount Hutton    | Lake Macquarie Square46 Wilsons Road | 8:15am to 9am on Monday 20 September 20219:30am to 10:30am on Saturday 18 September 202111:30am to 1pm on Thursday 16 September 20219am to 10am on Monday 13 September 20219:30am to 11am on Saturday 11 September 2021 |
+| 22/09/2021      | Casual Contact       | Mogo            | Ultra Petroleum Mogo33 Sydney Street | 2:40pm to 2:45pm on Friday 17 September 20212:05pm to 2:10pm on Friday 17 September 2021 |
 | 22/09/2021      | Casual Contact       | Kingscliff      | Saltbean Cafe12 Bells Boulevard | 7:40am to 8am on Monday 20 September 20217:40am to 8am on Sunday 19 September 202110:15am to 10:45am on Sunday 19 September 2021 |
 | 22/09/2021      | Casual Contact       | Kingscliff      | Peppers Salt Resort and Spa - Reception AreaBells Boulevard | 2:30pm to 2:50pm on Saturday 18 September 2021               |
 | 22/09/2021      | Casual Contact       | Casuarina       | Casuarina Health and Lifestyle Pharmacy10/482 Casuarina Way | 2:15pm to 2:30pm on Saturday 18 September 2021               |
 | 22/09/2021      | Casual Contact       | Byron Bay       | Orgasmic Food Byron Bay11 Bay Lane | 12:30pm to 1pm on Saturday 18 September 2021                 |
 | 22/09/2021      | Casual Contact       | Byron Bay       | Combi5b/21-25 Fletcher Street | 9:45am to 10:15am on Saturday 18 September 2021              |
 | 22/09/2021      | Casual Contact       | Byron Bay       | Assembly Label Byron Bay28 Jonson Street | 10:40am to 11am on Saturday 18 September 2021                |
+| 22/09/2021      | Casual Contact       | Bungendore      | Gunna Doo Bakery18 Gibraltar Street | 1:30pm to 1:50pm on Sunday 19 September 2021                 |
+| 22/09/2021      | Casual Contact       | Braidwood       | Westside Petroleum Braidwood71 Wallace Street | 2:40pm to 2:50pm on Sunday 19 September 2021                 |
+| 22/09/2021      | Casual Contact       | Batehaven       | Batehaven PharmacyCorner Beach Road and Edwards Road | 9:45am to 10:45am on Friday 17 September 202110:10am to 10:30am on Monday 13 September 2021 |
 | 21/09/2021      | Casual Contact       | Young           | MedCIRC Young50-66 Boorowa Street | 12:10pm to 1:45pm on Wednesday 15 September 202111:30am to 12pm (noon) on Tuesday 14 September 2021 |
-| 21/09/2021      | Casual Contact       | Yass            | My Medical Practice and Pharmacy Yass1a 63 Laidlaw Street | 12pm (noon) to 12:45pm on Thursday 16 September 20211:55pm to 2pm on Wednesday 15 September 2021 |
 | 21/09/2021      | Casual Contact       | Yass            | Clementine Bakery69 Comur Street | 10am to 10:10am on Thursday 16 September 20218:30am to 8:40am on Wednesday 15 September 2021 |
 | 21/09/2021      | Casual Contact       | Wyong           | National Storage North Wyong2A Lucca Road | 3:50pm to 4:10pm on Monday 13 September 20211:40pm to 2:10pm on Saturday 11 September 2021 |
 | 21/09/2021      | Casual Contact       | Wyong           | Coles WyongVillage Central Wyong, 11-18 Alison Road | 9am to 9:45am on Wednesday 15 September 20215:10pm to 5:25pm on Monday 6 September 20212pm to 2:40pm on Sunday 5 September 20219:45am to 10:15am on Wednesday 1 September 2021 |
@@ -67,7 +76,6 @@
 | 21/09/2021      | Casual Contact       | Blue Haven      | Aldi Blue HavenBlue Haven Road and Roper Road | 2:15pm to 3pm on Tuesday 14 September 2021                   |
 | 21/09/2021      | Casual Contact       | Beresfield      | Woolworths BeresfieldNewton Street and Lawson Avenue | 8:30am to 8:50am on Saturday 11 September 20215:45pm to 6:20pm on Friday 10 September 20219am to 9:15am on Wednesday 8 September 2021 |
 | 21/09/2021      | Casual Contact       | Batemans Bay    | Dan Murphy's Batemans Bay57-59 Orient Street | 2:15pm to 2:45pm on Monday 13 September 2021                 |
-| 21/09/2021      | Casual Contact       | Batehaven       | Batehaven PharmacyCorner Beach Road and Edwards Road | 9:45am to 10:45am on Friday 17 September 2021                |
 | 21/09/2021      | Casual Contact       | Bateau Bay      | BWS Bateau Bay1C and 1D/16 Cresthaven Avenue | 2:30pm to 2:40pm on Saturday 11 September 2021               |
 | 21/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 21/09/2021      | Casual Contact       | Anna Bay        | Anna Bay Bottle Shop136 Gan Gan Road | 2:20pm to 2:30pm on Wednesday 8 September 20212:15pm to 2:30pm on Tuesday 7 September 202112:20pm to 12:30pm on Tuesday 7 September 2021 |
@@ -243,7 +251,6 @@
 | 14/09/2021      | Casual Contact       | Toukley         | Cincotta Discount Chemist Toukley213-217 Main Road | 8:40am to 3:15pm on Wednesday 8 September 20218:45am to 3:15pm on Tuesday 7 September 2021 |
 | 14/09/2021      | Casual Contact       | Taylors Beach   | PETQuarters Taylors Beach12 Innovation Close | 10:20am to 10:45am on Sunday 12 September 2021               |
 | 14/09/2021      | Casual Contact       | San Remo        | Priceline Pharmacy San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 5:50pm to 5:55pm on Friday 10 September 20212:30pm to 4pm on Wednesday 1 September 2021 |
-| 14/09/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford Street and Antill Street | 6:15am to 7:10am on Friday 10 September 20218:45am to 9:15am on Thursday 9 September 20216:40am to 6:55am on Thursday 9 September 2021 |
 | 14/09/2021      | Casual Contact       | Newcastle       | Newcastle Courthouse343 Hunter Street | 9:30am to 12pm (noon) on Friday 10 September 2021            |
 | 14/09/2021      | Casual Contact       | Merewether      | Shell Coles Express Merewether87 Llewellyn Street | 8pm to 9pm on Friday 10 September 2021                       |
 | 14/09/2021      | Casual Contact       | Lake Haven      | Crazy Bargain Warehouse Lake HavenLake Haven Centre, Lake Haven Drive | 5:15pm to 5:30pm on Friday 10 September 2021                 |
