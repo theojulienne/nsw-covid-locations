@@ -206,7 +206,6 @@
 | 21/09/2021      | Casual Contact       | Lismore         | Woolworths LismoreShop 71, Lismore Shopping Square, Uralna Street and Brewster Street | 1:40pm to 2:15pm on Tuesday 14 September 2021                |
 | 16/09/2021      | Casual Contact       | Maitland        | Bunnings MaitlandCorner of Bungaree Street and New England Highway | 2:55pm to 3:10pm on Thursday 9 September 2021                |
 | 16/09/2021      | Casual Contact       | Malua Bay       | IGA Malua Bay6/534 George Bass Drive | 3:45pm to 4:10pm on Saturday 11 September 2021               |
-| 23/09/2021      | Casual Contact       | Marketown       | Pharmacy Care Marketown28/136 Steel Street | 5:40pm to 5:55pm on Friday 17 September 2021                 |
 | 10/09/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 5:30pm to 6:15pm on Saturday 11 September 202112:30pm to 1:15pm on Saturday 11 September 20215:05pm to 5:25pm on Thursday 9 September 2021 |
 | 23/09/2021      | Casual Contact       | Mayfield        | Mayfield Laundromat292 Maitland Road | 6am to 9pm on Sunday 19 September 2021                       |
 | 21/09/2021      | Casual Contact       | Mayfield        | Subway Mayfield109-111 Maitland Road | 6:35pm to 6:55pm on Wednesday 15 September 2021              |
@@ -232,6 +231,7 @@
 | 17/09/2021      | Casual Contact       | Newcastle       | Subway Newcastle105 Hunter Street | 3:05pm to 3:15pm on Thursday 9 September 2021                |
 | 21/09/2021      | Casual Contact       | Newcastle       | Woolworths Metro Newcastle11 Lyrique Lane | 4pm to 4:30pm on Thursday 16 September 2021                  |
 | 15/09/2021      | Casual Contact       | Newcastle West  | Newcastle Central PlazaNewcastle Central Plaza, 741 Hunter Street | 12am (midnight) to 10:50am on Thursday 9 September 20216:45pm to 11:59pm on Wednesday 8 September 2021 |
+| 23/09/2021      | Casual Contact       | Newcastle West  | Pharmacy Care Marketown Newcastle West28/136 Steel Street | 5:40pm to 5:55pm on Friday 17 September 2021                 |
 | 19/09/2021      | Casual Contact       | North Wollongong | Bourke St Burgers9 Bourke Street | 5pm to 10pm on Friday 17 September 20215pm to 10pm on Sunday 12 September 20215pm to 10pm on Friday 10 September 2021 |
 | 22/09/2021      | Casual Contact       | Nowra           | Coles NowraNowra Mall, Junction Street | 1:50pm to 2:10pm on Tuesday 14 September 2021                |
 | 23/09/2021      | Casual Contact       | Orange          | 7-Eleven Orange68 Molong Road | 12:40pm to 12:50pm on Wednesday 15 September 2021            |

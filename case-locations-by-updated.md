@@ -11,13 +11,13 @@
 | 23/09/2021      | Casual Contact       | Orange          | King of the Pack Orange88 Summer Street  | 11:30am to 11:40am on Wednesday 15 September 2021            |
 | 23/09/2021      | Casual Contact       | Orange          | Ashcrofts SUPA IGA Orange88 Summer Street  | 11:40am to 11:50am on Wednesday 15 September 2021            |
 | 23/09/2021      | Casual Contact       | Orange          | 7-Eleven Orange68 Molong Road | 12:40pm to 12:50pm on Wednesday 15 September 2021            |
+| 23/09/2021      | Casual Contact       | Newcastle West  | Pharmacy Care Marketown Newcastle West28/136 Steel Street | 5:40pm to 5:55pm on Friday 17 September 2021                 |
 | 23/09/2021      | Casual Contact       | Mudgee          | Petrie's Mitre 10 Mudgee144-148 Church Street  | 11:10am to 11:20am on Thursday 16 September 2021             |
 | 23/09/2021      | Casual Contact       | Mudgee          | Complete Crushing Services MudgeeBuckaroo Lane  |  7:15am to 4:15pm on Monday 20 September 2021                |
 | 23/09/2021      | Casual Contact       | Mudgee          | Aldi Mudgee97-99 Church Street Mudgee | 11:20am to 11:45am on Thursday 16 September 2021             |
 | 23/09/2021      | Casual Contact       | Mount Hutton    | Lake Macquarie Square (customers only)46 Wilsons Road | 8:15am to 9am on Monday 20 September 20219:30am to 10:30am on Saturday 18 September 202111:30am to 1pm on Thursday 16 September 20219am to 10am on Monday 13 September 20219:30am to 11am on Saturday 11 September 2021 |
 | 23/09/2021      | Casual Contact       | Mittagong       | Hayters Timber and Paving Mittagong15 Cavendish Street  | All day on Sunday 19 September 2021All day on Saturday 18 September 2021 |
 | 23/09/2021      | Casual Contact       | Mayfield        | Mayfield Laundromat292 Maitland Road | 6am to 9pm on Sunday 19 September 2021                       |
-| 23/09/2021      | Casual Contact       | Marketown       | Pharmacy Care Marketown28/136 Steel Street | 5:40pm to 5:55pm on Friday 17 September 2021                 |
 | 23/09/2021      | Casual Contact       | Gundagai        | Shell Coles Express GundagaiMount Street and Middle Street | 2am to 2:10am on Tuesday 21 September 2021                   |
 | 23/09/2021      | Casual Contact       | Gundagai        | Shell Coles Express Gundagai TuckerboxCorner of Hume HIghway and Sheahan Bridge | 11:50pm to 12am (midnight) on Monday 20 September 2021       |
 | 23/09/2021      | Casual Contact       | Gumly Gumly     | BP Gumly GumlySturt Highway | 1:15pm to 1:25pm on Sunday 19 September 2021                 |
