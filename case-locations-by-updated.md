@@ -1,11 +1,16 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 24/09/2021      | Casual Contact       | Wollongong      | Wollongong Medical Centre237-241 Crown Street  |  12pm to 12:45pm on Friday 17 September 2021                 |
+| 24/09/2021      | Casual Contact       | Wellington      | Kitch and Sons158 Percy Street  |  9:40am to 10:15am on Tuesday 21 September 2021              |
+| 24/09/2021      | Casual Contact       | Tuggerah        | Terry White Chemmart TuggerahWestfield Tuggerah, Wyong Road | 11:05am to 11:40am on Saturday 18 September 2021             |
 | 24/09/2021      | Casual Contact       | Toronto         | Coles TorontoToronto Town Square, 63 The Boulevarde | 5:05pm to 5:45pm on Tuesday 21 September 20219:35am to 10:05am on Thursday 9 September 20211:15pm to 1:35pm on Tuesday 7 September 2021 |
+| 24/09/2021      | Casual Contact       | The Entrance    | Faith in Action Ministries IncShop 4/1 Tuggerah Parade | 10:40am to 11:20am on Thursday 16 September 2021             |
+| 24/09/2021      | Casual Contact       | Raymond Terrace | Services NSW Raymond Terrace1/1 Jacaranda Avenue | 9:30am to 10:25am on Wednesday 15 September 2021             |
 | 24/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259-277 Lang Street | 5am to 2pm on Sunday 19 September 2021                       |
 | 24/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:30pm to 5:30pm on Thursday 16 September 20214:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
 | 24/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:30pm to 4:50pm on Thursday 16 September 2021               |
 | 24/09/2021      | Casual Contact       | Goulburn        | Coles Express Big MerinoCorner of Hume and Sowerby Street | 2:10pm to 2:20pm on Friday 17 September 2021                 |
-| 24/09/2021      | Casual Contact       | Goulburn        | Blooms The Chemist Goulburn220 Auburn Street | 11:30am to 12:15pm on Monday 13 September 2021               |
+| 24/09/2021      | Casual Contact       | Goulburn        | Blooms The Chemist Goulburn220 Auburn Street | 11:55am to 1pm on Monday 13 September 2021                   |
 | 24/09/2021      | Close Contact        | Cowra           | Cowra Dance Factory19 Cowra Road | 3:30pm to 7pm on Wednesday 15 September 2021                 |
 | 24/09/2021      | Casual Contact       | Broken Hill     | National Australia Bank Broken HillWestside Plaza, 7 Galena Street | 9am to 9:45am CST on Wednesday 8 September 2021              |
 | 23/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 7:40am to 7:50am on Thursday 16 September 20219:40am to 10:05am on Saturday 11 September 202112:15pm to 12:53pm on Saturday 11 September 2021 |
