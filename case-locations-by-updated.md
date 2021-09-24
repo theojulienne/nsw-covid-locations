@@ -57,7 +57,7 @@
 | 23/09/2021      | Casual Contact       | Broken Hill     | Dominos Pizza Broken Hill143 Oxide Street  | 12:50pm to 1pm CST on Thursday 16 September 2021             |
 | 23/09/2021      | Casual Contact       | Bonnells Bay    | Australia Post Bonnells BayShop 1, 330 Fishery Point Road  |  3:25pm to 3:35pm on Friday 17 September 2021                |
 | 23/09/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street Bathurst | 1:05pm to 1:35pm on Monday 20 September 2021                 |
-| 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport210 Southern Cross Drive  | 8:45am to 9:15am on Saturday 18 September 2021               |
+| 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport - Arrivals Hall and Hire Car Carpark210 Southern Cross Drive  | 8:45am to 9:15am on Saturday 18 September 2021               |
 | 23/09/2021      | Casual Contact       | Anna Bay        | IGA X-Press Anna Bay118 Gan Gan Road  | 7:30am to 8am on Monday 13 September 202112:15pm to 12:45pm on Monday 13 September 20213:30pm to 4pm on Sunday 12 September 2021 |
 | 23/09/2021      | Casual Contact       | Albion Park     | Bunnings Shellharbour15 Shandan Circuit |  1:35pm to 2:05pm on Saturday 18 September 2021              |
 | 22/09/2021      | Casual Contact       | Young           | Woolworths Young263 Boorowa Street | 9:30am to 10am on Thursday 16 September 202112:05pm to 12:55pm on Thursday 16 September 2021 |

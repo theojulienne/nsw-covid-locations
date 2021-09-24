@@ -6,7 +6,7 @@
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 22/09/2021      | Casual Contact       | Anna Bay        | IGA Anna Bay118 Gan Gan Road | 7:45am to 7:55am on Monday 13 September 202112:25pm to 12:35pm on Monday 13 September 20213:35pm to 3:45pm on Sunday 12 September 2021 |
 | 23/09/2021      | Casual Contact       | Anna Bay        | IGA X-Press Anna Bay118 Gan Gan Road  | 7:30am to 8am on Monday 13 September 202112:15pm to 12:45pm on Monday 13 September 20213:30pm to 4pm on Sunday 12 September 2021 |
-| 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport210 Southern Cross Drive  | 8:45am to 9:15am on Saturday 18 September 2021               |
+| 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport - Arrivals Hall and Hire Car Carpark210 Southern Cross Drive  | 8:45am to 9:15am on Saturday 18 September 2021               |
 | 21/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 20/09/2021      | Casual Contact       | Bateau Bay      | Aldi Bateau BayShop M01, Bateau Bay Square, 12 Bay Village Road | 11:45am to 12:15pm on Wednesday 15 September 202111:15am to 12:15pm on Wednesday 8 September 20215:10pm to 5:30pm on Tuesday 7 September 202111:20am to 11:50am on Tuesday 7 September 2021 |
