@@ -20,6 +20,7 @@
 | 25/09/2021      | Casual Contact       | Nambucca Heads  | Nambucca Bakery1 Bellwood Road  | 12:45pm to 1:10pm on Friday 17 September 2021                |
 | 25/09/2021      | Casual Contact       | Montefiores     | Shell Montefiores16 Mitchell Highway | 6am to 6:30am on Thursday 23 September 2021                  |
 | 25/09/2021      | Casual Contact       | Lisarow         | Woolworths Lisarow3 Parsons Road | 5:25pm to 9pm on Sunday 19 September 2021                    |
+| 25/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4pm on Wednesday 22 September 20218am to 3pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
 | 25/09/2021      | Casual Contact       | Helensburgh     | Coles HelensburghWalker Street  |  12:00pm to 12:10pm on Sunday 19 September 2021              |
 | 25/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnCorner Auburn Street and Clifford Street | 11:45am to 1pm on Thursday 23 September 20211:55pm to 2:25pm on Wednesday 22 September 20212:35pm to 3:25pm on Sunday 19 September 20212:15pm to 3pm on Saturday 18 September 2021 |
 | 25/09/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 2:45pm to 3:25pm on Thursday 23 September 2021               |
@@ -33,6 +34,7 @@
 | 25/09/2021      | Close Contact        | Cowra           | Cowra Ballet School45 Redfern Street  |  4:30pm to 6:15pm on Friday 17 September 2021                |
 | 25/09/2021      | Casual Contact       | Cowra           | Cellarbrations Cowra10 Railway Lane  |  2:45pm to 3:15pm on Friday 17 September 2021                |
 | 25/09/2021      | Casual Contact       | Corrimal        | Service NSW CorrimalShop 8 204 Princes Highway  | 9am to 9:20am on Friday 17 September 2021                    |
+| 25/09/2021      | Casual Contact       | Cessnock        | McDonalds CessnockCorner of Allandale Road and Ferguson Street | 3pm to 11pm on Tuesday 21 September 20216am to 2pm on Monday 20 September 20219:30am to 5:30pm on Saturday 18 September 20219:30am to 5:30pm on Friday 17 September 20213pm to 11pm on Thursday 16 September 20216am to 2pm on Wednesday 15 September 20219:30am to 5:30pm on Tuesday 14 September 2021 |
 | 25/09/2021      | Casual Contact       | Broken Hill     | NAB Broken HillWestside Plaza, 7 Galena Street | 9am to 9:45am on Wednesday 8 September 2021                  |
 | 25/09/2021      | Casual Contact       | Broken Hill     | McDonald's Broken Hill Galena Street  | 7:15am to 8:15am on Thursday 23 September 2021               |
 | 25/09/2021      | Casual Contact       | Broken Hill     | Lawrence Industrial & Auto Supplies170 Argent Street  | 12:25pm to 12:45pm on Monday 20 September 202111:55am to 12:10pm on Monday 20 September 2021 |
@@ -40,6 +42,7 @@
 | 25/09/2021      | Casual Contact       | Broken Hill     | Charlotte's at the Grand317 Argent Street  |  1:10pm to 1:20pm on Monday 20 September 2021                |
 | 25/09/2021      | Casual Contact       | Broken Hill     | Blackwoods Broken Hill105-107 Argent Street  |  11:40am to 11:55am on Monday 20 September 2021              |
 | 25/09/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 9:30am to 10:15am on Wednesday 8 September 2021              |
+| 25/09/2021      | Casual Contact       | Branxton        | Coles Branxton22 Empire Street | 6am to 9am on Tuesday 21 September 2021                      |
 | 25/09/2021      | Casual Contact       | Bourke          | SPAR Bourke5 Warraweena Street | 7pm to 8pm on Thursday 23 September 2021                     |
 | 25/09/2021      | Casual Contact       | Bourke          | Franks Service Station25 Mooculta Street  | 9:55am to 10:20am on Thursday 23 September 20211pm to 1:20pm on Wednesday 22 September 202110:35am to 10:50am on Tuesday 21 September 20213:20pm to 3:50pm on Monday 20 September 2021 |
 | 25/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiWatts Lane |  12:10pm to 12:40pm on Monday 20 September 2021              |
