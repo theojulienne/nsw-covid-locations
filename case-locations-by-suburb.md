@@ -6,6 +6,9 @@
 | 17/09/2021      | Casual Contact       | Albury          | Summit Power146 Fallon Street | 11:20am to 2:30pm on Monday 13 September 2021                |
 | 23/09/2021      | Casual Contact       | Anna Bay        | IGA X-Press Anna Bay118 Gan Gan Road | 7:30am to 8am on Monday 13 September 202112:15pm to 12:45pm on Monday 13 September 20213:30pm to 4pm on Sunday 12 September 2021 |
 | 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport - Arrivals Hall and Hire Car Car Park210 Southern Cross Drive | 8:45am to 9:15am on Saturday 18 September 2021               |
+| 25/09/2021      | Casual Contact       | Ballina         | Big W BallinaCorner Kerr Street and Bangalow Road | 11am to 11:45am on Wednesday 15 September 2021               |
+| 25/09/2021      | Casual Contact       | Ballina         | Coles BallinaCorner Fox and Kerr Streets | 10:45am to 11am on Thursday 16 September 2021                |
+| 25/09/2021      | Casual Contact       | Ballina         | Northern Rivers Seafood480 River Street | 4:30pm to 4:50pm on Thursday 16 September 2021               |
 | 21/09/2021      | Casual Contact       | Balranald       | Balranald Bakery113 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 15/09/2021      | Casual Contact       | Balranald       | Balranald Pharmacy107 Market Street | 11:15am to 11:30am on Tuesday 14 September 2021              |
 | 20/09/2021      | Casual Contact       | Bateau Bay      | Aldi Bateau BayShop M01, Bateau Bay Square, 12 Bay Village Road | 11:45am to 12:15pm on Wednesday 15 September 202111:15am to 12:15pm on Wednesday 8 September 20215:10pm to 5:30pm on Tuesday 7 September 202111:20am to 11:50am on Tuesday 7 September 2021 |
@@ -49,6 +52,8 @@
 | 23/09/2021      | Casual Contact       | Broken Hill     | Sunbeam Deli Broken Hill316 Brookfield Avenue | 7:05pm to 7:10pm CST on Wednesday 15 September 2021          |
 | 22/09/2021      | Casual Contact       | Broken Hill     | Temby's Day and Night Pharmacy235 Thomas Street | 3:40pm to 4pm CST on Thursday 16 September 2021              |
 | 23/09/2021      | Casual Contact       | Broken Hill     | Woolworths Broken Hill7 Galena Street | 11:10am to 11:30am CST on Friday 17 September 20211:50pm to 3:05pm CST on Friday 17 September 20216:50pm to 7:10pm CST on Wednesday 15 September 2021 |
+| 25/09/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 9:30am to 10:15am on Wednesday 8 September 2021              |
+| 25/09/2021      | Casual Contact       | Broken Hill     | NAB Broken HillWestside Plaza, 7 Galena Street | 9am to 9:45am on Wednesday 8 September 2021                  |
 | 21/09/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue | 8:30am to 2:30pm on Thursday 16 September 20218:30am to 2:30pm on Wednesday 15 September 20219:30am to 9:45am on Wednesday 8 September 2021 |
 | 18/09/2021      | Casual Contact       | Budgewoi        | BYO Cellars Budgewoi1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
 | 18/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Cellars1/52 Tenth Avenue | 7:05pm to 7:35pm on Saturday 11 September 2021               |
@@ -143,12 +148,15 @@
 | 23/09/2021      | Casual Contact       | Gorokan         | National Australia Bank GorokanGoobarabah Avenue | 12:30pm to 1:05pm on Tuesday 14 September 2021               |
 | 14/09/2021      | Casual Contact       | Gorokan         | Shell Coles Express Gorokan67 Wallarah Road | 6:45pm to 6:55pm on Thursday 9 September 2021                |
 | 21/09/2021      | Casual Contact       | Gosford         | Chemist Warehouse Gosford125 Mann Street | 5:20pm to 5:30pm on Friday 17 September 20214:45pm to 4:55pm on Friday 17 September 2021 |
-| 24/09/2021      | Casual Contact       | Goulburn        | Blooms The Chemist Goulburn220 Auburn Street | 11:55am to 1pm on Monday 13 September 2021                   |
 | 15/09/2021      | Casual Contact       | Goulburn        | Budget Petrol GoulburnCommon Street | 8:30am to 8:35am on Monday 13 September 2021                 |
 | 24/09/2021      | Casual Contact       | Goulburn        | Coles Express Big MerinoCorner of Hume and Sowerby Street | 2:10pm to 2:20pm on Friday 17 September 2021                 |
 | 24/09/2021      | Casual Contact       | Goulburn        | Goulburn Marketplace12-20 Verner Street | 4:30pm to 4:50pm on Thursday 16 September 2021               |
 | 21/09/2021      | Casual Contact       | Goulburn        | Priceline Pharmacy GoulburnGoulburn Square, Auburn Street | 1pm to 1:45pm on Tuesday 14 September 2021                   |
-| 24/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 4:30pm to 5:30pm on Thursday 16 September 20214:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
+| 25/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 7:15pm to 8:15pm on Wednesday 22 September 20214:30pm to 5:30pm on Thursday 16 September 20214:45pm to 5:30pm on Thursday 9 September 20218:45am to 10:05am on Sunday 5 September 2021 |
+| 25/09/2021      | Casual Contact       | Goulburn        | Bakers Delight Goulburn Square217 Auburn Street | 2:15pm to 3pm on Wednesday 22 September 2021                 |
+| 25/09/2021      | Casual Contact       | Goulburn        | Blooms Chemist Goulburn304-308 Auburn Street | 11:30am to 12:15pm on Monday 13 September 2021               |
+| 25/09/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 2:45pm to 3:25pm on Thursday 23 September 2021               |
+| 25/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnCorner Auburn Street and Clifford Street | 2:15pm to 3pm on Saturday 18 September 20212:35pm to 3:25pm on Sunday 19 September 202111:45am to 1pm on Thursday 23 September 2021 |
 | 19/09/2021      | Casual Contact       | Green Point     | Coles Green PointGreen Point Village, Sun Valley Road | 6:45pm to 7:45pm on Saturday 11 September 202111:20am to 11:50am on Thursday 9 September 2021 |
 | 23/09/2021      | Casual Contact       | Gumly Gumly     | BP Gumly GumlySturt Highway | 1:15pm to 1:25pm on Sunday 19 September 2021                 |
 | 23/09/2021      | Casual Contact       | Gundagai        | Shell Coles Express Gundagai TuckerboxCorner of Hume HIghway and Sheahan Bridge | 11:50pm to 12am (midnight) on Monday 20 September 2021       |
