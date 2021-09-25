@@ -223,6 +223,7 @@
 | 23/09/2021      | Casual Contact       | San Remo        | Macchina EspressoNorthlakes Shopping Centre, Shop 5/12 Pacific Highway | 8:15am to 1:45pm on Sunday 12 September 2021                 |
 | 22/09/2021      | Casual Contact       | Shellharbour    | Coles ShellharbourStockland Shellharbour, 1 Holm Place | 12:45pm to 1:20pm on Sunday 12 September 2021                |
 | 23/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 12:05pm to 12:30pm on Saturday 18 September 2021             |
+| 25/09/2021      | Casual Contact       | Singleton       | Imperial Hotel Singleton (bar and gaming area only)183-185 John Street | 12:15pm to 12:45pm on Sunday 19 September 2021               |
 | 22/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 8:30am to 12pm (noon) on Thursday 16 September 2021          |
 | 20/09/2021      | Casual Contact       | South Nowra     | Subway South Nowra190 Princes Highway | 12pm (noon) to 12:40pm on Wednesday 15 September 2021        |
 | 16/09/2021      | Casual Contact       | Tamworth        | Pickles Auctions Tamworth37-39 Armstrong Street | 8:55am to 9am on Wednesday 15 September 2021                 |
@@ -297,7 +298,6 @@
 | 25/09/2021      | Casual Contact       | Young           | Aldi Young11 Zouch Street | 1:15pm to 2:15pm on Tuesday 21 September 2021                |
 | 25/09/2021      | Casual Contact       | Young           | Base Warehouse200 Boorowa Street | 11am to 11:30am on Monday 20 September 2021                  |
 | 20/09/2021      | Casual Contact       | Young           | Bunnings Young288 Boorowa Street | 11:10am to 11:45am on Monday 20 September 20212:40pm to 2:50pm on Thursday 16 September 202112:25pm to 12:35pm on Saturday 11 September 202112:15pm to 1pm on Wednesday 8 September 2021 |
-| 25/09/2021      | Casual Contact       | Young           | Hussy Cafe35 Main Street  | 11:15am to 11:30am on Monday 20 September 2021               |
 | 20/09/2021      | Casual Contact       | Young           | J and L Pet Shop105 Main Street | 2:40pm to 2:50pm on Monday 13 September 2021                 |
 | 18/09/2021      | Casual Contact       | Young           | KFC Young24 Zouch Street  | 12pm (noon) to 3pm on Saturday 11 September 20214pm to 9:30pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Young           | Keith Simmons Engineering169 Lovell Street | 12:45pm to 12:55pm on Saturday 11 September 2021             |

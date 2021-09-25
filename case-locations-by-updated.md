@@ -1,10 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 25/09/2021      | Casual Contact       | Young           | PJS Fast Food21 Zouch Street | 12:05pm to 12:45pm on Tuesday 21 September 20218:10pm to 8:55pm on Tuesday 21 September 2021 |
-| 25/09/2021      | Casual Contact       | Young           | Hussy Cafe35 Main Street  | 11:15am to 11:30am on Monday 20 September 2021               |
 | 25/09/2021      | Casual Contact       | Young           | Base Warehouse200 Boorowa Street | 11am to 11:30am on Monday 20 September 2021                  |
 | 25/09/2021      | Casual Contact       | Young           | Aldi Young11 Zouch Street | 1:15pm to 2:15pm on Tuesday 21 September 2021                |
 | 25/09/2021      | Casual Contact       | Young           | ANZ Young147 Boorowa Street | 1:20pm to 1:50pm on Friday 17 September 20212:30pm to 3:50pm on Friday 17 September 2021 |
+| 25/09/2021      | Casual Contact       | Singleton       | Imperial Hotel Singleton (bar and gaming area only)183-185 John Street | 12:15pm to 12:45pm on Sunday 19 September 2021               |
 | 25/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnCorner Auburn Street and Clifford Street | 2:15pm to 3pm on Saturday 18 September 20212:35pm to 3:25pm on Sunday 19 September 202111:45am to 1pm on Thursday 23 September 2021 |
 | 25/09/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 2:45pm to 3:25pm on Thursday 23 September 2021               |
 | 25/09/2021      | Casual Contact       | Goulburn        | Blooms Chemist Goulburn304-308 Auburn Street | 11:30am to 12:15pm on Monday 13 September 2021               |
