@@ -70,6 +70,7 @@
 | 22/09/2021      | Casual Contact       | Casuarina       | Casuarina Health and Lifestyle Pharmacy10/482 Casuarina Way | 2:15pm to 2:30pm on Saturday 18 September 2021               |
 | 25/09/2021      | Casual Contact       | Cessnock        | McDonalds CessnockCorner of Allandale Road and Ferguson Street | 3pm to 11pm on Tuesday 21 September 20216am to 2pm on Monday 20 September 20219:30am to 5:30pm on Saturday 18 September 20219:30am to 5:30pm on Friday 17 September 20213pm to 11pm on Thursday 16 September 20216am to 2pm on Wednesday 15 September 20219:30am to 5:30pm on Tuesday 14 September 2021 |
 | 23/09/2021      | Casual Contact       | Charlestown     | Australia Post Charlestown46 Pearson Street | 8:55am to 9:10am on Wednesday 15 September 2021              |
+| 27/09/2021      | Casual Contact       | Charlestown     | Chemist Warehouse Charlestown196 Pacific Highway | 6:25pm to 6:45pm on Wednesday 22 September 20217:40pm to 7:55pm on Monday 20 September 2021 |
 | 21/09/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner of Chelmsford Road and Pacific Highway | 2:05pm to 2:20pm on Friday 17 September 202110:15am to 11:30am on Friday 17 September 2021 |
 | 23/09/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenPacific Highway | 2:05pm to 2:20pm on Friday 17 September 202110:15am to 11:30am on Friday 17 September 2021 |
 | 23/09/2021      | Casual Contact       | Como            | Como StationRailway Road  | 6am to 3pm on Friday 17 September 2021                       |
@@ -227,7 +228,7 @@
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Laser Clinics Australia Port MacquarieSettlement City, Corner of Park and Bay Streets | 1:40pm to 2:20pm on Saturday 18 September 2021               |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | P'Chi for SwimwearPort Central Shopping Centre, 40-42 Horton Street | 1:05pm to 1:20pm on Sunday 19 September 2021                 |
 | 25/09/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Airport99 Boundary Street | 8:30am to 10:05am on Tuesday 21 September 2021               |
-| 26/09/2021      | Casual Contact       | Port Macquarie  | Priceline Pharmacy Port Macquarie36 Horton Street | 12:35pm to 1pm on Saturday 18 September 202111:15am to 11:45am on Friday 17 September 20213:15pm to 3:45pm on Friday 17 September 2021 |
+| 26/09/2021      | Casual Contact       | Port Macquarie  | Priceline Pharmacy Port Macquarie36 Horton Street | 12:35pm to 1pm on Saturday 18 September 20213:15pm to 3:45pm on Friday 17 September 202111:15am to 11:45am on Friday 17 September 2021 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Ricardoes Tomatoes and Strawberries221 Blackmans Point Road | 11:10am to 12:15pm on Wednesday 22 September 2021            |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Settlement City Shopping CentreCorner Park and Bay Streets | 12:45pm to 1:45pm on Wednesday 22 September 2021             |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Sportsgirl Port MacquariePort Central Shopping Centre, 40-42 Horton Street | 11:15am to 11:45am on Saturday 18 September 2021             |

@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 27/09/2021      | Casual Contact       | Charlestown     | Chemist Warehouse Charlestown196 Pacific Highway | 6:25pm to 6:45pm on Wednesday 22 September 20217:40pm to 7:55pm on Monday 20 September 2021 |
 | 27/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 4:45pm to 5:45pm on Tuesday 21 September 2021                |
 | 26/09/2021      | Casual Contact       | Young           | The Base Warehouse200 Boorowa Street | 11am to 11:30am on Monday 20 September 2021                  |
 | 26/09/2021      | Casual Contact       | Wyoming         | Coles WyomingWyoming Shopping Centre, Pacific Highway | 6:40am to 7:10am on Friday 17 September 202112:10pm to 12:35pm on Sunday 12 September 20217:15pm to 7:30pm on Friday 10 September 2021 |
@@ -27,7 +28,7 @@
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Sportsgirl Port MacquariePort Central Shopping Centre, 40-42 Horton Street | 11:15am to 11:45am on Saturday 18 September 2021             |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Settlement City Shopping CentreCorner Park and Bay Streets | 12:45pm to 1:45pm on Wednesday 22 September 2021             |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Ricardoes Tomatoes and Strawberries221 Blackmans Point Road | 11:10am to 12:15pm on Wednesday 22 September 2021            |
-| 26/09/2021      | Casual Contact       | Port Macquarie  | Priceline Pharmacy Port Macquarie36 Horton Street | 12:35pm to 1pm on Saturday 18 September 202111:15am to 11:45am on Friday 17 September 20213:15pm to 3:45pm on Friday 17 September 2021 |
+| 26/09/2021      | Casual Contact       | Port Macquarie  | Priceline Pharmacy Port Macquarie36 Horton Street | 12:35pm to 1pm on Saturday 18 September 20213:15pm to 3:45pm on Friday 17 September 202111:15am to 11:45am on Friday 17 September 2021 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | P'Chi for SwimwearPort Central Shopping Centre, 40-42 Horton Street | 1:05pm to 1:20pm on Sunday 19 September 2021                 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Laser Clinics Australia Port MacquarieSettlement City, Corner of Park and Bay Streets | 1:40pm to 2:20pm on Saturday 18 September 2021               |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Ki-ea Apartments Port Macquarie67 William Street | All day on Wednesday 22 September 2021All day on Tuesday 21 September 2021All day on Monday 20 September 2021All day on Sunday 19 September 2021All day on Saturday 18 September 2021All day on Friday 17 September 2021 |
