@@ -14,7 +14,9 @@
 | 28/09/2021      | Casual Contact       | Queanbeyan      | Amcal+ Pharmacy Queanbeyan23 Antill Street | 11:20am to 12:10pm on Friday 24 September 2021               |
 | 28/09/2021      | Casual Contact       | Queanbeyan      | Aldi Queanbeyan134-136 Crawford Street | 6:20pm to 7pm on Thursday 23 September 20213pm to 4pm on Tuesday 21 September 20218:45am to 9:30am on Thursday 16 September 2021 |
 | 28/09/2021      | Casual Contact       | Oberon          | Foodworks Oberon114 Oberon Street | 3:45pm to 10:55am on Monday 24 September 2012                |
-| 28/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4:30pm on Wednesday 22 September 20218am to 4:30pm on Tuesday 21 September 20218:10am to 4:05pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
+| 28/09/2021      | Casual Contact       | Muswellbrook    | McDonalds Muswellbrook83 Maitland Street | 2:05pm to 2:45pm on Thursday 23 September 2021               |
+| 28/09/2021      | Casual Contact       | Muswellbrook    | Game On Muswellbrook5 Mill Street | 1pm to 3pm on Thursday 23 September 2021                     |
+| 28/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4:30pm on Thursday 23 September 20218am to 4:30pm on Tuesday 21 September 20218:10am to 4:05pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
 | 28/09/2021      | Casual Contact       | Kiama           | Kiama Fair Newsagency KiamaShop 4, 143 Terralong Street  |  10:35am to 10:45am on Sunday 19 September 2021              |
 | 28/09/2021      | Casual Contact       | Jesmond         | BWS Jesmond24-26 Blue Gum Road | 1pm to 7:35pm on Friday 24 September 202110:25am to 12:05pm on Friday 24 September 20214pm to 8:05pm on Thursday 23 September 2021 |
 | 28/09/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 1:20pm to 1:55pm on Friday 24 September 202110:50am to 11:20am on Thursday 23 September 20211:50pm to 4:10pm on Thursday 23 September 20217:15pm to 8:15pm on Wednesday 22 September 20212:50pm to 4:30pm on Monday 20 September 20214:30pm to 5:30pm on Thursday 16 September 20214:45pm to 5:30pm on Thursday 9 September 2021 |
@@ -354,7 +356,7 @@
 | 27/08/2021      | Casual Contact       | Muswellbrook    | Pharmacy Select MuswellbrookShop 4, Muswellbrook Fair Shopping Centre, 19-29 Rutherford Road | 11am to 11:15am on Thursday 23 September 202112pm (noon) to 12:20pm on Wednesday 22 September 2021 |
 | 27/08/2021      | Casual Contact       | Milton          | Terry White Chemmart Milton75 Princes Highway  | 9:10am to 9:35am on Friday 17 September 2021                 |
 | 27/08/2021      | Casual Contact       | Lake Illawarra  | Mitchells Market Lake IllawarraShop 10-11, Warilla Grove, Shopping Centre Warilla | 11:30am to 11:40am on Saturday 18 September 2021             |
-| 27/08/2021      | Casual Contact       | Kurri Kurri     | Aldi Kurri Kurri106-112 Barton Street  | 4:50pm to 5:30pm on Wednesday 22 September 20214:50pm to 5:40pm on Wednesday 22 September 2021 |
+| 27/08/2021      | Casual Contact       | Kurri Kurri     | Aldi Kurri Kurri106-112 Barton Street  | 4:50pm to 5:40pm on Wednesday 22 September 2021              |
 | 27/08/2021      | Casual Contact       | Goulburn        | Shell Coles Express Goulburn Big Merino1, 3 Sowerby Street  | 3pm to 3:10pm on Thursday 23 September 2021                  |
 | 27/08/2021      | Casual Contact       | Fletcher        | Aldi FletcherMinmi Road   | 1:40pm to 2:35pm on Sunday 19 September 2021                 |
 | 27/08/2021      | Casual Contact       | Figtree         | Blooms The Chemist FigtreeShop 12, 15 Figtree Crescent  | 2pm to 2:10pm on Sunday 19 September 2021                    |
