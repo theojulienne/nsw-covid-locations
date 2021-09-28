@@ -72,7 +72,7 @@
 | 22/09/2021      | Casual Contact       | Byron Bay       | iKOU Byron Bay1/8 Lawson Street | 11am to 12:30pm on Saturday 18 September 2021                |
 | 27/09/2021      | Casual Contact       | Canowindra      | Canowindra Pharmacy79 Gaskill Street | 2:45pm to 3pm on Wednesday 22 September 2021                 |
 | 27/09/2021      | Casual Contact       | Canowindra      | FoodWorks Canowindra94 Gaskill Street | 2:30pm to 3:05pm on Thursday 23 September 20215:05pm to 5:35pm on Monday 20 September 2021 |
-| 28/09/2021      | Casual Contact       | Canowindra      | Synergy Hair Canowindra63 Gaskill Street  |  4:30pm to 5:30pm on Monday 20 September 2021                |
+| 28/09/2021      | Casual Contact       | Canowindra      | Synergy Hair Canowindra90 Gaskill Street  |  4:30pm to 5:30pm on Monday 20 September 2021                |
 | 27/09/2021      | Casual Contact       | Cardiff         | Australia Post Cardiff337a Main Road | 1:40pm to 2:50pm on Monday 20 September 2021                 |
 | 22/09/2021      | Casual Contact       | Casuarina       | Casuarina Health and Lifestyle Pharmacy10/482 Casuarina Way | 2:15pm to 2:30pm on Saturday 18 September 2021               |
 | 25/09/2021      | Casual Contact       | Cessnock        | McDonalds CessnockCorner of Allandale Road and Ferguson Street | 3pm to 11pm on Tuesday 21 September 20216am to 2pm on Monday 20 September 20219:30am to 5:30pm on Saturday 18 September 20219:30am to 5:30pm on Friday 17 September 20213pm to 11pm on Thursday 16 September 20216am to 2pm on Wednesday 15 September 20219:30am to 5:30pm on Tuesday 14 September 2021 |
@@ -132,6 +132,7 @@
 | 27/08/2021      | Casual Contact       | Figtree         | Blooms The Chemist FigtreeShop 12, 15 Figtree Crescent  | 2pm to 2:10pm on Sunday 19 September 2021                    |
 | 21/09/2021      | Casual Contact       | Figtree         | Coles FigtreeFigtree Grove Shopping Centre, The Avenue | 9:30am to 10am on Friday 17 September 2021                   |
 | 27/08/2021      | Casual Contact       | Fletcher        | Aldi FletcherMinmi Road   | 1:40pm to 2:35pm on Sunday 19 September 2021                 |
+| 28/09/2021      | Casual Contact       | Georgetown      | Vinny's Takeaway Georgetown41 Georgetown Road | 4:30pm to 7:30pm on Saturday 25 September 202110am to 2pm on Saturday 25 September 202110am to 11am on Thursday 23 September 20214:30pm to 5:30pm on Wednesday 22 September 202110am to 1:30pm on Wednesday 22 September 2021 |
 | 25/09/2021      | Casual Contact       | Geurie          | BP PitStop GarageMitchell Highway | 3:30pm to 4pm on Thursday 23 September 20213pm to 3:30pm on Tuesday 21 September 2021 |
 | 25/09/2021      | Casual Contact       | Gilgandra       | SUPA IGA Plus Liquor Gilgandra43-45 Miller Street | 9am to 9:10am on Monday 20 September 2021                    |
 | 23/09/2021      | Casual Contact       | Gillenbah       | Caltex Narrandera1 Newell Highway | 5pm to 5:20pm on Sunday 19 September 2021                    |
@@ -239,6 +240,7 @@
 | 22/09/2021      | Casual Contact       | Nowra           | Coles NowraNowra Mall, Junction Street | 1:50pm to 2:10pm on Tuesday 14 September 2021                |
 | 27/09/2021      | Casual Contact       | Nowra           | Dan Murphy's NowraKalandar Street | 1:35pm to 1:40pm on Thursday 23 September 2021               |
 | 27/08/2021      | Casual Contact       | Oak Flats       | Oak Flats Pharmacy64 Central Avenue  | 4:50pm to 5:20pm on Tuesday 14 September 2021                |
+| 28/09/2021      | Casual Contact       | Oberon          | Foodworks Oberon114 Oberon Street | 3:45pm to 10:55am on Monday 24 September 2012                |
 | 23/09/2021      | Casual Contact       | Orange          | 7-Eleven Orange68 Molong Road | 12:40pm to 12:50pm on Wednesday 15 September 2021            |
 | 27/09/2021      | Casual Contact       | Orange          | Ashcrofts SUPA IGA Orange - Peisley Street210 Peisley Street | 3:35pm to 3:45pm on Friday 24 September 2021                 |
 | 23/09/2021      | Casual Contact       | Orange          | Ashcrofts SUPA IGA OrangeSummer Centre Shopping Centre, 88 Summer Street | 11:40am to 11:50am on Wednesday 15 September 2021            |
@@ -279,6 +281,7 @@
 | 26/09/2021      | Casual Contact       | Shellharbour    | ANZ ShellharbourShop 3  211 Lake Entrance Road | 12:35pm to 12:45pm on Wednesday 22 September 2021            |
 | 27/08/2021      | Casual Contact       | Shellharbour    | Shellharbour Village Pharmacy1, 9 Addison Street  | 1:30pm to 2pm on Tuesday 14 September 2021                   |
 | 23/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 12:05pm to 12:30pm on Saturday 18 September 2021             |
+| 28/09/2021      | Casual Contact       | Singleton       | Anytime Fitness Singleton1/19 Ryan Avenue | 9:20am to 10:55am on Wednesday 22 September 2021             |
 | 25/09/2021      | Casual Contact       | Singleton       | Imperial Hotel Singleton (bar and gaming area only)183-185 John Street | 12:15pm to 12:45pm on Sunday 19 September 2021               |
 | 22/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 8:30am to 12pm (noon) on Thursday 16 September 2021          |
 | 26/09/2021      | Casual Contact       | South Nowra     | PETstock South Nowra2/142 Princes Highway  | 9am to 9:35am on Wednesday 15 September 2021                 |
