@@ -190,7 +190,7 @@
 | 22/09/2021      | Casual Contact       | Kingscliff      | Saltbean Cafe12 Bells Boulevard | 7:40am to 8am on Monday 20 September 20217:40am to 8am on Sunday 19 September 202110:15am to 10:45am on Sunday 19 September 2021 |
 | 27/08/2021      | Casual Contact       | Kurri Kurri     | Aldi Kurri Kurri106-112 Barton Street  | 4:50pm to 5:30pm on Wednesday 22 September 20214:50pm to 5:40pm on Wednesday 22 September 2021 |
 | 24/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259-277 Lang Street | 5am to 2pm on Sunday 19 September 2021                       |
-| 25/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4pm on Wednesday 22 September 20218am to 3pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
+| 25/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4:30pm on Wednesday 22 September 20218am to 4:30pm on Wednesday 22 September 20218:10am to 4:05pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
 | 21/09/2021      | Casual Contact       | Lake Haven      | Aldi Lake HavenLake Haven Shopping Centre, Lake Haven Drive | 6:30pm to 7:10pm on Thursday 16 September 20214:30pm to 5:30pm on Friday 10 September 2021 |
 | 20/09/2021      | Casual Contact       | Lake Haven      | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 6:50pm to 8pm on Thursday 16 September 20218:10pm to 8:50pm on Thursday 9 September 2021 |
 | 20/09/2021      | Casual Contact       | Lake Haven      | Hungry Jacks Lake HavenLake Haven Business Park, Bannister Drive | 5pm to 8pm on Tuesday 14 September 2021                      |

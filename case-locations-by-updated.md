@@ -136,7 +136,7 @@
 | 25/09/2021      | Casual Contact       | Narara          | The Bottle-O Narara16 Deane Street | 4:30pm to 4:45pm on Tuesday 21 September 2021                |
 | 25/09/2021      | Casual Contact       | Nambucca Heads  | Nambucca Plaza2191 Giinagay Way | 12:45pm to 1:15pm on Friday 17 September 2021                |
 | 25/09/2021      | Casual Contact       | Nambucca Heads  | Nambucca Bakery1 Bellwood Road | 12:45pm to 1:10pm on Friday 17 September 2021                |
-| 25/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4pm on Wednesday 22 September 20218am to 3pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
+| 25/09/2021      | Casual Contact       | Kurri Kurri     | McDonalds Kurri Kurri3/7 Tarro Street | 8am to 4:30pm on Wednesday 22 September 20218am to 4:30pm on Wednesday 22 September 20218:10am to 4:05pm on Monday 20 September 202111:30am to 4pm on Thursday 16 September 2021 |
 | 25/09/2021      | Casual Contact       | Helensburgh     | Coles HelensburghWalker Street | 12pm (noon) to 12:10pm on Sunday 19 September 2021           |
 | 25/09/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 2:45pm to 3:25pm on Thursday 23 September 2021               |
 | 25/09/2021      | Casual Contact       | Goulburn        | Bakers Delight GoulburnGoulburn Square, 217 Auburn Street | 2:15pm to 3pm on Wednesday 22 September 2021                 |
