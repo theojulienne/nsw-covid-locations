@@ -193,7 +193,7 @@
 | 17/09/2021      | Casual Contact       | Lavington       | BP Lavington3 Travelstop Way | 7:30pm to 8pm on Thursday 16 September 20217:30pm to 8pm on Wednesday 8 September 2021 |
 | 20/09/2021      | Casual Contact       | Lavington       | Coles LavingtonCnr Griffith Road and Urana Road | 7am to 7:20am on Wednesday 15 September 2021                 |
 | 29/09/2021      | Casual Contact       | Lisarow         | Coles LisarowLisarow Plaza, 11 Parsons Road | 8:10am to 9:25am on Sunday 19 September 2021                 |
-| 26/09/2021      | Casual Contact       | Lisarow         | Woolworths Lisarow3 Parsons Road | 2:50pm to 10pm on Tuesday 21 September 20215:25pm to 10pm on Monday 20 September 20217:15am to 8:20am on Sunday 19 September 20215:25pm to 10pm on Sunday 19 September 2021 |
+| 29/09/2021      | Casual Contact       | Lisarow         | Woolworths Lisarow3 Parsons Road | 2:50pm to 10pm on Tuesday 21 September 20215:25pm to 10pm on Monday 20 September 20217:15am to 8:20am on Sunday 19 September 20215:25pm to 10pm on Sunday 19 September 2021 |
 | 23/09/2021      | Casual Contact       | Mayfield        | Mayfield Laundromat292 Maitland Road | 6am to 9pm on Sunday 19 September 2021                       |
 | 21/09/2021      | Casual Contact       | Mayfield        | Subway Mayfield109-111 Maitland Road | 6:35pm to 6:55pm on Wednesday 15 September 2021              |
 | 22/09/2021      | Casual Contact       | Milton          | IGA Plus Liquor Milton84-86 Princes Highway | 8:45am to 8:54am on Friday 17 September 2021                 |
@@ -291,7 +291,7 @@
 | 21/09/2021      | Casual Contact       | Toukley         | Service NSW Toukley325 Main Road | 9:55am to 10:20am on Friday 17 September 20213pm to 3:35pm on Friday 10 September 2021 |
 | 29/09/2021      | Casual Contact       | Tuggerah        | Service NSW TuggerahTuggerah Super Centre, Shop 15/2 Bryant Drive | 2:35pm to 3:10pm on Thursday 23 September 2021               |
 | 24/09/2021      | Casual Contact       | Tuggerah        | Terry White Chemmart TuggerahWestfield Tuggerah, Wyong Road | 11:05am to 11:40am on Saturday 18 September 2021             |
-| 29/09/2021      | Casual Contact       | Umina           | Woolworths Umina261-275 Trafalgar Street Corner West Street | 1:45pm to 2pm on Monday 20 September 2021                    |
+| 29/09/2021      | Casual Contact       | Umina           | Woolworths Umina261-275 Trafalgar Street Corner West Street | 1:35pm to 2pm on Monday 20 September 2021                    |
 | 25/09/2021      | Casual Contact       | Umina Beach     | Aldi Umina310 Trafalgar Avenue | 3pm to 4pm on Friday 17 September 2021                       |
 | 21/09/2021      | Casual Contact       | Umina Beach     | BWS Umina309 Trafalgar Avenue | 1:15pm to 1:30pm on Friday 17 September 2021                 |
 | 28/09/2021      | Casual Contact       | Unanderra       | Country Grocer Unanderra1/130 Princes Highway | 4:30am to 2pm on Saturday 18 September 20214:15am to 10am on Thursday 16 September 20217am to 6pm on Wednesday 15 September 20217am to 2pm on Tuesday 14 September 20214:15am to 6:30pm on Monday 13 September 2021 |
