@@ -1,6 +1,5 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 01/10/2021      | Casual Contact       | Albion Park     | Albion Park Cakes and PiesAlbion Park Rail | 10:25am to 11am on Wednesday 29 September 20216:35am to 7:10am on Monday 27 September 2021 |
 | 26/09/2021      | Casual Contact       | Albion Park     | Aldi Albion Park Rail10 Ash Avenue | 6:42pm to 6:55pm on Monday 20 September 20219am to 9:15am on Sunday 19 September 2021 |
 | 26/09/2021      | Casual Contact       | Albion Park     | Bunnings Shellharbour15 Shandan Circuit | 12:20pm to 1:05pm on Tuesday 28 September 20216:54pm to 7:10pm on Monday 20 September 20211:35pm to 2:05pm on Saturday 18 September 2021 |
 | 01/10/2021      | Casual Contact       | Albion Park     | Cellarbrations Albion ParkTerry Street | 10:30am to 10:35am on Saturday 18 September 2021             |
@@ -8,6 +7,7 @@
 | 01/10/2021      | Casual Contact       | Albion Park     | Oporto Albion Park47 Princes Highway | 7pm to 7:40pm on Wednesday 29 September 2021                 |
 | 29/09/2021      | Casual Contact       | Albion Park     | Regal Cellars Albion Park6/7 Sophia Street | 3:30pm to 3:35pm on Saturday 18 September 2021               |
 | 29/09/2021      | Casual Contact       | Albion Park     | Woolworths Albion ParkCorner of Russell Street and Terry Street | 3:45pm to 4:30pm on Monday 20 September 2021                 |
+| 01/10/2021      | Casual Contact       | Albion Park Rail | Albion Park Cakes and PiesAlbion Park Rail | 10:25am to 11am on Wednesday 29 September 20216:35am to 7:10am on Monday 27 September 2021 |
 | 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport - Arrivals Hall and Hire Car Car Park210 Southern Cross Drive | 8:45am to 9:15am on Saturday 18 September 2021               |
 | 29/09/2021      | Casual Contact       | Ballina         | Webster Surfboards1/13 Clark Street | 3:10pm to 3:20pm on Monday 27 September 2021                 |
 | 29/09/2021      | Casual Contact       | Bargo           | Khan's Supa IGA Bargo90 Railside Avenue | 4:20pm to 8:20pm on Monday 20 September 2021                 |
@@ -24,6 +24,7 @@
 | 01/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst210 Howick Street | 4:20pm to 4:50pm on Sunday 26 September 2021                 |
 | 26/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiWatts Lane | 12:10pm to 12:40pm on Monday 20 September 202111am to 7pm on Sunday 19 September 2021 |
 | 29/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 12pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
+| 01/10/2021      | Casual Contact       | Belmont         | Commonwealth Bank Belmont594 Pacific Highway | 9:30am to 10:30am on Monday 27 September 2021                |
 | 27/09/2021      | Casual Contact       | Bennetts Green  | Bunnings Bennetts Green20 Pacific Highway | 3:25pm to 4:05pm on Tuesday 21 September 2021                |
 | 01/10/2021      | Casual Contact       | Beresfield      | Greater Bank Beresfield25 Lawson Avenue | 10:25am to 10:50am on Friday 24 September 2021               |
 | 27/09/2021      | Casual Contact       | Beresfield      | Hungry Jacks Beresfield2 Kinta Drive | 4:40am to 2:45pm on Friday 24 September 20213:45am to 12:35pm on Thursday 23 September 2021 |
@@ -154,7 +155,6 @@
 | 23/09/2021      | Casual Contact       | Gillenbah       | Caltex Narrandera1 Newell Highway | 5pm to 5:20pm on Sunday 19 September 2021                    |
 | 22/09/2021      | Casual Contact       | Glendale        | Bunnings GlendaleT C Frith Avenue | 3pm to 3:50pm on Saturday 18 September 2021                  |
 | 30/09/2021      | Casual Contact       | Gloucester      | IGA Liquor Gloucester84 Church Street | 5pm to 5:15pm on Thursday 23 September 2021                  |
-| 01/10/2021      | Casual Contact       | Gloucester      | Loveys Grocers IGA84 Church Street | 5pm to 5:10pm on Thursday 23 September 2021                  |
 | 30/09/2021      | Casual Contact       | Gloucester      | Round About Inn28 Church Street | 5:30pm to 8:30pm on Thursday 23 September 202111:30am to 2:30pm on Thursday 23 September 20215:30pm to 8:30pm on Wednesday 22 September 202111:30am to 2:30pm on Wednesday 22 September 2021 |
 | 29/09/2021      | Casual Contact       | Googong         | Aqualounge Cafe and Takeaway27 Beltana Avenue | 11:15am to 12pm (noon) on Saturday 25 September 2021         |
 | 29/09/2021      | Casual Contact       | Googong         | Cannons IGA GoogongAprasia Avenue | 10:05am to 10:35am on Saturday 25 September 2021             |
