@@ -26,7 +26,6 @@
 | 02/10/2021      | Casual Contact       | Queanbeyan      | Ampol QueanbeyanLanyon Drive, Queanbeyan West | 10:35am to  11:15am on Saturday 25 September 2021            |
 | 02/10/2021      | Casual Contact       | Oberon          | Service NSW Oberon137 Oberon Street | 12:35pm to 1pm on Wednesday 29 September 2021                |
 | 02/10/2021      | Casual Contact       | Oberon          | Oberon Pharmacy135 Oberon Street | 4:25pm to 4:50pm on Monday 27 September 2021                 |
-| 02/10/2021      | Casual Contact       | Newcastle West  | Docs MegaSave Pharmacy Newcastle WestShop 9/23 Steel Street | 8am to 8:50am on Monday 27 September 2021                    |
 | 02/10/2021      | Casual Contact       | Mudgee          | Coles MudgeeTown Centre, Mortimer Street | 3:30pm to 3:45pm on Tuesday 28 September 20217:05pm to 7:35pm on Sunday 26 September 2021 |
 | 02/10/2021      | Casual Contact       | Mudgee          | Caltex Mudgee114/116 Church Street | 7pm to 7:10pm on Sunday 26 September 2021                    |
 | 02/10/2021      | Casual Contact       | Moama           | Woolworths MoamaCorner Cobb Highway and Perricoota Road | 6:10pm to 7:10pm on Friday 24 September 2021                 |

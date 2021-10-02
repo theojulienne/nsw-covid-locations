@@ -272,7 +272,6 @@
 | 27/09/2021      | Casual Contact       | Newcastle       | Newcastle Central Plaza741 Hunter Street | All day on Monday 27 September 2021All day on Sunday 26 September 2021All day on Saturday 25 September 2021All day on Friday 24 September 2021All day on Thursday 23 September 2021All day on Wednesday 22 September 2021All day on Tuesday 21 September 2021 |
 | 29/09/2021      | Casual Contact       | Newcastle       | Newcastle Courthouse2.1, 343 Hunter Street | 8:30am to 4:30pm on Friday 24 September 2021                 |
 | 25/09/2021      | Casual Contact       | Newcastle East  | Noah's on the Beach29 Zaara Street | 10:20am to 2pm on Monday 20 September 2021                   |
-| 02/10/2021      | Casual Contact       | Newcastle West  | Docs MegaSave Pharmacy Newcastle WestShop 9/23 Steel Street | 8am to 8:50am on Monday 27 September 2021                    |
 | 30/09/2021      | Casual Contact       | North Batemans Bay | BIG4 Batemans Bay at Easts Riverside Holiday ParkWharf Road | 12am (midnight) to 6:15am on Friday 24 September 20214:45pm to 12am (midnight) on Thursday 23 September 2021 |
 | 30/09/2021      | Casual Contact       | North Batemans Bay | Wray Street Oyster Shed5 Wray Street | 10:45am to 12pm (noon) on Thursday 23 September 2021         |
 | 01/10/2021      | Casual Contact       | Nowra           | Aldi Nowra8/16 Kinghorne Street | 4:20pm to 4:35pm on Tuesday 28 September 202112:30pm to 1pm on Monday 27 September 2021 |
