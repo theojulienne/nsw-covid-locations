@@ -1,5 +1,26 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 02/10/2021      | Casual Contact       | Thredbo         | Thredbo Bakery24 Diggings Terrace | 10:15am to  3:45pm on Monday 27 September 2021               |
+| 02/10/2021      | Casual Contact       | Sutton          | The Baker at Sutton1 Victoria Street | 9:45am to  10:25am on Monday 27 September 2021               |
+| 02/10/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford Street and Antill Street | 2:30pm to 3:30pm on Monday 27 September 202110:15am to 11:30am on Sunday 26 September 202112:05pm to  12:45pm on Sunday 26 September 20212:10pm to 3:30pm on Saturday 25 September 202111:25am to 12pm (noon) on Friday 24 September 20217:10pm to 7:45pm on Thursday 23 September 20213:45pm to 4:30pm on Tuesday 21 September 20211:45pm to 3pm on Saturday 18 September 20219:30am to 10:15am on Monday 13 September 20216:15am to 7:10am on Friday 10 September 2021 |
+| 02/10/2021      | Casual Contact       | Queanbeyan      | The Reject Shop QueanbeyanRiverside Shopping Centre, 131 Monaro Street | 11am to 11:55am on Sunday 26 September 202112pm to  12:40pm on Saturday 25 September 2021 |
+| 02/10/2021      | Casual Contact       | Queanbeyan      | Hotel Queanbeyan Pub and Bottle Mart59 Crawford Street | 8am to  10pm on Sunday 26 September 20218am to  10pm on Saturday 25 September 2021 |
+| 02/10/2021      | Casual Contact       | Queanbeyan      | Chemist Warehouse Queanbeyan3/6 Bungendore Road | 11:55am to  12:30pm on Sunday 26 September 2021              |
+| 02/10/2021      | Casual Contact       | Queanbeyan      | Ampol QueanbeyanLanyon Drive, Queanbeyan West | 10:35am to  11:15am on Saturday 25 September 2021            |
+| 02/10/2021      | Casual Contact       | Marulan         | BP Marulan15666 Hume Highway | 10:25pm to  11:10pm on Sunday 26 September 2021              |
+| 02/10/2021      | Casual Contact       | Karabar         | Super IGA KarabarCorner Cooma and Southbar Roads | 12:45pm to  1:15pm on Monday 27 September 202111:15am to  12:15pm on Sunday 26 September 2021 |
+| 02/10/2021      | Casual Contact       | Karabar         | Blooms Chemist KarabarKarabar Shopping Mall, 34 Queenbar Road | 11:45am to  12:20pm on Sunday 26 September 2021              |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Sundance Bakehouse Jindabyne6 Kosciuszko Road | 11:05am to  11:40am on Tuesday 28 September 2021             |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Mitre 10 Jindabyne3 Snowy River Avenue | 12:10pm to  12:30pm on Wednesday 29 September 202110:55am to  11:55am on Monday 27 September 2021 |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Metro Petroleum (East Jindabyne Service Station)5332 Kosciuszko Road | 9:10am to  9:50am on Tuesday 28 September 2021               |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Lake Jindabyne Hotel21 McLure Circuit | 9:15pm to 10:45pm on Monday 27 September 202111:50am to  5:15pm on Saturday 25 September 2021 |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Coffee Beats Drinks (CBD) Jindabyne31 Kosciusko Road | 11:15am to  12:10pm on Wednesday 29 September 2021           |
+| 02/10/2021      | Casual Contact       | Jindabyne       | Bowling and Sports Club Jindabyne2 Bay Street | 6:15pm to  8:15pm on Monday 27 September 2021                |
+| 02/10/2021      | Casual Contact       | Jerrabomberra   | Woolworths Jerrabomberra2 Limestone Drive | 7:35am to  8:35am on Monday 27 September 202111:15am to  12:15pm on Sunday 26 September 20219:35am to  11am on Saturday 25 September 2021 |
+| 02/10/2021      | Casual Contact       | Goulburn        | Mobil Goulburn129 Lagoon Street | 9:35am to  10:15am on Tuesday 28 September 2021              |
+| 02/10/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, Corner of Auburn Street and Clifford Street | 6pm to  6:55pm on Wednesday 29 September 20219:45am to  10:30am on Tuesday 28 September 20216:40am to 7:10am on Thursday 23 September 202111:45am to 1pm on Thursday 23 September 20214:50pm to 5:25pm on Wednesday 22 September 202111:45am to 12:15pm on Wednesday 22 September 20211:55pm to 2:25pm on Wednesday 22 September 202111:20am to 12pm (noon) on Tuesday 21 September 20212:35pm to 3:25pm on Sunday 19 September 20212:15pm to 3pm on Saturday 18 September 2021 |
+| 02/10/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 7:30pm to  8:05pm on Tuesday 28 September 20215:45pm to  6:30pm on Monday 27 September 20212:45pm to 3:25pm on Thursday 23 September 2021 |
+| 02/10/2021      | Casual Contact       | Cooma           | KFC Cooma27 Commissioner Street | 3:35pm to  4:15pm on Monday 27 September 2021                |
 | 01/10/2021      | Casual Contact       | Worrigee        | Naji's Charcoal Chicken and Kebabs Worrigee60 Isa Road | 10:55am to 11am on Saturday 25 September 2021                |
 | 01/10/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy Wollongong338-340 Crown Street | 8:45am to 11:45am on Tuesday 21 September 20218:45am to 11:45am on Thursday 16 September 2021 |
 | 01/10/2021      | Casual Contact       | Wollongong      | Connies Cliff Road Cafe Wollongong1/16 Cliff Road | 7:15am to 7:20am on Saturday 25 September 2021               |
@@ -14,7 +35,7 @@
 | 01/10/2021      | Casual Contact       | Singleton       | Singleton Toyota63-65 Magpie Street, McDougalls Hill | 1pm to 2pm on Tuesday 28 September 20218am to 1:30pm on Monday 27 September 20211pm to 2pm on Friday 24 September 2021 |
 | 01/10/2021      | Casual Contact       | Sanctuary Point | Sanctuary Point Bakery Sanctuary PointShop 1/20 Paradise, Beach Road | 10am to 11am on Thursday 23 September 2021                   |
 | 01/10/2021      | Casual Contact       | Queanbeyan      | Riverside Plaza131 Monaro Street | 8:40pm to 9:20pm on Sunday 26 September 20215:35pm to 6:35pm on Sunday 26 September 202110:45am to 12:10pm on Sunday 26 September 2021 |
-| 01/10/2021      | Casual Contact       | Queanbeyan      | Coles QueanbeyanRiverside Plaza, Corner Collett and Monaro Streets | 8:40pm to 9:20pm on Sunday 26 September 20215:35pm to 6:35pm on Sunday 26 September 20213:10pm to 5pm on Saturday 25 September 20217:10pm to 7:45pm on Thursday 23 September 20214pm to 6pm on Wednesday 22 September 20216pm to 6:45pm on Friday 17 September 20218:45am to 9:30am on Thursday 16 September 2021 |
+| 01/10/2021      | Casual Contact       | Queanbeyan      | Coles QueanbeyanRiverside Plaza, Corner Collett and Monaro Streets | 8:40pm to 9:20pm on Sunday 26 September 20215:35pm to 6:35pm on Sunday 26 September 20213:10pm to 5pm on Saturday 25 September 202112pm to  1:40pm on Saturday 25 September 20217:10pm to 7:45pm on Thursday 23 September 20214pm to 6pm on Wednesday 22 September 20216pm to 6:45pm on Friday 17 September 20218:45am to 9:30am on Thursday 16 September 2021 |
 | 01/10/2021      | Casual Contact       | Port Kembla     | BP Port Kembla71 Church Street | 12pm to 12:25pm on Monday 27 September 2021                  |
 | 01/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 4:55pm to 5pm on Monday 27 September 20212:30pm to 3:30pm on Monday 27 September 202112pm to 12:15pm on Saturday 25 September 202112pm to 12:15pm on Saturday 25 September 2021 |
 | 01/10/2021      | Casual Contact       | Nowra           | Better Tyres Nowra61 Berry Street | 1pm to 1:30pm on Wednesday 29 September 2021                 |
@@ -28,7 +49,7 @@
 | 01/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 3:20pm to 4:15pm on Tuesday 28 September 2021                |
 | 01/10/2021      | Casual Contact       | Kyogle          | McKid Medical Kyogle199 Summerland Way | 8:45am to 10:15am on Friday 24 September 20219am to 9:45am on Thursday 23 September 2021 |
 | 01/10/2021      | Casual Contact       | Junee           | Junee Hotel17 Seignior Street | All day on Sunday 26 September 2021                          |
-| 01/10/2021      | Casual Contact       | Jindabyne       | Woolworths JindabyneNuggets Crossing Shopping Centre, Kosciusko Road | 7:15am to 8:15am on Monday 27 September 20211:45pm to 4:30pm on Monday 27 September 20213pm to 4pm on Sunday 26 September 20217:15am to 8:15am on Saturday 25 September 20212:35pm to 4pm on Saturday 25 September 20216:15pm to 7:15pm on Friday 24 September 20214:15pm to 5pm on Wednesday 22 September 20217:55am to 8:35am on Monday 20 September 20212:35pm to 3:15pm on Sunday 19 September 2021 |
+| 01/10/2021      | Casual Contact       | Jindabyne       | Woolworths JindabyneNuggets Crossing Shopping Centre, Kosciusko Road | 10:45am to  11:35am on Tuesday 28 September 20217:15am to 8:15am on Monday 27 September 20211:45pm to 4:30pm on Monday 27 September 20213pm to 4pm on Sunday 26 September 20217:15am to 8:15am on Saturday 25 September 20212:35pm to 4pm on Saturday 25 September 20216:15pm to 7:15pm on Friday 24 September 20214:15pm to 5pm on Wednesday 22 September 20217:55am to 8:35am on Monday 20 September 20212:35pm to 3:15pm on Sunday 19 September 2021 |
 | 01/10/2021      | Casual Contact       | Jindabyne       | The Market JindabyneNuggets Crossing Shopping Centre, Kosciusko Road | 3:30pm to 4:45pm on Monday 27 September 2021                 |
 | 01/10/2021      | Casual Contact       | Jindabyne       | Shell Service Station JindabyneKosciuszko Road | 7:45pm to 11:20pm on Monday 27 September 2021                |
 | 01/10/2021      | Casual Contact       | Jindabyne       | Jindabyne PharmacyNuggets Crossing Shopping Centre, Kosciusko Road | 5:20pm to 6:05pm on Tuesday 28 September 202111:05am to 12:05pm on Tuesday 28 September 20213:30pm to 4:15pm on Monday 20 September 2021 |
@@ -69,11 +90,8 @@
 | 30/09/2021      | Casual Contact       | Warilla         | Warilla Family Medical Practice13 George Street | 10:30am to 10:45am on Monday 27 September 2021               |
 | 30/09/2021      | Close Contact        | Unanderra       | Bilton Susan, Behavioural Optometrist193 Princes Highway | 3:30pm to 4:30pm on Tuesday 21 September 2021                |
 | 30/09/2021      | Casual Contact       | Thredbo         | Thredbo Ski ResortFriday Drive | 9:15am to 5:15pm on Wednesday 22 September 2021              |
-| 30/09/2021      | Casual Contact       | Thredbo         | Thredbo Bakery24 Diggings Terrace | 2:35pm to 3:15pm on Monday 27 September 2021                 |
 | 30/09/2021      | Casual Contact       | Singleton       | Singleton Discount Drug Store122 John Street | 5:10pm to 5:20pm on Friday 24 September 2021                 |
 | 30/09/2021      | Casual Contact       | Singleton       | Service NSW Singleton158 John Street | 10:30am to 10:55am on Tuesday 28 September 202110:25am to 10:40am on Friday 24 September 2021 |
-| 30/09/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford Street and Antill Street | 2:30pm to 3:30pm on Monday 27 September 202110:15am to 11:30am on Sunday 26 September 20212:10pm to 3:30pm on Saturday 25 September 202111:25am to 12pm (noon) on Friday 24 September 20217:10pm to 7:45pm on Thursday 23 September 20213:45pm to 4:30pm on Tuesday 21 September 20211:45pm to 3pm on Saturday 18 September 20219:30am to 10:15am on Monday 13 September 20216:15am to 7:10am on Friday 10 September 2021 |
-| 30/09/2021      | Casual Contact       | Queanbeyan      | The Reject Shop QueanbeyanRiverside Shopping Centre, 131 Monaro Street | 11am to 11:55am on Sunday 26 September 2021                  |
 | 30/09/2021      | Casual Contact       | Queanbeyan      | Aldi Queanbeyan134-136 Crawford Street | 10:45am to 11:25am on Monday 27 September 20216:20pm to 7pm on Thursday 23 September 20213pm to 4pm on Tuesday 21 September 20218:45am to 9:30am on Thursday 16 September 2021 |
 | 30/09/2021      | Casual Contact       | Nowra           | Woolworths NowraShop 2, Stockland Nowra Shopping Centre, 32-60 East Street | 4:55pm to 6pm on Friday 24 September 2021                    |
 | 30/09/2021      | Casual Contact       | Nowra           | Nowra Kebabs66 Kinghorne Street | 11:30am to 11:50am on Thursday 23 September 2021             |
@@ -89,13 +107,11 @@
 | 30/09/2021      | Casual Contact       | Narooma         | BWS Narooma72 Princes Highway | 1:30pm to 1:55pm on Friday 24 September 2021                 |
 | 30/09/2021      | Casual Contact       | Narooma         | Aldi NaroomaNarooma Plaza, 185 Princes Highway | 1:50pm to 2:40pm on Saturday 25 September 2021               |
 | 30/09/2021      | Casual Contact       | Karabar         | SUPA IGA KarabarCorner Cooma and Southbar Road | 6:55pm to 7:55pm on Friday 24 September 20214:30pm to 5:40pm on Friday 24 September 2021 |
-| 30/09/2021      | Casual Contact       | Jindabyne       | Lake Jindabyne Hotel21 McClure Street | 9:15pm to 10:45pm on Monday 27 September 202112:30pm to 2pm on Saturday 25 September 2021 |
 | 30/09/2021      | Casual Contact       | Jindabyne       | Kebabz33 Kosciuszko Road  | 12:30pm to 1:15pm on Friday 24 September 2021                |
 | 30/09/2021      | Casual Contact       | Jindabyne       | Jindabyne ButcheryOld Town Centre | 12:40pm to 1:25pm on Friday 24 September 2021                |
 | 30/09/2021      | Casual Contact       | Jindabyne       | High Country Fitness1 Snowy River Avenue | 6am to 7:30am on Monday 20 September 2021                    |
 | 30/09/2021      | Casual Contact       | Jindabyne       | ESS Boardstore JindyLake View Plaza, Corner of Snowy River Avenue and Gippsland Street | 7:25am to 8:25am on Friday 24 September 20216:15am to 7:15am on Friday 24 September 2021 |
 | 30/09/2021      | Casual Contact       | Jindabyne       | Bacco Italian RestaurantNuggets Crossing Shopping Centre, Kosciusko Road | 7:05pm to 8:05pm on Sunday 26 September 2021                 |
-| 30/09/2021      | Casual Contact       | Jerrabomberra   | Woolworths Jerrabomberra2 Limestone Drive | 11:15am to 12:30pm on Sunday 26 September 20219:35am to 10:45am on Saturday 25 September 2021 |
 | 30/09/2021      | Casual Contact       | Green Point     | CTC and News Green PointShop 7, Green Point Shopping Centre, Corner of Avoca Drive and Sun Valley Road | 6:25am to 3:10pm on Saturday 25 September 2021               |
 | 30/09/2021      | Casual Contact       | Goulburn        | Bunnings GoulburnCorner of Hume Street and Ducks Lane | 8am to 9:15am on Sunday 26 September 2021                    |
 | 30/09/2021      | Casual Contact       | Gooloogong      | Gooloogong Handy Mart9 King Street | 11:50am to 12:40pm on Friday 24 September 202111:50am to 12:30pm on Thursday 23 September 2021 |
@@ -104,7 +120,6 @@
 | 30/09/2021      | Casual Contact       | East Maitland   | Laverty Pathology East MaitlandShop 3/134 Lawes Street | 10:30am to 11:30am on Saturday 25 September 2021             |
 | 30/09/2021      | Casual Contact       | Dalmeny         | IGA Dalmeny69 Mort Avenue | 5:30pm to 6:15pm on Friday 24 September 2021                 |
 | 30/09/2021      | Casual Contact       | Cowra           | Royces Homestyle Cakes40 Kendal Street | 11am to 12pm (noon) on Friday 24 September 2021              |
-| 30/09/2021      | Casual Contact       | Corrimal        | Healthworths Specialist Centre429-433 Princes Highway | 11:25am to 12:10pm on Friday 17 September 2021               |
 | 30/09/2021      | Casual Contact       | Cooma           | Coles CoomaCentennial Plaza, 85/91 Commissioner Street | 5:45pm to 9:30pm on Wednesday 22 September 2021              |
 | 30/09/2021      | Casual Contact       | Charlestown     | Australia Skin Cancer ClinicsG8042/30 Pearson Street | 9:35am to 10:15am on Monday 27 September 2021                |
 | 30/09/2021      | Casual Contact       | Broken Hill     | Tembys Day and Night Pharmacy Broken Hill235 Thomas Street | 4:45pm to 5:15pm CST on Friday 24 September 2021             |
@@ -165,7 +180,7 @@
 | 29/09/2021      | Casual Contact       | Jindabyne       | Henley PropertyShop 5/1 Gippsland Street | 12:05pm to 12:50pm on Friday 24 September 2021               |
 | 29/09/2021      | Casual Contact       | Goulburn        | The Reject Shop Goulburn296-300 Auburn Street | 8:30am to 9:15am on Wednesday 22 September 202110:45am to 11:45am on Wednesday 22 September 2021 |
 | 29/09/2021      | Casual Contact       | Goulburn        | Mandy’s Restaurant284 Auburn Street | 11:15am to 11:50pm on Wednesday 22 September 2021            |
-| 29/09/2021      | Casual Contact       | Goulburn        | 7-Eleven Goulburn88 Clinton Street | 12:25pm to 12:55pm on Wednesday 22 September 202111am to 12pm (noon) on Wednesday 22 September 2021 |
+| 29/09/2021      | Casual Contact       | Goulburn        | 7-Eleven Goulburn88 Clinton Street | 4:20am to  4:55am on Saturday 25 September 202112:25pm to 12:55pm on Wednesday 22 September 202111am to 12pm (noon) on Wednesday 22 September 2021 |
 | 29/09/2021      | Casual Contact       | Gosford         | West Gosford Late Night ChemistRiverside Park, Reliance GP Super Clinic, 69a Central Coast Highway | 7:10pm to 7:20pm on Friday 24 September 2021                 |
 | 29/09/2021      | Casual Contact       | Gorokan         | Guardian Pharmacy Gorokan70 Wallarah Road | 8:50am to 9:15am on Wednesday 22 September 2021              |
 | 29/09/2021      | Casual Contact       | Googong         | Cannons IGA GoogongAprasia Avenue | 10:05am to 10:35am on Saturday 25 September 2021             |
@@ -195,7 +210,6 @@
 | 29/09/2021      | Casual Contact       | Albion Park     | Woolworths Albion ParkCorner of Russell Street and Terry Street | 3:45pm to 4:30pm on Monday 20 September 2021                 |
 | 29/09/2021      | Casual Contact       | Albion Park     | Regal Cellars Albion Park6/7 Sophia Street | 3:30pm to 3:35pm on Saturday 18 September 2021               |
 | 28/09/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy338-340 Crown Street | 5pm to 5:10pm on Tuesday 21 September 20219:40am to 10am on Friday 17 September 2021 |
-| 28/09/2021      | Casual Contact       | Windang         | Windang Family Medical Centre19 Acacia Street | 1:45pm to 2:50pm on Friday 17 September 2021                 |
 | 28/09/2021      | Casual Contact       | Warrawong       | Country Grocer WarrawongWarrawong Plaza, Cowper Street and King Street | 12:30pm to 5:30pm on Thursday 23 September 2021              |
 | 28/09/2021      | Casual Contact       | Vincentia       | Subway VincentiaVincentia Marketplace Shop T02 | 11:35am to 11:50am on Thursday 23 September 2021             |
 | 28/09/2021      | Casual Contact       | Unanderra       | Woolworths Unanderra4-8 Tannery Street | 4:15pm to 4:40pm on Sunday 26 September 20216pm to 6:05pm on Thursday 23 September 20216:10pm to 6:25pm on Sunday 19 September 20211:30pm to 1:40pm on Friday 17 September 202112:10pm to 12:45pm on Wednesday 15 September 20211:50pm to 2:15pm on Monday 13 September 2021 |
@@ -213,7 +227,6 @@
 | 28/09/2021      | Casual Contact       | Goulburn        | Specsavers GoulburnShop 1 and 2 Belmore Centre, 210 Auburn Street | 12:40pm to 1:25pm on Friday 24 September 2021                |
 | 28/09/2021      | Casual Contact       | Goulburn        | King of the Pack Goulburn10/12 Verner Street | 1:20pm to 1:40pm on Friday 24 September 2021                 |
 | 28/09/2021      | Casual Contact       | Goulburn        | IMB Bank GoulburnShop 11 Goulburn Square, Auburn Street | 9:20am to 9:45am on Wednesday 22 September 2021              |
-| 28/09/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, Corner of Auburn Street and Clifford Street | 6:40am to 7:10am on Thursday 23 September 202111:45am to 1pm on Thursday 23 September 20214:50pm to 5:25pm on Wednesday 22 September 202111:45am to 12:15pm on Wednesday 22 September 20211:55pm to 2:25pm on Wednesday 22 September 202111:20am to 12pm (noon) on Tuesday 21 September 20212:35pm to 3:25pm on Sunday 19 September 20212:15pm to 3pm on Saturday 18 September 2021 |
 | 28/09/2021      | Casual Contact       | Goulburn        | Caltex Goulburn180 Hume Street | 1:50pm to 2:10pm on Friday 24 September 202111:50am to 12:10pm on Wednesday 22 September 202112:20am to 12:35am on Tuesday 21 September 2021 |
 | 28/09/2021      | Casual Contact       | Goulburn        | Bryants PiesGoulburn Plaza, Auburn Street | 6:45am to 7:10am on Thursday 23 September 2021               |
 | 28/09/2021      | Casual Contact       | Goulburn        | Blooms The Chemist Goulburn220 Auburn Street | 11:30am to 12:30pm on Thursday 23 September 20211:30pm to 4:45pm on Saturday 18 September 2021 |
@@ -237,13 +250,11 @@
 | 27/09/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street | 1:30pm to 2:05pm on Wednesday 22 September 20213:10pm to 3:50pm on Monday 20 September 2021All day on Friday 17 September 20218am to 8:10am on Sunday 12 September 2021 |
 | 27/09/2021      | Casual Contact       | Warrawong       | Cincotta Discount Chemist WarrawongShop 2, 45 King Street | 11:15am to 12:15pm on Thursday 23 September 202110:05am to 10:30am on Tuesday 21 September 20212:30pm to 2:50pm on Monday 20 September 2021 |
 | 27/09/2021      | Casual Contact       | Warilla         | Mitchell's MarketShop 10-11, Warilla Grove, Shopping Centre Warilla | 11:30am to 11:40am on Saturday 18 September 2021             |
-| 27/09/2021      | Casual Contact       | Warilla         | Blooms The Chemist WarillaWarilla Grove Shopping Centre, 43-57 Shellharbour Road | 4:20pm to 4:30pm on Friday 17 September 2021                 |
 | 27/09/2021      | Casual Contact       | Port Macquarie  | Woolworths Port Macquarie3 Bay Street | 12:45pm to 1:45pm on Wednesday 22 September 2021             |
 | 27/09/2021      | Casual Contact       | Orange          | Ashcroft's SUPA IGA Orange210 Peisley Street | 3:35pm to 3:45pm on Friday 24 September 2021                 |
 | 27/09/2021      | Casual Contact       | Newcastle       | Newcastle Central Plaza741 Hunter Street | All day on Monday 27 September 2021All day on Sunday 26 September 2021All day on Saturday 25 September 2021All day on Friday 24 September 2021All day on Thursday 23 September 2021All day on Wednesday 22 September 2021All day on Tuesday 21 September 2021 |
 | 27/09/2021      | Casual Contact       | Muswellbrook    | Pharmacy Select MuswellbrookShop 4, Muswellbrook Fair Shopping Centre, 19-29 Rutherford Road | 11am to 11:15am on Thursday 23 September 202112pm (noon) to 12:20pm on Wednesday 22 September 2021 |
 | 27/09/2021      | Casual Contact       | Montefiores     | Cellarbrations Montefiores3 Mitchell Highway | 3:05pm to 3:35pm on Thursday 23 September 2021               |
-| 27/09/2021      | Casual Contact       | Milton          | Terry White Chemmart Milton75 Princes Highway | 9:10am to 9:35am on Friday 17 September 2021                 |
 | 27/09/2021      | Casual Contact       | Kurri Kurri     | Aldi Kurri Kurri106-112 Barton Street | 4:50pm to 5:40pm on Wednesday 22 September 2021              |
 | 27/09/2021      | Casual Contact       | Helensburgh     | Helensburgh Pharmacy121 Parkes Street | 12:25pm to 12:40pm on Monday 20 September 2021               |
 | 27/09/2021      | Casual Contact       | Fletcher        | Aldi FletcherMinmi Road   | 1:40pm to 2:35pm on Sunday 19 September 2021                 |
@@ -270,11 +281,8 @@
 | 26/09/2021      | Casual Contact       | Young           | The Base Warehouse200 Boorowa Street | 11am to 11:30am on Monday 20 September 2021                  |
 | 26/09/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 7:30am to 8:30am on Wednesday 29 September 202111:45am to 12:30pm on Friday 24 September 20217:40am to 7:50am on Thursday 16 September 20219:40am to 10:05am on Saturday 11 September 202112:15pm to 12:55pm on Saturday 11 September 2021 |
 | 26/09/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 6:15pm to 6:35pm on Monday 27 September 20216:45pm to 7:15pm on Saturday 25 September 20212:30pm to 3:30pm on Saturday 25 September 202112:40pm to 1:40pm on Thursday 23 September 202111:45am to 12:45pm on Saturday 18 September 2021 |
-| 26/09/2021      | Casual Contact       | Wellington      | Wellington Advantage Pharmacy12 Nanima Crescent | 5pm to 5:30pm on Friday 17 September 2021                    |
 | 26/09/2021      | Casual Contact       | Wellington      | KFC Wellington91 Lee Street | 11am to 1pm on Wednesday 22 September 2021                   |
-| 26/09/2021      | Casual Contact       | Wellington      | Cow & Calf Hotel135 Lee Street | 7:20pm to 9pm on Friday 17 September 2021                    |
 | 26/09/2021      | Casual Contact       | Wellington      | Caltex Woolworths Wellington79 Lee Street | 11am to 1pm on Wednesday 22 September 2021                   |
-| 26/09/2021      | Casual Contact       | Wellington      | BP WellingtonArthur Street | 11:10am to 11:15am on Friday 17 September 2021               |
 | 26/09/2021      | Casual Contact       | Warrawong       | Warrawong Medical Centre43 King Street | 1:15pm to 1:45pm on Thursday 23 September 202110:15am to 11am on Wednesday 22 September 20211:30pm to 2:30pm on Tuesday 21 September 2021 |
 | 26/09/2021      | Casual Contact       | Unanderra       | FoodWorks Unanderra23 Farmborough Road | 4:50pm to 5pm on Tuesday 21 September 2021                   |
 | 26/09/2021      | Casual Contact       | The Entrance    | Coles The EntranceLakeside Shopping Centre, The Entrance Road and Dening Street | 2:15pm to 9:15pm on Thursday 23 September 2021               |
@@ -290,14 +298,11 @@
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Laser Clinics AustraliaSettlement City, Corner of Park and Bay Streets | 1:40pm to 2:20pm on Saturday 18 September 2021               |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Ki-ea Apartments Port Macquarie67 William Street | All day on Wednesday 22 September 2021All day on Tuesday 21 September 2021All day on Monday 20 September 2021All day on Sunday 19 September 2021All day on Saturday 18 September 2021All day on Friday 17 September 2021 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Ken Little's Quality Fruit and Vegetables43 Munster Street | 1:30pm to 2pm on Wednesday 22 September 2021                 |
-| 26/09/2021      | Casual Contact       | Port Macquarie  | Gloria Jean's Coffees13 Clarence Street | 11:20am to 11:35am on Friday 17 September 2021               |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Double Shot Coffee Co.8/155 Horton Street | 11am to 11:15am on Saturday 18 September 2021                |
-| 26/09/2021      | Casual Contact       | Port Macquarie  | Cotton On Port Macquarie15/40-44 Horton Street | 5:15pm to 5:30pm on Friday 17 September 2021                 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Commonwealth Bank Port Macquarie73 Horton Street | 3pm to 3:30pm on Thursday 23 September 2021                  |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Coles Port Macquarie28 Hayward Street | 7:50pm to 8:10pm on Tuesday 21 September 202111am to 11:30am on Saturday 18 September 202110:40am to 11:10am on Friday 17 September 2021 |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Blue Cow Gelato1/72 Clarence Street | 10pm to 10:15pm on Saturday 18 September 2021                |
 | 26/09/2021      | Close Contact        | Port Macquarie  | Bill's Fishhouse and Bar2 18-20 Clarence Street | 8:10pm to 10pm on Saturday 18 September 2021                 |
-| 26/09/2021      | Casual Contact       | Port Macquarie  | Australia Post Port MacquarieShop 2, 14-16 Short Street | 11:05am to 11:35am on Friday 17 September 2021               |
 | 26/09/2021      | Casual Contact       | Mumbil          | Reflections Holiday ParksFashions Mount Road | 11:55am to 1:15pm on Monday 20 September 202111:30am to 1:45pm on Monday 20 September 2021 |
 | 26/09/2021      | Casual Contact       | Montefiores     | Shell Montefiores16 Mitchell Highway | 6am to 6:30am on Thursday 23 September 20212:20pm to 2:35pm on Tuesday 21 September 2021 |
 | 26/09/2021      | Casual Contact       | Killarney Vale  | Coles Killarney ValeCorner of Wyong Road and South Street | 4:30pm to 4:50pm on Monday 20 September 20216:35pm to 7:50pm on Thursday 16 September 20212:25pm to 2:40pm on Monday 13 September 20217:40pm to 8:20pm on Saturday 11 September 2021 |
@@ -318,37 +323,28 @@
 | 26/09/2021      | Casual Contact       | Broken Hill     | Discount Tyres3 Galena Street | 4:45pm to 5:05pm CST on Monday 20 September 2021             |
 | 26/09/2021      | Casual Contact       | Broken Hill     | Coles Broken Hill3 South Street | 10:40am to 11:10am CST on Wednesday 22 September 20211:25pm to 1:50pm on Tuesday 21 September 20214:50pm to 5:30pm CST on Tuesday 14 September 20216:25pm to 7:15pm CST on Sunday 12 September 202111:30am to 12:30pm CST on Friday 10 September 2021 |
 | 26/09/2021      | Casual Contact       | Bomaderry       | Australia Post BomaderryShop 20 73 Meroo Street | 1pm to 1:30pm on Monday 20 September 2021                    |
-| 26/09/2021      | Casual Contact       | Berkeley        | Coles Berkeley65 Winnima Way | 10:57am to 11:15am on Friday 17 September 2021               |
 | 26/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiWatts Lane | 12:10pm to 12:40pm on Monday 20 September 202111am to 7pm on Sunday 19 September 2021 |
 | 26/09/2021      | Casual Contact       | Albion Park     | Bunnings Shellharbour15 Shandan Circuit | 12:20pm to 1:05pm on Tuesday 28 September 20216:54pm to 7:10pm on Monday 20 September 20211:35pm to 2:05pm on Saturday 18 September 2021 |
 | 26/09/2021      | Casual Contact       | Albion Park     | Aldi Albion Park Rail10 Ash Avenue | 6:42pm to 6:55pm on Monday 20 September 20219am to 9:15am on Sunday 19 September 2021 |
 | 25/09/2021      | Casual Contact       | Young           | PJ's Fast Food21 Zouch Street | 8:10pm to 8:55pm on Tuesday 21 September 202112:05pm to 12:45pm on Tuesday 21 September 2021 |
 | 25/09/2021      | Casual Contact       | Young           | Bunnings Young288 Boorowa Street | 11:10am to 11:45am on Monday 20 September 20212:40pm to 2:50pm on Thursday 16 September 202112:25pm to 12:35pm on Saturday 11 September 2021 |
 | 25/09/2021      | Casual Contact       | Young           | Aldi Young11 Zouch Street | 1:15pm to 2:15pm on Tuesday 21 September 2021                |
-| 25/09/2021      | Casual Contact       | Young           | ANZ Young147 Boorowa Street | 2:30pm to 3:50pm on Friday 17 September 20211:20pm to 1:50pm on Friday 17 September 2021 |
 | 25/09/2021      | Casual Contact       | Woy Woy         | Woolworths Woy WoyPeninsula Plaza, 63 Blackwall Road | 7am to 3:30pm on Wednesday 22 September 20217am to 1:30pm on Monday 20 September 2021 |
 | 25/09/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 1:20pm to 1:45pm on Tuesday 21 September 2021                |
 | 25/09/2021      | Casual Contact       | Wilcannia       | Australia Post Wilcannia45 Reid Street | 10am to 10:30am on Thursday 23 September 2021                |
 | 25/09/2021      | Casual Contact       | Wellington      | Food 2 Go Wellington24 Nanima Crescent | 1:30pm to 2:15pm on Monday 20 September 20212pm to 2:30pm on Wednesday 15 September 2021 |
 | 25/09/2021      | Casual Contact       | Wellington      | D & J Rural Services134 Thornton Street | 11:15am to 12:15pm on Tuesday 21 September 2021              |
 | 25/09/2021      | Casual Contact       | Wellington      | Cusack's Butchery60 Lee Street | 3:50pm to 4pm on Tuesday 21 September 2021                   |
-| 25/09/2021      | Casual Contact       | Umina Beach     | Aldi Umina310 Trafalgar Avenue | 3pm to 4pm on Friday 17 September 2021                       |
 | 25/09/2021      | Casual Contact       | Toronto         | Nikinpa Aboriginal Family and Child Care Centre Vaccination Clinic9 Beckley Street | 9am to 3:30pm on Saturday 18 September 2021                  |
 | 25/09/2021      | Casual Contact       | Singleton       | Imperial Hotel Singleton (bar and gaming area only)183-185 John Street | 12:15pm to 12:45pm on Sunday 19 September 2021               |
 | 25/09/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Airport99 Boundary Street | 8:30am to 10:05am on Tuesday 21 September 2021               |
 | 25/09/2021      | Casual Contact       | Newcastle East  | Noah's on the Beach29 Zaara Street | 10:20am to 2pm on Monday 20 September 2021                   |
 | 25/09/2021      | Casual Contact       | Narara          | The Bottle-O Narara16 Deane Street | 4:30pm to 4:45pm on Tuesday 21 September 2021                |
-| 25/09/2021      | Casual Contact       | Nambucca Heads  | Nambucca Plaza2191 Giinagay Way | 12:45pm to 1:15pm on Friday 17 September 2021                |
-| 25/09/2021      | Casual Contact       | Nambucca Heads  | Nambucca Bakery1 Bellwood Road | 12:45pm to 1:10pm on Friday 17 September 2021                |
 | 25/09/2021      | Casual Contact       | Helensburgh     | Coles HelensburghWalker Street | 12pm (noon) to 12:10pm on Sunday 19 September 2021           |
-| 25/09/2021      | Casual Contact       | Goulburn        | Coles Express South Goulburn1/3 Sowerby Street | 2:45pm to 3:25pm on Thursday 23 September 2021               |
 | 25/09/2021      | Casual Contact       | Goulburn        | Bakers Delight GoulburnGoulburn Square, 217 Auburn Street | 2:15pm to 3pm on Wednesday 22 September 2021                 |
 | 25/09/2021      | Casual Contact       | Gilgandra       | SUPA IGA Plus Liquor Gilgandra43-45 Miller Street | 9am to 9:10am on Monday 20 September 2021                    |
 | 25/09/2021      | Casual Contact       | Geurie          | BP GeurieMitchell Highway | 3:30pm to 4pm on Thursday 23 September 20213pm to 3:30pm on Tuesday 21 September 2021 |
 | 25/09/2021      | Casual Contact       | Cowra           | Cowra Japanese Garden and Cultural CentreKen Nakajima Place | 12pm (noon) to 3pm on Sunday 19 September 2021               |
-| 25/09/2021      | Close Contact        | Cowra           | Cowra Ballet School45 Redfern Street | 4:30pm to 6:15pm on Friday 17 September 2021                 |
-| 25/09/2021      | Casual Contact       | Cowra           | Cellarbrations Cowra10 Railway Lane | 2:45pm to 3:15pm on Friday 17 September 2021                 |
-| 25/09/2021      | Casual Contact       | Corrimal        | Service NSW CorrimalShop 8 204 Princes Highway | 9am to 9:20am on Friday 17 September 2021                    |
 | 25/09/2021      | Casual Contact       | Corrimal        | Coles CorrimalCorrimal Park Mall, Princes Highway | 10am to 6pm on Sunday 19 September 20218pm to 11pm on Saturday 18 September 20216:10pm to 7:30pm on Friday 10 September 2021 |
 | 25/09/2021      | Casual Contact       | Cessnock        | McDonald's CessnockCorner of Allandale Road and Ferguson Street | 3pm to 11pm on Tuesday 21 September 20216am to 2pm on Monday 20 September 20219:30am to 5:30pm on Saturday 18 September 20219:30am to 5:30pm on Friday 17 September 20213pm to 11pm on Thursday 16 September 20216am to 2pm on Wednesday 15 September 20219:30am to 5:30pm on Tuesday 14 September 2021 |
 | 25/09/2021      | Casual Contact       | Broken Hill     | Sunbeam Deli316 Brookfield Avenue | 8am to 8:05am CST on Monday 20 September 20217:05pm to 7:10pm CST on Wednesday 15 September 2021 |
@@ -359,15 +355,12 @@
 | 25/09/2021      | Casual Contact       | Broken Hill     | Blackwoods105-107 Argent Street | 11:40am to 11:55am CST on Monday 20 September 2021           |
 | 25/09/2021      | Casual Contact       | Branxton        | Coles BranxtonHuntlee Shopping Centre, 22 Empire Street | 6am to 9am on Tuesday 21 September 2021                      |
 | 25/09/2021      | Casual Contact       | Bourke          | SPAR Bourke5 Warraweena Street | 7pm to 8pm on Thursday 23 September 2021                     |
-| 24/09/2021      | Casual Contact       | Wollongong      | Wollongong Medical Centre237-241 Crown Street | 12pm (noon) to 12:45pm on Friday 17 September 2021           |
 | 24/09/2021      | Casual Contact       | Wellington      | Kitch and Sons158 Percy Street | 9:40am to 10:15am on Tuesday 21 September 2021               |
 | 24/09/2021      | Casual Contact       | Tuggerah        | Terry White Chemmart TuggerahWestfield Tuggerah, Wyong Road | 11:05am to 11:40am on Saturday 18 September 2021             |
 | 24/09/2021      | Casual Contact       | Toronto         | Coles TorontoToronto Town Square, 63 The Boulevarde | 5:05pm to 5:45pm on Tuesday 21 September 2021                |
 | 24/09/2021      | Casual Contact       | Kurri Kurri     | Coles Kurri Kurri259-277 Lang Street | 5am to 2pm on Sunday 19 September 2021                       |
-| 24/09/2021      | Casual Contact       | Goulburn        | Shell Coles Express Big MerinoCorner of Hume and Sowerby Street | 2:10pm to 2:20pm on Friday 17 September 2021                 |
 | 23/09/2021      | Casual Contact       | Wollongong      | Wollongong Railway StationStation Street | 5:30am to 9pm on Saturday 18 September 2021                  |
 | 23/09/2021      | Casual Contact       | Shellharbour    | Woolworths ShellharbourNew Lake Entrance Road | 12:05pm to 12:30pm on Saturday 18 September 2021             |
-| 23/09/2021      | Casual Contact       | Newcastle West  | Pharmacy CareMarketown Shopping Centre, 28/136 Parry Street | 5:40pm to 5:55pm on Friday 17 September 2021                 |
 | 23/09/2021      | Casual Contact       | Mudgee          | Complete Crushing ServicesBuckaroo Lane | 7:15am to 4:15pm on Monday 20 September 2021                 |
 | 23/09/2021      | Casual Contact       | Mount Hutton    | Lake Macquarie Square (customers only)46 Wilsons Road | 8:15am to 9am on Monday 20 September 20219:30am to 10:30am on Saturday 18 September 202111:30am to 1pm on Thursday 16 September 20219am to 10am on Monday 13 September 20219:30am to 11am on Saturday 11 September 2021 |
 | 23/09/2021      | Casual Contact       | Mittagong       | Hayters Timber and Paving Mittagong15 Cavendish Street | All day on Sunday 19 September 2021All day on Saturday 18 September 2021 |
@@ -377,16 +370,8 @@
 | 23/09/2021      | Casual Contact       | Gumly Gumly     | BP Gumly GumlySturt Highway | 1:15pm to 1:25pm on Sunday 19 September 2021                 |
 | 23/09/2021      | Casual Contact       | Gillenbah       | Caltex Narrandera1 Newell Highway | 5pm to 5:20pm on Sunday 19 September 2021                    |
 | 23/09/2021      | Casual Contact       | Dubbo           | Woolworths Dubbo - Orana Mall56 Windsor Parade | 1:25pm to 2:05pm on Saturday 18 September 202111:20am to 11:45am on Friday 17 September 202111:45am to 12:05pm on Monday 13 September 20211:50pm to 2:15pm on Monday 13 September 2021 |
-| 23/09/2021      | Casual Contact       | Dubbo           | Woolworths Dubbo - Delroy ParkMinore Road | 9:25am to 10am on Friday 17 September 202112:55pm to 1:25pm on Thursday 16 September 2021 |
-| 23/09/2021      | Casual Contact       | Dubbo           | Orana Mall56 Windsor Parade | 11:10am to 11:30am on Friday 17 September 202111:45am to 12:05pm on Monday 13 September 20211:50pm to 2:15pm on Monday 13 September 2021 |
 | 23/09/2021      | Casual Contact       | Dubbo           | Myall Street Minimart272 Myall Street | 1:25pm to 2:05pm on Saturday 18 September 202111:55am to 12:20pm on Friday 17 September 2021 |
-| 23/09/2021      | Casual Contact       | Dubbo           | BIG W Dubbo56 Windsor Parade | 11:10am to 11:25am on Friday 17 September 2021               |
-| 23/09/2021      | Casual Contact       | Cowra           | Paws n Tails12 Redfern Street | 11:45am to 5:45pm on Friday 17 September 2021                |
 | 23/09/2021      | Casual Contact       | Cowra           | Cowra Skate ParkBrisbane Street | 2:45pm to 4:15pm on Saturday 18 September 2021               |
-| 23/09/2021      | Casual Contact       | Como            | Como StationRailway Road  | 6am to 3pm on Friday 17 September 2021                       |
-| 23/09/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenPacific Highway | 2:05pm to 2:20pm on Friday 17 September 202110:15am to 11:30am on Friday 17 September 2021 |
-| 23/09/2021      | Casual Contact       | Broken Hill     | Woolworths Broken Hill7 Galena Street | 11:10am to 11:30am CST on Friday 17 September 20211:50pm to 3:05pm CST on Friday 17 September 20216:50pm to 7:10pm CST on Wednesday 15 September 2021 |
-| 23/09/2021      | Casual Contact       | Bonnells Bay    | Australia Post Bonnells BayShop 1, 330 Fishery Point Road | 3:25pm to 3:35pm on Friday 17 September 2021                 |
 | 23/09/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street Bathurst | 1:05pm to 1:35pm on Monday 20 September 2021                 |
 | 23/09/2021      | Casual Contact       | Ballina         | Ballina Byron Gateway Airport - Arrivals Hall and Hire Car Car Park210 Southern Cross Drive | 8:45am to 9:15am on Saturday 18 September 2021               |
 | 22/09/2021      | Casual Contact       | Young           | Woolworths Young263 Boorowa Street | 11:15am to 12pm (noon) on Monday 20 September 20214pm to 4:45pm on Friday 17 September 20219:30am to 10am on Thursday 16 September 202112:05pm to 12:55pm on Thursday 16 September 2021 |
@@ -394,9 +379,6 @@
 | 22/09/2021      | Casual Contact       | South Nowra     | Bunnings Nowra147 Princes Highway | 12:20pm to 12:50pm on Sunday 26 September 20218:30am to 12pm (noon) on Thursday 16 September 2021 |
 | 22/09/2021      | Casual Contact       | Queanbeyan      | 4th Seed Cafe227 Crawford Street | 7:30am to 7:40am on Sunday 19 September 2021                 |
 | 22/09/2021      | Casual Contact       | Mount Hutton    | Pharmacy 4 LessLake Macquarie Square, 46 Wilsons Road | 8:10am to 8:25am on Monday 20 September 2021                 |
-| 22/09/2021      | Casual Contact       | Mount Hutton    | BWS Mount Hutton46 Wilsons Road | 3:50pm to 4pm on Friday 17 September 2021                    |
-| 22/09/2021      | Casual Contact       | Mogo            | Ultra Petroleum Mogo33 Sydney Street | 2:40pm to 2:45pm on Friday 17 September 20212:05pm to 2:10pm on Friday 17 September 2021 |
-| 22/09/2021      | Casual Contact       | Milton          | IGA Plus Liquor Milton84-86 Princes Highway | 8:45am to 8:54am on Friday 17 September 2021                 |
 | 22/09/2021      | Casual Contact       | Kingscliff      | Saltbean Cafe12 Bells Boulevard | 7:40am to 8am on Monday 20 September 20217:40am to 8am on Sunday 19 September 202110:15am to 10:45am on Sunday 19 September 2021 |
 | 22/09/2021      | Casual Contact       | Kingscliff      | Peppers Salt Resort and Spa - Reception AreaBells Boulevard | 2:30pm to 2:50pm on Saturday 18 September 2021               |
 | 22/09/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 3:40pm to 4:55pm on Saturday 25 September 20218:40am to 8:55am on Friday 17 September 202111:30am to 11:55am on Friday 17 September 2021 |
@@ -410,22 +392,7 @@
 | 22/09/2021      | Casual Contact       | Byron Bay       | Assembly Label Byron Bay28 Jonson Street | 10:40am to 11am on Saturday 18 September 2021                |
 | 22/09/2021      | Casual Contact       | Bungendore      | Gunna Doo Bakery18 Gibraltar Street | 1:30pm to 1:50pm on Sunday 19 September 2021                 |
 | 22/09/2021      | Casual Contact       | Broken Hill     | Subway Broken Hill233-235 Argent Street | 8am to 3pm CST on Sunday 19 September 20218am to 11am CST on Friday 17 September 2021 |
-| 22/09/2021      | Casual Contact       | Broken Hill     | Australia Post Broken Hill260 Argent Street | 10:55am to 11:10am CST on Friday 17 September 20216:10pm to 6:30pm CST on Friday 10 September 20214pm to 4:20pm CST on Friday 10 September 2021 |
 | 22/09/2021      | Casual Contact       | Braidwood       | Westside Petroleum Braidwood71 Wallace Street | 2:40pm to 2:50pm on Sunday 19 September 2021                 |
-| 22/09/2021      | Casual Contact       | Batehaven       | Batehaven PharmacyCorner Beach Road and Edwards Road | 9:45am to 10:45am on Friday 17 September 202110:10am to 10:30am on Monday 13 September 2021 |
-| 21/09/2021      | Casual Contact       | Williamtown     | Newcastle Airport - check-in hall, security screening, departure lounge and facilities1 Williamtown Drive | 2:15pm to 3:35pm on Friday 17 September 2021                 |
-| 21/09/2021      | Casual Contact       | Umina Beach     | BWS Umina309 Trafalgar Avenue | 1:15pm to 1:30pm on Friday 17 September 2021                 |
-| 21/09/2021      | Casual Contact       | Toukley         | Service NSW Toukley325 Main Road | 9:55am to 10:20am on Friday 17 September 20213pm to 3:35pm on Friday 10 September 2021 |
-| 21/09/2021      | Casual Contact       | Toronto         | Toronto Newsagency66 The Boulevarde | 9:55am to 10:05am on Friday 17 September 2021                |
-| 21/09/2021      | Casual Contact       | Lake Haven      | Woolworths Lake HavenLake Haven Lake Haven Shopping Centre, Lake Haven Drive | 11:45am to 12:05pm on Friday 17 September 20214:25pm to 5:30pm on Sunday 12 September 20212pm to 2:40pm on Sunday 12 September 2021 |
 | 21/09/2021      | Close Contact        | Kingscliff      | Salt Bar Beachbar and Bistro1 Bells Boulevard | 6:40pm to 8pm on Saturday 18 September 2021                  |
 | 21/09/2021      | Close Contact        | Kingscliff      | Kingscliff Beach Hotel102 Marine Parade | 6pm to 9pm on Sunday 19 September 2021                       |
-| 21/09/2021      | Casual Contact       | Gosford         | Chemist Warehouse Gosford125 Mann Street | 5:20pm to 5:30pm on Friday 17 September 20214:45pm to 4:55pm on Friday 17 September 2021 |
-| 21/09/2021      | Casual Contact       | Figtree         | Coles FigtreeFigtree Grove Shopping Centre, The Avenue | 9:30am to 10am on Friday 17 September 2021                   |
-| 21/09/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway | 5pm to 5:10pm on Friday 17 September 20215pm to 5:10pm on Thursday 16 September 20211:30pm to 1:40pm on Tuesday 14 September 202111am to 11:31am on Monday 13 September 20218:57am to 9:25am on Thursday 9 September 2021 |
 | 21/09/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowElliotts Road | 2pm to 2:10pm on Saturday 18 September 20214:30pm to 4:40pm on Friday 17 September 202112pm (noon) to 12:15pm on Thursday 16 September 20214:45pm to 4:55pm on Wednesday 15 September 202111:40am to 12pm (noon) on Tuesday 14 September 20214:30pm to 5pm on Friday 10 September 20213:30pm to 4pm on Friday 10 September 2021 |
-| 21/09/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner of Chelmsford Road and Pacific Highway | 2:05pm to 2:20pm on Friday 17 September 202110:15am to 11:30am on Friday 17 September 2021 |
-| 21/09/2021      | Casual Contact       | Budgewoi        | Budgewoi Discount Drug Store73 Scenic Drive | 3:25pm to 4:35pm on Friday 17 September 20214:40pm to 5:05pm on Thursday 16 September 2021 |
-| 20/09/2021      | Casual Contact       | Goonellabah     | Caltex Woolworths Goonellabah2 Simeoni Drive | 2:15pm to 2:45pm on Friday 17 September 20219am to 9:30am on Tuesday 14 September 2021 |
-| 19/09/2021      | Casual Contact       | Salt Ash        | FoodWorks Salt AshCorner of Richardson Road and Nelson Bay Road | 2:05pm to 2:10pm on Friday 17 September 2021                 |
-| 19/09/2021      | Casual Contact       | North Wollongong | Bourke St Burgers9 Bourke Street | 5pm to 10pm on Friday 17 September 20215pm to 10pm on Sunday 12 September 20215pm to 10pm on Friday 10 September 2021 |
