@@ -79,6 +79,7 @@
 | 30/09/2021      | Casual Contact       | Charlestown     | Australia Skin Cancer ClinicsG8042/30 Pearson Street | 9:35am to 10:15am on Monday 27 September 2021                |
 | 01/10/2021      | Casual Contact       | Charlestown     | Australian Skin Cancer Clinics CharlestownG8042/30 Pearson Street | 9:35am to 10:15am on Monday 27 September 2021                |
 | 27/09/2021      | Casual Contact       | Charlestown     | Chemist Warehouse Charlestown196 Pacific Highway | 6:25pm to 6:45pm on Wednesday 22 September 20217:40pm to 7:55pm on Monday 20 September 2021 |
+| 02/10/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenCorner of Chelmsford Road and Pacific Highway | 10:05am to 10:25am on Wednesday 22 September 202110:30am to 10:55am on Tuesday 21 September 2021 |
 | 27/09/2021      | Casual Contact       | Cooks Hill      | Aldi Newcastle54 Union Street | 10:25am to 10:50am on Wednesday 22 September 2021            |
 | 30/09/2021      | Casual Contact       | Cooma           | Coles CoomaCentennial Plaza, 85/91 Commissioner Street | 5:45pm to 9:30pm on Wednesday 22 September 2021              |
 | 02/10/2021      | Casual Contact       | Cooma           | KFC Cooma27 Commissioner Street | 3:35pm to  4:15pm on Monday 27 September 2021                |
@@ -375,7 +376,7 @@
 | 27/09/2021      | Casual Contact       | Warrawong       | Cincotta Discount Chemist WarrawongShop 2, 45 King Street | 11:15am to 12:15pm on Thursday 23 September 202110:05am to 10:30am on Tuesday 21 September 20212:30pm to 2:50pm on Monday 20 September 2021 |
 | 27/09/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street | 1:30pm to 2:05pm on Wednesday 22 September 20213:10pm to 3:50pm on Monday 20 September 2021All day on Friday 17 September 20218am to 8:10am on Sunday 12 September 2021 |
 | 28/09/2021      | Casual Contact       | Warrawong       | Country Grocer WarrawongWarrawong Plaza, Cowper Street and King Street | 12:30pm to 5:30pm on Thursday 23 September 2021              |
-| 02/10/2021      | Casual Contact       | Warrawong       | McDonald's Warrawong IINorthcliffe Drive | 12pm to 12:55pm on Monday 27 September 2021                  |
+| 02/10/2021      | Casual Contact       | Warrawong       | McDonald's Warrawong IINorthcliffe Drive | 12:45pm to 12:55pm on Monday 27 September 2021               |
 | 27/09/2021      | Casual Contact       | Warrawong       | Priceline Pharmacy WarrawongWarrawong Plaza, Cowper Street and King Street | 2pm to 2:05pm on Wednesday 22 September 20213:05pm to 3:15pm on Monday 20 September 2021 |
 | 26/09/2021      | Casual Contact       | Warrawong       | Warrawong Medical Centre43 King Street | 1:15pm to 1:45pm on Thursday 23 September 202110:15am to 11am on Wednesday 22 September 20211:30pm to 2:30pm on Tuesday 21 September 2021 |
 | 27/09/2021      | Casual Contact       | Wellington      | BWS Wellington81 Arthur Street | 12:50pm to 1:20pm on Thursday 23 September 2021              |

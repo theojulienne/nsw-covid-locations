@@ -6,7 +6,7 @@
 | 02/10/2021      | Casual Contact       | Young           | Blooms Pharmacy Young26 Boorowa Street | 12:25pm to 1pm on Monday 27 September 2021                   |
 | 02/10/2021      | Casual Contact       | Wyong           | Smart Dollar Wyong Village CentralShop T8-10, 18-34 Allison Road | 9am to 4:30pm on Wednesday 22 September 20219am to 4:30pm on Tuesday 21 September 20219am to 4:30pm on Monday 20 September 2021 |
 | 02/10/2021      | Casual Contact       | Woy Woy         | Kuoch Chemist Woy Woy43-45 Blackwall Road | 1:20pm to 1:40pm on Tuesday 21 September 2021                |
-| 02/10/2021      | Casual Contact       | Warrawong       | McDonald's Warrawong IINorthcliffe Drive | 12pm to 12:55pm on Monday 27 September 2021                  |
+| 02/10/2021      | Casual Contact       | Warrawong       | McDonald's Warrawong IINorthcliffe Drive | 12:45pm to 12:55pm on Monday 27 September 2021               |
 | 02/10/2021      | Casual Contact       | Waratah         | Gloria Jeans WaratahShop 7/91-111 Turton Road | 10am to 2:30pm on Tuesday 28 September 20216:30am to 11am on Monday 27 September 2021 |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Kmart Wagga Wagga135-143 Baylis Street | 6:15pm to 7:15pm on Monday 27 September 202112pm to 12:45pm on Sunday 26 September 2021 |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Bunnings Wagga WagaCorner Dobney and Pearson Streets | 1:10pm to 1:30pm on Monday 27 September 2021                 |
@@ -50,6 +50,7 @@
 | 02/10/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway | 1:45pm to 2:40pm on Wednesday 29 September 2021              |
 | 02/10/2021      | Casual Contact       | Dubbo           | BIG W DubboWheelers Lane  | 2:35pm to 3:35pm on Wednesday 22 September 2021              |
 | 02/10/2021      | Casual Contact       | Cooma           | KFC Cooma27 Commissioner Street | 3:35pm to  4:15pm on Monday 27 September 2021                |
+| 02/10/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavenCorner of Chelmsford Road and Pacific Highway | 10:05am to 10:25am on Wednesday 22 September 202110:30am to 10:55am on Tuesday 21 September 2021 |
 | 02/10/2021      | Casual Contact       | Berkeley        | Coles BerkeleyShopping Centre, 65 Winnima Way | 8:45am to 9am on Friday 1 October 20216:30am to 7:15am on Friday 1 October 20217:15am to 7:30am on Tuesday 28 September 202112:45pm to 1:15pm on Tuesday 28 September 202112:15pm to 12:30pm on Tuesday 28 September 2021 |
 | 02/10/2021      | Casual Contact       | Avoca Beach     | Avoca Beach Friendly Grocer178 Avoca Drive | 11am to 12pm on Wednesday 29 September 2021                  |
 | 01/10/2021      | Casual Contact       | Worrigee        | Naji's Charcoal Chicken and Kebabs Worrigee60 Isa Road | 10:55am to 11am on Saturday 25 September 2021                |
