@@ -24,7 +24,7 @@
 | 27/09/2021      | Casual Contact       | Bathurst        | Flirt Adult Store Bathurst235 Russell Street | 12pm (noon) to 4pm on Wednesday 22 September 2021            |
 | 01/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst210 Howick Street | 4:20pm to 4:50pm on Sunday 26 September 2021                 |
 | 26/09/2021      | Casual Contact       | Bellambi        | Bunnings BellambiWatts Lane | 12:10pm to 12:40pm on Monday 20 September 202111am to 7pm on Sunday 19 September 2021 |
-| 29/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 12pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
+| 29/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 9am to 10:30am on Thursday 30 September 202112:15pm to 1:15pm on Tuesday 28 September 202112pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
 | 01/10/2021      | Casual Contact       | Belmont         | Commonwealth Bank Belmont594 Pacific Highway | 9:30am to 10:30am on Monday 27 September 2021                |
 | 27/09/2021      | Casual Contact       | Bennetts Green  | Bunnings Bennetts Green20 Pacific Highway | 3:25pm to 4:05pm on Tuesday 21 September 2021                |
 | 01/10/2021      | Casual Contact       | Beresfield      | Greater Bank Beresfield25 Lawson Avenue | 10:25am to 10:50am on Friday 24 September 2021               |
@@ -124,6 +124,14 @@
 | 29/09/2021      | Casual Contact       | Dapto           | Country Noodles3/20 Princes Highway | 7:30pm to 8:10pm on Saturday 18 September 2021               |
 | 28/09/2021      | Casual Contact       | Dapto           | Dapto CentreTown Pharmacy21 Bong Bong Road | 6:20pm to 6:40pm on Wednesday 22 September 202110:45am to 11:45am on Tuesday 21 September 2021 |
 | 29/09/2021      | Casual Contact       | Dapto           | Woolworths DaptoDapto Mall, 75-87 Princes Highway | 10:40am to 11am on Sunday 19 September 2021                  |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Hardinge Street | 8:15pm to 9pm on Wednesday 29 September 2021                 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Deniliquin Nextra Newsagency249 Cressy Street | 1pm` to 1:10pm on Wednesday 29 September 202110am to 10:30am on Monday 27 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | GV Bargains Deniliquin293-295 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 20219:15am to 10:20am on Tuesday 28 September 20214:15pm to 4:50pm on Tuesday 28 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Mitre 10 Deniliquin98 Hardinge Street | 3:40pm to 4:10pm on Tuesday 28 September 2021                |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Red Rose Diner Deniliquin337 Cressy Street | 11:30am to 1pm on Wednesday 29 September 2021                |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Soul Pattinson Chemist Deniliquin289 Cressy Street | 10:05am to 10:40am on Monday 27 September 2021               |
+| 03/10/2021      | Casual Contact       | Deniliquin      | The Reject Shop Deniliquin104-114 Hardinge Street | 3:15pm to 3:50pm on Tuesday 28 September 20218:45am to 9:20am on Monday 27 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Total Bliss Deniliquin3/344-354 Cressy Street | 12:30pm to 1:45pm on Monday 27 September 2021                |
 | 01/10/2021      | Casual Contact       | Denman          | Denman Engineering20 Merriwa Road | 7:30am to 4:30pm on Friday 24 September 2021                 |
 | 01/10/2021      | Casual Contact       | Denman          | The Royal Hotel Denman (Beer Garden)10 Ogilvie Street | 1:20pm to 2:50pm on Friday 24 September 2021                 |
 | 01/10/2021      | Casual Contact       | Dubbo           | Aldi Dubbo176 Talbragar Street | 8:50am to 9:50am on Thursday 23 September 2021               |
@@ -276,6 +284,9 @@
 | 23/09/2021      | Casual Contact       | Mittagong       | Hayters Timber and Paving Mittagong15 Cavendish Street | All day on Sunday 19 September 2021All day on Saturday 18 September 2021 |
 | 29/09/2021      | Casual Contact       | Mittagong       | Woolworths MittagongHighlands Marketplace, 197 Old Hume Highway | 8:45am to 9:45am on Friday 24 September 2021                 |
 | 02/10/2021      | Casual Contact       | Moama           | Border Inn Hotel Moama19-21 Meninya Street | 6:30pm to 9pm on Friday 24 September 2021                    |
+| 03/10/2021      | Casual Contact       | Moama           | Merool Holiday Park131 Merool Road | 12am (midnight) to 10am on Sunday 26 September 2021All day on Saturday 25 September 202112pm to 12am (midnight) on Friday 24 September 2021 |
+| 03/10/2021      | Casual Contact       | Moama           | Rich River Golf Club - Golf CourseTwenty Four Lane | 8:15am to 10:30am on Friday 24 September 2021                |
+| 03/10/2021      | Casual Contact       | Moama           | Rich River Golf Club - RestaurantTwenty Four Lane | 10:15am to 12:30pm on Friday 24 September 2021               |
 | 02/10/2021      | Casual Contact       | Moama           | Woolworths MoamaCorner Cobb Highway and Perricoota Road | 6:10pm to 7:10pm on Friday 24 September 2021                 |
 | 27/09/2021      | Casual Contact       | Montefiores     | Cellarbrations Montefiores3 Mitchell Highway | 3:05pm to 3:35pm on Thursday 23 September 2021               |
 | 26/09/2021      | Casual Contact       | Montefiores     | Shell Montefiores16 Mitchell Highway | 6am to 6:30am on Thursday 23 September 20212:20pm to 2:35pm on Tuesday 21 September 2021 |
@@ -306,7 +317,7 @@
 | 27/09/2021      | Casual Contact       | Newcastle       | Newcastle Central Plaza741 Hunter Street | All day on Monday 27 September 2021All day on Sunday 26 September 2021All day on Saturday 25 September 2021All day on Friday 24 September 2021All day on Thursday 23 September 2021All day on Wednesday 22 September 2021All day on Tuesday 21 September 2021 |
 | 29/09/2021      | Casual Contact       | Newcastle       | Newcastle Courthouse2.1, 343 Hunter Street | 8:30am to 4:30pm on Friday 24 September 2021                 |
 | 25/09/2021      | Casual Contact       | Newcastle East  | Noah's on the Beach29 Zaara Street | 10:20am to 2pm on Monday 20 September 2021                   |
-| 30/09/2021      | Casual Contact       | North Batemans Bay | BIG4 Batemans Bay at Easts Riverside Holiday ParkWharf Road | 12am (midnight) to 6:15am on Friday 24 September 20214:45pm to 12am (midnight) on Thursday 23 September 2021 |
+| 30/09/2021      | Casual Contact       | North Batemans Bay | BIG4 Batemans Bay at Easts Riverside Holiday ParkWharf Road | 1:45pm to 5:15pm on Wednesday 29 September 20212:45pm to 4:15pm on Tuesday 28 September 202112am (midnight) to 6:15am on Friday 24 September 20214:45pm to 12am (midnight) on Thursday 23 September 2021 |
 | 30/09/2021      | Casual Contact       | North Batemans Bay | Wray Street Oyster Shed5 Wray Street | 10:45am to 12pm (noon) on Thursday 23 September 2021         |
 | 01/10/2021      | Casual Contact       | Nowra           | Aldi Nowra8/16 Kinghorne Street | 4:20pm to 4:35pm on Tuesday 28 September 202112:30pm to 1pm on Monday 27 September 2021 |
 | 01/10/2021      | Casual Contact       | Nowra           | Better Tyres Nowra61 Berry Street | 1pm to 1:30pm on Wednesday 29 September 2021                 |

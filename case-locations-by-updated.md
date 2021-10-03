@@ -2,6 +2,9 @@
 | --- | --- | --- | --- | --- |
 | 03/10/2021      | Casual Contact       | Thredbo         | The Local Pub ThredboFriday Drive | 3:30pm to 11pm on Sunday 26 September 2021                   |
 | 03/10/2021      | Casual Contact       | Thredbo         | T Bar Restaurant ThredboShop 1, 2 Mowamba Place | 6:45pm to 8:45pm on Sunday 26 September 2021                 |
+| 03/10/2021      | Casual Contact       | Moama           | Rich River Golf Club - RestaurantTwenty Four Lane | 10:15am to 12:30pm on Friday 24 September 2021               |
+| 03/10/2021      | Casual Contact       | Moama           | Rich River Golf Club - Golf CourseTwenty Four Lane | 8:15am to 10:30am on Friday 24 September 2021                |
+| 03/10/2021      | Casual Contact       | Moama           | Merool Holiday Park131 Merool Road | 12am (midnight) to 10am on Sunday 26 September 2021All day on Saturday 25 September 202112pm to 12am (midnight) on Friday 24 September 2021 |
 | 03/10/2021      | Casual Contact       | Jindabyne       | Wildbrumby Schnapps Distillery JindabyneAlpine Way and Wollondibby Road | 3:30pm to 4pm on Monday 27 September 2021                    |
 | 03/10/2021      | Casual Contact       | Jindabyne       | The Brewery Jindabyne5 Nettin Circuit | 7:35pm to 9pm on Saturday 25 September 2021                  |
 | 03/10/2021      | Casual Contact       | Jindabyne       | Takayama Restaurant Bar JindabyneShop 19, 2 Snowy River Avenue | 8pm to 10pm on Tuesday 28 September 2021                     |
@@ -22,6 +25,14 @@
 | 03/10/2021      | Casual Contact       | Goulburn        | Australia Post Goulburn165 Auburn Street | 11:35am to 11:55pm on Wednesday 29 September 2021            |
 | 03/10/2021      | Casual Contact       | Gateshead       | Hunter Imaging Group GatesheadLake Macquarie Specialist Centre, 6/8 Sydney Street | 9:45am to 11:50am on Wednesday 29 September 2021             |
 | 03/10/2021      | Casual Contact       | East Maitland   | Hunter Imaging Group MaitlandSuite 1, Ground Floor, Maitland Specialist Medical Centre | 8:55am to 9:15am on Monday 27 September 2021                 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Total Bliss Deniliquin3/344-354 Cressy Street | 12:30pm to 1:45pm on Monday 27 September 2021                |
+| 03/10/2021      | Casual Contact       | Deniliquin      | The Reject Shop Deniliquin104-114 Hardinge Street | 3:15pm to 3:50pm on Tuesday 28 September 20218:45am to 9:20am on Monday 27 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Soul Pattinson Chemist Deniliquin289 Cressy Street | 10:05am to 10:40am on Monday 27 September 2021               |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Red Rose Diner Deniliquin337 Cressy Street | 11:30am to 1pm on Wednesday 29 September 2021                |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Mitre 10 Deniliquin98 Hardinge Street | 3:40pm to 4:10pm on Tuesday 28 September 2021                |
+| 03/10/2021      | Casual Contact       | Deniliquin      | GV Bargains Deniliquin293-295 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 20219:15am to 10:20am on Tuesday 28 September 20214:15pm to 4:50pm on Tuesday 28 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Deniliquin Nextra Newsagency249 Cressy Street | 1pm` to 1:10pm on Wednesday 29 September 202110am to 10:30am on Monday 27 September 2021 |
+| 03/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Hardinge Street | 8:15pm to 9pm on Wednesday 29 September 2021                 |
 | 03/10/2021      | Casual Contact       | Cooma           | Smart Dollar Cooma102 Sharp Street | 1:25pm to 2pm on Friday 24 September 2021                    |
 | 03/10/2021      | Casual Contact       | Cooma           | Rhythm Snow Sports Cooma8 Sharp Street | 1:35pm to 2:30pm on Friday 24 September 2021                 |
 | 03/10/2021      | Casual Contact       | Cooma           | Phas Thai CoomaShop 1, 24 Soho Street | 11:55am to 1:15pm on Friday 24 September 2021                |
@@ -172,7 +183,7 @@
 | 30/09/2021      | Casual Contact       | Nowra           | Dan Murphy's NowraKalandar Street | 6:10pm to 7pm on Monday 27 September 20211:35pm to 1:40pm on Thursday 23 September 2021 |
 | 30/09/2021      | Casual Contact       | Nowra           | Coles NowraKinghorne Street and Junction Street | 10:25pm to 10:30pm on Thursday 23 September 2021             |
 | 30/09/2021      | Casual Contact       | North Batemans Bay | Wray Street Oyster Shed5 Wray Street | 10:45am to 12pm (noon) on Thursday 23 September 2021         |
-| 30/09/2021      | Casual Contact       | North Batemans Bay | BIG4 Batemans Bay at Easts Riverside Holiday ParkWharf Road | 12am (midnight) to 6:15am on Friday 24 September 20214:45pm to 12am (midnight) on Thursday 23 September 2021 |
+| 30/09/2021      | Casual Contact       | North Batemans Bay | BIG4 Batemans Bay at Easts Riverside Holiday ParkWharf Road | 1:45pm to 5:15pm on Wednesday 29 September 20212:45pm to 4:15pm on Tuesday 28 September 202112am (midnight) to 6:15am on Friday 24 September 20214:45pm to 12am (midnight) on Thursday 23 September 2021 |
 | 30/09/2021      | Casual Contact       | Narooma         | Woolworths Narooma185 Princess Highway | 6:30pm to 7:20pm on Monday 27 September 20212pm to 2:55pm on Saturday 25 September 202110:59am to 11:09am on Friday 24 September 20215:29pm to 5:49pm on Thursday 23 September 20215:15pm to 6:10pm on Thursday 23 September 2021 |
 | 30/09/2021      | Casual Contact       | Narooma         | Sublime Cafe139 Princes Highway | 1:15pm to 1:55pm on Tuesday 28 September 2021                |
 | 30/09/2021      | Casual Contact       | Narooma         | Raven Cafe & GrillShop 13/185 Princes Highway | 10:45am to 11:35am on Monday 27 September 2021               |
@@ -275,7 +286,7 @@
 | 29/09/2021      | Casual Contact       | Byron Bay       | Onboard Store3 Banksia Drive | 2:10pm to 2:40pm on Monday 27 September 2021                 |
 | 29/09/2021      | Casual Contact       | Broken Hill     | Good Price Pharmacy Warehouse Broken Hill4-5 Broken Hill Village Shopping Centre, Corner South Road and Gossan Street | 9:30am to 11:45am on Tuesday 28 September 2021               |
 | 29/09/2021      | Casual Contact       | Broadmeadow     | Newcastle City Farmers MarketsNewcastle Showground | 8am to 9am on Sunday 26 September 202112pm (noon) to 2pm on Sunday 26 September 2021 |
-| 29/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 12pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
+| 29/09/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 9am to 10:30am on Thursday 30 September 202112:15pm to 1:15pm on Tuesday 28 September 202112pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
 | 29/09/2021      | Casual Contact       | Bathurst        | Aldi Bathurst128 Russell Street | 4:30pm to 4:50pm on Sunday 26 September 2021                 |
 | 29/09/2021      | Casual Contact       | Batemans Bay    | Westpac Bank Batemans BayVillage Centre Batemans Bay, 1 Perry Street | 9:15am to 10pam on Tuesday 21 September 2021                 |
 | 29/09/2021      | Casual Contact       | Batemans Bay    | Coles Batemans BayVesper Street and Princes Highway | 12:15pm to 12:30pm on Tuesday 21 September 202111:45am to 12pm (noon) on Monday 20 September 2021 |
