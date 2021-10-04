@@ -8,7 +8,7 @@
 | 01/10/2021      | Casual Contact       | Albion Park Rail | Albion Park Cakes and PiesAlbion Park Rail | 10:25am to 11am on Wednesday 29 September 20216:35am to 7:10am on Monday 27 September 2021 |
 | 02/10/2021      | Casual Contact       | Avoca Beach     | Avoca Beach Friendly Grocer178 Avoca Drive | 11am to 12pm (noon) on Wednesday 29 September 2021           |
 | 29/09/2021      | Casual Contact       | Ballina         | Webster Surfboards1/13 Clark Street | 3:10pm to 3:20pm on Monday 27 September 2021                 |
-| 02/10/2021      | Casual Contact       | Ballina West    | BP Service CentreBruxton Highway | 4:15pm to 4:25pm on Wednesday 29 September 2021              |
+| 02/10/2021      | Casual Contact       | Ballina West    | BP Service CentreBruxner Highway | 4:15pm to 4:25pm on Wednesday 29 September 2021              |
 | 03/10/2021      | Casual Contact       | Bargo           | BWS BargoShop 2/84-86 Railside Avenue | 2:30pm to 3pm on Wednesday 29 September 20212:30pm to 3pm on Tuesday 28 September 20212:30pm to 3pm on Monday 27 September 2021 |
 | 29/09/2021      | Casual Contact       | Bargo           | Khan's Supa IGA Bargo90 Railside Avenue | 4:20pm to 8:20pm on Monday 20 September 2021                 |
 | 04/10/2021      | Casual Contact       | Bateau Bay      | North Home DécorShop 33 Bateau Bay Square | 2:15pm to 2:40pm on Wednesday 29 September 2021              |
@@ -341,7 +341,7 @@
 | 02/10/2021      | Casual Contact       | Nowra           | Southern IML Pathology3/57 Junction Street | 9:10am to 9:30am on Friday 24 September 2021                 |
 | 04/10/2021      | Casual Contact       | Nowra           | Woolworths Nowra9/13 Kinghorne Street | 3:30pm to 4:10pm on Friday 1 October 2021                    |
 | 30/09/2021      | Casual Contact       | Nowra           | Woolworths Stockland NowraShop 2, Stockland Nowra Shopping Centre, 32-60 East Street | 4:55pm to 6pm on Friday 24 September 2021                    |
-| 04/10/2021      | Casual Contact       | Nulkaba         | Fast’n Fresh BP Nulkaba247 Wine Country Drive | 11am to 2pm on Friday 1 October 202111am to 2pm on Thursday 30 September 2021 |
+| 04/10/2021      | Casual Contact       | Nulkaba         | Fast n Fresh BP Nulkaba247 Wine Country Drive | 11am to 2pm on Friday 1 October 202111am to 2pm on Thursday 30 September 2021 |
 | 04/10/2021      | Casual Contact       | Oberon          | DJ's Cafe & Takeaway169 Oberon Street | 2:05pm to 2:15pm on Thursday 30 September 20218:05am to 8:35am on Thursday 30 September 2021 |
 | 03/10/2021      | Casual Contact       | Oberon          | FoodWorks Oberon114 Oberon Street | 5:45pm to 6pm on Tuesday 28 September 20215pm to 5:10pm on Monday 27 September 20213:45pm to 4:30pm on Friday 24 September 2021 |
 | 03/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 8:50am to 9:50am on Wednesday 29 September 20214:55pm to 5pm on Monday 27 September 20212:30pm to 3:30pm on Monday 27 September 202112pm (noon) to 12:15pm on Saturday 25 September 202112pm (noon) to 12:15pm on Saturday 25 September 2021 |
@@ -350,6 +350,7 @@
 | 02/10/2021      | Casual Contact       | Oberon          | Oberon Pharmacy135 Oberon Street | 2:15pm to 2:20pm on Thursday 30 September 20214:25pm to 4:50pm on Monday 27 September 2021 |
 | 02/10/2021      | Casual Contact       | Oberon          | Service NSW Oberon137 Oberon Street | 12:35pm to 1pm on Wednesday 29 September 2021                |
 | 03/10/2021      | Casual Contact       | Oberon          | Westside Petroleum Oberon1 Horace Street | 7:45am to 7:55am on Thursday 30 September 2021               |
+| 03/10/2021      | Casual Contact       | Oberon          | Arrows Newsagency175A Oberon Street | 6:10am to 6:25am on Wednesday 29 September 20216:10am to 6:25am on Tuesday 28 September 2021 |
 | 27/09/2021      | Casual Contact       | Orange          | Ashcroft's SUPA IGA Orange210 Peisley Street | 3:35pm to 3:45pm on Friday 24 September 2021                 |
 | 01/10/2021      | Casual Contact       | Port Kembla     | BP Port Kembla71 Church Street | 12pm (noon) to 12:25pm on Monday 27 September 2021           |
 | 26/09/2021      | Casual Contact       | Port Macquarie  | Coles Port Macquarie28 Hayward Street | 7:50pm to 8:10pm on Tuesday 21 September 202111am to 11:30am on Saturday 18 September 202110:40am to 11:10am on Friday 17 September 2021 |
