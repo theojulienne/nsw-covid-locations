@@ -71,6 +71,7 @@
 | 29/09/2021      | Casual Contact       | Casino          | Londy’s Takeaway Casino131 Barker Street | 11am to 11:30am on Friday 24 September 2021                  |
 | 04/10/2021      | Casual Contact       | Cessnock        | 7-Eleven Cessnock210-214 Wollombi Road | 12pm (noon) to 1pm on Tuesday 28 September 2021              |
 | 25/09/2021      | Casual Contact       | Cessnock        | McDonald's CessnockCorner of Allandale Road and Ferguson Street | 9:30am to 5:30pm on Tuesday 14 September 2021                |
+| 05/10/2021      | Casual Contact       | Cessnock        | Subway CessnockShop 18, Charlton Street | 4:15pm to 8:30pm on Tuesday 28 September 2021                |
 | 04/10/2021      | Casual Contact       | Charlestown     | Apple Charlestown30 Pearson Street | 11:20am to 11:45am on Wednesday 22 September 2021            |
 | 30/09/2021      | Casual Contact       | Charlestown     | Australia Skin Cancer ClinicsG8042/30 Pearson Street | 9:35am to 10:15am on Monday 27 September 2021                |
 | 01/10/2021      | Casual Contact       | Charlestown     | Australian Skin Cancer Clinics CharlestownG8042/30 Pearson Street | 9:35am to 10:15am on Monday 27 September 2021                |
@@ -160,8 +161,8 @@
 | 04/10/2021      | Casual Contact       | Forster         | Ally Fashion ShellharbourStockland Forster Shopping Centre, Breese Parade | 3:05pm to 3:20pm on Sunday 3 October 2021                    |
 | 04/10/2021      | Casual Contact       | Forster         | Forster Bowling Club2 Strand Street | 7:30pm to 8:40pm on Wednesday 29 September 2021              |
 | 04/10/2021      | Casual Contact       | Forster         | Hot Bargain ForsterStockland Forster Shopping Centre, Breese Parade | 2:35pm to 3pm on Sunday 3 October 2021                       |
-| 04/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster89 The Lakes Way | 2:30pm to 3pm on Sunday 3 October 2021                       |
-| 04/10/2021      | Casual Contact       | Forster         | Sports FirstStockland Forster Shopping Centre, Breese Parade | 3:20pm to 3:45pm on Sunday 3 October 2021                    |
+| 04/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster89 The Lakes Way | 3:30pm to 4pm on Sunday 3 October 2021                       |
+| 04/10/2021      | Casual Contact       | Forster         | Sports First ForsterStockland Forster Shopping Centre, Breese Parade | 3:20pm to 3:45pm on Sunday 3 October 2021                    |
 | 04/10/2021      | Casual Contact       | Forster         | The Reject Shop ForsterStockland Forster Shopping Centre, Breese Parade | 3:45pm to 4pm on Sunday 3 October 2021                       |
 | 03/10/2021      | Casual Contact       | Gateshead       | Hunter Imaging Group GatesheadLake Macquarie Specialist Centre, 6/8 Sydney Street | 9:45am to 11:50am on Wednesday 29 September 2021             |
 | 28/09/2021      | Casual Contact       | Georgetown      | Vinny's Takeaway Georgetown45 Georgetown Road | 10am to 1:30pm on Wednesday 22 September 2021                |
@@ -204,6 +205,7 @@
 | 04/10/2021      | Casual Contact       | Green Point     | Coles Green PointSun Valley Road | 2:45pm to 3:10pm on Wednesday 22 September 2021              |
 | 23/09/2021      | Casual Contact       | Gundagai        | Shell Coles Express GundagaiMount Street and Middle Street | 2am to 2:10am on Tuesday 21 September 2021                   |
 | 03/10/2021      | Casual Contact       | Gunnedah        | Cellarbrations GunnedahShop 3, 222-224 Connadilly Street | 12:20pm to 12:25pm on Tuesday 28 September 2021              |
+| 05/10/2021      | Casual Contact       | Gunnedah        | Lowes Petrol GunnedahAbbott Street | 6:10pm to 6:25pm on Wednesday 29 September 2021              |
 | 03/10/2021      | Casual Contact       | Gunnedah        | The Gunnedah Hotel298 Conadilly Street | 8:40pm to 8:45pm on Tuesday 28 September 2021                |
 | 04/10/2021      | Casual Contact       | Helensburgh     | Coles HelensburghHelensburgh Plaza, Walker Street | 11am to 11:30am on Thursday 30 September 2021                |
 | 04/10/2021      | Casual Contact       | Hillvue         | BCF Tamworth425/437 Goonoo Goonoo Road | 4:20pm to 4:45pm on Tuesday 28 September 2021                |
@@ -295,6 +297,7 @@
 | 01/10/2021      | Casual Contact       | Mudgee          | Shell Mudgee - Sydney Road56 Sydney Road | 5:05pm to 5:15pm on Sunday 26 September 2021                 |
 | 28/09/2021      | Casual Contact       | Muswellbrook    | Game On Muswellbrook5 Mill Street | 1pm to 3pm on Thursday 23 September 2021                     |
 | 28/09/2021      | Casual Contact       | Muswellbrook    | McDonald's Muswellbrook83 Maitland Street | 2:05pm to 2:45pm on Thursday 23 September 2021               |
+| 05/10/2021      | Casual Contact       | Muswellbrook    | McDonalds MuswellbrookMaitland Street | 1pm to 1:20pm on Wednesday 29 September 2021                 |
 | 27/09/2021      | Casual Contact       | Muswellbrook    | Pharmacy Select MuswellbrookShop 4, Muswellbrook Fair Shopping Centre, 19-29 Rutherford Road | 12pm (noon) to 12:20pm on Wednesday 22 September 2021        |
 | 25/09/2021      | Casual Contact       | Narara          | The Bottle-O Narara16 Deane Street | 4:30pm to 4:45pm on Tuesday 21 September 2021                |
 | 30/09/2021      | Casual Contact       | Narooma         | Aldi NaroomaNarooma Plaza, 185 Princes Highway | 1:50pm to 2:40pm on Saturday 25 September 2021               |
@@ -453,6 +456,7 @@
 | 27/09/2021      | Casual Contact       | Wellington      | TSG Wellington126A Percy Street | 2:55pm to 3:15pm on Thursday 23 September 2021               |
 | 01/10/2021      | Casual Contact       | Wellington      | Wellington School Shop114 Arthur Street | 6:30pm to 7:30pm on Friday 24 September 2021                 |
 | 03/10/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 11:45am to 12:45pm on Saturday 18 September 2021             |
+| 05/10/2021      | Casual Contact       | Werris Creek    | Caltex Werris Creek18 Single Street | 6pm to 6:15pm on Thursday 23 September 2021                  |
 | 02/10/2021      | Casual Contact       | West Ballina    | BP Service Centre BallinaBruxner Highway | 4:15pm to 4:25pm on Wednesday 29 September 2021              |
 | 04/10/2021      | Casual Contact       | West Gosford    | Ampol Foodary Gosford West (West bound)30A Pacific Highway | 11:01am to 11:08am on Friday 1 October 2021                  |
 | 04/10/2021      | Casual Contact       | West Gosford    | Coles West GosfordWest Gosford Village, 299 Brisbane Water Drive | 3:42pm to 4:42pm on Thursday 30 September 2021               |

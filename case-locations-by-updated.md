@@ -1,5 +1,9 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 05/10/2021      | Casual Contact       | Werris Creek    | Caltex Werris Creek18 Single Street | 6pm to 6:15pm on Thursday 23 September 2021                  |
+| 05/10/2021      | Casual Contact       | Muswellbrook    | McDonalds MuswellbrookMaitland Street | 1pm to 1:20pm on Wednesday 29 September 2021                 |
+| 05/10/2021      | Casual Contact       | Gunnedah        | Lowes Petrol GunnedahAbbott Street | 6:10pm to 6:25pm on Wednesday 29 September 2021              |
+| 05/10/2021      | Casual Contact       | Cessnock        | Subway CessnockShop 18, Charlton Street | 4:15pm to 8:30pm on Tuesday 28 September 2021                |
 | 04/10/2021      | Casual Contact       | Wyoming         | Coles WyomingWyoming Shopping Centre, Pacific Highway | 10:25am to 11:20am on Friday 24 September 2021               |
 | 04/10/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 1:40pm to 2:30pm on Tuesday 21 September 2021                |
 | 04/10/2021      | Casual Contact       | Worrigee        | FoodWorks Worrigee60 Isa Road | 1:15pm to 1:30pm on Wednesday 29 September 2021              |
@@ -52,8 +56,8 @@
 | 04/10/2021      | Casual Contact       | Gosford         | Little Bottler Drive Thru99 Donnison Street | 7:42pm to 8:12pm on Thursday 30 September 2021               |
 | 04/10/2021      | Casual Contact       | Gorokan         | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 3:20pm to 3:50pm on Monday 27 September 2021                 |
 | 04/10/2021      | Casual Contact       | Forster         | The Reject Shop ForsterStockland Forster Shopping Centre, Breese Parade | 3:45pm to 4pm on Sunday 3 October 2021                       |
-| 04/10/2021      | Casual Contact       | Forster         | Sports FirstStockland Forster Shopping Centre, Breese Parade | 3:20pm to 3:45pm on Sunday 3 October 2021                    |
-| 04/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster89 The Lakes Way | 2:30pm to 3pm on Sunday 3 October 2021                       |
+| 04/10/2021      | Casual Contact       | Forster         | Sports First ForsterStockland Forster Shopping Centre, Breese Parade | 3:20pm to 3:45pm on Sunday 3 October 2021                    |
+| 04/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster89 The Lakes Way | 3:30pm to 4pm on Sunday 3 October 2021                       |
 | 04/10/2021      | Casual Contact       | Forster         | Hot Bargain ForsterStockland Forster Shopping Centre, Breese Parade | 2:35pm to 3pm on Sunday 3 October 2021                       |
 | 04/10/2021      | Casual Contact       | Forster         | Forster Bowling Club2 Strand Street | 7:30pm to 8:40pm on Wednesday 29 September 2021              |
 | 04/10/2021      | Casual Contact       | Forster         | Ally Fashion ShellharbourStockland Forster Shopping Centre, Breese Parade | 3:05pm to 3:20pm on Sunday 3 October 2021                    |
