@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 06/10/2021      | Casual Contact       | Warners Bay     | Service NSW Warners BayBuilding D, Unit 2/274 Macquarie Road | 2:55pm to 4:40pm on Wednesday 29 September 20212:10pm to 2:40pm on Tuesday 28 September 2021 |
 | 06/10/2021      | Casual Contact       | Thornton        | Providence Medical Thornton (Vaccination Clinic)2 Poynton Place | 3:30pm to 3:50pm on Thursday 30 September 2021               |
 | 06/10/2021      | Casual Contact       | South Nowra     | United Petroleum Nowra (Pie Face)86 Princes Highway | 10am to 10:10am on Tuesday 28 September 2021                 |
 | 06/10/2021      | Casual Contact       | Peak Hill       | Peak Hill Ex-Services and Citizens Club Ltd57/61 Caswell Street | 5:20pm to 8:45pm on Saturday 2 October 2021                  |
@@ -20,7 +21,7 @@
 | 06/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster - Pokies area89 The Lakes Way | 2:30pm to 3pm on Sunday 3 October 2021                       |
 | 06/10/2021      | Casual Contact       | Charlestown     | Hunter Imaging Group CharlestownGround Floor Health Square Building, 20 Smith Street | 10am to 10:25am on Monday 27 September 2021                  |
 | 06/10/2021      | Casual Contact       | Budgewoi        | Coles BudgewoiNoela Place | 3:15pm to 10pm on Friday 1 October 2021                      |
-| 06/10/2021      | Casual Contact       | Berkeley        | Coles Berkeley65 Winnima Way | 4:25pm to 7:30pm on Sunday 3 October 20218:45am to 9am on Friday 1 October 20216:30am to 7:15am on Friday 1 October 20217:15am to 7:30am on Tuesday 28 September 202112:45pm to 1:15pm on Tuesday 28 September 202112:15pm to 12:30pm on Tuesday 28 September 2021 |
+| 06/10/2021      | Casual Contact       | Berkeley        | Coles Berkeley65 Winnima Way | 5:20pm to 6:20pm on Sunday 3 October 20218:45am to 9am on Friday 1 October 20216:30am to 7:15am on Friday 1 October 20217:15am to 7:30am on Tuesday 28 September 202112:45pm to 1:15pm on Tuesday 28 September 202112:15pm to 12:30pm on Tuesday 28 September 2021 |
 | 05/10/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 3:35pm to 5pm on Tuesday 28 September 20211:40pm to 2:30pm on Tuesday 21 September 2021 |
 | 05/10/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street |  8:10am to 8:20am on Monday 4 October 202111:45am to 12:05pm on Tuesday 28 September 20211:20pm to 1:45pm on Tuesday 21 September 2021 |
 | 05/10/2021      | Casual Contact       | West Wollongong | Petbarn West Wollongong43 Princes Highway | 9:05am to 9:15am on Monday 27 September 20213:55pm to 4:15pm on Saturday 25 September 2021 |
