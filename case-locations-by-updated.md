@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 06/10/2021      | Casual Contact       | Orange          | Orange Ex-Services Club231-243 Anson Street | 5:10pm to 5:50pm on Sunday 26 September 202112am to 3:40am on Sunday 26 September 20219:55pm to 11:59pm on Saturday 25 September 2021 |
+| 06/10/2021      | Casual Contact       | Marks Point     | Belmont Palms Motel784 Pacific Highway | 12am to 10am on Saturday 2 October 2021All day on Friday 1 October 2021All day on Thursday 30 September 2021All day on Wednesday 29 September 2021All day on Tuesday 28 September 20212pm to 11:59pm on Monday 27 September 2021 |
 | 06/10/2021      | Casual Contact       | Harrington      | Harrington Hotel30 Beach Street | 3:25pm to 4:15pm on Saturday 25 September 2021               |
 | 05/10/2021      | Casual Contact       | Woy Woy         | Coles Woy WoyDeepwater Plaza, Railway Street and George Street | 3:35pm to 5pm on Tuesday 28 September 20211:40pm to 2:30pm on Tuesday 21 September 2021 |
 | 05/10/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 11:45am to 12:05pm on Tuesday 28 September 20211:20pm to 1:45pm on Tuesday 21 September 2021 |
@@ -47,7 +48,7 @@
 | 05/10/2021      | Casual Contact       | Jindabyne       | La Famiglia JindabyneShop 2/2 Snowy River Avenue | 8:20am to 8:55am on Wednesday 29 September 2021              |
 | 05/10/2021      | Casual Contact       | Jindabyne       | Caltex Jindabyne4/6 Kosciuszko Road | 8:45am to 9:15am on Wednesday 29 September 202112:30pm to 12:35pm on Wednesday 29 September 20219:10am to 9:45am on Tuesday 28 September 20217:50am to 8:30am on Saturday 25 September 20216pm to 6:45pm on Saturday 25 September 20218:55am to 9:35am on Wednesday 22 September 2021 |
 | 05/10/2021      | Casual Contact       | Jerrabomberra   | Woolworths Jerrabomberra2 Limestone Drive | 8:15am to 9:15am on Friday 1 October 20217:35am to 8:35am on Monday 27 September 202111:15am to 12:15pm on Sunday 26 September 20219:35am to 11am on Saturday 25 September 2021 |
-| 05/10/2021      | Casual Contact       | Gunnedah        | Railway Hotel Gunnedah41 Barber Street | 10:30am to 11am on Saturday 2 October 202110:30am to 11am on Saturday 2 October 202111am to 12pm (noon) on Tuesday 28 September 202111am to 12pm (noon) on Tuesday 28 September 2021 |
+| 05/10/2021      | Casual Contact       | Gunnedah        | Railway Hotel Gunnedah (pokies area only)41 Barber Street | 10:30am to 11am on Saturday 2 October 202111am to 12pm (noon) on Tuesday 28 September 2021 |
 | 05/10/2021      | Casual Contact       | Gunnedah        | Lowes Petrol GunnedahAbbott Street | 2:20pm to 2:35pm on Saturday 2 October 20216:05pm to 6:20pm on Friday 1 October 20216:10pm to 6:25pm on Wednesday 29 September 2021 |
 | 05/10/2021      | Casual Contact       | Goulburn        | News Xpress Goulburn217 Auburn Street | 11:50am to 12:10pm on Friday 1 October 2021                  |
 | 05/10/2021      | Casual Contact       | Goulburn        | Commonwealth Bank GoulburnShop T22a/217 Auburn Street | 11:20am to 12pm (noon) on Friday 1 October 2021              |

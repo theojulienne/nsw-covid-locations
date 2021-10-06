@@ -202,7 +202,7 @@
 | 04/10/2021      | Casual Contact       | Green Point     | Coles Green PointSun Valley Road | 2:45pm to 3:10pm on Wednesday 22 September 2021              |
 | 03/10/2021      | Casual Contact       | Gunnedah        | Cellarbrations GunnedahShop 3, 222-224 Connadilly Street | 2:40pm to 2:45pm on Tuesday 28 September 202112:20pm to 12:25pm on Tuesday 28 September 2021 |
 | 05/10/2021      | Casual Contact       | Gunnedah        | Lowes Petrol GunnedahAbbott Street | 2:20pm to 2:35pm on Saturday 2 October 20216:05pm to 6:20pm on Friday 1 October 20216:10pm to 6:25pm on Wednesday 29 September 2021 |
-| 05/10/2021      | Casual Contact       | Gunnedah        | Railway Hotel Gunnedah41 Barber Street | 10:30am to 11am on Saturday 2 October 202110:30am to 11am on Saturday 2 October 202111am to 12pm (noon) on Tuesday 28 September 202111am to 12pm (noon) on Tuesday 28 September 2021 |
+| 05/10/2021      | Casual Contact       | Gunnedah        | Railway Hotel Gunnedah (pokies area only)41 Barber Street | 10:30am to 11am on Saturday 2 October 202111am to 12pm (noon) on Tuesday 28 September 2021 |
 | 03/10/2021      | Casual Contact       | Gunnedah        | The Gunnedah Hotel298 Conadilly Street | 8:40pm to 8:45pm on Tuesday 28 September 2021                |
 | 06/10/2021      | Casual Contact       | Harrington      | Harrington Hotel30 Beach Street | 3:25pm to 4:15pm on Saturday 25 September 2021               |
 | 04/10/2021      | Casual Contact       | Helensburgh     | Coles HelensburghHelensburgh Plaza, Walker Street | 11am to 11:30am on Thursday 30 September 2021                |
@@ -283,6 +283,7 @@
 | 05/10/2021      | Close Contact        | Lismore         | Healthwise Multicare Chiropractic Centre3/17 Orion Street | All day on Friday 24 September 2021                          |
 | 29/09/2021      | Casual Contact       | Lismore         | Northern Rivers Tiles and Mosaics177 Keen Street | 9:40am to 9:50am on Saturday 25 September 2021               |
 | 29/09/2021      | Casual Contact       | Lismore         | Planet Music25 Molesworth Street | 9:30am to 9:40am on Saturday 25 September 2021               |
+| 06/10/2021      | Casual Contact       | Marks Point     | Belmont Palms Motel784 Pacific Highway | 12am to 10am on Saturday 2 October 2021All day on Friday 1 October 2021All day on Thursday 30 September 2021All day on Wednesday 29 September 2021All day on Tuesday 28 September 20212pm to 11:59pm on Monday 27 September 2021 |
 | 02/10/2021      | Casual Contact       | Marulan         | BP Marulan15666 Hume Highway | 10:25pm to 11:10pm on Sunday 26 September 2021               |
 | 29/09/2021      | Casual Contact       | Mayfield        | Chemist Warehouse Mayfield95-97 Maitland Road | 8:45am to 9:05am on Saturday 25 September 2021               |
 | 05/10/2021      | Casual Contact       | Menindee        | Menindee Cafe31 Yartla Street | 10:15am to 11:45am on Thursday 30 September 2021             |
