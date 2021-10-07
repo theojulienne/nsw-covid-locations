@@ -79,7 +79,7 @@
 | 06/10/2021      | Casual Contact       | Casino          | Lifeline Shop Casino95 Barker Street | 2:30pm to 3pm on Wednesday 29 September 2021                 |
 | 29/09/2021      | Casual Contact       | Casino          | Londy’s Takeaway Casino131 Barker Street | 11am to 11:30am on Friday 24 September 2021                  |
 | 06/10/2021      | Casual Contact       | Casino          | Scrivener and Webb Pharmacy Casino89 Walker Street | 3:05pm to 3:15pm on Friday 1 October 2021                    |
-| 06/10/2021      | Close Contact        | Casino          | Simply U Yoga CasionThe Chambers, 98 Walker Street | 6:30am to 7:15am on Friday 1 October 20219am to 10:10am on Thursday 30 September 2021 |
+| 06/10/2021      | Close Contact        | Casino          | Simply U Yoga CasinoThe Chambers, 98 Walker Street | 6:30am to 7:15am on Friday 1 October 20219am to 10:10am on Thursday 30 September 2021 |
 | 06/10/2021      | Casual Contact       | Casino          | Woolworths Casino165 Canterbury Street | 3:25pm to 3:55pm on Friday 1 October 2021                    |
 | 07/10/2021      | Casual Contact       | Casino          | Coles Casino 164-170 Canterbury Street | 5:45pm to 6pm on Sunday 26 September 2021                    |
 | 07/10/2021      | Casual Contact       | Casino          | EG Fuelco Casino130 Canterbury Street | 8:15am to 8:30am on Saturday 25 September 2021               |
@@ -409,6 +409,7 @@
 | 06/10/2021      | Casual Contact       | Orange          | Perry Oval Takeaway3/150 Clinton Street | 11:30am to 11:45am on Thursday 30 September 2021             |
 | 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 9:45pm to 11:30pm on Friday 1 October 2021                   |
 | 06/10/2021      | Casual Contact       | Peak Hill       | Peak Hill Ex-Services and Citizens Club Ltd57/61 Caswell Street | 5:20pm to 8:45pm on Saturday 2 October 2021                  |
+| 07/10/2021      | Casual Contact       | Pokolbin        | H Boutique Hotel Pokolbin220 McDonalds Road | 12am (midnight) to 11am on Friday 1 October 2021All day on Thursday 30 September 2021All day on Wednesday 29 September 2021All day on Tuesday 28 September 2021All day on Monday 27 September 2021All day on Sunday 26 September 2021All day on Saturday 25 September 2021All day on Friday 24 September 2021All day on Thursday 23 September 20212pm to 11:59pm on Wednesday 22 September 2021 |
 | 01/10/2021      | Casual Contact       | Port Kembla     | BP Port Kembla71 Church Street | 12pm (noon) to 12:25pm on Monday 27 September 2021           |
 | 06/10/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 3:30pm to 3:45pm on Wednesday 29 September 2021              |
 | 06/10/2021      | Casual Contact       | Port Macquarie  | Coles Port MacquarieLighthouse Plaza, Ocean Drive and Emerald Drive | 5:10pm to 5:25pm on Thursday 30 September 2021               |
@@ -449,6 +450,7 @@
 | 05/10/2021      | Casual Contact       | Singleton       | Albion Hotel Singleton2 John Street | 1:55pm to 3:20pm on Saturday 2 October 20213:35pm to 7:25pm on Friday 1 October 2021 |
 | 02/10/2021      | Casual Contact       | Singleton       | Cervoz Cafe SingletonShop 3/126 John Street | 9am to 11:15am on Saturday 25 September 2021                 |
 | 05/10/2021      | Casual Contact       | Singleton       | Club House Hotel Singleton142 John Street | 1:30pm to 3:35pm on Sunday 3 October 2021                    |
+| 07/10/2021      | Casual Contact       | Singleton       | Horse and Jockey Hotel Singleton65-67 George Street | 12pm (noon) to 2pm on Wednesday 6 October 202110:30am to 2:30pm on Monday 4 October 202110:30am to 2:30pm on Sunday 3 October 202110:30am to 2:30pm on Saturday 2 October 20219:25am to 2:30pm on Friday 1 October 20214:30pm to 7:30pm on Thursday 30 September 20214:30pm to 5:30pm on Wednesday 29 September 20214:30pm to 5:30pm on Tuesday 28 September 2021 |
 | 30/09/2021      | Casual Contact       | Singleton       | Service NSW Singleton158 John Street | 10:30am to 10:55am on Tuesday 28 September 202110:25am to 10:40am on Friday 24 September 2021 |
 | 28/09/2021      | Casual Contact       | Singleton       | Singleton Council Administration Building12-14 Queen Street | 8am to 4:30pm on Friday 24 September 2021                    |
 | 30/09/2021      | Casual Contact       | Singleton       | Singleton Discount Drug Store122 John Street | 5:10pm to 5:20pm on Friday 24 September 2021                 |
