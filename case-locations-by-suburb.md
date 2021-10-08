@@ -157,7 +157,7 @@
 | 03/10/2021      | Casual Contact       | Dubbo           | Zambrero Dubbo177 Macquarie Street | 3:25pm to 3:35pm on Thursday 30 September 2021               |
 | 01/10/2021      | Casual Contact       | East Corrimal   | Enhance Corrimal2-4 Railway Street | 7am to 7:15am on Wednesday 29 September 2021                 |
 | 05/10/2021      | Casual Contact       | East Lismore    | SPAR East LismoreShop 1/62 Wyrallah Road | 2:35pm to 2:50pm on Friday 1 October 2021                    |
-| 06/10/2021      | Casual Contact       | East Lismore    | Sullivan Nicolaides Pathology East LismoreShop 12/62 Wyrallah Road | 2:40pm to 3:20pm on Friday 1 October 2021                    |
+| 08/10/2021      | Casual Contact       | East Lismore    | Sullivan Nicolaides Pathology East LismoreShop 12/62 Wyrallah Road | 2:40pm to 3:20pm on Friday 1 October 202111:15am to 12:15pm on Friday 1 October 2021 |
 | 03/10/2021      | Casual Contact       | East Maitland   | Hunter Imaging Group MaitlandSuite 1, Ground Floor, Maitland Specialist Medical Centre | 8:55am to 9:15am on Monday 27 September 2021                 |
 | 30/09/2021      | Casual Contact       | East Maitland   | Laverty Pathology East MaitlandShop 3/134 Lawes Street | 10:30am to 11:30am on Saturday 25 September 2021             |
 | 08/10/2021      | Casual Contact       | Ettalong Beach  | Hungry Wolf's Ettalong Beach23 Broken Bay Road | 5pm to 7pm on Sunday 3 October 20215pm to 9pm on Saturday 2 October 20215pm to 9pm on Friday 1 October 2021 |
@@ -211,6 +211,9 @@
 | 03/10/2021      | Casual Contact       | Goulburn        | Target Goulburn279 Auburn Street | 1:55pm to 2:55pm on Monday 27 September 2021                 |
 | 03/10/2021      | Casual Contact       | Goulburn        | Wendy's GoulburnKiosk 5, Centro, 217 Auburn Street | 1:45pm to 2:15pm on Monday 27 September 2021                 |
 | 03/10/2021      | Casual Contact       | Goulburn        | Woolworths GoulburnGoulburn Marketplace, Sloane Street | 2:10pm to 3:10pm on Wednesday 29 September 202112:55pm to 1:45pm on Wednesday 29 September 20213:45pm to 4:45pm on Saturday 25 September 202112am (midnight) to 12:15am on Saturday 25 September 202112:45pm to 12:50pm on Friday 24 September 202112:30pm to 12:35pm on Friday 24 September 20211:20pm to 11:59pm on Friday 24 September 202112am (midnight) to 12:15am on Thursday 23 September 202110:50am to 11:20am on Thursday 23 September 20211:50pm to 4:10pm on Thursday 23 September 20217:30am to 8:30am on Wednesday 22 September 20217:15pm to 8:15pm on Wednesday 22 September 20211:45pm to 11:49pm on Wednesday 22 September 20212:50pm to 4:30pm on Monday 20 September 2021 |
+| 08/10/2021      | Casual Contact       | Grafton         | Coles South GraftonSouth Grafton Shopping Centre, Bent Street | 1:20pm to 1:35pm on Tuesday 5 October 20219:45am to 9:50am on Monday 27 September 20212:30pm to 2:45pm on Monday 27 September 2021 |
+| 08/10/2021      | Casual Contact       | Grafton         | Liquorland South Grafton94 Bent Street | 1:30pm to 1:45pm on Tuesday 5 October 2021                   |
+| 08/10/2021      | Casual Contact       | Grafton         | Shell Coles Express Grafton91 Bent Street, Corner Spring Street | 12:20pm to 12:30pm on Tuesday 5 October 2021                 |
 | 30/09/2021      | Casual Contact       | Green Point     | CTC and News Green PointShop 7, Green Point Shopping Centre, Corner of Avoca Drive and Sun Valley Road | 6:25am to 3:10pm on Saturday 25 September 2021               |
 | 03/10/2021      | Casual Contact       | Gunnedah        | Cellarbrations GunnedahShop 3, 222-224 Connadilly Street | 2:40pm to 2:45pm on Tuesday 28 September 202112:20pm to 12:25pm on Tuesday 28 September 2021 |
 | 07/10/2021      | Casual Contact       | Gunnedah        | Coles GunnedahShopping Centre, 80/98 Little Conadilly Street | 3:05pm to 4:30pm on Friday 1 October 20219:15am to 10:25am on Sunday 26 September 2021 |
@@ -281,6 +284,7 @@
 | 02/10/2021      | Casual Contact       | Kyogle          | BWS Kyogle36 Bloore Street | 12pm (noon) to 12:15pm on Monday 27 September 202112pm (noon) to 12:15pm on Monday 27 September 202112:40pm to 12:55pm on Friday 24 September 2021 |
 | 29/09/2021      | Casual Contact       | Kyogle          | Hairport Kyogle93 Summerland Way | 9:50am to 10am on Friday 24 September 2021                   |
 | 06/10/2021      | Casual Contact       | Kyogle          | IGA Liquor Kyogle17 Summerland Way | 3pm to 4pm on Wednesday 29 September 2021                    |
+| 08/10/2021      | Casual Contact       | Kyogle          | Kyogle Family Support Services Neighbourhood Centre8 Geneva Street | 9am to 9:30am on Thursday 30 September 2021                  |
 | 29/09/2021      | Casual Contact       | Kyogle          | Kyogle News89 Summerland Way | 10:10am to 10:15am on Monday 27 September 2021               |
 | 29/09/2021      | Casual Contact       | Kyogle          | Kyogle Pharmacy111-113 Summerland Way | 9:50am to 10:10am on Monday 27 September 202112:55pm to 1:05pm on Friday 24 September 202112:30pm to 12:40pm on Friday 24 September 2021 |
 | 01/10/2021      | Casual Contact       | Kyogle          | McKid Medical Kyogle199 Summerland Way | 8:45am to 10:15am on Friday 24 September 20219am to 9:45am on Thursday 23 September 2021 |
@@ -468,10 +472,10 @@
 | 03/10/2021      | Casual Contact       | Unanderra       | IMB Bank Unanderra102 Princes Highway | 11:15am to 11:25am on Tuesday 28 September 2021              |
 | 05/10/2021      | Casual Contact       | Unanderra       | Woolworths Unanderra4-8 Tannery Street | 11am to 11:30am on Saturday 2 October 20211pm to 2:10pm on Tuesday 28 September 20214:15pm to 4:40pm on Sunday 26 September 20216pm to 6:05pm on Thursday 23 September 20216:10pm to 6:25pm on Sunday 19 September 20211:30pm to 1:40pm on Friday 17 September 2021 |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Aussie Disposals Wagga Wagga154 Baylis Street | 12:45pm to 1:05pm on Sunday 26 September 2021                |
+| 08/10/2021      | Casual Contact       | Wagga Wagga     | Best Street Café10 Best Street | 8:45am to 10am on Thursday 30 September 2021                 |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Big Barber Sturt Mall Wagga Wagga135 Baylis Street | 12:30pm to 1:15pm on Sunday 26 September 2021                |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Bunnings Wagga WagaCorner Dobney and Pearson Streets | 10:25am to 1:30pm on Monday 27 September 2021                |
 | 02/10/2021      | Casual Contact       | Wagga Wagga     | Kmart Wagga Wagga135-143 Baylis Street | 6:15pm to 7:15pm on Monday 27 September 202112pm (noon) to 12:45pm on Sunday 26 September 2021 |
-| 08/10/2021      | Casual Contact       | Wagga Wagga     | Best Street Café10 Best Street | 8:45am to 10am on Thursday 30 September 2021                 |
 | 07/10/2021      | Casual Contact       | Wallsend        | Simply Pharmacy WallsendShop 1/24 Kokera Street | 3:15pm to 4pm on Wednesday 29 September 202112:35pm to 1:45pm on Tuesday 28 September 2021 |
 | 02/10/2021      | Casual Contact       | Waratah         | Gloria Jeans WaratahShop 7/91-111 Turton Road | 10am to 2:30pm on Tuesday 28 September 20216:30am to 11am on Monday 27 September 2021 |
 | 04/10/2021      | Casual Contact       | Warilla         | Aldi WarillaWarilla Grove Shopping Centre, 43-57 Shellharbour Road | 9:25am to 9:40am on Saturday 2 October 20219:25am to 10:10am on Thursday 30 September 20211:25pm to 1:45pm on Friday 24 September 2021 |
