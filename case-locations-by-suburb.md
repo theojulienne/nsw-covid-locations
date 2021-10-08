@@ -285,6 +285,8 @@
 | 05/10/2021      | Casual Contact       | Karabar         | SUPA IGA KarabarCorner Cooma and Southbar Road | 8:15am to 9:15am on Monday 27 September 202112:30pm to 1pm on Monday 27 September 202111:15am to 12:15pm on Sunday 26 September 20216:55pm to 7:55pm on Friday 24 September 20214:30pm to 5:40pm on Friday 24 September 2021 |
 | 03/10/2021      | Casual Contact       | Kelso           | Caltex Kelso171 Sydney Road | 12pm (noon) to 12:10pm on Sunday 26 September 2021           |
 | 06/10/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 10:40am to 11:15am on Saturday 2 October 20213:40pm to 4:55pm on Saturday 25 September 20218:40am to 8:55am on Friday 17 September 202111:30am to 11:55am on Friday 17 September 2021 |
+| 08/10/2021      | Casual Contact       | Kempsey         | Big W Kempsey91 Smith Street | 2:20pm to 2:40pm on Tuesday 28 September 2021                |
+| 08/10/2021      | Casual Contact       | Kempsey         | Bunnings Warehouse Kempsey123 Smith Street | 11:10am to 2pm on Wednesday 29 September 2021                |
 | 05/10/2021      | Casual Contact       | Kempsey         | Wisda Petroleum Kempsey103 Smith Street | 1:30pm to 1:35pm on Thursday 30 September 2021               |
 | 05/10/2021      | Casual Contact       | Kiama           | Subway Kiama106 Terralong Street | 12:25pm to 12:40pm on Sunday 26 September 2021               |
 | 04/10/2021      | Casual Contact       | Killarney Vale  | The Bottle-O Killarney ValeShop 2/120 Wyong Road | 3:25pm to 4pm on Thursday 30 September 20215:25pm to 5:55pm on Wednesday 29 September 2021 |
@@ -412,9 +414,14 @@
 | 07/10/2021      | Casual Contact       | Pokolbin        | H Boutique Hotel220 McDonalds Road | 12am (midnight) to 11am on Friday 1 October 2021All day on Thursday 30 September 2021All day on Wednesday 29 September 2021All day on Tuesday 28 September 2021All day on Monday 27 September 2021All day on Sunday 26 September 2021All day on Saturday 25 September 2021All day on Friday 24 September 2021All day on Thursday 23 September 20212pm to 11:59pm on Wednesday 22 September 2021 |
 | 01/10/2021      | Casual Contact       | Port Kembla     | BP Port Kembla71 Church Street | 12pm (noon) to 12:25pm on Monday 27 September 2021           |
 | 06/10/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 3:30pm to 3:45pm on Wednesday 29 September 2021              |
-| 06/10/2021      | Casual Contact       | Port Macquarie  | Coles Port MacquarieLighthouse Plaza, Ocean Drive and Emerald Drive | 5:10pm to 5:25pm on Thursday 30 September 2021               |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Coles Port Macquarie - Hayward Street28 Hayward Street | 1:05pm to 1:20pm on Wednesday 29 September 2021              |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Coles Port Macquarie - Lighthouse PlazaLighthouse Plaza, Ocean Drive and Emerald Drive | 5:10pm to 5:25pm on Thursday 30 September 20214pm to 4:20pm on Thursday 30 September 2021 |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Dan Murphy's Port MacquarieCorner Gordon and Horton Streets | 10:15am to 10:20am on Tuesday 28 September 2021              |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Flynns Beach Cellars57 Pacific Drive | 3:40pm to 3:45pm on Thursday 30 September 2021               |
 | 06/10/2021      | Casual Contact       | Port Macquarie  | Hastings Fresh Meats Port Macquarie173 Lake Road | 12:15pm to 12:25pm on Wednesday 29 September 2021            |
-| 08/10/2021      | Casual Contact       | Port Macquarie  | Kelsey's Tobacconist & Gifts Kings of the Pack23/41 Short Street | 9:55am to 10:30am on Tuesday 28 September 2021               |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Kelsey's Tobacconist & Gifts Kings of the Pack23/41 Short Street | 10:10am to 10:15am on Tuesday 28 September 2021              |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Munster Street Bakery2/35 Munster Street | 1:50pm to 1:55pm on Wednesday 29 September 2021              |
+| 08/10/2021      | Casual Contact       | Port Macquarie  | Priceline Pharmacy Port Macquarie36 Horton Street | 10:05am to 10:20am on Thursday 30 September 2021             |
 | 08/10/2021      | Casual Contact       | Port Macquarie  | Tacking Point Tavern102a Ocean Drive | 4:30pm to 4:40pm on Thursday 30 September 2021               |
 | 02/10/2021      | Casual Contact       | Pottsville      | Pottsville Chiropractic54 Tweed Coast Road | 6:15pm to 6:45pm on Tuesday 28 September 2021                |
 | 08/10/2021      | Casual Contact       | Queanbeyan      | Aldi Queanbeyan134-136 Crawford Street | 1:15pm to 2:15pm on Saturday 2 October 202110:45am to 11:25am on Monday 27 September 20216:20pm to 7pm on Thursday 23 September 20213pm to 4pm on Tuesday 21 September 2021 |
