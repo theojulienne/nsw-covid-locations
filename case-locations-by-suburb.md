@@ -27,7 +27,7 @@
 | 03/10/2021      | Casual Contact       | Bathurst        | Officeworks BathurstShop 3/14 Stockland Drive | 1pm to 1:10pm on Sunday 26 September 2021                    |
 | 03/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst210 Howick Street | 3:10pm to 4pm on Wednesday 29 September 20214:20pm to 4:50pm on Sunday 26 September 2021 |
 | 10/10/2021      | Casual Contact       | Bega            | Caltex Woolworths Bega100 Gibbs Street | 8:35am to 8:45am on Tuesday 5 October 2021                   |
-| 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 10:30am to 12:30pm on Sunday 3 October 20212:30pm to 7pm on Sunday 3 October 2021 |
+| 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 11:30am to 1:30pm on Sunday 3 October 20213:30pm to 8pm on Sunday 3 October 2021 |
 | 10/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:30pm on Thursday 7 October 2021                  |
 | 03/10/2021      | Casual Contact       | Belmont         | Belmont Vaccination Centre393 Pacific Highway | 9am to 10:30am on Thursday 30 September 202112:15pm to 1:15pm on Tuesday 28 September 202112pm (noon) to 2pm on Saturday 25 September 20214:45pm to 5:45pm on Tuesday 21 September 2021 |
 | 01/10/2021      | Casual Contact       | Belmont         | Commonwealth Bank Belmont594 Pacific Highway | 9:30am to 10:30am on Monday 27 September 2021                |
@@ -172,7 +172,7 @@
 | 07/10/2021      | Casual Contact       | Goonellabah     | IGA Goonellabah29-31 Rous Road | 7pm to 7:05pm on Tuesday 28 September 2021                   |
 | 07/10/2021      | Casual Contact       | Goonellabah     | Woolworths Goonellabah2 Simeoni Drive | 6:40pm to 7pm on Tuesday 28 September 2021                   |
 | 04/10/2021      | Casual Contact       | Gorokan         | Coles Lake HavenLake Haven Centre, Lake Haven Drive | 3:20pm to 3:50pm on Monday 27 September 2021                 |
-| 10/10/2021      | Casual Contact       | Gosford         | Little Bottler Drive Thru99 Donnison Street | 5:23pm to 5:53pm on Saturday 2 October 20217:42pm to 8:12pm on Thursday 30 September 2021 |
+| 10/10/2021      | Casual Contact       | Gosford         | Little Bottler Drive Thru99 Donnison Street | 5:20pm to 5:50pm on Saturday 2 October 20217:42pm to 8:12pm on Thursday 30 September 2021 |
 | 04/10/2021      | Casual Contact       | Gosford         | St.George Gosford138-140 Mann Street | 1:14pm to 2:44pm on Thursday 30 September 2021               |
 | 08/10/2021      | Casual Contact       | Gosford         | The Reject Shop GosfordShop 130-135 Imperial Shopping Centre, 171  Mann Street | 1:05pm to 1:20pm on Tuesday 5 October 2021                   |
 | 07/10/2021      | Casual Contact       | Gosford         | Woolworths GosfordGosford Imperial Centre, 40-46 William Street | 6:45pm to 9pm on Friday 1 October 20217:15pm to 9pm on Wednesday 29 September 2021 |

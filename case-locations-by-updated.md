@@ -21,7 +21,7 @@
 | 10/10/2021      | Casual Contact       | Jindabyne       | Chong Yees Chinese Restaurant17/33 Kosciuszko Road | 12pm (noon) to 1pm on Wednesday 29 September 2021            |
 | 10/10/2021      | Casual Contact       | Jindabyne       | Banjo Patterson Inn1 Kosciuszko Road | 3:55pm  to 4:50pm on Wednesday 29 September 20216:15pm to 9pm on Tuesday 28 September 20216:05pm to 9:10pm on Monday 27 September 2021 |
 | 10/10/2021      | Casual Contact       | Jindabyne       | BWS JindabyneNuggets Crossing Shopping Centre, Kosciusko Road | 3:35pm to 4:05pm on Monday 4 October 20214pm to 4:25pm on Thursday 30 September 20211:30pm to 1:55pm on Tuesday 28 September 20215:15pm to 5:55pm on Tuesday 28 September 202110:10am to 10:45am on Sunday 26 September 20215pm to 5:30pm on Sunday 26 September 20213:45pm to 4:15pm on Friday 24 September 20215pm to 5:30pm on Friday 24 September 20216:45pm to 7:35pm on Friday 24 September 2021 |
-| 10/10/2021      | Casual Contact       | Gosford         | Little Bottler Drive Thru99 Donnison Street | 5:23pm to 5:53pm on Saturday 2 October 20217:42pm to 8:12pm on Thursday 30 September 2021 |
+| 10/10/2021      | Casual Contact       | Gosford         | Little Bottler Drive Thru99 Donnison Street | 5:20pm to 5:50pm on Saturday 2 October 20217:42pm to 8:12pm on Thursday 30 September 2021 |
 | 10/10/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, 620/658 Terrigal Drive | 4:20pm to 5pm on Sunday 3 October 2021                       |
 | 10/10/2021      | Casual Contact       | Cooma           | Aldi Cooma18 Hilton Street | 3:45pm to 4:30pm on Saturday 2 October 20213:30pm to 4:30pm on Friday 1 October 20212:05pm to 2:40pm on Friday 24 September 2021 |
 | 10/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:30pm on Thursday 7 October 2021                  |
@@ -67,7 +67,7 @@
 | 09/10/2021      | Casual Contact       | Dareton         | Dareton Mini-Mart19 Tapio Street | 3pm to 4pm on Wednesday 6 October 2021                       |
 | 09/10/2021      | Casual Contact       | Buronga         | Shell Buronga141 Sturt Highway | 11:10am to 11:15am on Sunday 3 October 2021                  |
 | 09/10/2021      | Casual Contact       | Bomaderry       | Woolworths BomaderryShop 6/320 Princes Highway | 9:30am to 9:45am on Thursday 7 October 20215pm to 5:15pm on Wednesday 29 September 2021 |
-| 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 10:30am to 12:30pm on Sunday 3 October 20212:30pm to 7pm on Sunday 3 October 2021 |
+| 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 11:30am to 1:30pm on Sunday 3 October 20213:30pm to 8pm on Sunday 3 October 2021 |
 | 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 4:20pm to 4:30pm on Tuesday 5 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Federal Hotel77 Main Street | 9:30pm to 10:30pm on Sunday 3 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Cafe 86 on Main86 Main Street | 5:30am to 3pm on Tuesday 5 October 20215:30am to 2:30pm on Sunday 3 October 202110am to 11:15am on Saturday 2 October 202110am to 11am on Friday 1 October 2021 |
