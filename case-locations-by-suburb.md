@@ -20,7 +20,7 @@
 | 11/10/2021      | Casual Contact       | Ballina         | Metro Petrol Station (Radhi Pty Ltd)323 River Street | 8:10pm to 8:15pm on Tuesday 5 October 2021                   |
 | 11/10/2021      | Casual Contact       | Ballina         | Ritchies Supa IGA Ballina44 Bangalow Road | 6:50pm to 7pm on Wednesday 6 October 2021                    |
 | 29/09/2021      | Casual Contact       | Ballina         | Webster Surfboards1/13 Clark Street | 3:10pm to 3:20pm on Monday 27 September 2021                 |
-| 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 4:20pm to 4:30pm on Tuesday 5 October 2021                   |
+| 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 5:20pm to 5:30pm on Tuesday 5 October 2021                   |
 | 03/10/2021      | Casual Contact       | Bargo           | BWS BargoShop 2/84-86 Railside Avenue | 2:30pm to 3pm on Wednesday 29 September 20212:30pm to 3pm on Tuesday 28 September 20212:30pm to 3pm on Monday 27 September 2021 |
 | 06/10/2021      | Casual Contact       | Bateau Bay      | ALDI Bateau BayThe Entrance Road | 12:05pm to 1:15pm on Wednesday 29 September 2021             |
 | 10/10/2021      | Casual Contact       | Bateau Bay      | Coles Bateau BayThe Entrance Road | 1:30pm to 2:30pm on Wednesday 29 September 2021              |

@@ -118,7 +118,7 @@
 | 09/10/2021      | Casual Contact       | Dareton         | Dareton Mini-Mart19 Tapio Street | 3pm to 4pm on Wednesday 6 October 2021                       |
 | 09/10/2021      | Casual Contact       | Buronga         | Shell Buronga141 Sturt Highway | 11:10am to 11:15am on Sunday 3 October 2021                  |
 | 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 11:30am to 1:30pm on Sunday 3 October 20213:30pm to 8pm on Sunday 3 October 2021 |
-| 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 4:20pm to 4:30pm on Tuesday 5 October 2021                   |
+| 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 5:20pm to 5:30pm on Tuesday 5 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Federal Hotel77 Main Street | 9:30pm to 10:30pm on Sunday 3 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Cafe 86 on Main86 Main Street | 5:30am to 3pm on Tuesday 5 October 20215:30am to 2:30pm on Sunday 3 October 202110am to 11:15am on Saturday 2 October 202110am to 11am on Friday 1 October 2021 |
 | 08/10/2021      | Casual Contact       | Wyong           | Bendigo Bank Wyong88 Pacific Highway | 9:30am to 2pm on Wednesday 6 October 20219:30am to 4pm on Tuesday 5 October 20219:30am to 4pm on Friday 1 October 20219:30am to 4pm on Thursday 30 September 2021 |
