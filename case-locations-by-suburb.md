@@ -428,7 +428,6 @@
 | 02/10/2021      | Casual Contact       | Sutton          | The Baker at Sutton1 Victoria Street | 9:45am to 10:25am on Monday 27 September 2021                |
 | 08/10/2021      | Casual Contact       | Tamworth        | Ten Tops Tamworth174-176 Peel Street | 5:35pm to 5:50pm on Thursday 30 September 2021               |
 | 11/10/2021      | Casual Contact       | Tamworth        | Tudor Hotel (gaming room)327 Peel Street | 5:40pm to 6:45pm on Thursday 30 September 2021               |
-| 10/10/2021      | Casual Contact       | Tamworth        | Tudor Hotel Tamworth327 Peel Street | 5:40pm to 6:45pm on Thursday 30 September 2021               |
 | 03/10/2021      | Casual Contact       | Tamworth        | Williamsburg Tamworth87-93 Brisbane Street | 7pm to 7:15pm on Wednesday 29 September 2021                 |
 | 09/10/2021      | Casual Contact       | Taree           | Exchange Hotel Taree154 Victoria Street | 8:45pm to 9:45pm on Monday 4 October 202111am to 1pm on Sunday 3 October 2021 |
 | 08/10/2021      | Casual Contact       | Taree           | The Royal Hotel202 Victoria Street | 6:40pm to 7:10pm on Friday 1 October 2021                    |

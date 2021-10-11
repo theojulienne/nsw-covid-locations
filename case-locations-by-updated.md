@@ -52,7 +52,6 @@
 | 10/10/2021      | Casual Contact       | Umina Beach     | Coles Umina4 Oscar Street | 9:20pm to 9:40pm on Monday 4 October 20218:20am to 9am on Sunday 3 October 20216:30am to 7am on Saturday 2 October 20212pm to 3:05pm on Tuesday 28 September 2021 |
 | 10/10/2021      | Casual Contact       | Toukley         | Coles Toukley781/17-21 Yaralla Street and Hargraves Street | 6:40pm to 7:40pm on Friday 1 October 2021                    |
 | 10/10/2021      | Casual Contact       | The Entrance    | Coles The EntranceLakeside Plaza, The Entrance Road | 9:30pm to 10pm on Monday 27 September 20214:35pm to 5:15pm on Sunday 26 September 20212:15pm to 9:15pm on Thursday 23 September 2021 |
-| 10/10/2021      | Casual Contact       | Tamworth        | Tudor Hotel Tamworth327 Peel Street | 5:40pm to 6:45pm on Thursday 30 September 2021               |
 | 10/10/2021      | Casual Contact       | Stanwell Park   | LOAF Cafe91a Lawrence Hargrave Drive | 5am to 12:30pm on Monday 4 October 2021                      |
 | 10/10/2021      | Casual Contact       | Singleton Heights | Singleton Diggers Alroy Park8 Dorsman Drive | 5:30pm to 7:30pm on Thursday 30 September 2021               |
 | 10/10/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 9:30pm to 10pm on Sunday 3 October 20216pm to 7pm on Thursday 30 September 2021 |
