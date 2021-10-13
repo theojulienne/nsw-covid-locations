@@ -1,5 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 13/10/2021      | Casual Contact       | Taree           | Bunnings TareeCorner of Wingham Road and Bushland Drive | 5:45pm to 6:10pm on Sunday 10 October 20216pm to 6:15pm on Saturday 9 October 2021 |
+| 13/10/2021      | Casual Contact       | Raymond Terrace | Cincotta Discount Chemist Raymond Terrace13/80 Benjamin Lee Drive | 1:10pm to 1:20pm on Friday 8 October 20211:25pm to 1:35pm on Friday 8 October 20211:55pm to 2:05pm on Friday 8 October 202112:50pm to 1pm on Friday 8 October 20212:40pm to 2:45pm on Friday 8 October 2021 |
+| 13/10/2021      | Casual Contact       | Medowie         | Medowie Medical Centre6a Waropara Road | 2:35pm to 3:10pm on Thursday 7 October 2021                  |
+| 13/10/2021      | Casual Contact       | Maitland        | Marli Accommodation Services (Currency Lass Accommodation)359-363 High Street | All day on Saturday 9 October 2021All day on Friday 8 October 2021All day on Thursday 7 October 2021All day on Wednesday 6 October 2021All day on Tuesday 5 October 2021 |
+| 13/10/2021      | Casual Contact       | Kurri Kurri     | Kurri Kurri Local CourtCorner of Victoria Street and Lang Street | 9:20am to 10am on Tuesday 5 October 2021                     |
 | 13/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Harding Street | 2:45pm to 3:45pm on Monday 11 October 202111:45am to 12:45pm on Tuesday 5 October 20218:15pm to 9pm on Wednesday 29 September 2021 |
 | 12/10/2021      | Casual Contact       | Woonona         | Woonona Eyecare391 Princes Highway | 12pm (noon) to 12:15pm on Tuesday 5 October 2021             |
 | 12/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 2:05pm to 2:30pm on Wednesday 6 October 20213:35pm to 4:10pm on Thursday 30 September 202111:55am to 12:45pm on Wednesday 29 September 2021 |

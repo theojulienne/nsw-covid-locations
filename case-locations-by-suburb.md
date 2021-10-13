@@ -205,6 +205,7 @@
 | 04/10/2021      | Casual Contact       | Killarney Vale  | The Bottle-O Killarney ValeShop 2/120 Wyong Road | 3:25pm to 4pm on Thursday 30 September 20215:25pm to 5:55pm on Wednesday 29 September 2021 |
 | 05/10/2021      | Casual Contact       | Kincumber       | Coles KincumberKincumber Village Shopping Centre, 43 Avoca Drive | 9:05am to 10:05am on Saturday 2 October 2021                 |
 | 10/10/2021      | Casual Contact       | Koonawarra      | BWS KoonawarraLot 1 Corner of Lakeside and Parkside Drive | 11am to 12pm (noon) on Sunday 3 October 2021                 |
+| 13/10/2021      | Casual Contact       | Kurri Kurri     | Kurri Kurri Local CourtCorner of Victoria Street and Lang Street | 9:20am to 10am on Tuesday 5 October 2021                     |
 | 29/09/2021      | Casual Contact       | Kyogle          | Australia Post Kyogle149 Summerland Way | 10:40am to 10:45am on Wednesday 29 September 20219:25am to 1:25pm on Wednesday 22 September 2021 |
 | 06/10/2021      | Casual Contact       | Kyogle          | IGA Liquor Kyogle17 Summerland Way | 3pm to 4pm on Wednesday 29 September 2021                    |
 | 08/10/2021      | Casual Contact       | Kyogle          | Kyogle Family Support Services Neighbourhood Centre8 Geneva Street | 9am to 9:30am on Thursday 30 September 2021                  |
@@ -233,7 +234,9 @@
 | 06/10/2021      | Casual Contact       | Lismore         | The New Camera House Lismore95 Keen Street | 10:40am to 11:15am on Thursday 30 September 2021             |
 | 09/10/2021      | Casual Contact       | Lismore         | Woolworths LismoreLismore Square, Corner Brewster Street and Mckenzie Street | 12:15pm to 12:50pm on Friday 1 October 202110:35am to 10:40am on Wednesday 29 September 202112pm (noon) to 12:15pm on Tuesday 28 September 202111:50am to 12pm (noon) on Monday 27 September 2021 |
 | 07/10/2021      | Casual Contact       | Lorn            | The Royal Spoon17 Belmore Road | 4pm to 8:30pm on Thursday 30 September 2021                  |
+| 13/10/2021      | Casual Contact       | Maitland        | Marli Accommodation Services (Currency Lass Accommodation)359-363 High Street | All day on Saturday 9 October 2021All day on Friday 8 October 2021All day on Thursday 7 October 2021All day on Wednesday 6 October 2021All day on Tuesday 5 October 2021 |
 | 06/10/2021      | Casual Contact       | Marks Point     | Belmont Palms Motel784 Pacific Highway | 12am (midnight) to 10am on Saturday 2 October 2021All day on Friday 1 October 2021All day on Thursday 30 September 2021All day on Wednesday 29 September 2021All day on Tuesday 28 September 20212pm to 11:59pm on Monday 27 September 2021 |
+| 13/10/2021      | Casual Contact       | Medowie         | Medowie Medical Centre6a Waropara Road | 2:35pm to 3:10pm on Thursday 7 October 2021                  |
 | 05/10/2021      | Casual Contact       | Menindee        | Menindee Cafe31 Yartla Street | 10:15am to 11:45am on Thursday 30 September 2021             |
 | 04/10/2021      | Casual Contact       | Mittagong       | Woolworths MittagongHighlands Marketplace, 197 Old Hume Highway | 4:20pm to 6:05pm on Friday 1 October 20218:45am to 9:45am on Friday 24 September 2021 |
 | 05/10/2021      | Casual Contact       | Montefiores     | Cellarbrations Quains Liquor Montefiores3 Mitchell Highway | 5:05pm to 5:15pm on Saturday 2 October 2021                  |
@@ -299,6 +302,7 @@
 | 12/10/2021      | Casual Contact       | Queanbeyan      | BP Truckstop Queanbeyan52 Yass Road | 9:40am to 10:15am on Wednesday 6 October 20215:10pm to 5:40pm on Tuesday 5 October 2021 |
 | 12/10/2021      | Casual Contact       | Queanbeyan      | Caltex Woolworths Queanbeyan196 Crawford Street | 7:30am to 7:55am on Friday 8 October 2021                    |
 | 12/10/2021      | Casual Contact       | Queanbeyan      | Coles Express Queanbeyan2-4 High Street | 8:40am to 9:10am on Friday 8 October 2021                    |
+| 13/10/2021      | Casual Contact       | Raymond Terrace | Cincotta Discount Chemist Raymond Terrace13/80 Benjamin Lee Drive | 1:10pm to 1:20pm on Friday 8 October 20211:25pm to 1:35pm on Friday 8 October 20211:55pm to 2:05pm on Friday 8 October 202112:50pm to 1pm on Friday 8 October 20212:40pm to 2:45pm on Friday 8 October 2021 |
 | 10/10/2021      | Casual Contact       | San Remo        | Coles San RemoNorthlakes Shopping Centre, 21 Pacific Highway | 9:30pm to 10pm on Sunday 3 October 20216pm to 7pm on Thursday 30 September 2021 |
 | 11/10/2021      | Casual Contact       | Scone           | Scone Bowling Club28 Gundy Road | 12:40pm to 4:50pm on Tuesday 5 October 2021                  |
 | 04/10/2021      | Casual Contact       | Shellharbour    | ALDI Shellharbour5 Holm Place | 3:10pm to 3:20pm on Saturday 2 October 2021                  |
@@ -327,6 +331,7 @@
 | 08/10/2021      | Casual Contact       | Tamworth        | Ten Tops Tamworth174-176 Peel Street | 5:35pm to 5:50pm on Thursday 30 September 2021               |
 | 11/10/2021      | Casual Contact       | Tamworth        | Tudor Hotel (gaming room)327 Peel Street | 5:40pm to 6:45pm on Thursday 30 September 2021               |
 | 03/10/2021      | Casual Contact       | Tamworth        | Williamsburg Tamworth87-93 Brisbane Street | 7pm to 7:15pm on Wednesday 29 September 2021                 |
+| 13/10/2021      | Casual Contact       | Taree           | Bunnings TareeCorner of Wingham Road and Bushland Drive | 5:45pm to 6:10pm on Sunday 10 October 20216pm to 6:15pm on Saturday 9 October 2021 |
 | 09/10/2021      | Casual Contact       | Taree           | Exchange Hotel Taree154 Victoria Street | 8:45pm to 9:45pm on Monday 4 October 202111am to 1pm on Sunday 3 October 2021 |
 | 08/10/2021      | Casual Contact       | Taree           | The Royal Hotel202 Victoria Street | 6:40pm to 7:10pm on Friday 1 October 2021                    |
 | 08/10/2021      | Casual Contact       | Tathra          | Fat Tony's Bar and Grill15 Bega Street | 7:20pm to 9:20pm on Friday 1 October 2021                    |
