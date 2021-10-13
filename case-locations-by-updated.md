@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
+| 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 5:30pm to 11:15pm on Friday 8 October 2021                   |
 | 13/10/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy Wollongong338-340 Crown Street | 3pm to 3:30pm on Wednesday 6 October 2021                    |
 | 13/10/2021      | Casual Contact       | Wellington      | TSG Wellington126A Percy Street | 3:30pm to 3:45pm on Friday 8 October 2021                    |
 | 13/10/2021      | Casual Contact       | Wellington      | Australia Post Wellington19 Maughan Street | 2:45pm to 2:55pm on Monday 11 October 2021                   |
@@ -56,7 +58,7 @@
 | 13/10/2021      | Casual Contact       | Albion Park     | Subway Albion Park10 Terry Street | 10:45am to 10:50am on Saturday 9 October 2021                |
 | 12/10/2021      | Casual Contact       | Woonona         | Woonona Eyecare391 Princes Highway | 12pm (noon) to 12:15pm on Tuesday 5 October 2021             |
 | 12/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 2:05pm to 2:30pm on Wednesday 6 October 20213:35pm to 4:10pm on Thursday 30 September 202111:55am to 12:45pm on Wednesday 29 September 2021 |
-| 12/10/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 1:05pm to 3pm on Tuesday 12 October 2021                     |
+| 12/10/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 1:05pm to 3pm on Tuesday 5 October 2021                      |
 | 12/10/2021      | Casual Contact       | Wellington      | Keirle's Pharmacy Wellington31 Nanima Crescent | 2:50pm to 3pm on Friday 8 October 2021                       |
 | 12/10/2021      | Casual Contact       | Wellington      | D & J Rural Services134 Thornton Street | 10:30am to 10:45am on Friday 8 October 20213pm to 3:10pm on Friday 8 October 2021 |
 | 12/10/2021      | Casual Contact       | Warners Bay     | Subway Warners Bay393 Macquarie Road | 9am to 2pm on Tuesday 5 October 2021                         |
@@ -176,8 +178,7 @@
 | 10/10/2021      | Casual Contact       | Cooma           | ALDI Cooma18 Hilton Street | 3:45pm to 4:30pm on Saturday 2 October 20213:30pm to 4:30pm on Friday 1 October 20212:05pm to 2:40pm on Friday 24 September 2021 |
 | 10/10/2021      | Casual Contact       | Cessnock        | Service NSW CessnockCorner of Darwin Street and North Avenue | 9:10am to 10am on Friday 1 October 2021                      |
 | 10/10/2021      | Casual Contact       | Bomaderry       | Woolworths BomaderryShop 6/320 Princes Highway | 4:50pm to 5:15pm on Friday 8 October 20219:30am to 9:45am on Thursday 7 October 20215pm to 5:15pm on Wednesday 29 September 2021 |
-| 10/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:30pm on Thursday 7 October 2021                  |
-| 10/10/2021      | Casual Contact       | Bega            | Caltex Woolworths Bega100 Gibbs Street | 8:35am to 8:45am on Tuesday 5 October 2021                   |
+| 10/10/2021      | Casual Contact       | Bega            | Caltex Woolworths Bega100 Gibbs Street | 8:30am to 9:00am on Tuesday 5 October 2021                   |
 | 09/10/2021      | Casual Contact       | Wollongong      | Woolworths Wollongong63 Burelli Street | 4:55pm to 5:20pm on Tuesday 5 October 20217:30am to 8:30am on Wednesday 29 September 202112:10pm to 12:50pm on Tuesday 28 September 202111:45am to 12:30pm on Friday 24 September 2021 |
 | 09/10/2021      | Casual Contact       | Wollongong      | Taylor's Healthy Grocers1/200 Crown Street | 12:25pm to 12:40pm on Sunday 3 October 2021                  |
 | 09/10/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street | 3pm to 3:30pm on Thursday 7 October 2021                     |
@@ -290,7 +291,7 @@
 | 06/10/2021      | Casual Contact       | Wollongong      | Coles Wollongong200 Crown Street | 8:10am to 8:20am on Monday 4 October 202111:45am to 12:05pm on Tuesday 28 September 2021 |
 | 06/10/2021      | Casual Contact       | Thornton        | Providence Medical Thornton (Vaccination Clinic)2 Poynton Place | 3:30pm to 3:50pm on Thursday 30 September 2021               |
 | 06/10/2021      | Casual Contact       | Peak Hill       | Peak Hill Ex-Services and Citizens Club Ltd57/61 Caswell Street | 5:20pm to 8:45pm on Saturday 2 October 2021                  |
-| 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 10am to 11pm on Monday 11 October 202112am to 2am on Monday 11 October 202110am to 12am (midnight) on Sunday 10 October 202112am to 2am on Sunday 10 October 202110am to 12am (midnight) on Saturday 9 October 20219:45pm to 11:30pm on Friday 1 October 2021 |
+| 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 7am to 10am on Monday 11 October 20211:30pm to 4:15pm on Sunday 10 October 202112am to 2am on Sunday 10 October 20217:45am to 12am (midnight) on Saturday 9 October 20219:45pm to 11:30pm on Friday 1 October 2021 |
 | 06/10/2021      | Casual Contact       | Orange          | Perry Oval Takeaway3/150 Clinton Street | 11:30am to 11:45am on Thursday 30 September 2021             |
 | 06/10/2021      | Casual Contact       | Orange          | Orange Ex-Services Club231-243 Anson Street | 8:15pm to 9:30pm on Friday 1 October 202112am (midnight) to 3:40am on Sunday 26 September 20215:10pm to 5:50pm on Sunday 26 September 20219:55pm to 11:59pm on Saturday 25 September 2021 |
 | 06/10/2021      | Casual Contact       | Orange          | ALDI Orange167-177 Peisley Street | 5:20pm to 6:15pm on Saturday 2 October 2021                  |

@@ -10,6 +10,7 @@
 | 13/10/2021      | Casual Contact       | Albion Park     | Subway Albion Park10 Terry Street | 10:45am to 10:50am on Saturday 9 October 2021                |
 | 04/10/2021      | Casual Contact       | Albion Park     | Woolworths Albion ParkCorner of Russell Street and Terry Street | 8:55am to 9:55am on Saturday 2 October 20214:05pm to 5pm on Friday 1 October 202112pm (noon) to 1pm on Tuesday 28 September 2021 |
 | 06/10/2021      | Casual Contact       | Albion Park Rail | Delaneys Cakes Albion ParkUnit 3/48 Shandan Circuit | 12:05pm to 12:15pm on Saturday 2 October 2021                |
+| 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 5:30pm to 11:15pm on Friday 8 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Cafe 86 on Main86 Main Street | 5:30am to 3pm on Tuesday 5 October 20215:30am to 2:30pm on Sunday 3 October 202110am to 11:15am on Saturday 2 October 202110am to 11am on Friday 1 October 2021 |
 | 09/10/2021      | Casual Contact       | Alstonville     | Federal Hotel77 Main Street | 9:30pm to 10:30pm on Sunday 3 October 2021                   |
 | 13/10/2021      | Casual Contact       | Ballina         | Aldi Ballina2 North Creek Road | 6:30pm to 7pm on Friday 8 October 2021                       |
@@ -21,9 +22,9 @@
 | 12/10/2021      | Casual Contact       | Batemans Bay    | Caltex Woolworths Batemans Bay27 Vesper Street | 12:30pm to 1:05pm on Thursday 7 October 2021                 |
 | 12/10/2021      | Casual Contact       | Batemans Bay    | Capital Chemist Batemans BayVillage Centre, 1 Perry Street | 12:10pm to 1:10pm on Saturday 9 October 2021                 |
 | 12/10/2021      | Casual Contact       | Batemans Bay    | Coles Batemans BayCorner of Vesper Street and Beach Road | 6:35pm to 7:05pm on Wednesday 6 October 2021                 |
-| 10/10/2021      | Casual Contact       | Bega            | Caltex Woolworths Bega100 Gibbs Street | 8:35am to 8:45am on Tuesday 5 October 2021                   |
+| 10/10/2021      | Casual Contact       | Bega            | Caltex Woolworths Bega100 Gibbs Street | 8:30am to 9:00am on Tuesday 5 October 2021                   |
 | 09/10/2021      | Casual Contact       | Bega            | Club Bega82 Gipps Street  | 11:30am to 1:30pm on Sunday 3 October 20213:30pm to 8pm on Sunday 3 October 2021 |
-| 10/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:30pm on Thursday 7 October 2021                  |
+| 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
 | 11/10/2021      | Casual Contact       | Bega            | Kmart Bega90-94 Gipps Street | 12:45pm to 1:10pm on Friday 8 October 2021                   |
 | 11/10/2021      | Casual Contact       | Bega            | Tuff-As Workwear & Safety118-120 Carp Street | 12:50pm to 1:15pm on Friday 8 October 2021                   |
 | 11/10/2021      | Casual Contact       | Bega            | Woolworths BegaCorner of Auckland and Carp Street | 7:55pm to 8:10pm on Thursday 7 October 2021                  |
@@ -253,7 +254,7 @@
 | 06/10/2021      | Casual Contact       | Orange          | Orange Ex-Services Club231-243 Anson Street | 8:15pm to 9:30pm on Friday 1 October 202112am (midnight) to 3:40am on Sunday 26 September 20215:10pm to 5:50pm on Sunday 26 September 20219:55pm to 11:59pm on Saturday 25 September 2021 |
 | 06/10/2021      | Casual Contact       | Orange          | Perry Oval Takeaway3/150 Clinton Street | 11:30am to 11:45am on Thursday 30 September 2021             |
 | 12/10/2021      | Casual Contact       | Orange          | Racine Bakery Orange166B Summer Street | 9:25am to 9:35am on Thursday 7 October 2021                  |
-| 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 10am to 11pm on Monday 11 October 202112am to 2am on Monday 11 October 202110am to 12am (midnight) on Sunday 10 October 202112am to 2am on Sunday 10 October 202110am to 12am (midnight) on Saturday 9 October 20219:45pm to 11:30pm on Friday 1 October 2021 |
+| 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 7am to 10am on Monday 11 October 20211:30pm to 4:15pm on Sunday 10 October 202112am to 2am on Sunday 10 October 20217:45am to 12am (midnight) on Saturday 9 October 20219:45pm to 11:30pm on Friday 1 October 2021 |
 | 12/10/2021      | Casual Contact       | Orange          | The Peisley St Gallery Orange54 Peisley Street | 1:50pm to 3:10pm on Friday 8 October 2021                    |
 | 12/10/2021      | Casual Contact       | Orange          | The Sugar Mill Café Orange1/86 Summer Street | 12:35pm to 12:55pm on Tuesday 5 October 2021                 |
 | 10/10/2021      | Casual Contact       | Paterson        | Paterson Medical Practice16 King Street | 11am to 11:20am on Thursday 30 September 2021                |
@@ -364,7 +365,7 @@
 | 10/10/2021      | Casual Contact       | Wellington      | Woolworths Wellington81 Arthur Street | 9:05am to 9:10am on Tuesday 12 October 20213pm to 3:40pm on Monday 11 October 20213:30pm to 3:55pm on Sunday 10 October 20211:20pm to 1:30pm on Friday 8 October 20216:15pm to 6:35pm on Monday 27 September 20218:45am to 9:45am on Sunday 26 September 20212:30pm to 3:30pm on Saturday 25 September 20216:45pm to 7:15pm on Saturday 25 September 202112:40pm to 1:40pm on Thursday 23 September 2021 |
 | 05/10/2021      | Casual Contact       | Werris Creek    | Caltex Werris Creek18 Single Street | 6pm to 6:15pm on Friday 1 October 20216pm to 6:15pm on Wednesday 29 September 20216pm to 6:15pm on Saturday 25 September 20216pm to 6:15pm on Friday 24 September 20216pm to 6:15pm on Thursday 23 September 2021 |
 | 04/10/2021      | Casual Contact       | West Gosford    | Ampol Foodary Gosford West (West bound)30A Pacific Highway | 11:01am to 11:08am on Friday 1 October 2021                  |
-| 12/10/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 1:05pm to 3pm on Tuesday 12 October 2021                     |
+| 12/10/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 1:05pm to 3pm on Tuesday 5 October 2021                      |
 | 04/10/2021      | Casual Contact       | West Gosford    | Coles West GosfordWest Gosford Village, 299 Brisbane Water Drive | 3:42pm to 4:42pm on Thursday 30 September 2021               |
 | 04/10/2021      | Casual Contact       | West Gosford    | Officeworks West Gosford28 Central Coast Highway | 2:32pm to 3:32pm on Thursday 30 September 2021               |
 | 11/10/2021      | Casual Contact       | West Tamworth   | Tamworth Youthie Vaccination Centre1 Quinn Street | 1pm to 2pm on Thursday 30 September 2021                     |
