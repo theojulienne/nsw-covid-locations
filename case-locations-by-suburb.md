@@ -97,7 +97,7 @@
 | 09/10/2021      | Casual Contact       | Dareton         | Dareton Mini-Mart19 Tapio Street | 3pm to 4pm on Wednesday 6 October 2021                       |
 | 09/10/2021      | Casual Contact       | Dareton         | IGA Dareton Plus Liquor31-37 Tapio Street | 8:10am to 8:20am on Friday 8 October 20211:40pm to 1:50pm on Thursday 7 October 2021 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | BIG4 Deniliquin Holiday ParkLot 100 Ochtertyre Street | 3:45pm to 5:15pm on Wednesday 29 September 20212:45pm to 4:15pm on Tuesday 28 September 2021 |
-| 03/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Hardinge Street | 8:15pm to 9pm on Wednesday 29 September 2021                 |
+| 13/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Harding Street | 2:45pm to 3:45pm on Monday 11 October 202111:45am to 12:45pm on Tuesday 5 October 20218:15pm to 9pm on Wednesday 29 September 2021 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | Deniliquin Nextra Newsagency249 Cressy Street | 1pm to 1:10pm on Wednesday 29 September 202110am to 10:30am on Monday 27 September 2021 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | GV Bargains Deniliquin293-295 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 20214:15pm to 4:50pm on Tuesday 28 September 20219:30am to 10:20am on Tuesday 28 September 2021 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | HQV Arts and Crafts193 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 2021             |

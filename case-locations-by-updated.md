@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 13/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Harding Street | 2:45pm to 3:45pm on Monday 11 October 202111:45am to 12:45pm on Tuesday 5 October 20218:15pm to 9pm on Wednesday 29 September 2021 |
 | 12/10/2021      | Casual Contact       | Woonona         | Woonona Eyecare391 Princes Highway | 12pm (noon) to 12:15pm on Tuesday 5 October 2021             |
 | 12/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 2:05pm to 2:30pm on Wednesday 6 October 20213:35pm to 4:10pm on Thursday 30 September 202111:55am to 12:45pm on Wednesday 29 September 2021 |
 | 12/10/2021      | Casual Contact       | West Gosford    | Bunnings West Gosford3 Yallambee Avenue | 1:05pm to 3pm on Tuesday 12 October 2021                     |
@@ -387,7 +388,6 @@
 | 03/10/2021      | Casual Contact       | Deniliquin      | HQV Arts and Crafts193 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 2021             |
 | 03/10/2021      | Casual Contact       | Deniliquin      | GV Bargains Deniliquin293-295 Cressy Street | 12:25pm to 1:15pm on Wednesday 29 September 20214:15pm to 4:50pm on Tuesday 28 September 20219:30am to 10:20am on Tuesday 28 September 2021 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | Deniliquin Nextra Newsagency249 Cressy Street | 1pm to 1:10pm on Wednesday 29 September 202110am to 10:30am on Monday 27 September 2021 |
-| 03/10/2021      | Casual Contact       | Deniliquin      | Coles Deniliquin104 Hardinge Street | 8:15pm to 9pm on Wednesday 29 September 2021                 |
 | 03/10/2021      | Casual Contact       | Deniliquin      | BIG4 Deniliquin Holiday ParkLot 100 Ochtertyre Street | 3:45pm to 5:15pm on Wednesday 29 September 20212:45pm to 4:15pm on Tuesday 28 September 2021 |
 | 03/10/2021      | Casual Contact       | Cowra           | Coles CowraKendall Street and Macquarie Street | 6pm to 6:10pm on Friday 1 October 202110am to 10:15am on Thursday 23 September 2021 |
 | 03/10/2021      | Casual Contact       | Bourke          | Khan's SUPA IGA Plus Liquor BourkeOxley Street | 1:25pm to 1:45pm on Friday 1 October 20213:55pm to 4:25pm on Tuesday 28 September 20215:20pm to 5:30pm on Tuesday 28 September 20214:50pm to 5:05pm on Sunday 26 September 20216:20pm to 6:55pm on Saturday 25 September 20216:25pm to 6:35pm on Friday 24 September 2021 |
