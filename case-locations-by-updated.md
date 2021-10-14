@@ -1,5 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 14/10/2021      | Casual Contact       | Wallsend        | Laverty Pathology55 Nelson Street | 9:40am to 10am on Friday 8 October 2021                      |
+| 14/10/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Respiratory Clinic4 Jacaranda Avenue | 6:55pm to 7:30pm on Tuesday 5 October 2021                   |
+| 14/10/2021      | Casual Contact       | New Lambton Heights | Newcastle Obstetrics Specialist Ultrasound, Newcastle Private HospitalSuite 2.8 Level 2 Lookout Road | 9:20am to 10am on Monday 11 October 2021                     |
 | 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 5:30pm to 11:15pm on Friday 8 October 2021                   |
 | 13/10/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy Wollongong338-340 Crown Street | 3pm to 3:30pm on Wednesday 6 October 2021                    |
@@ -95,7 +98,7 @@
 | 12/10/2021      | Casual Contact       | Dubbo           | Chemist Warehouse Dubbo166 Macquarie Street | 10:45am to 11am on Friday 8 October 2021                     |
 | 12/10/2021      | Casual Contact       | Crestwood       | Metro Petroleum Crestwood64 Uriarra Road | 7:05am to 7:35am on Friday 8 October 2021                    |
 | 12/10/2021      | Casual Contact       | Cooma           | Hooks Pharmacy140 Sharp Street | 4:40pm to 5:15pm on Thursday 30 September 20213:25pm to 3:55pm on Tuesday 28 September 20211:30pm  to 2pm on Monday 27 September 20214:10pm to 4:30pm on Monday 27 September 2021 |
-| 12/10/2021      | Casual Contact       | Cooma           | Coles CoomaCentennial Plaza, 85/91 Commissioner Street | 6:10am to 7am on Friday 8 October 20216:30pm to 6:50pm on Monday 4 October 20211:15pm to 1:35pm on Thursday 30 September 20211:15pm to 2pm on Wednesday 29 September 20211:45pm to 2:15pm on Tuesday 28 September 20213:50pm to 4:40pm on Monday 27 September 20211:05pm to 1:50pm on Friday 24 September 20211:10pm to 1:40pm on Thursday 23 September 2021 |
+| 12/10/2021      | Casual Contact       | Cooma           | Coles CoomaCentennial Plaza, 85/91 Commissioner Street | 6:10pm to 7pm on Friday 8 October 20216:30pm to 6:50pm on Monday 4 October 20211:15pm to 1:35pm on Thursday 30 September 20211:15pm to 2pm on Wednesday 29 September 20211:45pm to 2:15pm on Tuesday 28 September 20213:50pm to 4:40pm on Monday 27 September 20211:05pm to 1:50pm on Friday 24 September 20211:10pm to 1:40pm on Thursday 23 September 2021 |
 | 12/10/2021      | Casual Contact       | Charmhaven      | Bunnings CharmhavenCorner Chelmsford Road and Pacific Highway | 12:40pm to 1:20pm on Saturday 2 October 2021                 |
 | 12/10/2021      | Casual Contact       | Callala Bay     | Callala CellarsShop 12/55 Emmett Street | 4:10pm to 4:15pm on Thursday 7 October 2021                  |
 | 12/10/2021      | Casual Contact       | Bomaderry       | Nutrien Water Bomaderry5 Worthington Way | 3:05pm to 3:30pm on Thursday 7 October 2021                  |
