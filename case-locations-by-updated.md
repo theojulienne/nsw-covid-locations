@@ -1,10 +1,20 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 14/10/2021      | Casual Contact       | Warrawong       | Fins Fangs 'N' Feathers Warrawong74 King Street | 3:40pm to 3:50pm on Friday 8 October 20211:35pm to 1:50pm on Thursday 7 October 2021 |
 | 14/10/2021      | Casual Contact       | Wallsend        | Laverty Pathology55 Nelson Street | 9:40am to 10am on Friday 8 October 2021                      |
+| 14/10/2021      | Casual Contact       | South Nowra     | Good Price Pharmacy Warehouse South Nowra8/28 Central Avenue | 1:55pm to 2:10pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Raymond Terrace | Raymond Terrace Respiratory Clinic4 Jacaranda Avenue | 6:55pm to 7:30pm on Tuesday 5 October 2021                   |
+| 14/10/2021      | Casual Contact       | Orange          | Fantastic Furniture OrangeOrange Homemaker Centre, 200 Lone Pine Avenue | 11:15am to 11:30am on Monday 11 October 2021                 |
+| 14/10/2021      | Casual Contact       | Orange          | Boating Camping Fishing Orange10/168 Lone Pine Avenue | 11:50am to 12:15pm on Monday 11 October 2021                 |
+| 14/10/2021      | Casual Contact       | Oak Flats       | Kennards Hire Oak Flats125 Industrial Road | 10:15am to 10:25am on Monday 11 October 2021                 |
 | 14/10/2021      | Casual Contact       | New Lambton Heights | Newcastle Obstetrics Specialist Ultrasound, Newcastle Private HospitalSuite 2.8 Level 2 Lookout Road | 9:20am to 10am on Monday 11 October 2021                     |
+| 14/10/2021      | Casual Contact       | Kempsey         | McDonald's KempseySmith Street | 3:10pm to 3:25pm on Monday 11 October 20216:20pm to 6:40pm on Saturday 9 October 2021 |
+| 14/10/2021      | Casual Contact       | Kempsey         | Kempsey Fast Food108-112 Smith Street | 3:50am to 4:15am on Sunday 10 October 20218:10pm  to 8:20pm on Saturday 9 October 2021 |
+| 14/10/2021      | Casual Contact       | Kempsey         | BIG W Kempsey91 Smith Street | 9:15am to 10:30am on Sunday 10 October 20215:50pm  to 6:15pm on Saturday 9 October 2021 |
+| 14/10/2021      | Casual Contact       | Bomaderry       | IGA Lyndhurst and Liquor Bomaderry8/43 Lyndhurst Drive | 7:45am to 7:55am on Monday 4 October 2021                    |
 | 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 5:30pm to 11:15pm on Friday 8 October 2021                   |
+| 14/10/2021      | Casual Contact       | Albion Park     | Calder's General Store Albion Park152 Terry Street | 4:35pm to 4:45pm on Monday 11 October 2021                   |
 | 13/10/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy Wollongong338-340 Crown Street | 3pm to 3:30pm on Wednesday 6 October 2021                    |
 | 13/10/2021      | Casual Contact       | Wellington      | TSG Wellington126A Percy Street | 3:30pm to 3:45pm on Friday 8 October 2021                    |
 | 13/10/2021      | Casual Contact       | Wellington      | Australia Post Wellington19 Maughan Street | 2:45pm to 2:55pm on Monday 11 October 2021                   |
@@ -21,7 +31,7 @@
 | 13/10/2021      | Casual Contact       | Rutherford      | Woolworths RutherfordCorner of Alexandra Avenue and Hillview Street | 5:50pm to 6:30pm on Monday 4 October 2021                    |
 | 13/10/2021      | Casual Contact       | Rutherford      | PETQuarters Rutherford58 Shipley Drive | 3pm to 3:15pm on Saturday 9 October 2021                     |
 | 13/10/2021      | Casual Contact       | Raymond Terrace | Cincotta Discount Chemist Raymond Terrace13/80 Benjamin Lee Drive | 1:10pm to 1:20pm on Friday 8 October 20211:25pm to 1:35pm on Friday 8 October 20211:55pm to 2:05pm on Friday 8 October 202112:50pm to 1pm on Friday 8 October 20212:40pm to 2:45pm on Friday 8 October 2021 |
-| 13/10/2021      | Casual Contact       | Orange          | Kmart Orange227 Summer Street | 12:10pm to 12:45pm on Saturday 9 October 2021                |
+| 13/10/2021      | Casual Contact       | Orange          | Kmart Orange227 Summer Street | 9:20am to 10am on Monday 11 October 202112:10pm to 12:45pm on Saturday 9 October 2021 |
 | 13/10/2021      | Casual Contact       | Orange          | Early Settler OrangeOrange Grove Homemaker Centre, Shop 11/12, 168 Lone Pine Avenue | 11:30am to 11:55am on Monday 11 October 2021                 |
 | 13/10/2021      | Casual Contact       | Nowra           | Nowra Aquatic Park20 Scenic Drive | 1:20pm to 3pm on Sunday 3 October 2021                       |
 | 13/10/2021      | Casual Contact       | Muswellbrook    | Woolworths MuswellbrookCorner of Brook and Sowerby Street | 12:05pm to 12:40pm on Monday 4 October 2021                  |
