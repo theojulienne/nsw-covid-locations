@@ -25,11 +25,16 @@
 | 14/10/2021      | Casual Contact       | Lismore         | Paul Standish OrthodonistShop 4, 17 Orion Street | 3:55pm to 4:15pm on Wednesday 6 October 2021                 |
 | 14/10/2021      | Casual Contact       | Lismore         | Northside Liberty Petrol Station Lismore78 Terania Street | 1:30pm to 1:35pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Lismore         | BWS Lismore203 Keen Street | 12:30pm to 12:40pm on Thursday 7 October 2021                |
+| 14/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 9am to 9:30am on Tuesday 12 October 2021                     |
+| 14/10/2021      | Casual Contact       | Lavington       | Coles LavingtonGriffith Road and Urana Road | 1pm to 1:15pm on Monday 11 October 2021                      |
 | 14/10/2021      | Casual Contact       | Kempsey         | McDonald's KempseySmith Street | 3:10pm to 3:25pm on Monday 11 October 20216:20pm to 6:40pm on Saturday 9 October 2021 |
 | 14/10/2021      | Casual Contact       | Kempsey         | Kempsey Fast Food108-112 Smith Street | 3:50am to 4:15am on Sunday 10 October 20218:10pm  to 8:20pm on Saturday 9 October 2021 |
 | 14/10/2021      | Casual Contact       | Kempsey         | BIG W Kempsey91 Smith Street | 9:15am to 10:30am on Sunday 10 October 20215:50pm  to 6:15pm on Saturday 9 October 2021 |
 | 14/10/2021      | Casual Contact       | Grafton         | Grafton Shopping World - Food courtGrafton Shopping World | 10am to 10:15am on Saturday 9 October 2021                   |
 | 14/10/2021      | Casual Contact       | Grafton         | Blooms The Chemist GraftonGrafton Shopping World | 9:30am to 10am on Saturday 9 October 2021                    |
+| 14/10/2021      | Casual Contact       | Goulburn        | Kmart GoulburnArgyle Mall | 12:35pm to 1:25pm on Monday 11 October 2021                  |
+| 14/10/2021      | Casual Contact       | Goulburn        | Cotton On Goulburn217 Auburn Street | 1:20pm to 1:35pm on Monday 11 October 2021                   |
+| 14/10/2021      | Casual Contact       | Goulburn        | Centrelink Goulburn136 Auburn Street | 11:40am to 12pm on Monday 11 October 2021                    |
 | 14/10/2021      | Casual Contact       | Figtree         | Woolworths Figtree19 Princes Highway | 1:55pm to 2:10pm on Monday 11 October 2021                   |
 | 14/10/2021      | Casual Contact       | Callala Bay     | Cellarbrations Callala BayShop 12/55 Emmett Street | 4:10pm to 4:15pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Bomaderry       | IGA Lyndhurst and Liquor Bomaderry8/43 Lyndhurst Drive | 12:25pm to 12:35pm on Saturday 9 October 20217:50am to 7:55am on Friday 8 October 20217:45am to 7:55am on Monday 4 October 2021 |
@@ -37,6 +42,7 @@
 | 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Ballina         | Ballina Fair Shopping Centre84 Kerr Street | 6am to 2pm on Friday 8 October 20216am to 2pm on Wednesday 6 October 2021 |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 8:45pm to 11:30pm on Friday 8 October 2021                   |
+| 14/10/2021      | Casual Contact       | Albury          | Bonds AlburyWestend Plaze, 487 Kiewa Street, Shop SP016 | 1pm to 1:25pm on Sunday 10 October 2021                      |
 | 14/10/2021      | Casual Contact       | Albion Park     | Calder's General Store Albion Park152 Terry Street | 4:35pm to 4:45pm on Monday 11 October 2021                   |
 | 14/10/2021      | Casual Contact       | Albion Park     | The Reject Shop Albion ParkShop 1, Albion Park Shopping Village, 93 Terry Street | 1:30pm to 1:45pm on Thursday 7 October 2021                  |
 | 13/10/2021      | Casual Contact       | Wollongong      | Hospital Hill Pharmacy Wollongong338-340 Crown Street | 3pm to 3:30pm on Wednesday 6 October 2021                    |
@@ -238,7 +244,7 @@
 | 09/10/2021      | Casual Contact       | Goulburn        | News Xpress GoulburnGoulburn Square, 217 Auburn Street | 11:50am to 12:10pm on Friday 1 October 20213:05pm to 4:35pm on Friday 1 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Mitre 10 Goulburn304 Sloane Street | 9:45am to 5:45pm on Friday 1 October 2021                    |
 | 09/10/2021      | Casual Contact       | Goulburn        | KFC Goulburn261 Auburn Street | 11:30am to 12:05pm on Friday 1 October 2021                  |
-| 09/10/2021      | Casual Contact       | Goulburn        | Goulburn Square217 Auburn Street | 1:55pm to 2:55pm on Monday 4 October 20211pm to 2pm on Saturday 2 October 2021 |
+| 09/10/2021      | Casual Contact       | Goulburn        | Goulburn Square217 Auburn Street | 12pm (noon) to 1:45pm on Monday 11 October 20211:55pm to 2:55pm on Monday 4 October 20211pm to 2pm on Saturday 2 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Da Lat Bakery Goulburn160 Auburn Street | 2:55pm to 3:35pm on Friday 1 October 2021                    |
 | 09/10/2021      | Casual Contact       | Goulburn        | Bradfordville Friendly Grocer8/53 Queen Street | 3:35pm to 4:15pm on Monday 4 October 2021                    |
 | 09/10/2021      | Casual Contact       | Goulburn        | Blooms Chemist Goulburn304-308 Auburn Street | 1:05pm to 1:50pm on Saturday 2 October 2021                  |

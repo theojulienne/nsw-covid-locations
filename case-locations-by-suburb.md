@@ -12,6 +12,7 @@
 | 04/10/2021      | Casual Contact       | Albion Park     | Woolworths Albion ParkCorner of Russell Street and Terry Street | 8:55am to 9:55am on Saturday 2 October 20214:05pm to 5pm on Friday 1 October 202112pm (noon) to 1pm on Tuesday 28 September 2021 |
 | 14/10/2021      | Casual Contact       | Albion Park     | Calder's General Store Albion Park152 Terry Street | 4:35pm to 4:45pm on Monday 11 October 2021                   |
 | 06/10/2021      | Casual Contact       | Albion Park Rail | Delaneys Cakes Albion ParkUnit 3/48 Shandan Circuit | 12:05pm to 12:15pm on Saturday 2 October 2021                |
+| 14/10/2021      | Casual Contact       | Albury          | Bonds AlburyWestend Plaze, 487 Kiewa Street, Shop SP016 | 1pm to 1:25pm on Sunday 10 October 2021                      |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 8:45pm to 11:30pm on Friday 8 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Cafe 86 on Main86 Main Street | 5:30am to 3pm on Tuesday 5 October 20215:30am to 2:30pm on Sunday 3 October 202110am to 11:15am on Saturday 2 October 202110am to 11am on Friday 1 October 2021 |
 | 09/10/2021      | Casual Contact       | Alstonville     | Federal Hotel Alstonville77 Main Street | 9:30pm to 10:30pm on Sunday 3 October 2021                   |
@@ -140,11 +141,14 @@
 | 10/10/2021      | Casual Contact       | Gosford         | Woolworths GosfordGosford Imperial Centre, 40-46 William Street | 12:40pm to 1:15pm on Wednesday 6 October 20215:50pm to 6:30pm on Friday 1 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Blooms Chemist Goulburn304-308 Auburn Street | 1:05pm to 1:50pm on Saturday 2 October 2021                  |
 | 09/10/2021      | Casual Contact       | Goulburn        | Bradfordville Friendly Grocer8/53 Queen Street | 3:35pm to 4:15pm on Monday 4 October 2021                    |
+| 14/10/2021      | Casual Contact       | Goulburn        | Centrelink Goulburn136 Auburn Street | 11:40am to 12pm on Monday 11 October 2021                    |
 | 13/10/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, Corner of Auburn Street and Clifford Street | 4:30pm to 5:30pm on Sunday 3 October 20211:10pm to 2:10pm on Saturday 2 October 202111:30am to 12:15pm on Friday 1 October 20215:20pm to 6pm on Friday 1 October 202111:45am to 12:45pm on Thursday 30 September 20215:55pm to 7pm on Wednesday 29 September 20212:40pm to 3:15pm on Tuesday 28 September 20214:25pm to 5:15pm on Tuesday 28 September 20219:45am to 10:30am on Tuesday 28 September 20211:55pm to 2:30pm on Monday 27 September 202111:45am to 1pm on Thursday 23 September 20216:40am to 7:10am on Thursday 23 September 2021 |
 | 05/10/2021      | Casual Contact       | Goulburn        | Commonwealth Bank GoulburnGoulburn Square, 217 Auburn Street | 11:20am to 12pm (noon) on Friday 1 October 2021              |
+| 14/10/2021      | Casual Contact       | Goulburn        | Cotton On Goulburn217 Auburn Street | 1:20pm to 1:35pm on Monday 11 October 2021                   |
 | 09/10/2021      | Casual Contact       | Goulburn        | Da Lat Bakery Goulburn160 Auburn Street | 2:55pm to 3:35pm on Friday 1 October 2021                    |
-| 09/10/2021      | Casual Contact       | Goulburn        | Goulburn Square217 Auburn Street | 1:55pm to 2:55pm on Monday 4 October 20211pm to 2pm on Saturday 2 October 2021 |
+| 09/10/2021      | Casual Contact       | Goulburn        | Goulburn Square217 Auburn Street | 12pm (noon) to 1:45pm on Monday 11 October 20211:55pm to 2:55pm on Monday 4 October 20211pm to 2pm on Saturday 2 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | KFC Goulburn261 Auburn Street | 11:30am to 12:05pm on Friday 1 October 2021                  |
+| 14/10/2021      | Casual Contact       | Goulburn        | Kmart GoulburnArgyle Mall | 12:35pm to 1:25pm on Monday 11 October 2021                  |
 | 03/10/2021      | Casual Contact       | Goulburn        | Metro Petroleum Goulburn68 Clinton Street | 3pm to 3:35pm on Friday 1 October 2021                       |
 | 09/10/2021      | Casual Contact       | Goulburn        | Mitre 10 Goulburn304 Sloane Street | 9:45am to 5:45pm on Friday 1 October 2021                    |
 | 09/10/2021      | Casual Contact       | Goulburn        | News Xpress GoulburnGoulburn Square, 217 Auburn Street | 11:50am to 12:10pm on Friday 1 October 20213:05pm to 4:35pm on Friday 1 October 2021 |
@@ -206,6 +210,8 @@
 | 06/10/2021      | Casual Contact       | Lake Haven      | McDonald's Lake HavenGoobarabah Avenue | 5:20pm to 9:25pm on Tuesday 5 October 20213:25pm to 9:15pm on Monday 4 October 20217:15am to 7:40am on Monday 4 October 20214:20pm to 8:25pm on Sunday 3 October 20213:35pm to 7:45pm on Thursday 30 September 20217:40am to 3:40pm on Thursday 30 September 20217:25am to 4:10pm on Wednesday 29 September 2021 |
 | 06/10/2021      | Casual Contact       | Lake Heights    | Paninoteca HubShop 1a/20-22 Weringa Avenue | 12:30pm to 12:45pm on Saturday 2 October 2021                |
 | 11/10/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake MunmorahLake Munmorah Shopping Centre, 1 Tall Timbers Road | 12:45pm to 1:25pm on Wednesday 6 October 20219:50am to 10:25am on Saturday 2 October 2021 |
+| 14/10/2021      | Casual Contact       | Lavington       | Coles LavingtonGriffith Road and Urana Road | 1pm to 1:15pm on Monday 11 October 2021                      |
+| 14/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 9am to 9:30am on Tuesday 12 October 2021                     |
 | 08/10/2021      | Casual Contact       | Lennox Head     | The Lennox HotelPacific Parade and Byron Street | 5:35pm to 6:10pm on Sunday 3 October 2021                    |
 | 10/10/2021      | Casual Contact       | Lisarow         | Woolworths Lisarow3 Parsons Road | 7:30pm to 9pm on Monday 4 October 2021                       |
 | 11/10/2021      | Casual Contact       | Lismore         | ALDI Lismore44 Ballina Road | 9:25am to 10am on Wednesday 6 October 2021                   |
