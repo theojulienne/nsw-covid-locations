@@ -2,15 +2,21 @@
 | --- | --- | --- | --- | --- |
 | 16/10/2021      | Casual Contact       | West Kempsey    | Tumblegum Bakehouse54 Elbow Street | 12:54pm to 1:10PM on Monday 11 October 2021                  |
 | 16/10/2021      | Casual Contact       | West Kempsey    | IGA Xpress West Kempsey30 Elbow Street | 12:45pm to 1:05PM on Tuesday 12 October 2021                 |
-| 16/10/2021      | Casual Contact       | West Gosford    | Anaconda West Gosford28 Central Coast Highway | 8:55am to 5:30pm on Wednesday 13 October 20218:40am to 5:30pm on Thursday 14 October 2021 |
+| 16/10/2021      | Casual Contact       | West Gosford    | Anaconda West Gosford28 Central Coast Highway | 8:40am to 5:30pm on Thursday 14 October 20218:55am to 5:30pm on Wednesday 13 October 2021 |
 | 16/10/2021      | Casual Contact       | Wauchope        | Spar Express81 High Street | 09:45am to 10:45AM on Thursday 7 October 2021                |
 | 16/10/2021      | Casual Contact       | Wallsend        | BP Wallsend103 Newcastle Road | 11:00am to 4PM on Wednesday 13 October 202106:00am to 2PM on Tuesday 12 October 2021 |
 | 16/10/2021      | Casual Contact       | Wallsend        | BP Service Station Wallsend103 Newcastle Road | 11am to 4pm on Wednesday 13 October 20216am to 2pm on Tuesday 12 October 2021 |
+| 16/10/2021      | Casual Contact       | Tenambit        | The Regal Inn33 Metford Road | 4:45pm to 6PM on Tuesday 12 October 2021                     |
+| 16/10/2021      | Casual Contact       | Taree           | Taree Pet Barn61 Whitbread Street | 9:00am to 4pm on Tuesday 12 October 2021                     |
 | 16/10/2021      | Casual Contact       | Taree           | Shell Coles Express Taree59-63 Victoria Street | 12:55pm to 1:30PM on Sunday 3 October 2021                   |
+| 16/10/2021      | Casual Contact       | Shortland       | The Shortland Hotel269 Sandgate Road | 6:55pm to 7:50pm on Monday 11 October 2021                   |
+| 16/10/2021      | Casual Contact       | Orange          | Eureka Street Furniture OrangeOrange Grove Homemakers Centre, Lone Pine Avenue | 5:05pm to 5:10pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | North Wollongong | Delano Specialty Coffee85 Montague Street | 09:21am to 9:31AM on Monday 11 October 2021                  |
+| 16/10/2021      | Casual Contact       | Lavington       | Northside Hotel Motel305 Urana Road | 5:15pm to 8:45pm on Sunday 10 October 2021                   |
+| 16/10/2021      | Casual Contact       | Lavington       | Direct Freight Express103 Catherine Cresent | 4:50pm to 5:45pm on Tuesday 12 October 2021                  |
 | 16/10/2021      | Casual Contact       | Lavington       | Coles LavingtonGriffith Rd &, Urana Road | 1pm to 1:15pm on Monday 11 October 202108:15pm to 9:15PM on Sunday 10 October 2021 |
 | 16/10/2021      | Casual Contact       | Lavington       | BIG W LavingtonGriffith Road | 08:43am to 9:45AM on Monday 11 October 202103:35pm to 4PM on Monday 4 October 2021 |
-| 16/10/2021      | Casual Contact       | Lavington       | ALDI385/387 Wagga Road    | 04:00pm to 5PM on Thursday 14 October 2021                   |
+| 16/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 3:45pm to 5:15pm on Thursday 14 October 2021                 |
 | 16/10/2021      | Casual Contact       | Kempsey         | Pathfinders51 Smith Street | 05:00pm to 9PM on Tuesday 12 October 2021                    |
 | 16/10/2021      | Casual Contact       | Kempsey         | Netherby House5 Little Rudder Street | 12:00pm to 1PM on Saturday 9 October 2021                    |
 | 16/10/2021      | Casual Contact       | Kempsey         | Macleay LivFit - 2/148 Belgrave St Kempsey2/148 Belgrave Street | 04:10pm to 5:10PM on Monday 11 October 2021                  |
@@ -21,14 +27,18 @@
 | 16/10/2021      | Casual Contact       | Grafton         | Sullivan Nicolaides PathologyBi-Lo Complex, Shop 9, 84-94 Bent Street | 02:30pm to 3:15PM on Wednesday 13 October 2021               |
 | 16/10/2021      | Casual Contact       | Glendale        | KMART Glendale 10 Stockland Drive | 02:18pm to 2:53PM on Monday 11 October 202108:10pm to 9:27PM on Monday 11 October 2021 |
 | 16/10/2021      | Casual Contact       | Fairy Meadow    | Leisure Coast Fruit Market & Deli75 Princes Highway | 01:50pm to 2PM on Tuesday 12 October 2021                    |
-| 16/10/2021      | Casual Contact       | Eden            | IGA Eden191 Imlay Street  | 12:00am to 11:59PM on Tuesday 5 October 2021                 |
+| 16/10/2021      | Casual Contact       | Eden            | IGA Eden191 Imlay Street  | 12:05pm to 12:25pm on Wednesday 6 October 202112:00am to 11:59PM on Tuesday 5 October 2021 |
 | 16/10/2021      | Casual Contact       | East Maitland   | Douglas Hanly Moir Pathology East Maitland134 Lawes Street | 9:30am to 9:50am on Saturday 9 October 2021                  |
 | 16/10/2021      | Casual Contact       | East Albury     | Albury Electroplaters214 Borella Road | 03:15pm to 4PM on Monday 11 October 2021                     |
 | 16/10/2021      | Casual Contact       | Corrimal        | His & Hers cafe313 Princes Highway | 07:10am to 7:30AM on Monday 11 October 2021                  |
 | 16/10/2021      | Casual Contact       | Coolongolook    | BP Coolongolook20 Bengal Street | 02:00pm to 2:20PM on Sunday 3 October 2021                   |
 | 16/10/2021      | Casual Contact       | Coffs Harbour   | Tristar Medical Group Coffs HarbourSuite 2/30 Gordon Street | 02:50pm to 3:20PM on Wednesday 13 October 2021               |
-| 16/10/2021      | Casual Contact       | Bermagui        | Bermagui chinese59 Lamont Street | 12:00pm to 11:59PM on Friday 8 October 2021                  |
+| 16/10/2021      | Casual Contact       | Charlestown     | LiquorlandRidley Street and Smith Street | 1pm to 7pm on Friday 8 October 2021                          |
+| 16/10/2021      | Casual Contact       | Blayney         | Nellies Cafe12 Farm Lane  | 10:30am to 10:45AM on Wednesday 13 October 2021              |
+| 16/10/2021      | Casual Contact       | Blayney         | Bernardi's IGAUnit 8/12 Farm Lane | 10:30am to 10:35AM on Wednesday 13 October 2021              |
+| 16/10/2021      | Casual Contact       | Bermagui        | Bermagui chinese59 Lamont Street | 6:45pm to 7:20pm on Friday 8 October 2021                    |
 | 16/10/2021      | Casual Contact       | Bermagui        | Bermagui Fishermens Co-Op Ltd.73 Lamont Street | 12:00am to 11:59pm on Saturday 9 October 202112:00am to 11:59pm on Friday 8 October 2021 |
+| 16/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst59 Durham Street | 11am to 11:10AM on Monday 11 October 2021                    |
 | 16/10/2021      | Casual Contact       | Barooga         | Sporties Barooga10 Burkinshaw Street | 05:34pm to 10:35PM on Tuesday 5 October 2021                 |
 | 16/10/2021      | Casual Contact       | Barooga         | Pirates Treasure30 Vermont Street | 01:30pm to 2:15PM on Monday 11 October 2021                  |
 | 16/10/2021      | Casual Contact       | Barooga         | Barooga Hotel2-6 Vermont Street | 12:58pm to 3:15PM on Saturday 9 October 2021                 |
@@ -39,6 +49,7 @@
 | 16/10/2021      | Casual Contact       | Albury          | Dan Murphy's Albury428-432 Dean Street | 12:40pm to 1PM on Sunday 10 October 2021                     |
 | 16/10/2021      | Casual Contact       | Albury          | Brady's Railway Hotel450 Smollett Street | 04:42pm to 5:10PM on Sunday 10 October 2021                  |
 | 16/10/2021      | Casual Contact       | Albury          | Beer DeLuxe Albury491 Kiewa Street | 01:48pm to 2:15PM on Sunday 10 October 2021                  |
+| 16/10/2021      | Casual Contact       | Albion Park     | Peak Sports and Learning Albion Park175 Ashburton Drive | 7:30am to 9AM on Thursday 14 October 20213pm to 4PM on Wednesday 13 October 20217:30am to 9AM on Wednesday 13 October 20213pm to 4pm on Tuesday 12 October 20217:30am to 9:00AM on Tuesday 12 October 2021 |
 | 15/10/2021      | Casual Contact       | Worrigee        | FoodWorks Worrigee60 Isa Road | 12:30pm to 12:45pm on Sunday 10 October 2021                 |
 | 15/10/2021      | Casual Contact       | Wollongong      | Spotlight Wollongong281 Crown Street | 12:50pm to 1:20pm on Monday 11 October 2021                  |
 | 15/10/2021      | Casual Contact       | Wellington      | Wellington Advantage Pharmacy12 Nanima Crescent | 9am to 5:30pm on Monday 11 October 2021                      |
@@ -106,7 +117,7 @@
 | 14/10/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 12pm to 1pm on Saturday 9 October 2021                       |
 | 14/10/2021      | Casual Contact       | Port Macquarie  | BIG W Port MacquarieCorner of Bay Street and Park Street | 11am to 12pm on Sunday 10 October 2021                       |
 | 14/10/2021      | Casual Contact       | Orange          | Kmart Orange227 Summer Street | 9:20am to 10am on Monday 11 October 202112:10pm to 12:45pm on Saturday 9 October 2021 |
-| 14/10/2021      | Casual Contact       | Orange          | Fantastic Furniture OrangeOrange Homemaker Centre, 200 Lone Pine Avenue | 11:15am to 11:30am on Monday 11 October 2021                 |
+| 14/10/2021      | Casual Contact       | Orange          | Fantastic Furniture OrangeOrange Homemaker Centre, 200 Lone Pine Avenue | 4:50pm to 5:10pm on Wednesday 13 October 202111:15am to 11:30am on Monday 11 October 2021 |
 | 14/10/2021      | Casual Contact       | Orange          | Barber Industries OrangeShop 35/190 Anson Street | 8:30am to 5:30pm on Wednesday 6 October 20218:30am to 12:30pm on Monday 4 October 202110am to 3pm on Sunday 3 October 20218:30am to 4pm on Saturday 2 October 20211pm to 7pm on Thursday 30 September 2021 |
 | 14/10/2021      | Casual Contact       | Orange          | BIG W OrangeAnson Streets and Kite Street | 5:40pm to 6:10pm on Wednesday 6 October 2021                 |
 | 14/10/2021      | Casual Contact       | Orange          | BCF Orange10/168 Lone Pine Avenue | 11:50am to 12:15pm on Monday 11 October 2021                 |
@@ -134,7 +145,7 @@
 | 14/10/2021      | Casual Contact       | Callala Bay     | Cellarbrations Callala BayShop 12/55 Emmett Street | 4:10pm to 4:15pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Bomaderry       | IGA Lyndhurst and Liquor Bomaderry8/43 Lyndhurst Drive | 12:25pm to 12:35pm on Saturday 9 October 20217:50am to 7:55am on Friday 8 October 20217:45am to 7:55am on Monday 4 October 2021 |
 | 14/10/2021      | Casual Contact       | Bellambi        | Sam and Nics IGA Xpress36 Cawley Street | 8:10am to 8:20am on Thursday 7 October 20219am to 9:10am on Tuesday 5 October 202111:35am to 11:45am on Monday 4 October 2021 |
-| 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 2:45pm to 3:45pm on Thursday 7 October 2021                  |
+| 14/10/2021      | Casual Contact       | Bega            | Coles BegaCorner of Parker Street and Carp Street | 12:15pm to 1pm on Friday 8 October 20212:45pm to 3:45pm on Thursday 7 October 2021 |
 | 14/10/2021      | Casual Contact       | Ballina         | Ballina Fair Shopping Centre84 Kerr Street | 6am to 2pm on Friday 8 October 20216am to 2pm on Wednesday 6 October 2021 |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 8:45pm to 11:30pm on Friday 8 October 2021                   |
 | 14/10/2021      | Casual Contact       | Albury          | Bonds AlburyWestend Plaza, 487 Kiewa Street | 1pm to 1:25pm on Sunday 10 October 2021                      |
@@ -301,7 +312,7 @@
 | 09/10/2021      | Casual Contact       | South Grafton   | Craig's Birdplace99 Skinner Street | 2pm to 2:30pm on Tuesday 5 October 2021                      |
 | 09/10/2021      | Casual Contact       | Morisset        | Coles MorissetSquare Shopping Centre, 35 Yambo Street | 10:30am to 10:45am on Saturday 2 October 202110:20am to 10:40am on Wednesday 29 September 20211:25pm to 2:15pm on Monday 27 September 20211:33pm to 2:19pm on Sunday 26 September 20213:40pm to 4:45pm on Sunday 26 September 2021 |
 | 09/10/2021      | Casual Contact       | Lismore         | Bunnings Lismore2 Bruxner Highway | 11:50am to 12:05pm on Sunday 3 October 2021                  |
-| 09/10/2021      | Casual Contact       | Kempsey         | Woolworths Kempsey91 Smith Street | 8:40am to 9:45am on Saturday 2 October 2021                  |
+| 09/10/2021      | Casual Contact       | Kempsey         | Woolworths Kempsey91 Smith Street | 11:30am to 12:30pm on Tuesday 12 October 20218:40am to 9:45am on Saturday 2 October 2021 |
 | 09/10/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 9:50am to 10:30am on Tuesday 5 October 202110:30am to 10:35am on Sunday 3 October 202110:40am to 11:15am on Saturday 2 October 20213:40pm to 4:55pm on Saturday 25 September 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Subway Goulburn158 Auburn Street | 2:25pm to 3:05pm on Wednesday 6 October 2021                 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Service NSW Goulburn267 Auburn Street | 11:45am to 12:30pm on Tuesday 5 October 202111:15am to 12:15pm on Friday 1 October 2021 |
