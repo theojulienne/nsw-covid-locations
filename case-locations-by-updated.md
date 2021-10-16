@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 16/10/2021      | Casual Contact       | West Kempsey    | Tumblegum Bakehouse54 Elbow Street | 12:54pm to 1:10PM on Monday 11 October 2021                  |
 | 16/10/2021      | Casual Contact       | West Kempsey    | IGA Xpress West Kempsey30 Elbow Street | 12:45pm to 1:05PM on Tuesday 12 October 2021                 |
+| 16/10/2021      | Casual Contact       | West Gosford    | Anaconda West Gosford28 Central Coast Highway | 8:55am to 5:30pm on Wednesday 13 October 20218:40am to 5:30pm on Thursday 14 October 2021 |
 | 16/10/2021      | Casual Contact       | Wauchope        | Spar Express81 High Street | 09:45am to 10:45AM on Thursday 7 October 2021                |
 | 16/10/2021      | Casual Contact       | Wallsend        | BP Wallsend103 Newcastle Road | 11:00am to 4PM on Wednesday 13 October 202106:00am to 2PM on Tuesday 12 October 2021 |
 | 16/10/2021      | Casual Contact       | Wallsend        | BP Service Station Wallsend103 Newcastle Road | 11am to 4pm on Wednesday 13 October 20216am to 2pm on Tuesday 12 October 2021 |
