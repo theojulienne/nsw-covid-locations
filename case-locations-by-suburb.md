@@ -257,6 +257,7 @@
 | 06/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 9:45pm to 11:30pm on Friday 1 October 2021                   |
 | 12/10/2021      | Casual Contact       | Orange          | The Peisley St Gallery Orange54 Peisley Street | 1:50pm to 3:10pm on Friday 8 October 2021                    |
 | 12/10/2021      | Casual Contact       | Orange          | The Sugar Mill Café Orange1/86 Summer Street | 12:35pm to 12:55pm on Tuesday 5 October 2021                 |
+| 17/10/2021      | Casual Contact       | Ourimbah        | TAFE OurimbahBrush Road   | 9am to 4:30pm on Wednesday 13 October 2021                   |
 | 06/10/2021      | Casual Contact       | Peak Hill       | Peak Hill Ex-Services and Citizens Club Ltd57/61 Caswell Street | 5:20pm to 8:45pm on Saturday 2 October 2021                  |
 | 14/10/2021      | Casual Contact       | Port Macquarie  | BIG W Port MacquarieCorner of Bay Street and Park Street | 11am to 12pm on Sunday 10 October 2021                       |
 | 14/10/2021      | Casual Contact       | Port Macquarie  | Bunnings Port Macquarie18 John Oxley Drive | 12pm to 1pm on Saturday 9 October 2021                       |

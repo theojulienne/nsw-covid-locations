@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 17/10/2021      | Casual Contact       | Rutherford      | Hunter Valley Motor Sports1/137 New England Highway | 9:45am to 10:10am on Wednesday 13 October 2021               |
+| 17/10/2021      | Casual Contact       | Ourimbah        | TAFE OurimbahBrush Road   | 9am to 4:30pm on Wednesday 13 October 2021                   |
 | 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group Coffs Harbour35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 17/10/2021      | Casual Contact       | Gilgandra       | Shell Gilgandra101 Newell Highway Portion, Tooraweenah Road | 9:15am to 9:30am on Wednesday 13 October 2021                |
 | 17/10/2021      | Casual Contact       | Albury          | New Albury Hotel491 Kiewa Street | 8:45pm to 11:59pm on Friday 8 October 2021                   |
