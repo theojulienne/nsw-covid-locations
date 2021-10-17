@@ -73,7 +73,6 @@
 | 15/10/2021      | Casual Contact       | Charlestown     | Charlestown Square Medical CentreCharlestown Square, 30 Pearson Street | 9:30am to 10:15am on Monday 11 October 2021                  |
 | 16/10/2021      | Casual Contact       | Charlestown     | LiquorlandRidley Street and Smith Street | 1pm to 7pm on Friday 8 October 2021                          |
 | 14/10/2021      | Casual Contact       | Charmhaven      | Bunnings Lake HavemCorner Chelmsford Road and Pacific Highway | 12:40pm to 1:20pm on Saturday 2 October 2021                 |
-| 16/10/2021      | Casual Contact       | Coffs Harbour   | Tristar Medical Group Coffs HarbourSuite 2/30 Gordon Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Coolongolook    | BP Coolongolook20 Bengal Street | 2pm to 2:20pm on Sunday 3 October 2021                       |
 | 11/10/2021      | Casual Contact       | Cooma           | BWS Cooma45-47 Sharp Street | 6:45pm to 7pm on Monday 4 October 2021                       |
 | 08/10/2021      | Casual Contact       | Cooma           | Cisne100 Sharp Street     | 1pm to 3pm on Sunday 3 October 2021                          |
@@ -136,6 +135,7 @@
 | 06/10/2021      | Casual Contact       | Forster         | Lakeside Tavern Forster - Pokies area89 The Lakes Way | 2:30pm to 3pm on Sunday 3 October 2021                       |
 | 04/10/2021      | Casual Contact       | Forster         | Sports First ForsterStockland Forster Shopping Centre, Breese Parade | 3:20pm to 3:45pm on Sunday 3 October 2021                    |
 | 04/10/2021      | Casual Contact       | Forster         | The Reject Shop ForsterStockland Forster Shopping Centre, Breese Parade | 3:45pm to 4pm on Sunday 3 October 2021                       |
+| 17/10/2021      | Casual Contact       | Gilgandra       | Shell Gilgandra101 Newell Highway Portion, Tooraweenah Road | 9:15am to 9:30am on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Glendale        | KMART Glendale 10 Stockland Drive | 8:10pm to 9:27pm on Monday 11 October 2021                   |
 | 12/10/2021      | Casual Contact       | Googong         | Cannons IGA Googong195 Gorman Drive | 4:35pm to 5:05pm on Tuesday 5 October 2021                   |
 | 11/10/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:40am to 11:55am on Tuesday 5 October 2021                 |
@@ -192,6 +192,7 @@
 | 14/10/2021      | Casual Contact       | Kempsey         | McDonald's KempseySmith Street | 6:20pm to 6:40pm on Saturday 9 October 2021                  |
 | 16/10/2021      | Casual Contact       | Kempsey         | Netherby House5 Little Rudder Street | 12pm to 1pm on Saturday 9 October 2021                       |
 | 16/10/2021      | Casual Contact       | Kempsey         | Pathfinders51 Smith Street | 5pm to 9pm on Tuesday 12 October 2021                        |
+| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group Coffs Harbour35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 09/10/2021      | Casual Contact       | Kempsey         | Woolworths Kempsey91 Smith Street | 8:40am to 9:45am on Saturday 2 October 2021                  |
 | 10/10/2021      | Casual Contact       | Koonawarra      | BWS KoonawarraLot 1 Corner of Lakeside and Parkside Drive | 11am to 12pm (noon) on Sunday 3 October 2021                 |
 | 13/10/2021      | Casual Contact       | Kurri Kurri     | Kurri Kurri Local CourtCorner of Victoria Street and Lang Street | 9:20am to 10am on Tuesday 5 October 2021                     |

@@ -1,6 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 17/10/2021      | Casual Contact       | Rutherford      | Hunter Valley Motor Sports1/137 New England Highway | 9:45am to 10:10am on Wednesday 13 October 2021               |
+| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group Coffs Harbour35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
+| 17/10/2021      | Casual Contact       | Gilgandra       | Shell Gilgandra101 Newell Highway Portion, Tooraweenah Road | 9:15am to 9:30am on Wednesday 13 October 2021                |
 | 17/10/2021      | Casual Contact       | Albury          | New Albury Hotel491 Kiewa Street | 8:45pm to 11:59pm on Friday 8 October 2021                   |
 | 17/10/2021      | Casual Contact       | Albury          | Australian Ramp and Access Solutions Albury67 Alexandra Street | 6:30am to 2:45pm on Friday 8 October 2021                    |
 | 16/10/2021      | Casual Contact       | West Kempsey    | Tumblegum Bakehouse54 Elbow Street | 12:54pm to 1:10pm on Monday 11 October 2021                  |
@@ -35,7 +37,6 @@
 | 16/10/2021      | Casual Contact       | East Albury     | Albury Electroplaters214 Borella Road | 3:15pm to 4pm on Monday 11 October 2021                      |
 | 16/10/2021      | Casual Contact       | Corrimal        | His & Hers cafe313 Princes Highway | 7:10am to 7:30am on Monday 11 October 2021                   |
 | 16/10/2021      | Casual Contact       | Coolongolook    | BP Coolongolook20 Bengal Street | 2pm to 2:20pm on Sunday 3 October 2021                       |
-| 16/10/2021      | Casual Contact       | Coffs Harbour   | Tristar Medical Group Coffs HarbourSuite 2/30 Gordon Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Charlestown     | LiquorlandRidley Street and Smith Street | 1pm to 7pm on Friday 8 October 2021                          |
 | 16/10/2021      | Casual Contact       | Blayney         | Nellies Cafe12 Farm Lane  | 10:30am to 10:45am on Wednesday 13 October 2021              |
 | 16/10/2021      | Casual Contact       | Blayney         | Bernardi's IGAUnit 8/12 Farm Lane | 10:30am to 10:35am on Wednesday 13 October 2021              |
