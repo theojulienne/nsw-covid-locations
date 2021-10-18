@@ -9,12 +9,12 @@
 | 17/10/2021      | Casual Contact       | Rutherford      | Beaumont Tiles Rutherford64 Shipley Drive | 7:30am to 5pm on Monday 11 October 2021                      |
 | 17/10/2021      | Casual Contact       | Ourimbah        | TAFE OurimbahBrush Road   | 9am to 4:30pm on Wednesday 13 October 2021                   |
 | 17/10/2021      | Casual Contact       | Nowra           | Coles NowraKinghorne Street and Junction Street | 5pm to 6pm on Friday 15 October 202110:50am to 11:20am on Friday 8 October 20213pm to 3:10pm on Thursday 7 October 20211:40pm to 2:45pm on Wednesday 29 September 202111:45am to 1:05pm on Wednesday 29 September 20211:15pm to 2pm on Tuesday 28 September 2021 |
-| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group Coffs Harbour35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
+| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 17/10/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 3pm to 3:30pm on Tuesday 12 October 20219:50am to 10:30am on Tuesday 5 October 202110:30am to 10:35am on Sunday 3 October 202110:40am to 11:15am on Saturday 2 October 2021 |
 | 17/10/2021      | Casual Contact       | Gilgandra       | Shell Gilgandra101 Newell Highway Portion, Tooraweenah Road | 9:15am to 9:30am on Wednesday 13 October 2021                |
 | 17/10/2021      | Casual Contact       | Figtree         | The Reject Shop FigtreeShop 104/19 Princes Highway | 12:50pm to 1:05pm on Wednesday 6 October 2021                |
 | 17/10/2021      | Casual Contact       | Fairy Meadow    | Officeworks Fairy Meadow145 Princes Highway | 2:25pm to 2:35pm on Wednesday 13 October 2021                |
-| 17/10/2021      | Casual Contact       | Erina           | BIG W ErinaTerrigal Drive and Karalta Road | 11:40am to 12:20pm on Monday 11 October 2021                 |
+| 17/10/2021      | Casual Contact       | Erina           | Big W ErinaErina Fair, Terrigal Drive | 11:40am to 12:20pm on Monday 11 October 2021                 |
 | 17/10/2021      | Casual Contact       | East Maitland   | Stockland Green Hills Shopping Centre1 Molly Morgan Drive | 12:30pm to 1:35pm on Wednesday 13 October 2021               |
 | 17/10/2021      | Casual Contact       | East Maitland   | Costis Seafood Market Cafe1 Molly Morgan Drive | 9am to 5pm on Wednesday 6 October 2021                       |
 | 17/10/2021      | Casual Contact       | Corrimal        | Woolworths CorrimalLederer Corrimal Shopping Centre, 270 Princes Highway | 7:50pm to 8:05pm on Wednesday 13 October 202111:40am to 12:10pm on Tuesday 12 October 202111:45am to 12:10pm on Wednesday 6 October 20215:45pm to 6:10pm on Saturday 2 October 20217:30am to 4:30pm on Thursday 30 September 2021 |
@@ -202,7 +202,7 @@
 | 13/10/2021      | Casual Contact       | Grafton         | Bunnings Grafton1251 Big River Way | 1pm to 1:25pm on Saturday 9 October 20216:35pm to 7:10pm on Wednesday 6 October 2021 |
 | 13/10/2021      | Casual Contact       | Grafton         | BIG W GraftonGrafton Shoppingworld, Corner of Villiers Street and Fitzroy Street | 10:50am to 11:25am on Saturday 9 October 20215:30pm to 5:40pm on Thursday 7 October 20213:40pm to 4:10pm on Tuesday 5 October 20214:30pm to 5pm on Tuesday 5 October 2021 |
 | 13/10/2021      | Casual Contact       | Grafton         | Aldi Grafton163-169 Prince Street | 6:50pm to 7:30pm on Thursday 7 October 2021                  |
-| 13/10/2021      | Casual Contact       | Erina           | Platypus Shoes ErinaErina Shopping Centre, Terrigal Drive | 9:30am to 5:30pm on Wednesday 6 October 2021                 |
+| 13/10/2021      | Casual Contact       | Erina           | Platypus Shoes ErinaErina Fair, Terrigal Drive | 9:30am to 5:30pm on Wednesday 6 October 2021                 |
 | 13/10/2021      | Casual Contact       | Dubbo           | Woolworths Dubbo56 Windsor Parade | 10:35am to 10:45am on Sunday 10 October 2021                 |
 | 13/10/2021      | Casual Contact       | Dubbo           | Supercheap Auto Dubbo16 Cobbora Road | 10:40am to 11:20am on Monday 11 October 2021                 |
 | 13/10/2021      | Casual Contact       | Dubbo           | Dubbo City Regional AirportCooreena Road | 8:30am to 9am on Thursday 7 October 2021                     |
@@ -270,7 +270,7 @@
 | 11/10/2021      | Casual Contact       | Jindabyne       | Caltex Jindabyne4/6 Kosciuszko Road | 4:40pm to 5pm on Monday 4 October 202110:35am to 10:50am on Saturday 2 October 202112:30pm to 12:35pm on Wednesday 29 September 20218:45am to 9:15am on Wednesday 29 September 202111:20am to 11:40am on Tuesday 28 September 20219:10am to 9:45am on Tuesday 28 September 2021 |
 | 11/10/2021      | Casual Contact       | Gosford         | Commonwealth Bank Gosford184 Mann Street | 11:40am to 11:55am on Tuesday 5 October 2021                 |
 | 11/10/2021      | Casual Contact       | Ettalong Beach  | IGA Ettalong Beach396 Ocean View Road | 11:20am to 11:50am on Friday 8 October 2021                  |
-| 11/10/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, 620/658 Terrigal Drive | 9:20pm to 9:40pm on Monday 4 October 20214:20pm to 5pm on Sunday 3 October 2021 |
+| 11/10/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, Terrigal Drive | 9:20pm to 9:40pm on Monday 4 October 20214:20pm to 5pm on Sunday 3 October 2021 |
 | 11/10/2021      | Casual Contact       | Eden            | Mitre 10 Sapphire Hardware115 Princes Highway | 10am to 10:30am on Thursday 7 October 2021                   |
 | 11/10/2021      | Casual Contact       | Eden            | IGA Plus Liquor Eden191 Imlay Street | 12:05pm to 12:20pm on Thursday 7 October 20219:10am to 9:20am on Thursday 7 October 2021 |
 | 11/10/2021      | Casual Contact       | Eden            | Fry Daze Fish and Chips200-206 Imlay Street | 7:05pm to 7:20pm on Thursday 7 October 2021                  |

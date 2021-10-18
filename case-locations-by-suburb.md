@@ -112,9 +112,9 @@
 | 16/10/2021      | Casual Contact       | Eden            | IGA Eden191 Imlay Street  | 12:05pm to 12:25pm on Wednesday 6 October 2021All day on Tuesday 5 October 2021 |
 | 11/10/2021      | Casual Contact       | Eden            | IGA Plus Liquor Eden191 Imlay Street | 12:05pm to 12:20pm on Thursday 7 October 20219:10am to 9:20am on Thursday 7 October 2021 |
 | 11/10/2021      | Casual Contact       | Eden            | Mitre 10 Sapphire Hardware115 Princes Highway | 10am to 10:30am on Thursday 7 October 2021                   |
-| 17/10/2021      | Casual Contact       | Erina           | BIG W ErinaTerrigal Drive and Karalta Road | 11:40am to 12:20pm on Monday 11 October 2021                 |
-| 11/10/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, 620/658 Terrigal Drive | 9:20pm to 9:40pm on Monday 4 October 20214:20pm to 5pm on Sunday 3 October 2021 |
-| 13/10/2021      | Casual Contact       | Erina           | Platypus Shoes ErinaErina Shopping Centre, Terrigal Drive | 9:30am to 5:30pm on Wednesday 6 October 2021                 |
+| 17/10/2021      | Casual Contact       | Erina           | Big W ErinaErina Fair, Terrigal Drive | 11:40am to 12:20pm on Monday 11 October 2021                 |
+| 11/10/2021      | Casual Contact       | Erina           | Coles ErinaErina Fair, Terrigal Drive | 9:20pm to 9:40pm on Monday 4 October 20214:20pm to 5pm on Sunday 3 October 2021 |
+| 13/10/2021      | Casual Contact       | Erina           | Platypus Shoes ErinaErina Fair, Terrigal Drive | 9:30am to 5:30pm on Wednesday 6 October 2021                 |
 | 08/10/2021      | Casual Contact       | Ettalong Beach  | Hungry Wolf's Ettalong Beach23 Broken Bay Road | 5pm to 7pm on Sunday 3 October 20215pm to 9pm on Saturday 2 October 20215pm to 9pm on Friday 1 October 2021 |
 | 11/10/2021      | Casual Contact       | Ettalong Beach  | IGA Ettalong Beach396 Ocean View Road | 11:20am to 11:50am on Friday 8 October 2021                  |
 | 14/10/2021      | Casual Contact       | Fairy Meadow    | Coles Fairy MeadowThe New Ambience, Elliotts Road | 8:30am to 1:30pm on Tuesday 5 October 202111am to 4pm on Sunday 3 October 20219am to 2pm on Saturday 2 October 2021 |
@@ -175,7 +175,7 @@
 | 14/10/2021      | Casual Contact       | Kempsey         | McDonald's KempseySmith Street | 3:10pm to 3:25pm on Monday 11 October 20216:20pm to 6:40pm on Saturday 9 October 2021 |
 | 16/10/2021      | Casual Contact       | Kempsey         | Netherby House5 Little Rudder Street | 12pm (noon) to 1pm on Saturday 9 October 2021                |
 | 16/10/2021      | Casual Contact       | Kempsey         | Pathfinders51 Smith Street | 5pm to 9pm on Tuesday 12 October 2021                        |
-| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group Coffs Harbour35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
+| 17/10/2021      | Casual Contact       | Kempsey         | Tristar Medical Group35 Belgrave Street | 2:50pm to 3:20pm on Wednesday 13 October 2021                |
 | 09/10/2021      | Casual Contact       | Kempsey         | Woolworths Kempsey91 Smith Street | 11:30am to 12:30pm on Tuesday 12 October 20218:40am to 9:45am on Saturday 2 October 2021 |
 | 13/10/2021      | Casual Contact       | Kurri Kurri     | Kurri Kurri Local CourtCorner of Victoria Street and Lang Street | 9:20am to 10am on Tuesday 5 October 2021                     |
 | 15/10/2021      | Casual Contact       | Kurri Kurri     | Priceline Pharmacy Kurri KurriKingsway Plaza, 178 Lang Street | 9:10am to 9:20am on Friday 8 October 2021                    |
