@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 20/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3pm to 3:35pm on Thursday 14 October 2021                    |
 | 19/10/2021      | Casual Contact       | Yass            | Woolworths Yass250 Comur Street | 3:40pm to 5:20pm on Wednesday 13 October 20214:10pm to 5:05pm on Tuesday 12 October 2021 |
 | 19/10/2021      | Casual Contact       | Yass            | Lien's Vietnamese Chinese Restaurant164 Comur Street | 12:40pm to 2pm on Thursday 14 October 2021                   |
 | 19/10/2021      | Casual Contact       | Yass            | Caltex Yass228 Comur Street | 8:10am to 11:10am on Wednesday 13 October 2021               |
@@ -44,7 +45,6 @@
 | 19/10/2021      | Casual Contact       | Albury          | Bunnings AlburyCorner of Borella Road and Drome Street | 2:10pm to 3:10pm on Thursday 14 October 20211:30pm to 2pm on Wednesday 13 October 20211pm to 2pm on Monday 11 October 2021 |
 | 19/10/2021      | Casual Contact       | Albury          | Albury Eye Clinic1/669 Dean Street | 3:15pm to 4:30pm on Monday 11 October 2021                   |
 | 19/10/2021      | Casual Contact       | Albury          | APCO Albury997 Mate Street | 10am to 12pm (noon) on Saturday 16 October 2021              |
-| 19/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3am to 3:35am on Thursday 14 October 2021                    |
 | 19/10/2021      | Casual Contact       | Albion Park     | Woolworths Albion Park2527/1 Corner of Terry and Russell Street | 10:05am to 10:30am on Saturday 16 October 2021               |
 | 19/10/2021      | Casual Contact       | Albion Park     | The Reject Shop Albion ParkShop 1, Albion Park Shopping Village, 93 Terry Street | 3:35pm to 3:45pm on Saturday 16 October 20211:30pm to 1:45pm on Thursday 7 October 2021 |
 | 18/10/2021      | Casual Contact       | Wallsend        | Laverty Pathology Wallsend55 Nelson Street | 9:40am to 10am on Friday 8 October 20219:40am to 10am on Friday 8 October 2021 |
