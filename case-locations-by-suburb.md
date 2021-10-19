@@ -5,22 +5,22 @@
 | 16/10/2021      | Casual Contact       | Albion Park     | Peak Sports and Learning Albion Park175 Ashburton Drive | 7:30am to 9am on Thursday 14 October 20213pm to 4pm on Wednesday 13 October 20217:30am to 9am on Wednesday 13 October 20213pm to 4pm on Tuesday 12 October 20217:30am to 9am on Tuesday 12 October 2021 |
 | 13/10/2021      | Casual Contact       | Albion Park     | Subway Albion Park10 Terry Street | 10:45am to 10:50am on Saturday 9 October 2021                |
 | 14/10/2021      | Casual Contact       | Albion Park     | The Reject Shop Albion ParkShop 1, Albion Park Shopping Village, 93 Terry Street | 1:30pm to 1:45pm on Thursday 7 October 2021                  |
-| 19/10/2021      | Casual Contact       | Albury          | APCO Albury997 Mate Street | 10am to 11:30am on Saturday 16 October 2021                  |
+| 19/10/2021      | Casual Contact       | Albury          | APCO Albury997 Mate Street | 10am to 12pm (noon) on Saturday 16 October 2021              |
 | 17/10/2021      | Casual Contact       | Albury          | Australian Ramp and Access Solutions Albury67 Alexandra Street | 6:30am to 2:45pm on Monday 11 October 20216:30am to 2:45pm on Friday 8 October 2021 |
 | 16/10/2021      | Casual Contact       | Albury          | Beer DeLuxe Albury491 Kiewa Street | 1:45pm to 2:15pm on Sunday 10 October 2021                   |
 | 14/10/2021      | Casual Contact       | Albury          | Bonds AlburyWestend Plaza, 487 Kiewa Street | 1pm to 1:25pm on Sunday 10 October 2021                      |
 | 16/10/2021      | Casual Contact       | Albury          | Brady's Railway Hotel450 Smollett Street | 4:40pm to 5:10pm on Sunday 10 October 2021                   |
-| 19/10/2021      | Casual Contact       | Albury          | Bunnings AlburyCorner of Borella Road and Drome Street | 2:10pm to 1pm on Thursday 14 October 20211pm to 8:45pm on Monday 11 October 2021 |
-| 19/10/2021      | Casual Contact       | Albury          | Chemist Warehouse Albury483 Olive Street | 10:30am to 6:30pm on Saturday 16 October 2021                |
-| 19/10/2021      | Casual Contact       | Albury          | Connor AlburyWest End Plaza, 1/487 Kiewa Street | 2:15pm to 2:15pm on Thursday 14 October 2021                 |
-| 19/10/2021      | Casual Contact       | Albury          | Dan Murphy's Albury428-432 Dean Street | 7:10pm to 2pm on Thursday 14 October 202112:40pm to 1pm on Sunday 10 October 2021 |
+| 19/10/2021      | Casual Contact       | Albury          | Bunnings AlburyCorner of Borella Road and Drome Street | 2:10pm to 3:10pm on Thursday 14 October 20211pm to 2pm on Monday 11 October 2021 |
+| 19/10/2021      | Casual Contact       | Albury          | Chemist Warehouse Albury483 Olive Street | 10:30am to 12:30pm on Saturday 16 October 2021               |
+| 19/10/2021      | Casual Contact       | Albury          | Connor AlburyWest End Plaza, 1/487 Kiewa Street | 2:15pm to 2:50pm on Thursday 14 October 2021                 |
+| 19/10/2021      | Casual Contact       | Albury          | Dan Murphy's Albury428-432 Dean Street | 7:10pm to 7:40pm on Thursday 14 October 202112:40pm to 1pm on Sunday 10 October 2021 |
 | 18/10/2021      | Casual Contact       | Albury          | Harris Farm Markets Albury614 Young Street | 8am to 4pm on Tuesday 12 October 2021                        |
 | 16/10/2021      | Casual Contact       | Albury          | Indian Chimney Restaurant662 Dean Street | 6pm to 8:30pm on Sunday 10 October 2021                      |
 | 16/10/2021      | Casual Contact       | Albury          | Jamaica Blue Albury25/525 David Street | 1pm to 1:30pm on Sunday 10 October 2021                      |
 | 17/10/2021      | Casual Contact       | Albury          | New Albury Hotel491 Kiewa Street | 12am (midnight) to 2am on Saturday 9 October 20218:45pm to 11:59pm on Friday 8 October 2021 |
-| 19/10/2021      | Casual Contact       | Albury          | Prouds the Jewellers Albury3/501 Dean Street | 3:30pm to 2pm on Thursday 14 October 2021                    |
-| 19/10/2021      | Casual Contact       | Albury          | Service NSW Albury520 Smollett Street | 2:45pm to 9:15pm on Wednesday 13 October 2021                |
-| 19/10/2021      | Casual Contact       | Albury          | Services Australia (Centrelink) Albury430 Wilson Street | 1:45pm to 10:30am on Wednesday 13 October 2021               |
+| 19/10/2021      | Casual Contact       | Albury          | Prouds the Jewellers Albury3/501 Dean Street | 3:30pm to 4pm on Thursday 14 October 2021                    |
+| 19/10/2021      | Casual Contact       | Albury          | Service NSW Albury520 Smollett Street | 2:45pm to 3:35pm on Wednesday 13 October 2021                |
+| 19/10/2021      | Casual Contact       | Albury          | Services Australia (Centrelink) Albury430 Wilson Street | 1:45pm to 2:30pm on Wednesday 13 October 2021                |
 | 19/10/2021      | Casual Contact       | Albury          | The Proprietor459 Townsend Street | 10:30am to 11:15am on Thursday 14 October 2021               |
 | 14/10/2021      | Casual Contact       | Albury          | Zed Bar586 Dean Street    | 8:45pm to 11:30pm on Friday 8 October 2021                   |
 | 09/10/2021      | Casual Contact       | Alstonville     | Cafe 86 on Main86 Main Street | 5:30am to 3pm on Tuesday 5 October 20215:30am to 2:30pm on Sunday 3 October 202110am to 11:15am on Saturday 2 October 202110am to 11am on Friday 1 October 2021 |
@@ -33,10 +33,10 @@
 | 11/10/2021      | Casual Contact       | Ballina         | Ritchie's Supa IGA Ballina44 Bangalow Road | 6:50pm to 7pm on Wednesday 6 October 2021                    |
 | 09/10/2021      | Casual Contact       | Ballina         | Zarraffa's Coffee Ballina44 Bangalow Road | 5:20pm to 5:30pm on Tuesday 5 October 2021                   |
 | 19/10/2021      | Casual Contact       | Barham          | Australia Post Barham35 Murray Street | 10:45am to 11:15am on Tuesday 12 October 2021                |
-| 19/10/2021      | Casual Contact       | Barham          | Barham Hotel Bottle Shop34 Murray Street | 6:15pm to 12:15pm on Friday 8 October 2021                   |
-| 19/10/2021      | Casual Contact       | Barham          | IGA Barham33 Murray Street | 10am to 2:30pm on Tuesday 12 October 20219:30am to 11:10am on Monday 11 October 20211:45pm to 5:05pm on Saturday 9 October 202110:45am to 2:45pm on Thursday 7 October 2021 |
-| 19/10/2021      | Casual Contact       | Barham          | Mellool Street Footwear18 Mellool Street | 1:30pm to 3:35pm on Tuesday 12 October 2021                  |
-| 19/10/2021      | Casual Contact       | Barham          | Royal Hotel Barham2 Murray Street | 6:15pm to 5:20pm on Wednesday 13 October 2021                |
+| 19/10/2021      | Casual Contact       | Barham          | Barham Hotel Bottle Shop34 Murray Street | 6:15pm to 6:30pm on Friday 8 October 2021                    |
+| 19/10/2021      | Casual Contact       | Barham          | IGA Barham33 Murray Street | 10am to 11:15am on Tuesday 12 October 20219:30am to 10:30am on Monday 11 October 20211:45pm to 2:15pm on Saturday 9 October 202110:45am to 11:30am on Thursday 7 October 2021 |
+| 19/10/2021      | Casual Contact       | Barham          | Mellool Street Footwear18 Mellool Street | 1:30pm to 2:45pm on Tuesday 12 October 2021                  |
+| 19/10/2021      | Casual Contact       | Barham          | Royal Hotel Barham2 Murray Street | 6:15pm to 8:45pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Barooga         | Australia Post - Barooga LPO12-14 Vermont Street | 1:15pm to 2pm on Monday 11 October 2021                      |
 | 16/10/2021      | Casual Contact       | Barooga         | Barooga Hotel2-6 Vermont Street | 12:55pm to 3:15pm on Saturday 9 October 2021                 |
 | 16/10/2021      | Casual Contact       | Barooga         | Pirates Treasure30 Vermont Street | 1:30pm to 2:15pm on Monday 11 October 2021                   |
@@ -143,11 +143,11 @@
 | 08/10/2021      | Casual Contact       | Gosford         | The Reject Shop GosfordShop 130-135 Imperial Shopping Centre, 171  Mann Street | 1:05pm to 1:20pm on Tuesday 5 October 2021                   |
 | 10/10/2021      | Casual Contact       | Gosford         | Woolworths GosfordGosford Imperial Centre, 40-46 William Street | 12:40pm to 1:15pm on Wednesday 6 October 20215:50pm to 6:30pm on Friday 1 October 2021 |
 | 15/10/2021      | Casual Contact       | Goulburn        | Centrelink Goulburn136 Auburn Street | 11:30am to 12:15pm on Monday 11 October 2021                 |
-| 19/10/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, 217 Auburn Street | 9:50am to 12:50pm on Friday 15 October 2021                  |
+| 19/10/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, 217 Auburn Street | 9:50am to 10:25am on Friday 15 October 2021                  |
 | 15/10/2021      | Casual Contact       | Goulburn        | Cotton On GoulburnGoulburn Square, 217 Auburn Street | 1:10pm to 1:45pm on Monday 11 October 2021                   |
-| 19/10/2021      | Casual Contact       | Goulburn        | First Inland City Newsagency140 B Auburn Street | 10:15am to 2pm on Friday 15 October 2021                     |
+| 19/10/2021      | Casual Contact       | Goulburn        | First Inland City Newsagency140 B Auburn Street | 10:15am to 10:55am on Friday 15 October 2021                 |
 | 14/10/2021      | Casual Contact       | Goulburn        | Goulburn Square217 Auburn Street | 12pm (noon) to 1:45pm on Monday 11 October 20211:55pm to 2:55pm on Monday 4 October 20211pm to 2pm on Saturday 2 October 2021 |
-| 19/10/2021      | Casual Contact       | Goulburn        | Kmart GoulburnGoulburn Square, 217 Auburn Street | 9:25am to 3:10pm on Friday 15 October 202112:20pm to 1:40pm on Monday 11 October 2021 |
+| 19/10/2021      | Casual Contact       | Goulburn        | Kmart GoulburnGoulburn Square, 217 Auburn Street | 9:25am to 10am on Friday 15 October 202112:20pm to 1:40pm on Monday 11 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Service NSW Goulburn267 Auburn Street | 11:45am to 12:30pm on Tuesday 5 October 202111:15am to 12:15pm on Friday 1 October 2021 |
 | 09/10/2021      | Casual Contact       | Goulburn        | Subway Goulburn158 Auburn Street | 2:25pm to 3:05pm on Wednesday 6 October 2021                 |
 | 13/10/2021      | Casual Contact       | Grafton         | Aldi Grafton163-169 Prince Street | 6:50pm to 7:30pm on Thursday 7 October 2021                  |
@@ -193,13 +193,13 @@
 | 15/10/2021      | Casual Contact       | Lake Heights    | Australia Post Lake Heightsshop 4/22 Weringa Avenue | 12:55pm to 1:05pm on Tuesday 5 October 2021                  |
 | 11/10/2021      | Casual Contact       | Lake Munmorah   | Woolworths Lake MunmorahLake Munmorah Shopping Centre, 1 Tall Timbers Road | 12:45pm to 1:25pm on Wednesday 6 October 20219:50am to 10:25am on Saturday 2 October 2021 |
 | 16/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 3:45pm to 5:15pm on Thursday 14 October 2021                 |
-| 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:45am to 2:50pm on Friday 15 October 2021                   |
+| 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:45am to 10:45am on Friday 15 October 2021                  |
 | 16/10/2021      | Casual Contact       | Lavington       | BIG W LavingtonGriffith Road | 8:40am to 9:45am on Monday 11 October 20213:35pm to 4pm on Monday 4 October 2021 |
-| 19/10/2021      | Casual Contact       | Lavington       | Coles LavingtonGriffith Road and Urana Road | 10:25pm to 4pm on Thursday 14 October 20211pm to 1:15pm on Monday 11 October 20218:15pm to 9:15pm on Sunday 10 October 2021 |
+| 19/10/2021      | Casual Contact       | Lavington       | Coles LavingtonGriffith Road and Urana Road | 10:25pm to 11pm on Thursday 14 October 20211pm to 1:15pm on Monday 11 October 20218:15pm to 9:15pm on Sunday 10 October 2021 |
 | 16/10/2021      | Casual Contact       | Lavington       | Direct Freight Express103 Catherine Cresent | 4:50pm to 5:45pm on Tuesday 12 October 2021                  |
-| 19/10/2021      | Casual Contact       | Lavington       | Mayo's Chemmart Pharmacy3/ 330 Urana Road | 1pm to 7:40pm on Monday 11 October 2021                      |
+| 19/10/2021      | Casual Contact       | Lavington       | Mayo's Chemmart Pharmacy3/ 330 Urana Road | 1pm to 2pm on Monday 11 October 2021                         |
 | 16/10/2021      | Casual Contact       | Lavington       | Northside Hotel Motel305 Urana Road | 5:15pm to 8:45pm on Sunday 10 October 2021                   |
-| 19/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 10:55am to 12pm (noon) on Wednesday 13 October 202111am to 11pm on Tuesday 12 October 20219:10pm to 9:53pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 2021 |
+| 19/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 10:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 2021 |
 | 11/10/2021      | Casual Contact       | Lismore         | ALDI Lismore44 Ballina Road | 9:25am to 10am on Wednesday 6 October 2021                   |
 | 11/10/2021      | Casual Contact       | Lismore         | Australia Post LismoreConway Plaza, Upper Ground Floor, 21 Conway Street | 2:15pm to 2:50pm on Wednesday 6 October 2021                 |
 | 14/10/2021      | Casual Contact       | Lismore         | BWS Lismore203 Keen Street | 12:30pm to 12:40pm on Thursday 7 October 2021                |
@@ -213,7 +213,7 @@
 | 18/10/2021      | Casual Contact       | Maitland        | New World Tobacconist MaitlandShop 2/380 High Street | 7am to 1pm on Monday 11 October 2021                         |
 | 13/10/2021      | Casual Contact       | Marketown       | Coles Newcastle WestNational Park Street and King Street | 10:50am to 11:25am on Wednesday 6 October 2021               |
 | 13/10/2021      | Casual Contact       | Medowie         | Medowie Medical Centre6a Waropara Road | 2:35pm to 3:10pm on Thursday 7 October 2021                  |
-| 19/10/2021      | Casual Contact       | Michelago       | United Petroleum MichelagoLot 1 Ryrie Street | 7:45pm to 10:45am on Monday 11 October 2021                  |
+| 19/10/2021      | Casual Contact       | Michelago       | United Petroleum MichelagoLot 1 Ryrie Street | 7:45pm to 9:45pm on Monday 11 October 2021                   |
 | 14/10/2021      | Casual Contact       | Mittagong       | BIG W Mittagong197 Old Hume Highway | 2:30pm to 3:30pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Mittagong       | Woolworths MittagongHighlands Marketplace, 197 Old Hume Highway | 3:35pm to 4pm on Friday 8 October 20213:20pm to 3:35pm on Thursday 7 October 20212:35pm to 3pm on Tuesday 5 October 20212:45pm to 3pm on Monday 4 October 20214:20pm to 6:05pm on Friday 1 October 2021 |
 | 14/10/2021      | Casual Contact       | Moama           | Moama Bowling Club6 Shaw Street | 12:15pm to 3pm on Sunday 10 October 2021                     |
@@ -348,7 +348,7 @@
 | 12/10/2021      | Casual Contact       | Woonona         | Woonona Eyecare391 Princes Highway | 12pm (noon) to 12:15pm on Tuesday 5 October 2021             |
 | 15/10/2021      | Casual Contact       | Worrigee        | FoodWorks Worrigee60 Isa Road | 12:30pm to 12:45pm on Sunday 10 October 2021                 |
 | 08/10/2021      | Casual Contact       | Wyong           | Bendigo Bank Wyong88 Pacific Highway | 9:30am to 2pm on Wednesday 6 October 20219:30am to 4pm on Tuesday 5 October 20219:30am to 4pm on Friday 1 October 20219:30am to 4pm on Thursday 30 September 2021 |
-| 19/10/2021      | Casual Contact       | Yass            | Bargain Base144 Comur Street | 12:25pm to 10:55am on Thursday 14 October 2021               |
-| 19/10/2021      | Casual Contact       | Yass            | Caltex Yass228 Comur Street | 8:10am to 9:15pm on Wednesday 13 October 2021                |
-| 19/10/2021      | Casual Contact       | Yass            | Liens Vietnamese Chinese Restaurant164 Comur Street | 12:40pm to 12:30pm on Thursday 14 October 2021               |
-| 19/10/2021      | Casual Contact       | Yass            | Woolworths Yass250 Comur Street | 3:40pm to 12pm on Wednesday 13 October 20214:10pm to 9:20am on Tuesday 12 October 2021 |
+| 19/10/2021      | Casual Contact       | Yass            | Bargain Base144 Comur Street | 12:25pm to 12:50pm on Thursday 14 October 2021               |
+| 19/10/2021      | Casual Contact       | Yass            | Caltex Yass228 Comur Street | 8:10am to 11:10am on Wednesday 13 October 2021               |
+| 19/10/2021      | Casual Contact       | Yass            | Liens Vietnamese Chinese Restaurant164 Comur Street | 12:40pm to 2pm on Thursday 14 October 2021                   |
+| 19/10/2021      | Casual Contact       | Yass            | Woolworths Yass250 Comur Street | 3:40pm to 5:20pm on Wednesday 13 October 20214:10pm to 5:05pm on Tuesday 12 October 2021 |
