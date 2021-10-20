@@ -1,8 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 20/10/2021      | Casual Contact       | Wyong           | Grand Hotel WyongHely Street | 1:50pm to 3:40pm on Monday 18 October 2021                   |
 | 20/10/2021      | Casual Contact       | West Tamworth   | West Tamworth Leagues Club58 Phillip Street | 10:50pm to 12:05am on Sunday 10 October 202110:50pm to 12:25am on Saturday 9 October 2021 |
 | 20/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 10am to 10:50am on Wednesday 13 October 2021                 |
-| 20/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3pm to 3:35pm on Thursday 14 October 2021                    |
+| 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs Cardiff6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
+| 20/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3pm to 3:05pm on Thursday 14 October 2021                    |
 | 19/10/2021      | Casual Contact       | Yass            | Woolworths Yass250 Comur Street | 3:40pm to 5:20pm on Wednesday 13 October 20214:10pm to 5:05pm on Tuesday 12 October 2021 |
 | 19/10/2021      | Casual Contact       | Yass            | Lien's Vietnamese Chinese Restaurant164 Comur Street | 12:40pm to 2pm on Thursday 14 October 2021                   |
 | 19/10/2021      | Casual Contact       | Yass            | Caltex Yass228 Comur Street | 8:10am to 11:10am on Wednesday 13 October 2021               |
@@ -14,7 +16,6 @@
 | 19/10/2021      | Casual Contact       | Orange          | The Ophir Hotel84 Glenroi Avenue | 12am (midnight) to 2am on Monday 11 October 20217am to 11pm on Monday 11 October 202110am to 12am (midnight) on Sunday 10 October 202112am (midnight) to 2am on Sunday 10 October 20217:45pm to 12am (midnight) on Saturday 9 October 20219:45pm to 11:30pm on Friday 1 October 2021 |
 | 19/10/2021      | Casual Contact       | Oak Flats       | Rathas Place Oak Flats84 Central Avenue | 9:45am to 10:30am on Friday 15 October 2021                  |
 | 19/10/2021      | Casual Contact       | Nowra           | Chesters TakeawayShop 4/110 Kalandar Street | 2:30pm to 3pm on Wednesday 13 October 2021                   |
-| 19/10/2021      | Casual Contact       | Morpeth         | Commercial Hotel Morpeth127 Swan Street | 4:30pm to 4:50pm on Tuesday 12 October 2021                  |
 | 19/10/2021      | Casual Contact       | Michelago       | United Petroleum MichelagoLot 1 Ryrie Street | 7:45pm to 9:45pm on Monday 11 October 2021                   |
 | 19/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 10:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 2021 |
 | 19/10/2021      | Casual Contact       | Lavington       | Mayo's Chemmart Pharmacy3/330 Urana Road | 1pm to 2pm on Monday 11 October 2021                         |

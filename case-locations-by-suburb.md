@@ -6,7 +6,7 @@
 | 13/10/2021      | Casual Contact       | Albion Park     | Subway Albion Park10 Terry Street | 10:45am to 10:50am on Saturday 9 October 2021                |
 | 19/10/2021      | Casual Contact       | Albion Park     | The Reject Shop Albion ParkShop 1, Albion Park Shopping Village, 93 Terry Street | 3:35pm to 3:45pm on Saturday 16 October 20211:30pm to 1:45pm on Thursday 7 October 2021 |
 | 19/10/2021      | Casual Contact       | Albion Park     | Woolworths Albion Park2527/1 Corner of Terry and Russell Street | 10:05am to 10:30am on Saturday 16 October 2021               |
-| 20/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3pm to 3:35pm on Thursday 14 October 2021                    |
+| 20/10/2021      | Casual Contact       | Albion Park Rail | Jim Giles Night and Day Chemist2/191 Princes Highway | 3pm to 3:05pm on Thursday 14 October 2021                    |
 | 19/10/2021      | Casual Contact       | Albury          | APCO Albury997 Mate Street | 10am to 12pm (noon) on Saturday 16 October 2021              |
 | 19/10/2021      | Casual Contact       | Albury          | Albury Eye Clinic1/669 Dean Street | 3:15pm to 4:30pm on Monday 11 October 2021                   |
 | 17/10/2021      | Casual Contact       | Albury          | Australian Ramp and Access Solutions Albury67 Alexandra Street | 6:30am to 2:45pm on Monday 11 October 20216:30am to 2:45pm on Friday 8 October 2021 |
@@ -68,6 +68,7 @@
 | 15/10/2021      | Casual Contact       | Brownsville     | FoodWorks Brownsville10 Brownsville Avenue | 4pm to 4:10pm on Monday 11 October 20211:30pm to 1:40pm on Saturday 9 October 20216pm to 6:15pm on Saturday 9 October 20214:15pm to 4:30pm on Friday 1 October 2021 |
 | 12/10/2021      | Casual Contact       | Callala Bay     | Callala CellarsShop 12/55 Emmett Street | 4:10pm to 4:15pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Callala Bay     | Cellarbrations Callala BayShop 12/55 Emmett Street | 4:10pm to 4:15pm on Thursday 7 October 2021                  |
+| 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs Cardiff6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
 | 18/10/2021      | Casual Contact       | Cessnock        | Cessnock Convenience Store26 Wollombi Road | 12:05pm to 12:25pm on Thursday 14 October 2021               |
 | 19/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House (indoor public waiting areas)Maitland Road | 11:30am to 3:15pm on Wednesday 6 October 2021                |
 | 20/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 10am to 10:50am on Wednesday 13 October 2021                 |
@@ -198,7 +199,6 @@
 | 14/10/2021      | Casual Contact       | Mittagong       | Big W Mittagong197 Old Hume Highway | 2:30pm to 3:30pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | Mittagong       | Woolworths MittagongHighlands Marketplace, 197 Old Hume Highway | 3:35pm to 4pm on Friday 8 October 20213:20pm to 3:35pm on Thursday 7 October 20212:35pm to 3pm on Tuesday 5 October 20212:45pm to 3pm on Monday 4 October 20214:20pm to 6:05pm on Friday 1 October 2021 |
 | 14/10/2021      | Casual Contact       | Moama           | Moama Bowling Club6 Shaw Street | 12:15pm to 3pm on Sunday 10 October 2021                     |
-| 19/10/2021      | Casual Contact       | Morpeth         | Commercial Hotel Morpeth127 Swan Street | 4:30pm to 4:50pm on Tuesday 12 October 2021                  |
 | 14/10/2021      | Casual Contact       | New Lambton Heights | Newcastle Obstetrics Specialist Ultrasound, Newcastle Private HospitalSuite 2.8 Level 2 Lookout Road | 9:20am to 10am on Monday 11 October 2021                     |
 | 18/10/2021      | Casual Contact       | Newcastle West  | Service NSW Newcastle West114 Parry Street | 9:10am to 9:30am on Thursday 7 October 2021                  |
 | 15/10/2021      | Casual Contact       | North Lismore   | Liberty78 Terania Street  | 1:30pm to 1:35pm on Thursday 7 October 2021                  |
@@ -314,6 +314,7 @@
 | 19/10/2021      | Casual Contact       | Woy Woy         | Kmart Woy WoyDeepwater Plaza, Charlton Street | 9:40am to 11:50am on Wednesday 13 October 2021               |
 | 19/10/2021      | Casual Contact       | Woy Woy         | Woolworths Woy WoyPeninsula Plaza, 63 Blackwall Road | 5:40m to 6:25pm on Friday 15 October 2021                    |
 | 08/10/2021      | Casual Contact       | Wyong           | Bendigo Bank Wyong88 Pacific Highway | 9:30am to 2pm on Wednesday 6 October 20219:30am to 4pm on Tuesday 5 October 20219:30am to 4pm on Friday 1 October 20219:30am to 4pm on Thursday 30 September 2021 |
+| 20/10/2021      | Casual Contact       | Wyong           | Grand Hotel WyongHely Street | 1:50pm to 3:40pm on Monday 18 October 2021                   |
 | 19/10/2021      | Casual Contact       | Yass            | Bargain Base144 Comur Street | 12:25pm to 12:50pm on Thursday 14 October 2021               |
 | 19/10/2021      | Casual Contact       | Yass            | Caltex Yass228 Comur Street | 8:10am to 11:10am on Wednesday 13 October 2021               |
 | 19/10/2021      | Casual Contact       | Yass            | Lien's Vietnamese Chinese Restaurant164 Comur Street | 12:40pm to 2pm on Thursday 14 October 2021                   |
