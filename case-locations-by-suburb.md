@@ -239,6 +239,7 @@
 | 12/10/2021      | Casual Contact       | South Grafton   | Royal Hotel South Grafton170 Ryan Street | 5:45pm to 7:25pm on Friday 8 October 2021                    |
 | 14/10/2021      | Casual Contact       | South Nowra     | Bishops South Nowra21 Bellevue Street | 1:45pm to 1:50pm on Thursday 7 October 2021                  |
 | 14/10/2021      | Casual Contact       | South Nowra     | Good Price Pharmacy Warehouse South Nowra8/28 Central Avenue | 1:55pm to 2:10pm on Thursday 7 October 2021                  |
+| 21/10/2021      | Casual Contact       | South Tamworth  | Coles South Tamworth4-10 Kathleen St Southgate Village, South Tamworth NSW 2340, Australia | 12:15pm to 1:15pm on Thursday 14 October 20213pm to 3:30pm on Thursday 14 October 20212:40pm to 3:15pm on Wednesday 13 October 2021 |
 | 21/10/2021      | Casual Contact       | Speers Point    | Speers Point Swim CentrePark Road | 4:10pm to 5:15pm on Saturday 9 October 2021                  |
 | 17/10/2021      | Casual Contact       | Sutton Forest   | Shell Sutton ForestSally Corner Road, 13125 Hume Highway | 5pm to 5:30pm on Monday 11 October 2021                      |
 | 21/10/2021      | Casual Contact       | Tamworth        | Longyard Hotel10/12 The Ringers Road | 6:30pm to 7:15pm on Friday 15 October 2021                   |
