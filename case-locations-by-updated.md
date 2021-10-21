@@ -2,12 +2,18 @@
 | --- | --- | --- | --- | --- |
 | 21/10/2021      | Casual Contact       | Yamba           | Priceline Pharmacy YambaYamba Fair, 1/3 Treelands Drive | 9am to 9:15am on Saturday 16 October 2021                    |
 | 21/10/2021      | Casual Contact       | Yamba           | Coles YambaYamba Fair, 1/3 Treelands Drive | 9:05am to 9:50am on Saturday 16 October 2021                 |
+| 21/10/2021      | Casual Contact       | Wollombi        | Australia Post Wollombi2886 Wollombi Road | 1pm to 2pm on Friday 15 October 20211pm to 3pm on Wednesday 13 October 2021 |
+| 21/10/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street | 5:10pm to 5:45pm on Friday 15 October 20213:20pm to 4pm on Wednesday 13 October 2021 |
 | 21/10/2021      | Casual Contact       | Tura Beach      | Master KebabsTura Beach Shopping Centre, Corner of Tura Beach Drive and Sapphire Coast Drive | 10:15am to 10:50am on Friday 15 October 2021                 |
 | 21/10/2021      | Casual Contact       | Tura Beach      | BWS TuraTura Beach Shopping Centre, Corner of Tura Beach Drive and Sapphire Coast Drive | 10:30am to 11:05am on Friday 15 October 2021                 |
+| 21/10/2021      | Casual Contact       | Tamworth        | Longyard Hotel10/12 The Ringers Road | 6:30pm to 7:15pm on Friday 15 October 2021                   |
+| 21/10/2021      | Casual Contact       | Speers Point    | Speers Point Swim CentrePark Road | 4:10pm to 5:15pm on Saturday 9 October 2021                  |
 | 21/10/2021      | Casual Contact       | Queanbeyan      | Woolworths QueanbeyanCorner of Crawford Street and Antill Street | 4:05pm to 5:05pm on Tuesday 12 October 2021                  |
+| 21/10/2021      | Casual Contact       | Mount Kuring-Gai | ALDI Mount Kuring-Gai757 Pacific Highway | 9:20am to 9:45am on Monday 20 September 2021                 |
 | 21/10/2021      | Casual Contact       | Merimbula       | Capital Pathology MerimbulaUnit 2/93 Main Street | 9:35am to 10:35am on Friday 15 October 2021                  |
 | 21/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 10:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 20214:45pm to 5:45pm on Monday 11 October 2021 |
 | 21/10/2021      | Casual Contact       | Lavington       | Springdale Heights Tavern330 Kaitlers Road | 5:15pm to 6:15pm on Saturday 9 October 2021                  |
+| 21/10/2021      | Casual Contact       | Jindera         | IGA Plus Liquor JinderaUrana St &, Creek Street | 5:20pm to 5:45pm on Thursday 14 October 2021                 |
 | 21/10/2021      | Casual Contact       | Albury          | Whitehouse Motorcycles523 Young Street | 2:35pm to 3:45pm on Thursday 14 October 20213:15pm to 4:15pm on Thursday 14 October 20214:15pm to 5:15pm on Wednesday 13 October 2021 |
 | 21/10/2021      | Casual Contact       | Albury          | Regent Cinemas Albury456 Dean Street | 6:30pm to 9pm on Sunday 17 October 2021                      |
 | 21/10/2021      | Casual Contact       | Albury          | Carv'n It Up2/617 Young Street | 6:30pm to 7:45pm on Wednesday 13 October 2021                |
