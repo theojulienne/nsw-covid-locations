@@ -162,6 +162,7 @@
 | 18/10/2021      | Casual Contact       | Kiama           | Kiama Leagues Club109 Terralong Street | 4:50pm to 5:35pm on Thursday 14 October 2021                 |
 | 19/10/2021      | Casual Contact       | Kotara          | Pearl Nails KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 4:50pm to 5:30pm on Wednesday 13 October 2021                |
 | 15/10/2021      | Casual Contact       | Kurri Kurri     | Priceline Pharmacy Kurri KurriKingsway Plaza, 178 Lang Street | 9:10am to 9:20am on Friday 8 October 2021                    |
+| 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
 | 16/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 3:45pm to 5:15pm on Thursday 14 October 2021                 |
 | 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:15am to 10:15am on Friday 15 October 2021                  |
 | 16/10/2021      | Casual Contact       | Lavington       | Big W LavingtonGriffith Road | 8:40am to 9:45am on Monday 11 October 20213:35pm to 4pm on Monday 4 October 2021 |
