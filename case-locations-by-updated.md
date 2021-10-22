@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 8:55pm to 10pm on Thursday 14 October 202110:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 20214:45pm to 5:45pm on Monday 11 October 2021 |
-| 22/10/2021      | Casual Contact       | Lavington       | TerryWhite Pharmacy Lavington541/543 Dean Street | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
+| 22/10/2021      | Casual Contact       | Lavington       | Terry White Pharmacy Lavington351 Griffith Road | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Lavington Square351 Griffith Road | 10:10am to 12:20pm on Friday 15 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | KFC Lavington359/361 Wagga Road | 8:45am to 10:25am on Friday 15 October 202111:45am to 9:!5pm on Thursday 14 October 20212:35pm to 11:45pm on Wednesday 13 October 20212:35pm to 11:45pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | Discount Grocery Warehouse359 Urana Road | 11:30am to 12:15pm on Thursday 14 October 2021               |
@@ -11,6 +11,7 @@
 | 22/10/2021      | Casual Contact       | Lavington       | Bakers Delight Lavington351 Griffith Road | 10:10am to 11:10am on Friday 15 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 20213:45pm to 5:15pm on Thursday 14 October 2021 |
 | 22/10/2021      | Casual Contact       | Kotara          | EMF KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 9:10am to 10:15am on Thursday 14 October 202110am to 11:05am on Wednesday 13 October 2021 |
+| 22/10/2021      | Casual Contact       | Kempsey         | Coles KempseyPacific Highway and Belgrave Street | 9:30pm to 9:55pm on Sunday 17 October 2021                   |
 | 22/10/2021      | Casual Contact       | Howlong         | Howlong local thrifty store43 Hawkins Street | 11:10am to 12pm (noon) on Wednesday 13 October 2021          |
 | 22/10/2021      | Casual Contact       | Howlong         | Howlong Pharmacy45 Hawkins Street | 10:05am to 11am on Wednesday 13 October 2021                 |
 | 22/10/2021      | Casual Contact       | Howlong         | Howlong HotelHawkins Street | 11:40am to 2:15pm on Wednesday 13 October 2021               |

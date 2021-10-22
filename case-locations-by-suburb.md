@@ -146,6 +146,7 @@
 | 17/10/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 3pm to 3:30pm on Tuesday 12 October 20219:50am to 10:30am on Tuesday 5 October 202110:30am to 10:35am on Sunday 3 October 202110:40am to 11:15am on Saturday 2 October 2021 |
 | 18/10/2021      | Casual Contact       | Kempsey         | Australia Post Kempsey3 Smith Street | 4:20pm to 4:30pm on Wednesday 13 October 2021                |
 | 14/10/2021      | Casual Contact       | Kempsey         | Big W Kempsey91 Smith Street | 9:15am to 10:30am on Sunday 10 October 20215:50pm  to 6:15pm on Saturday 9 October 2021 |
+| 22/10/2021      | Casual Contact       | Kempsey         | Coles KempseyPacific Highway and Belgrave Street | 9:30pm to 9:55pm on Sunday 17 October 2021                   |
 | 19/10/2021      | Casual Contact       | Kempsey         | Kempsey Bulk Health Foods30 Smith St, Kempsey NSW 2440, Australia | 4:15pm to 4:20pm on Thursday 14 October 2021                 |
 | 16/10/2021      | Casual Contact       | Kempsey         | Kempsey Families Incorporated - Elbow Street2/37 Elbow Street | 9:30am to 2pm on Tuesday 12 October 20219:30am to 3pm on Monday 11 October 2021 |
 | 16/10/2021      | Casual Contact       | Kempsey         | Kempsey Families Incorporated - Verge Street21 Verge Street | 2:05pm to 4:30pm on Tuesday 12 October 2021                  |
@@ -175,7 +176,7 @@
 | 20/10/2021      | Casual Contact       | Lavington       | Muffin Break LavingtonCentro Lavington, 351 Griffith Road | 4:35pm to 5:10pm on Friday 15 October 2021                   |
 | 16/10/2021      | Casual Contact       | Lavington       | Northside Hotel Motel305 Urana Road | 5:15pm to 8:45pm on Sunday 10 October 2021                   |
 | 21/10/2021      | Casual Contact       | Lavington       | Springdale Heights Tavern330 Kaitlers Road | 5:15pm to 6:15pm on Saturday 9 October 2021                  |
-| 22/10/2021      | Casual Contact       | Lavington       | TerryWhite Pharmacy Lavington541/543 Dean Street | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
+| 22/10/2021      | Casual Contact       | Lavington       | Terry White Pharmacy Lavington351 Griffith Road | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 8:55pm to 10pm on Thursday 14 October 202110:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 20214:45pm to 5:45pm on Monday 11 October 2021 |
 | 13/10/2021      | Casual Contact       | Maitland        | Marli Accommodation Services (Currency Lass Accommodation)359-363 High Street | All day on Saturday 9 October 2021All day on Friday 8 October 2021All day on Thursday 7 October 2021All day on Wednesday 6 October 2021All day on Tuesday 5 October 2021 |
 | 18/10/2021      | Casual Contact       | Maitland        | New World Tobacconist MaitlandShop 2/380 High Street | 7am to 1pm on Monday 11 October 2021                         |
