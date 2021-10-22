@@ -70,6 +70,7 @@
 | 20/10/2021      | Casual Contact       | Cessnock        | HK Nails and Beauty Spa Cessnock77 Vincent Street | 9:20am to 10:35am on Wednesday 13 October 2021               |
 | 15/10/2021      | Casual Contact       | Cessnock        | Laverty Pathology Cessnock275 Vincent Street | 9:45am to 10am on Monday 11 October 2021                     |
 | 15/10/2021      | Casual Contact       | Charlestown     | Charlestown Square Medical CentreCharlestown Square, 30 Pearson Street | 9:30am to 10:15am on Monday 11 October 2021                  |
+| 23/10/2021      | Casual Contact       | Charlestown     | Just Cuts CharlestownShop 1041/30 Pearson Street | 4:05pm to 4:45pm on Friday 15 October 2021                   |
 | 19/10/2021      | Casual Contact       | Cordeaux Heights | Cordeaux Heights Supermarket3/26 Derribong Drive | 3:10pm to 3:30pm on Friday 15 October 2021                   |
 | 16/10/2021      | Casual Contact       | Corrimal        | His and Hers Cafe313 Princes Highway | 7:10am to 7:30am on Tuesday 12 October 20217:10am to 7:30am on Monday 11 October 2021 |
 | 17/10/2021      | Casual Contact       | Corrimal        | Woolworths CorrimalLederer Corrimal Shopping Centre, 270 Princes Highway | 7:50pm to 8:05pm on Wednesday 13 October 202111:40am to 12:10pm on Tuesday 12 October 202111:45am to 12:10pm on Wednesday 6 October 20215:45pm to 6:10pm on Saturday 2 October 20217:30am to 4:30pm on Thursday 30 September 2021 |
@@ -113,6 +114,7 @@
 | 14/10/2021      | Casual Contact       | Grafton         | Grafton Shopping World - Food CourtGrafton Shoppingworld, Corner of Villiers Street and Fitzroy Street | 10am to 10:15am on Saturday 9 October 2021                   |
 | 15/10/2021      | Casual Contact       | Grafton         | Sullivan Nicolaides Pathology GraftonShop 9, 94 Bent Street | 2:30pm to 3:15pm on Wednesday 13 October 2021                |
 | 18/10/2021      | Casual Contact       | Gwynneville     | Mr Zaatar2/186 Gipps Road | 6:05pm to 6:15pm on Wednesday 13 October 2021                |
+| 23/10/2021      | Casual Contact       | Hamilton        | Jimbos Barbershop91 Beaumont Street | 1:15pm to 2:05pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Hawks Nest      | Hawkes Nest Golf Club1 Sanderling Avenue | 5:15pm to 7:45pm on Wednesday 13 October 2021                |
 | 22/10/2021      | Casual Contact       | Howlong         | Howlong HotelHawkins Street | 11:40am to 2:15pm on Wednesday 13 October 2021               |
 | 22/10/2021      | Casual Contact       | Howlong         | Howlong Pharmacy45 Hawkins Street | 10:05am to 11am on Wednesday 13 October 2021                 |
