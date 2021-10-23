@@ -1,8 +1,13 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 23/10/2021      | Casual Contact       | Wyoming         | The Grange Hotel, Wyoming (Poker machine area only)525 Pacific Highway | 2:05pm to 3:15pm on Tuesday 19 October 20214:55pm to 7:05pm on Saturday 16 October 20215:45pm to 7:25pm on Friday 15 October 20214:05pm to 5:55pm on Thursday 14 October 20217:20pm to 7:55pm on Thursday 14 October 20213:55pm to 4:45pm on Wednesday 13 October 20218:55pm to 9:45pm on Wednesday 13 October 20214:55pm to 7:30pm on Tuesday 12 October 2021 |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
+| 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 23/10/2021      | Casual Contact       | Hamilton        | Jimbos Barbershop91 Beaumont Street | 1:15pm to 2:05pm on Wednesday 13 October 2021                |
+| 23/10/2021      | Casual Contact       | Gosford         | Gosford Hotel (Poker machine area only)179 Mann Street | 3:05pm to 3:05pm on Saturday 16 October 202112:10pm to 12:35pm on Wednesday 13 October 2021 |
+| 23/10/2021      | Casual Contact       | Figtree         | Figtree Hotel47 Princes Highway | 3pm to 10:30pm on Saturday 16 October 2021                   |
 | 23/10/2021      | Casual Contact       | Charlestown     | Just Cuts CharlestownShop 1041/30 Pearson Street | 4:05pm to 4:45pm on Friday 15 October 2021                   |
+| 23/10/2021      | Casual Contact       | Botany          | BadmintonWorx BotanyUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 23/10/2021      | Casual Contact       | Bathurst        | St George Branch Bathurst155 Howick Street | 9:40am to 9:50am on Wednesday 20 October 2021                |
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 8:55pm to 10pm on Thursday 14 October 202110:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 20214:45pm to 5:45pm on Monday 11 October 2021 |
