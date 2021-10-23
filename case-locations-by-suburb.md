@@ -63,6 +63,7 @@
 | 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs Cardiff6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
 | 18/10/2021      | Casual Contact       | Cessnock        | Cessnock Convenience Store26 Wollombi Road | 12:05pm to 12:25pm on Thursday 14 October 2021               |
 | 20/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 10am to 10:50am on Wednesday 13 October 2021                 |
+| 24/10/2021      | Casual Contact       | Cessnock        | Cessnock Police Station227 Maitland Road | 5:30pm to 6pm on Thursday 21 October 2021                    |
 | 20/10/2021      | Casual Contact       | Cessnock        | HK Nails and Beauty Spa Cessnock77 Vincent Street | 9:20am to 10:35am on Wednesday 13 October 2021               |
 | 15/10/2021      | Casual Contact       | Cessnock        | Laverty Pathology Cessnock275 Vincent Street | 9:45am to 10am on Monday 11 October 2021                     |
 | 15/10/2021      | Casual Contact       | Charlestown     | Charlestown Square Medical CentreCharlestown Square, 30 Pearson Street | 9:30am to 10:15am on Monday 11 October 2021                  |
@@ -190,6 +191,7 @@
 | 18/10/2021      | Casual Contact       | Tuggerah        | Petbarn Tuggerah2 Anzac Road | 10:35am to 7:30pm on Thursday 14 October 20219:45am to 6:30pm on Wednesday 13 October 20219:15am to 6:30pm on Tuesday 12 October 2021 |
 | 21/10/2021      | Casual Contact       | Tura Beach      | BWS TuraTura Beach Shopping Centre, Corner of Tura Beach Drive and Sapphire Coast Drive | 10:30am to 11:05am on Friday 15 October 2021                 |
 | 21/10/2021      | Casual Contact       | Tura Beach      | Master KebabsTura Beach Shopping Centre, Corner of Tura Beach Drive and Sapphire Coast Drive | 10:15am to 10:50am on Friday 15 October 2021                 |
+| 24/10/2021      | Casual Contact       | Umina Beach     | Bunnings UminaCorner of West Street and South Street | 7:30am to 9:15am on Monday 18 October 2021                   |
 | 14/10/2021      | Casual Contact       | Unanderra       | Woolworths Unanderra4-8 Tannery Street | 1:25pm to 1:40pm on Monday 11 October 20219:10am to 9:15am on Tuesday 5 October 2021 |
 | 13/10/2021      | Casual Contact       | Walgett         | Blend and Co Walgett60 Wee Waa Street | 9:15am to 9:20am on Monday 11 October 2021                   |
 | 15/10/2021      | Casual Contact       | Walgett         | IGA Plus Liquor Walgett36 Fox Street | 1:35pm to 1:40pm on Sunday 10 October 202110:05am to 10:30am on Sunday 10 October 202111:40am to 12pm (noon) on Friday 8 October 202110:25am to 10:40am on Thursday 7 October 20213pm to 3:30pm on Thursday 7 October 20214:55pm to 5:20pm on Thursday 7 October 2021 |

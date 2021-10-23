@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 24/10/2021      | Casual Contact       | Umina Beach     | Bunnings UminaCorner of West Street and South Street | 7:30am to 9:15am on Monday 18 October 2021                   |
+| 24/10/2021      | Casual Contact       | Cessnock        | Cessnock Police Station227 Maitland Road | 5:30pm to 6pm on Thursday 21 October 2021                    |
 | 23/10/2021      | Casual Contact       | Wyoming         | The Grange Hotel (poker machine area)525 Pacific Highway | 2:05pm to 3:15pm on Tuesday 19 October 20214:55pm to 7:05pm on Saturday 16 October 20215:45pm to 7:25pm on Friday 15 October 20214:05pm to 5:55pm on Thursday 14 October 20217:20pm to 7:55pm on Thursday 14 October 20213:55pm to 4:45pm on Wednesday 13 October 20218:55pm to 9:45pm on Wednesday 13 October 20214:55pm to 7:30pm on Tuesday 12 October 2021 |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
