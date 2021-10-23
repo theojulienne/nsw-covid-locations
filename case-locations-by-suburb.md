@@ -56,6 +56,7 @@
 | 16/10/2021      | Casual Contact       | Barooga         | Pirates Treasure30 Vermont Street | 1:30pm to 2:15pm on Monday 11 October 2021                   |
 | 12/10/2021      | Casual Contact       | Batemans Bay    | Capital Chemist Batemans BayVillage Centre, 1 Perry Street | 12:10pm to 1:10pm on Saturday 9 October 2021                 |
 | 16/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst59 Durham Street | 11am to 11:10am on Monday 11 October 2021                    |
+| 23/10/2021      | Casual Contact       | Bathurst        | St George Branch Bathurst155 Howick Street | 9:40am to 9:50am on Wednesday 20 October 2021                |
 | 15/10/2021      | Casual Contact       | Bellambi        | Woonona Petfood and Produce47 Bellambi Lane | 10:15am to 10:20am on Sunday 10 October 2021                 |
 | 19/10/2021      | Casual Contact       | Bellbird        | Bellbird Hotel388 Wollombi Road | 12pm (noon) to 1:30pm on Wednesday 13 October 20213:25pm to 4:30pm on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
@@ -168,6 +169,7 @@
 | 15/10/2021      | Casual Contact       | Nowra           | The Friendly Grocer East Nowra100 Kalandar Street | 2:30pm to 2:45pm on Tuesday 12 October 2021                  |
 | 14/10/2021      | Casual Contact       | Oak Flats       | Kennards Hire Oak Flats125 Industrial Road | 10:15am to 10:25am on Monday 11 October 2021                 |
 | 14/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 11:25am to 11:30am on Sunday 10 October 2021                 |
+| 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
 | 19/10/2021      | Casual Contact       | Oak Flats       | Rathas Place Oak Flats84 Central Avenue | 9:45am to 10:30am on Friday 15 October 2021                  |
 | 14/10/2021      | Casual Contact       | Orange          | BCF Orange10/168 Lone Pine Avenue | 11:50am to 12:15pm on Monday 11 October 2021                 |
 | 13/10/2021      | Casual Contact       | Orange          | Early Settler OrangeOrange Grove Homemaker Centre, Shop 11/12, 168 Lone Pine Avenue | 11:30am to 11:55am on Monday 11 October 2021                 |
