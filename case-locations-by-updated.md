@@ -1,14 +1,17 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 24/10/2021      | Casual Contact       | Wyoming         | The Grange Hotel (poker machine area)525 Pacific Highway | 2:05pm to 3:15pm on Monday 18 October 20214:55pm to 7:05pm on Saturday 16 October 20215:45pm to 7:25pm on Friday 15 October 20214:05pm to 5:55pm on Thursday 14 October 20217:20pm to 7:55pm on Thursday 14 October 20213:55pm to 4:45pm on Wednesday 13 October 20218:55pm to 9:45pm on Wednesday 13 October 20214:55pm to 7:30pm on Tuesday 12 October 2021 |
 | 24/10/2021      | Casual Contact       | Wollongong      | JB Hi-Fi WollongongStore W201 Keira Street |  9:30 am to 10:30am on Monday 18 October 2021                |
 | 24/10/2021      | Casual Contact       | Warrawong       | Shell Coles Express Warrawong26/30 King Street |  7:40pm to 7:50pm on Thursday 21 October 2021                |
-| 24/10/2021      | Casual Contact       | Warilla         | Warilla Grove Shopping CentreWolworths Avenue |  3pm to 5pm on Saturday 16 October 2021                      |
+| 24/10/2021      | Casual Contact       | Warrawong       | Liquorland WarrawongShop 2-2A Bayview Centre, Cowper Street | 3:50pm to 4:05pm on Friday 22 October 2021                   |
+| 24/10/2021      | Casual Contact       | Warilla         | Warilla Grove Shopping CentreWoolworths Avenue |  3pm to 5pm on Saturday 16 October 2021                      |
 | 24/10/2021      | Casual Contact       | Umina Beach     | Bunnings UminaCorner of West Street and South Street | 7:30am to 9:15am on Monday 18 October 2021                   |
 | 24/10/2021      | Casual Contact       | South Nowra     | Earnest Arthur171 Princes Highway |  2:40pm to 3:50pm on Saturday 16 October 2021                |
 | 24/10/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway |  3:20pm to 3:30pm on Saturday 16 October 2021 3:20pm to 3:30pm on Saturday 16 October 2021 |
+| 24/10/2021      | Casual Contact       | Dubbo           | CSC - Church Street Cafe15 Church Street | 11:20am to 11:25am on Thursday 21 October 2021               |
 | 24/10/2021      | Casual Contact       | Cessnock        | Cessnock Police Station227 Maitland Road | 5:30pm to 6pm on Thursday 21 October 2021                    |
 | 24/10/2021      | Casual Contact       | Bellambi        | Sam and Nic's IGA Xpress36 Cawley Street |  9am to 2pm on Monday 18 October 2021                        |
-| 23/10/2021      | Casual Contact       | Wyoming         | The Grange Hotel (poker machine area)525 Pacific Highway | 2:05pm to 3:15pm on Tuesday 19 October 20214:55pm to 7:05pm on Saturday 16 October 20215:45pm to 7:25pm on Friday 15 October 20214:05pm to 5:55pm on Thursday 14 October 20217:20pm to 7:55pm on Thursday 14 October 20213:55pm to 4:45pm on Wednesday 13 October 20218:55pm to 9:45pm on Wednesday 13 October 20214:55pm to 7:30pm on Tuesday 12 October 2021 |
+| 24/10/2021      | Casual Contact       | Bathurst        | The Flower Box Bathurst200 Howick Street | 12:25pm to 12:35pm on Wednesday 20 October 2021              |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 23/10/2021      | Casual Contact       | Hamilton        | Jimbos Barbershop91 Beaumont Street | 1:15pm to 2:05pm on Wednesday 13 October 2021                |
