@@ -45,6 +45,7 @@
 | 19/10/2021      | Casual Contact       | Barham          | Royal Hotel Barham2 Murray Street | 6:15pm to 8:45pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Barooga         | Australia Post Barooga12-14 Vermont Street | 1:15pm to 2pm on Monday 11 October 2021                      |
 | 16/10/2021      | Casual Contact       | Barooga         | Pirates Treasure30 Vermont Street | 1:30pm to 2:15pm on Monday 11 October 2021                   |
+| 25/10/2021      | Casual Contact       | Bathurst        | Bras N Things BathurstShop 32 Stockland Mall, 121 Howick Street | 3:30pm to 3:45pm on Thursday 21 October 2021                 |
 | 25/10/2021      | Casual Contact       | Bathurst        | Intersport Bathurst59 William Street | 3:50pm to 4:10pm on Friday 22 October 2021                   |
 | 16/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst59 Durham Street | 11am to 11:10am on Monday 11 October 2021                    |
 | 25/10/2021      | Casual Contact       | Bathurst        | Silly Sollys BathurstShop 2/39 William Street | 3:25pm to 3:50pm on Friday 22 October 2021                   |
@@ -126,6 +127,7 @@
 | 22/10/2021      | Casual Contact       | Kotara          | EMF KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 9:10am to 10:15am on Thursday 14 October 202110am to 11:05am on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Kotara          | Pearl Nails KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 4:50pm to 5:30pm on Wednesday 13 October 2021                |
 | 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
+| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 12am (midnight) on Wednesday 20 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 20213:45pm to 5:15pm on Thursday 14 October 2021 |
 | 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:15am to 10:15am on Friday 15 October 2021                  |
 | 22/10/2021      | Casual Contact       | Lavington       | Bakers Delight Lavington351 Griffith Road | 10:10am to 11:10am on Friday 15 October 2021                 |
@@ -140,6 +142,9 @@
 | 20/10/2021      | Casual Contact       | Lavington       | Muffin Break LavingtonCentro Lavington, 351 Griffith Road | 4:35pm to 5:10pm on Friday 15 October 2021                   |
 | 22/10/2021      | Casual Contact       | Lavington       | Terry White Pharmacy Lavington351 Griffith Road | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Woolworths Lavington337-363 Griffith Road | 8:55pm to 10pm on Thursday 14 October 202110:55am to 12pm (noon) on Wednesday 13 October 202111am to 12:15pm on Tuesday 12 October 20219:10pm to 9:55pm on Tuesday 12 October 20219am to 9:30am on Tuesday 12 October 20214:45pm to 5:45pm on Monday 11 October 2021 |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning Ridge  Opal Street | 12pm to 12:30pm on Wednesday 20 October 2021                 |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | Service NSW Lightning RidgeShop 2/3 Morilla Street | 11:40am to 12pm on Wednesday 20 October 2021                 |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | The Busy Bee Cafe and Catering Lightning Ridge23 Opal Street | 9am to 9:30am on Wednesday 20 October 2021                   |
 | 18/10/2021      | Casual Contact       | Maitland        | New World Tobacconist MaitlandShop 2/380 High Street | 7am to 1pm on Monday 11 October 2021                         |
 | 21/10/2021      | Casual Contact       | Merimbula       | Capital Pathology MerimbulaUnit 2/93 Main Street | 9:35am to 10:35am on Friday 15 October 2021                  |
 | 19/10/2021      | Casual Contact       | Michelago       | United Petroleum MichelagoLot 1 Ryrie Street | 7:45pm to 9:45pm on Monday 11 October 2021                   |

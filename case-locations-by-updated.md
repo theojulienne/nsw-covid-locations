@@ -4,6 +4,10 @@
 | 25/10/2021      | Casual Contact       | Spring Hill     | BlueScope Steel Springhill WorksLot 1 Springhill Road | 6:25am to 8:45am on Tuesday 19 October 2021                  |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
 | 25/10/2021      | Casual Contact       | Orange          | Charred Kitchen and Bar Orange5 New Street | 2pm to 2:05pm on Wednesday 20 October 2021                   |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | The Busy Bee Cafe and Catering Lightning Ridge23 Opal Street | 9am to 9:30am on Wednesday 20 October 2021                   |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | Service NSW Lightning RidgeShop 2/3 Morilla Street | 11:40am to 12pm on Wednesday 20 October 2021                 |
+| 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning Ridge  Opal Street | 12pm to 12:30pm on Wednesday 20 October 2021                 |
+| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 12am (midnight) on Wednesday 20 October 2021 |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts Kelso7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 25/10/2021      | Casual Contact       | Dubbo           | The Auctioneer Cafe and Bar46 Wingewarra Street | 11:25am to 11:30am on Wednesday 20 October 202111:05am to 11:10am on Tuesday 19 October 2021 |
@@ -11,6 +15,7 @@
 | 25/10/2021      | Casual Contact       | Bathurst        | Sushia Bathurst64 William Street | 12pm to 12:10pm on Thursday 21 October 2021                  |
 | 25/10/2021      | Casual Contact       | Bathurst        | Silly Sollys BathurstShop 2/39 William Street | 3:25pm to 3:50pm on Friday 22 October 2021                   |
 | 25/10/2021      | Casual Contact       | Bathurst        | Intersport Bathurst59 William Street | 3:50pm to 4:10pm on Friday 22 October 2021                   |
+| 25/10/2021      | Casual Contact       | Bathurst        | Bras N Things BathurstShop 32 Stockland Mall, 121 Howick Street | 3:30pm to 3:45pm on Thursday 21 October 2021                 |
 | 24/10/2021      | Casual Contact       | Wyoming         | The Grange Hotel (poker machine area)525 Pacific Highway | 2:05pm to 3:15pm on Monday 18 October 20214:55pm to 7:05pm on Saturday 16 October 20215:45pm to 7:25pm on Friday 15 October 20214:05pm to 5:55pm on Thursday 14 October 20217:20pm to 7:55pm on Thursday 14 October 20213:55pm to 4:45pm on Wednesday 13 October 20218:55pm to 9:45pm on Wednesday 13 October 20214:55pm to 7:30pm on Tuesday 12 October 2021 |
 | 24/10/2021      | Casual Contact       | Wollongong      | JB Hi-Fi WollongongWollongong Central, Keira Street | 9:30am to 10:30am on Monday 18 October 2021                  |
 | 24/10/2021      | Casual Contact       | Warrawong       | Shell Coles Express Warrawong26/30 King Street | 7:40pm to 7:50pm on Thursday 21 October 2021                 |
