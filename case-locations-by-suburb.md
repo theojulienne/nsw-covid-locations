@@ -127,7 +127,7 @@
 | 22/10/2021      | Casual Contact       | Kotara          | EMF KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 9:10am to 10:15am on Thursday 14 October 202110am to 11:05am on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Kotara          | Pearl Nails KotaraWestfield Kotara, Corner of Park Avenue and Northcott Drive | 4:50pm to 5:30pm on Wednesday 13 October 2021                |
 | 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
-| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 12am (midnight) on Wednesday 20 October 2021 |
+| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 20213:45pm to 5:15pm on Thursday 14 October 2021 |
 | 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:15am to 10:15am on Friday 15 October 2021                  |
 | 22/10/2021      | Casual Contact       | Lavington       | Bakers Delight Lavington351 Griffith Road | 10:10am to 11:10am on Friday 15 October 2021                 |
@@ -181,7 +181,6 @@
 | 18/10/2021      | Casual Contact       | Singleton       | Singleton Gym and Swim Centre - Gym weights floor only14-16 Civic Avenue | 5:20pm to 6:45pm on Thursday 14 October 20216:15pm to 7:35pm on Wednesday 13 October 2021 |
 | 24/10/2021      | Casual Contact       | South Nowra     | Earnest Arthur171 Princes Highway | 2:40pm to 3:50pm on Saturday 16 October 2021                 |
 | 21/10/2021      | Casual Contact       | South Tamworth  | Coles South Tamworth4-10 Kathleen St Southgate Village | 12:15pm to 1:15pm on Thursday 14 October 20213pm to 3:30pm on Thursday 14 October 20212:40pm to 3:15pm on Wednesday 13 October 2021 |
-| 25/10/2021      | Casual Contact       | Spring Hill     | BlueScope Steel Springhill WorksLot 1 Springhill Road | 6:25am to 8:45am on Tuesday 19 October 2021                  |
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |
 | 17/10/2021      | Casual Contact       | Sutton Forest   | Shell Sutton ForestSally Corner Road, 13125 Hume Highway | 5pm to 5:30pm on Monday 11 October 2021                      |
 | 21/10/2021      | Casual Contact       | Tamworth        | Longyard Hotel10/12 The Ringers Road | 6:30pm to 7:15pm on Friday 15 October 2021                   |

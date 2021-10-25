@@ -1,13 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 25/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 4:10pm to 4:55pm on Wednesday 20 October 2021                |
-| 25/10/2021      | Casual Contact       | Spring Hill     | BlueScope Steel Springhill WorksLot 1 Springhill Road | 6:25am to 8:45am on Tuesday 19 October 2021                  |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
 | 25/10/2021      | Casual Contact       | Orange          | Charred Kitchen and Bar Orange5 New Street | 2pm to 2:05pm on Wednesday 20 October 2021                   |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | The Busy Bee Cafe and Catering Lightning Ridge23 Opal Street | 9am to 9:30am on Wednesday 20 October 2021                   |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | Service NSW Lightning RidgeShop 2/3 Morilla Street | 11:40am to 12pm on Wednesday 20 October 2021                 |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning Ridge  Opal Street | 12pm to 12:30pm on Wednesday 20 October 2021                 |
-| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 12am (midnight) on Wednesday 20 October 2021 |
+| 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice Lambton92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts Kelso7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 25/10/2021      | Casual Contact       | Dubbo           | The Auctioneer Cafe and Bar46 Wingewarra Street | 11:25am to 11:30am on Wednesday 20 October 202111:05am to 11:10am on Tuesday 19 October 2021 |
