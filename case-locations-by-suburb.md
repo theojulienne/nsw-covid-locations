@@ -48,7 +48,6 @@
 | 16/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst59 Durham Street | 11am to 11:10am on Monday 11 October 2021                    |
 | 23/10/2021      | Casual Contact       | Bathurst        | St George Bathurst155 Howick Street | 9:40am to 9:50am on Wednesday 20 October 2021                |
 | 24/10/2021      | Casual Contact       | Bathurst        | The Flower Box Bathurst200 Howick Street | 12:25pm to 12:35pm on Wednesday 20 October 2021              |
-| 24/10/2021      | Casual Contact       | Bellambi        | Sam and Nic's IGA Xpress36 Cawley Street | 9am to 2pm on Monday 18 October 2021                         |
 | 19/10/2021      | Casual Contact       | Bellbird        | Bellbird Hotel388 Wollombi Road | 12pm (noon) to 1:30pm on Wednesday 13 October 20213:25pm to 4:30pm on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
 | 16/10/2021      | Casual Contact       | Blayney         | Bernardi's IGAUnit 8/12 Farm Lane | 10:30am to 10:35am on Wednesday 13 October 2021              |
