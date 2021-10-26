@@ -1,6 +1,14 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 26/10/2021      | Casual Contact       | Windradyne      | Steve's Quality Meats Windrady1/1 Wark Parade | 3:45pm to 3:50pm on Thursday 21 October 20213:45pm to 3:50pm on Wednesday 20 October 2021 |
 | 26/10/2021      | Casual Contact       | Tocumwal        | Amavi Hair by Jayde32 Hill Street | 2pm to 3pm on Thursday 21 October 2021                       |
+| 26/10/2021      | Casual Contact       | Narromine       | Narromine United Services Memorial Club58 Dandaloo Street | 5:15pm to 7:50pm on Wednesday 29 September 2021              |
+| 26/10/2021      | Casual Contact       | Dubbo           | Sportscraft DubboShop 2/188 Macquarie Street | 10:55am to 11:25am on Wednesday 20 October 2021              |
+| 26/10/2021      | Casual Contact       | Coniston        | Hangdog Climbing Gym Coniston130 Auburn Street | 12pm to 2:45pm on Saturday 23 October 2021                   |
+| 26/10/2021      | Casual Contact       | Bathurst        | Sanity BathurstShop 32/33/81/83 Bentinck Street | 2:55pm to 3:10pm on Friday 22 October 2021                   |
+| 26/10/2021      | Casual Contact       | Bathurst        | Reliance Bank Bathurst203-209 Russell Street | 12:30pm to 12:40pm on Wednesday 20 October 2021              |
+| 26/10/2021      | Casual Contact       | Bathurst        | Pantano's Bar & Grill Bathurst73 William Street | 1:20pm to 2:55pm on Friday 22 October 2021                   |
+| 26/10/2021      | Casual Contact       | Bathurst        | Ally Fashion BathurstShop 025, Bathurst City Centre, 210 Howick Street | 3:45pm to 4:15pm on Thursday 21 October 20213:45pm to 4:15pm on Thursday 21 October 2021 |
 | 25/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 4:10pm to 4:55pm on Wednesday 20 October 2021                |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
 | 25/10/2021      | Casual Contact       | Orange          | Charred Kitchen and Bar Orange5 New Street | 2pm to 2:05pm on Wednesday 20 October 2021                   |
@@ -153,6 +161,7 @@
 | 16/10/2021      | Casual Contact       | Taree           | Pet Barn Taree61 Whitbread Street | 9am to 4pm on Tuesday 12 October 2021                        |
 | 16/10/2021      | Casual Contact       | Orange          | Eureka Street Furniture OrangeOrange Grove Homemakers Centre, Lone Pine Avenue | 5:05pm to 5:10pm on Wednesday 13 October 2021                |
 | 16/10/2021      | Casual Contact       | Lavington       | Direct Freight Express103 Catherine Cresent | 4:50pm to 5:45pm on Tuesday 12 October 2021                  |
+| 16/10/2021      | Casual Contact       | Lavington       | Big W LavingtonGriffith Road | 10:40am to 11:45am on Friday 15 October 20218:40am to 9:45am on Monday 11 October 2021 |
 | 16/10/2021      | Casual Contact       | Kempsey         | Woolworths Kempsey91 Smith Street | 11:30am to 12:30pm on Tuesday 12 October 2021                |
 | 16/10/2021      | Casual Contact       | Kempsey         | Pathfinders51 Smith Street | 5pm to 9pm on Tuesday 12 October 2021                        |
 | 16/10/2021      | Casual Contact       | Kempsey         | Kempsey Families Incorporated - Verge Street21 Verge Street | 2:05pm to 4:30pm on Tuesday 12 October 2021                  |
