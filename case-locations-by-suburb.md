@@ -80,8 +80,11 @@
 | 26/10/2021      | Casual Contact       | Coniston        | Hangdog Climbing Gym Coniston130 Auburn Street | 12pm to 2:45pm on Saturday 23 October 2021                   |
 | 19/10/2021      | Casual Contact       | Cordeaux Heights | Cordeaux Heights Supermarket3/26 Derribong Drive | 3:10pm to 3:30pm on Friday 15 October 2021                   |
 | 17/10/2021      | Casual Contact       | Corrimal        | Woolworths CorrimalLederer Corrimal Shopping Centre, 270 Princes Highway | 7:50pm to 8:05pm on Wednesday 13 October 202111:40am to 12:10pm on Tuesday 12 October 202111:45am to 12:10pm on Wednesday 6 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Bunnings Cowra22 Redfern Street | 12:15pm to 12:40pm on Wednesday 20 October 2021              |
+| 27/10/2021      | Casual Contact       | Cowra           | Caltex Woolworths13 Railway Lane | 2:30pm to 2:45pm on Tuesday 19 October 20213:25pm to 3:45pm on Sunday 17 October 2021 |
 | 27/10/2021      | Casual Contact       | Cowra           | Hong Kong Chinese Restaurant Cowra130 Kendal Street | 7:25pm to 7:40pm on Monday 18 October 2021                   |
 | 27/10/2021      | Casual Contact       | Cowra           | Royces Homestyle Cakes Cowra40 Kendal Street | 12:05pm to 12:20pm on Friday 22 October 202111:30am to 11:40am on Wednesday 20 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
 | 27/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 7am to 8:30am on Monday 25 October 20215pm to 7:30pm on Saturday 23 October 20218am to 11am on Saturday 23 October 20211:30pm to 4pm on Friday 22 October 20216am to 11am on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20215:30pm to 7pm on Tuesday 19 October 20216am to 9am on Tuesday 19 October 2021All day on Monday 18 October 2021 |
 | 15/10/2021      | Casual Contact       | Dubbo           | Bunnings DubboSheraton Road | 9:45am to 10:45am on Thursday 21 October 202110:55am to 11:30am on Wednesday 13 October 20213:30pm to 5:30pm on Monday 11 October 202111:40am to 12:40pm on Sunday 10 October 2021 |
 | 24/10/2021      | Casual Contact       | Dubbo           | CSC - Church Street Cafe15 Church Street | 11:20am to 11:25am on Thursday 21 October 2021               |
@@ -150,9 +153,17 @@
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
 | 19/10/2021      | Casual Contact       | Oak Flats       | Rathas Place Oak Flats84 Central Avenue | 9:45am to 10:30am on Friday 15 October 2021                  |
+| 27/10/2021      | Casual Contact       | Orange          | Alpine Country MeatsShop 4/175 Dalton Street | 4:05pm to 4:15pm on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Orange          | BP Orange56-60 Bathurst Road | 12:55pm to 1pm on Friday 22 October 2021                     |
+| 27/10/2021      | Casual Contact       | Orange          | BWS Orange129 Bathurst Road | 4pm to 5pm on Thursday 21 October 2021                       |
 | 25/10/2021      | Casual Contact       | Orange          | Charred Kitchen and Bar Orange5 New Street | 2pm to 2:05pm on Wednesday 20 October 2021                   |
+| 27/10/2021      | Casual Contact       | Orange          | Coronet Milkbar OrangeShop 123/142/148 Summer Street | 2:30pm to 2:45pm on Thursday 21 October 20212:30pm to 2:45pm on Thursday 21 October 2021 |
 | 16/10/2021      | Casual Contact       | Orange          | Eureka Street Furniture OrangeOrange Grove Homemakers Centre, Lone Pine Avenue | 5:05pm to 5:10pm on Wednesday 13 October 2021                |
 | 14/10/2021      | Casual Contact       | Orange          | Fantastic Furniture OrangeOrange Homemaker Centre, 200 Lone Pine Avenue | 4:50pm to 5:10pm on Wednesday 13 October 202111:15am to 11:30am on Monday 11 October 2021 |
+| 27/10/2021      | Casual Contact       | Orange          | Intersport OrangeShop 6a/179-181 Byng Street | 2:10pm to 2:25pm on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Orange          | Orange Baby Kingdom110 Summer Street | 12am to 3:05pm on Saturday 23 October 20212:50am to 3:10pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Orange          | Shell Coles Express OrangeSummer Street and Sale Street | 7:05pm to 7:25pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Orange          | Village Bakehouse208 Peisley Street | 10:30am to 10:50am on Thursday 21 October 2021               |
 | 17/10/2021      | Casual Contact       | Ourimbah        | TAFE OurimbahBrush Road   | 9am to 4:30pm on Wednesday 13 October 2021                   |
 | 26/10/2021      | Casual Contact       | Perthville      | Metro Petroleum Perthville11-13 Vale Road |  3:15pm to 4pm on Friday 22 October 2021 9:35am to 9:40am on Thursday 21 October 2021 |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
@@ -171,6 +182,7 @@
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |
 | 21/10/2021      | Casual Contact       | Tamworth        | Longyard Hotel10/12 The Ringers Road | 6:30pm to 7:15pm on Friday 15 October 2021                   |
 | 26/10/2021      | Casual Contact       | Tocumwal        | Amavi Hair by Jayde32 Hill Street | 2pm to 3pm on Thursday 21 October 2021                       |
+| 27/10/2021      | Casual Contact       | Tuggerah        | Foot Locker TuggerahShop 1-M3/50 Wyong Road | 10:55pm to 11:05am on Monday 18 October 2021                 |
 | 26/10/2021      | Casual Contact       | Tuggerah        | Fresh Nails and Beauty TuggerahWestfield Tuggerah, 50 Wyong Road | 9am to 5:30pm on Tuesday 19 October 2021                     |
 | 18/10/2021      | Casual Contact       | Tuggerah        | Petbarn Tuggerah2 Anzac Road | 10:35am to 7:30pm on Thursday 14 October 20219:45am to 6:30pm on Wednesday 13 October 20219:15am to 6:30pm on Tuesday 12 October 2021 |
 | 21/10/2021      | Casual Contact       | Tura Beach      | BWS TuraTura Beach Shopping Centre, Corner of Tura Beach Drive and Sapphire Coast Drive | 10:30am to 11:05am on Friday 15 October 2021                 |

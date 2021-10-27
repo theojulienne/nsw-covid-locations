@@ -1,6 +1,15 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 27/10/2021      | Casual Contact       | Tuggerah        | Foot Locker TuggerahShop 1-M3/50 Wyong Road | 10:55pm to 11:05am on Monday 18 October 2021                 |
 | 27/10/2021      | Casual Contact       | Port Kembla     | Alsco Port Kembla21 Military Road | 6am to 8am on Thursday 21 October 20216am to 2pm on Wednesday 20 October 2021 |
+| 27/10/2021      | Casual Contact       | Orange          | Village Bakehouse208 Peisley Street | 10:30am to 10:50am on Thursday 21 October 2021               |
+| 27/10/2021      | Casual Contact       | Orange          | Shell Coles Express OrangeSummer Street and Sale Street | 7:05pm to 7:25pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Orange          | Orange Baby Kingdom110 Summer Street | 12am to 3:05pm on Saturday 23 October 20212:50am to 3:10pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Orange          | Intersport OrangeShop 6a/179-181 Byng Street | 2:10pm to 2:25pm on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Orange          | Coronet Milkbar OrangeShop 123/142/148 Summer Street | 2:30pm to 2:45pm on Thursday 21 October 20212:30pm to 2:45pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Orange          | BWS Orange129 Bathurst Road | 4pm to 5pm on Thursday 21 October 2021                       |
+| 27/10/2021      | Casual Contact       | Orange          | BP Orange56-60 Bathurst Road | 12:55pm to 1pm on Friday 22 October 2021                     |
+| 27/10/2021      | Casual Contact       | Orange          | Alpine Country MeatsShop 4/175 Dalton Street | 4:05pm to 4:15pm on Thursday 21 October 2021                 |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 27/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 2021 |
 | 27/10/2021      | Casual Contact       | Gosford         | Hotel Gosford179 Mann Street | 3pm to 4pm on Saturday 16 October 202112pm to 12:35pm on Wednesday 13 October 2021 |
@@ -8,8 +17,11 @@
 | 27/10/2021      | Casual Contact       | Dubbo           | Sussan Dubbo139 Macquarie Street | 12:30pm to 1:15pm on Wednesday 20 October 2021               |
 | 27/10/2021      | Casual Contact       | Dubbo           | Harriet + Kay Boutique Dubbo2/46 Wingewarra Street | 2:05pm to 2:15pm on Tuesday 19 October 2021                  |
 | 27/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 7am to 8:30am on Monday 25 October 20215pm to 7:30pm on Saturday 23 October 20218am to 11am on Saturday 23 October 20211:30pm to 4pm on Friday 22 October 20216am to 11am on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20215:30pm to 7pm on Tuesday 19 October 20216am to 9am on Tuesday 19 October 2021All day on Monday 18 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
 | 27/10/2021      | Casual Contact       | Cowra           | Royces Homestyle Cakes Cowra40 Kendal Street | 12:05pm to 12:20pm on Friday 22 October 202111:30am to 11:40am on Wednesday 20 October 2021 |
 | 27/10/2021      | Casual Contact       | Cowra           | Hong Kong Chinese Restaurant Cowra130 Kendal Street | 7:25pm to 7:40pm on Monday 18 October 2021                   |
+| 27/10/2021      | Casual Contact       | Cowra           | Caltex Woolworths13 Railway Lane | 2:30pm to 2:45pm on Tuesday 19 October 20213:25pm to 3:45pm on Sunday 17 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Bunnings Cowra22 Redfern Street | 12:15pm to 12:40pm on Wednesday 20 October 2021              |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
