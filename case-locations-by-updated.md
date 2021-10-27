@@ -1,6 +1,29 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
-| 27/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 8am to 11am on Saturday 23 October 20215pm to 7:30pm on Saturday 23 October 20216am to 11am on Friday 22 October 20211:30pm to 4pm on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20216am to 9am on Tuesday 19 October 20215:30pm to 7pm on Tuesday 19 October 2021All day on Monday 18 October 2021 |
+| 27/10/2021      | Casual Contact       | Port Kembla     | Alsco Port Kembla21 Military Road | 6am to 8am on Thursday 21 October 20216am to 2pm on Wednesday 20 October 2021 |
+| 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
+| 27/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 2021 |
+| 27/10/2021      | Casual Contact       | Gosford         | Hotel Gosford179 Mann Street | 3pm to 4pm on Saturday 16 October 202112pm to 12:35pm on Wednesday 13 October 2021 |
+| 27/10/2021      | Casual Contact       | Dubbo           | Talbragar St Newsagency Dubbo93-95 Talbragar Street | 8:15am to 8:25am on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Dubbo           | Sussan Dubbo139 Macquarie Street | 12:30pm to 1:15pm on Wednesday 20 October 2021               |
+| 27/10/2021      | Casual Contact       | Dubbo           | Harriet + Kay Boutique Dubbo2/46 Wingewarra Street | 2:05pm to 2:15pm on Tuesday 19 October 2021                  |
+| 27/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 5pm to 7:30pm on Saturday 23 October 20218am to 11am on Saturday 23 October 20211:30pm to 4pm on Friday 22 October 20216am to 11am on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20215:30pm to 7pm on Tuesday 19 October 20216am to 9am on Tuesday 19 October 2021All day on Monday 18 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Royces Homestyle Cakes Cowra40 Kendal Street | 12:05pm to 12:20pm on Friday 22 October 202111:30am to 11:40am on Wednesday 20 October 2021 |
+| 27/10/2021      | Casual Contact       | Cowra           | Hong Kong Chinese Restaurant Cowra130 Kendal Street | 7:25pm to 7:40pm on Monday 18 October 2021                   |
+| 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst West298 Stewart Street (Corner of Rocket Street) | 6:30am to 6:45am on Tuesday 19 October 2021                  |
+| 27/10/2021      | Casual Contact       | Bathurst        | Moodies Pharmacy Bathurst165 Howick Street | 4:20pm to 6:25pm on Wednesday 20 October 20219:25am to 9:35am on Tuesday 19 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Kmart BathurstArmada Bathurst Shopping Centre, 38 William Street |  10:55am to 11:35am on Thursday 21 October 20212:45pm to 3:20pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Jay Jays Bathurst11/121 Howick Street | 2:45pm to 2:55pm on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Coles BathurstChase Shopping Centre, 47 William Street |  6:50pm to 7pm on Thursday 21 October 20219:35am to 11:50am on Tuesday 19 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Bent Threads Menswear Bathurst51 William Street | 4:30pm to 5:30pm on Thursday 21 October 20214:15pm to 4:25pm on Tuesday 19 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | BWS Bathurst City Centre210 Howick Street | 5:35pm to 5:55pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Bathurst        | BIG W BathurstHowick Street and Bentinck Street | 2:05pm to 2:40pm on Thursday 21 October 2021                 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Australian Red Cross Bathurst65 William Street | 3:15pm to 3:25pm on Friday 22 October 2021                   |
+| 27/10/2021      | Casual Contact       | Bathurst        | Annies Old Fashioned Ice Cream Parlour Bathurst82/86 George Street | 4:15pm to 4:40pm on Friday 22 October 2021                   |
 | 26/10/2021      | Casual Contact       | Windradyne      | Steve's Quality Meats Windrady1/1 Wark Parade | 3:45pm to 3:50pm on Thursday 21 October 20213:45pm to 3:50pm on Wednesday 20 October 2021 |
 | 26/10/2021      | Casual Contact       | Tuggerah        | Fresh Nails and Beauty TuggerahWestfield Tuggerah, 50 Wyong Road | 9am to 5:30pm on Tuesday 19 October 2021                     |
 | 26/10/2021      | Casual Contact       | Tocumwal        | Amavi Hair by Jayde32 Hill Street | 2pm to 3pm on Thursday 21 October 2021                       |
@@ -10,14 +33,11 @@
 | 26/10/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street |  1:30pm to 2:15pm on Tuesday 19 October 2021                 |
 | 26/10/2021      | Casual Contact       | Dubbo           | Sportscraft DubboShop 2/188 Macquarie Street | 10:55am to 11:25am on Wednesday 20 October 2021              |
 | 26/10/2021      | Casual Contact       | Coniston        | Hangdog Climbing Gym Coniston130 Auburn Street | 12pm to 2:45pm on Saturday 23 October 2021                   |
-| 26/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 2021 |
 | 26/10/2021      | Casual Contact       | Bathurst        | Sanity BathurstShop 32/33/81/83 Bentinck Street | 2:55pm to 3:10pm on Friday 22 October 2021                   |
 | 26/10/2021      | Casual Contact       | Bathurst        | Reliance Bank Bathurst203-209 Russell Street | 12:30pm to 12:40pm on Wednesday 20 October 2021              |
 | 26/10/2021      | Casual Contact       | Bathurst        | Priceline BathurstShop 4C/121 Howick Street |  3:20pm to 3:30pm on Thursday 21 October 2021                |
 | 26/10/2021      | Casual Contact       | Bathurst        | Pantano's Bar & Grill Bathurst73 William Street | 1:20pm to 2:55pm on Friday 22 October 2021                   |
-| 26/10/2021      | Casual Contact       | Bathurst        | Kmart BathurstArmada Bathurst Shopping Centre, 38 William Street |  10:55am to 11:35am on Thursday 21 October 2021              |
 | 26/10/2021      | Casual Contact       | Bathurst        | EyeQ Optometrists Bathurst175 Howick Street |  9am to 9:45am on Wednesday 20 October 2021                  |
-| 26/10/2021      | Casual Contact       | Bathurst        | Coles BathurstChase Shopping Centre, 47 William Street |  6:50pm to 7pm on Thursday 21 October 2021                   |
 | 26/10/2021      | Casual Contact       | Bathurst        | Caltex Bathurst53 Durham Street |  12:10pm to 12:25pm on Wednesday 20 October 2021             |
 | 26/10/2021      | Casual Contact       | Bathurst        | Bernardi's Marketplace72 Rankin Street |  1:10pm to 1:35pm on Wednesday 20 October 2021               |
 | 26/10/2021      | Casual Contact       | Bathurst        | Australia Post Bathurst230 Howick Street |  10:15am to 10:30am on Tuesday 19 October 2021               |
@@ -175,6 +195,6 @@
 | 15/10/2021      | Casual Contact       | Rutherford      | Raymond Whizzer's Hairdressing For Men23 West Mall | 5:30am to 5:50am on Wednesday 13 October 2021                |
 | 15/10/2021      | Casual Contact       | Jesmond         | Hotel JesmondCorner of Newcastle Road and Blue Gum Road | 7:20pm to 8:45pm on Tuesday 12 October 2021                  |
 | 15/10/2021      | Casual Contact       | Grafton         | Sullivan Nicolaides Pathology GraftonShop 9, 94 Bent Street | 2:30pm to 3:15pm on Wednesday 13 October 2021                |
-| 15/10/2021      | Casual Contact       | Dubbo           | Bunnings DubboSheraton Road | 10:55am to 11:30am on Wednesday 13 October 20213:30pm to 5:30pm on Monday 11 October 202111:40am to 12:40pm on Sunday 10 October 2021 |
+| 15/10/2021      | Casual Contact       | Dubbo           | Bunnings DubboSheraton Road | 9:45am to 10:45am on Thursday 21 October 202110:55am to 11:30am on Wednesday 13 October 20213:30pm to 5:30pm on Monday 11 October 202111:40am to 12:40pm on Sunday 10 October 2021 |
 | 14/10/2021      | Casual Contact       | Orange          | Fantastic Furniture OrangeOrange Homemaker Centre, 200 Lone Pine Avenue | 4:50pm to 5:10pm on Wednesday 13 October 202111:15am to 11:30am on Monday 11 October 2021 |
 | 07/10/2021      | Casual Contact       | Fairy Meadow    | Pharmacy Express Fairy Meadow43 Princes Highway | 4:45pm to 5pm on Wednesday 13 October 20211:55pm to 2pm on Tuesday 5 October 2021 |
