@@ -62,6 +62,7 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm (noon) on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
+| 27/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Saturday 23 October 20217:30pm to 12am (midnight) on Saturday 23 October 2021 |
 | 23/10/2021      | Casual Contact       | Botany          | BadmintonWorxUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
@@ -69,6 +70,7 @@
 | 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs Cardiff6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
 | 18/10/2021      | Casual Contact       | Cessnock        | Cessnock Convenience Store26 Wollombi Road | 12:05pm to 12:25pm on Thursday 14 October 2021               |
 | 24/10/2021      | Casual Contact       | Cessnock        | Cessnock Police Station227 Maitland Road | 5:30pm to 6pm on Thursday 21 October 2021                    |
+| 27/10/2021      | Casual Contact       | Charlestown     | Allans Mens HairdressingPearson Street | 9:55am to 10:15am on Saturday 23 October 2021                |
 | 23/10/2021      | Casual Contact       | Charlestown     | Just Cuts CharlestownShop 1041/30 Pearson Street | 4:05pm to 4:45pm on Friday 15 October 2021                   |
 | 26/10/2021      | Casual Contact       | Coniston        | Hangdog Climbing Gym Coniston130 Auburn Street | 12pm (noon) to 2:45pm on Saturday 23 October 2021            |
 | 19/10/2021      | Casual Contact       | Cordeaux Heights | Cordeaux Heights Supermarket3/26 Derribong Drive | 3:10pm to 3:30pm on Friday 15 October 2021                   |
