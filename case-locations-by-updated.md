@@ -1,6 +1,12 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 28/10/2021      | Casual Contact       | Woonona         | Woonona Bowling and Recreation Club5-9 Greta Street | 11am to 2:30pm on Sunday 24 October 2021                     |
+| 28/10/2021      | Casual Contact       | Orange          | Subway Orange210 Summer Street | 1:15pm to 1:30pm on Friday 22 October 202112:25pm to 12:35pm on Friday 22 October 2021 |
+| 28/10/2021      | Casual Contact       | Orange          | Dan Murphy's Orange86 Summer Street | 6:55pm to 7:20pm on Friday 22 October 2021                   |
+| 28/10/2021      | Test (isolate w/ symptoms) | Orange          | Chemist Warehouse Orange158-160 Summer Street | 11:10am to 11:20am on Thursday 21 October 2021               |
+| 28/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 20218pm to 8:05pm on Sunday 17 October 2021 |
 | 28/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 6am to 7:30am on Tuesday 26 October 20217am to 8:30am on Monday 25 October 20215pm to 7:30pm on Saturday 23 October 20218am to 11am on Saturday 23 October 20211:30pm to 4pm on Friday 22 October 20216am to 11am on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20215:30pm to 7pm on Tuesday 19 October 20216am to 9am on Tuesday 19 October 2021All day on Monday 18 October 2021 |
+| 28/10/2021      | Casual Contact       | Cowra           | Cowra Aquatic Centre140 Taragala Street | 3:15pm to 5:05pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Tuggerah        | Foot Locker TuggerahShop 1-M3/50 Wyong Road | 10:55pm to 11:05am on Monday 18 October 2021                 |
 | 27/10/2021      | Casual Contact       | Orange          | Village Bakehouse208 Peisley Street | 10:30am to 10:50am on Thursday 21 October 2021               |
 | 27/10/2021      | Casual Contact       | Orange          | Shell Coles Express OrangeSummer Street and Sale Street | 7:05pm to 7:25pm on Friday 22 October 2021                   |
@@ -11,7 +17,6 @@
 | 27/10/2021      | Casual Contact       | Orange          | BP Orange56-60 Bathurst Road | 12:55pm to 1pm on Friday 22 October 2021                     |
 | 27/10/2021      | Casual Contact       | Orange          | Alpine Country MeatsShop 4/175 Dalton Street | 4:05pm to 4:15pm on Thursday 21 October 2021                 |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
-| 27/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 2021 |
 | 27/10/2021      | Casual Contact       | Gosford         | Hotel Gosford179 Mann Street | 3pm to 4pm on Saturday 16 October 202112pm (noon) to 12:35pm on Wednesday 13 October 2021 |
 | 27/10/2021      | Casual Contact       | Dubbo           | Talbragar St Newsagency Dubbo93-95 Talbragar Street | 8:15am to 8:25am on Thursday 21 October 2021                 |
 | 27/10/2021      | Casual Contact       | Dubbo           | Sussan Dubbo139 Macquarie Street | 12:30pm to 1:15pm on Wednesday 20 October 2021               |
