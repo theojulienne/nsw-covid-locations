@@ -3,6 +3,14 @@
 | 29/10/2021      | Casual Contact       | Oberon          | St. Ignatius' Parish OberonQueen Street | 7:50am to 9:10am on Sunday 24 October 2021                   |
 | 29/10/2021      | Casual Contact       | Oberon          | St Vincent de Paul Society Oberon173 Oberon Street | 10am to 4pm on Tuesday 26 October 202110am to 12pm on Saturday 23 October 2021 |
 | 29/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 11:30am to 12:40am on Monday 25 October 2021                 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Subway Nambucca Heads2/14-18 Bowra Street | 12:05pm to 12:20pm on Wednesday 20 October 2021              |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Pelicans Landing Garden Centre2 Riverside Drive | 12:20pm to 12:30pm on Monday 25 October 2021                 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Newsagency26 Bowra Street | 11:45am to 12pm on Wednesday 20 October 2021                 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Bellwood Cafe42 Riverside Drive | 3:40pm to 3:55pm on Tuesday 19 October 20219am to 9:15am on Monday 18 October 2021 |
+| 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
 | 29/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 9am to 3:35pm on Wednesday 20 October 2021                   |
 | 29/10/2021      | Casual Contact       | Albury          | Whitehouse Motorcycles523 Young Street | 2:35pm to 3:45pm on Thursday 14 October 20213:15pm to 4:15pm on Thursday 14 October 20214:15pm to 5:15pm on Wednesday 13 October 2021 |
 | 29/10/2021      | Casual Contact       | Albury          | Universal AlburyMyer Centrepoint Plaza, 3/525 David Street | 1:15pm to 2pm on Thursday 14 October 2021                    |

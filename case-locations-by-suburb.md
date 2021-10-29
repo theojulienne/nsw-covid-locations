@@ -94,7 +94,15 @@
 | 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning RidgeOpal Street | 12pm (noon) to 12:30pm on Wednesday 20 October 2021          |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | Service NSW Lightning RidgeShop 2/3 Morilla Street | 11:40am to 12pm (noon) on Wednesday 20 October 2021          |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | The Busy Bee Cafe and Catering23 Opal Street | 9am to 9:30am on Wednesday 20 October 2021                   |
+| 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
 | 21/10/2021      | Casual Contact       | Merimbula       | Capital Pathology MerimbulaUnit 2/93 Main Street | 9:35am to 10:35am on Friday 15 October 2021                  |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Bellwood Cafe42 Riverside Drive | 3:40pm to 3:55pm on Tuesday 19 October 20219am to 9:15am on Monday 18 October 2021 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Newsagency26 Bowra Street | 11:45am to 12pm on Wednesday 20 October 2021                 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Pelicans Landing Garden Centre2 Riverside Drive | 12:20pm to 12:30pm on Monday 25 October 2021                 |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Subway Nambucca Heads2/14-18 Bowra Street | 12:05pm to 12:20pm on Wednesday 20 October 2021              |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
 | 17/10/2021      | Casual Contact       | Nowra           | Coles NowraKinghorne Street and Junction Street | 5pm to 6pm on Friday 15 October 202110:50am to 11:20am on Friday 8 October 2021 |
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
