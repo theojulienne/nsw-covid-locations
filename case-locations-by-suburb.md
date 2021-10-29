@@ -88,7 +88,7 @@
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 2021                   |
 | 19/10/2021      | Casual Contact       | Lavington       | Albury Waste Management Centre565 Mudge Street | 8:15am to 10:15am on Friday 15 October 2021                  |
-| 22/10/2021      | Casual Contact       | Lavington       | KFC Lavington359/361 Wagga Road | 8:45am to 10:25am on Friday 15 October 202111:45am to 9:!5pm on Thursday 14 October 20212:35pm to 11:45pm on Wednesday 13 October 20212:35pm to 11:45pm on Tuesday 12 October 2021 |
+| 22/10/2021      | Casual Contact       | Lavington       | KFC Lavington359/361 Wagga Road | 8:45am to 10:25am on Friday 15 October 202111:45am to 9:15pm on Thursday 14 October 20212:35pm to 11:45pm on Wednesday 13 October 20212:35pm to 11:45pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | Lavington Square351 Griffith Road | 10:10am to 12:20pm on Friday 15 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Terry White Pharmacy LavingtonLavington Square, 351 Griffith Road | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning RidgeOpal Street | 12pm (noon) to 12:30pm on Wednesday 20 October 2021          |
@@ -97,7 +97,7 @@
 | 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
 | 21/10/2021      | Casual Contact       | Merimbula       | Capital Pathology MerimbulaUnit 2/93 Main Street | 9:35am to 10:35am on Friday 15 October 2021                  |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Bellwood Cafe42 Riverside Drive | 3:40pm to 3:55pm on Tuesday 19 October 20219am to 9:15am on Monday 18 October 2021 |
-| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
+| 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Discount Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Newsagency26 Bowra Street | 11:45am to 12pm on Wednesday 20 October 2021                 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Pelicans Landing Garden Centre2 Riverside Drive | 12:20pm to 12:30pm on Monday 25 October 2021                 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Subway Nambucca Heads2/14-18 Bowra Street | 12:05pm to 12:20pm on Wednesday 20 October 2021              |
