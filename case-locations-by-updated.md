@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
 | 29/10/2021      | Casual Contact       | Oberon          | St. Ignatius' Parish OberonQueen Street | 7:50am to 9:10am on Sunday 24 October 2021                   |
 | 29/10/2021      | Casual Contact       | Oberon          | St Vincent de Paul Society Oberon173 Oberon Street | 10am to 4pm on Tuesday 26 October 202110am to 12pm on Saturday 23 October 2021 |
 | 29/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 11:30am to 12:40am on Monday 25 October 2021                 |
@@ -11,7 +12,17 @@
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Discount Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Bellwood Cafe42 Riverside Drive | 3:40pm to 3:55pm on Tuesday 19 October 20219am to 9:15am on Monday 18 October 2021 |
 | 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
+| 29/10/2021      | Casual Contact       | Kyogle          | McKid Medical Centre199 Summerland Way | 12:20pm to 12:50pm on Tuesday 26 October 2021                |
+| 29/10/2021      | Casual Contact       | Hamilton        | Jimbo's Barber Shop91 Beaumont Street |  1:10 pm to 2:05pm on Wednesday 13 October 2021              |
+| 29/10/2021      | Casual Contact       | Geneva          | Daleys Fruit Tree Nursery 36 Daleys Lane | 11:50am to 12:05pm on Tuesday 26 October 2021                |
 | 29/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 9am to 3:35pm on Wednesday 20 October 2021                   |
+| 29/10/2021      | Casual Contact       | Casino          | Yorklea Pet Supplies136-144 Johnston Street | 10:25am to 10:35am on Tuesday 26 October 2021                |
+| 29/10/2021      | Casual Contact       | Casino          | Woolworths Casino165-169 Canterbury Street | 10:25am to 10:45am on Wednesday 27 October 20211:45pm to 2:30pm on Tuesday 26 October 2021 |
+| 29/10/2021      | Casual Contact       | Casino          | Sullivan and Nicolaides CasinoShop 3-4 RSM Centre, 166 Canterbury Street | 11:20am to 11:35am on Wednesday 27 October 2021              |
+| 29/10/2021      | Casual Contact       | Casino          | Soul Pattinson Chemist - Scrivener and Webb89 Walker Street | 10:10am to 10:25am on Wednesday 27 October 2021              |
+| 29/10/2021      | Casual Contact       | Casino          | Pets Domain Casino127 Walker Street | 1:30pm to 1:40pm on Tuesday 26 October 20213:20pm to 3:35pm on Tuesday 26 October 2021 |
+| 29/10/2021      | Casual Contact       | Casino          | Country Crumbs Bakery8/136 Johnston Street | 10:20am to 10:25am on Tuesday 26 October 2021                |
+| 29/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 2021 |
 | 29/10/2021      | Casual Contact       | Albury          | Whitehouse Motorcycles523 Young Street | 2:35pm to 3:45pm on Thursday 14 October 20213:15pm to 4:15pm on Thursday 14 October 20214:15pm to 5:15pm on Wednesday 13 October 2021 |
 | 29/10/2021      | Casual Contact       | Albury          | Universal AlburyMyer Centrepoint Plaza, 3/525 David Street | 1:15pm to 2pm on Thursday 14 October 2021                    |
 | 28/10/2021      | Casual Contact       | Woonona         | Woonona Bowling and Recreation Club5-9 Greta Street | 11am to 2:30pm on Sunday 24 October 2021                     |
@@ -22,7 +33,6 @@
 | 28/10/2021      | Casual Contact       | Darlinghurst    | City Gym Darlinghurst107 Crown Street | 6am to 7:30am on Tuesday 26 October 20217am to 8:30am on Monday 25 October 20215pm to 7:30pm on Saturday 23 October 20218am to 11am on Saturday 23 October 20211:30pm to 4pm on Friday 22 October 20216am to 11am on Friday 22 October 20216am to 4:15pm on Thursday 21 October 20216am to 11:30am on Wednesday 20 October 20215:30pm to 7pm on Tuesday 19 October 20216am to 9am on Tuesday 19 October 2021All day on Monday 18 October 2021 |
 | 28/10/2021      | Casual Contact       | Cowra           | Cowra Aquatic Centre140 Taragala Street | 3:15pm to 5:05pm on Friday 22 October 2021                   |
 | 28/10/2021      | Casual Contact       | Charlestown     | Allan's Mens Hairdressing30 Pearson Street | 9:55am to 10:15am on Saturday 23 October 2021                |
-| 28/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217:30pm to 12am (midnight) on Saturday 23 October 2021 |
 | 27/10/2021      | Casual Contact       | Tuggerah        | Foot Locker TuggerahShop 1-M3/50 Wyong Road | 10:55pm to 11:05am on Monday 18 October 2021                 |
 | 27/10/2021      | Casual Contact       | Orange          | Village Bakehouse208 Peisley Street | 10:30am to 10:50am on Thursday 21 October 2021               |
 | 27/10/2021      | Casual Contact       | Orange          | Shell Coles Express OrangeSummer Street and Sale Street | 7:05pm to 7:25pm on Friday 22 October 2021                   |

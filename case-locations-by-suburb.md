@@ -45,12 +45,18 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm (noon) on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
-| 28/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217:30pm to 12am (midnight) on Saturday 23 October 2021 |
+| 29/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 2021 |
 | 23/10/2021      | Casual Contact       | Botany          | BadmintonWorxUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 25/10/2021      | Casual Contact       | Buronga         | IGA Midway Plus Liquor Buronga143 Hendy Road | 8:50am to 2:30pm on Thursday 21 October 20214pm to 7pm on Wednesday 20 October 2021 |
 | 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
+| 29/10/2021      | Casual Contact       | Casino          | Country Crumbs Bakery8/136 Johnston Street | 10:20am to 10:25am on Tuesday 26 October 2021                |
+| 29/10/2021      | Casual Contact       | Casino          | Pets Domain Casino127 Walker Street | 1:30pm to 1:40pm on Tuesday 26 October 20213:20pm to 3:35pm on Tuesday 26 October 2021 |
+| 29/10/2021      | Casual Contact       | Casino          | Soul Pattinson Chemist - Scrivener and Webb89 Walker Street | 10:10am to 10:25am on Wednesday 27 October 2021              |
+| 29/10/2021      | Casual Contact       | Casino          | Sullivan and Nicolaides CasinoShop 3-4 RSM Centre, 166 Canterbury Street | 11:20am to 11:35am on Wednesday 27 October 2021              |
+| 29/10/2021      | Casual Contact       | Casino          | Woolworths Casino165-169 Canterbury Street | 10:25am to 10:45am on Wednesday 27 October 20211:45pm to 2:30pm on Tuesday 26 October 2021 |
+| 29/10/2021      | Casual Contact       | Casino          | Yorklea Pet Supplies136-144 Johnston Street | 10:25am to 10:35am on Tuesday 26 October 2021                |
 | 29/10/2021      | Casual Contact       | Cessnock        | Cessnock Court House223 Maitland Road | 9am to 3:35pm on Wednesday 20 October 2021                   |
 | 24/10/2021      | Casual Contact       | Cessnock        | Cessnock Police Station227 Maitland Road | 5:30pm to 6pm on Thursday 21 October 2021                    |
 | 28/10/2021      | Casual Contact       | Charlestown     | Allan's Mens Hairdressing30 Pearson Street | 9:55am to 10:15am on Saturday 23 October 2021                |
@@ -74,16 +80,19 @@
 | 19/10/2021      | Casual Contact       | East Gosford    | IGA Express East Gosford97/91 Victoria Street | 11:10am to 11:55am on Friday 15 October 2021                 |
 | 24/10/2021      | Casual Contact       | Fairy Meadow    | Woolworths Fairy Meadow66 Princes Highway | 3:20pm to 3:30pm on Saturday 16 October 20213:20pm to 3:30pm on Saturday 16 October 2021 |
 | 23/10/2021      | Casual Contact       | Figtree         | Figtree Hotel47 Princes Highway | 3pm to 10:30pm on Saturday 16 October 2021                   |
+| 29/10/2021      | Casual Contact       | Geneva          | Daleys Fruit Tree Nursery 36 Daleys Lane | 11:50am to 12:05pm on Tuesday 26 October 2021                |
 | 27/10/2021      | Casual Contact       | Gosford         | Hotel Gosford179 Mann Street | 3pm to 4pm on Saturday 16 October 202112pm (noon) to 12:35pm on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Goulburn        | Coles GoulburnGoulburn Square, 217 Auburn Street | 9:50am to 10:25am on Friday 15 October 2021                  |
 | 19/10/2021      | Casual Contact       | Goulburn        | First Inland City Newsagency140 B Auburn Street | 10:15am to 10:55am on Friday 15 October 2021                 |
 | 19/10/2021      | Casual Contact       | Goulburn        | Kmart GoulburnGoulburn Square, 217 Auburn Street | 9:25am to 10am on Friday 15 October 202112:20pm to 1:40pm on Monday 11 October 2021 |
+| 29/10/2021      | Casual Contact       | Hamilton        | Jimbo's Barber Shop91 Beaumont Street |  1:10 pm to 2:05pm on Wednesday 13 October 2021              |
 | 28/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 20218pm to 8:05pm on Sunday 17 October 2021 |
 | 26/10/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street |  1:30pm to 2:15pm on Tuesday 19 October 2021                 |
 | 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 26/10/2021      | Casual Contact       | Kelso           | The Good Guys Kelso8 Stockland Drive |  3:50pm to 4pm on Thursday 21 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
 | 22/10/2021      | Casual Contact       | Kempsey         | Coles KempseyPacific Highway and Belgrave Street | 9:30pm to 9:55pm on Sunday 17 October 2021                   |
+| 29/10/2021      | Casual Contact       | Kyogle          | McKid Medical Centre199 Summerland Way | 12:20pm to 12:50pm on Tuesday 26 October 2021                |
 | 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 2021                   |
@@ -125,6 +134,7 @@
 | 27/10/2021      | Casual Contact       | Orange          | Village Bakehouse208 Peisley Street | 10:30am to 10:50am on Thursday 21 October 2021               |
 | 26/10/2021      | Casual Contact       | Perthville      | Metro Petroleum Perthville11-13 Vale Road |  3:15pm to 4pm on Friday 22 October 2021 9:35am to 9:40am on Thursday 21 October 2021 |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
+| 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
 | 24/10/2021      | Casual Contact       | South Nowra     | Earnest Arthur171 Princes Highway | 2:40pm to 3:50pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |
 | 21/10/2021      | Casual Contact       | Tamworth        | Longyard Hotel10/12 The Ringers Road | 6:30pm to 7:15pm on Friday 15 October 2021                   |
