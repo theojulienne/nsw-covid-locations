@@ -1,5 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 29/10/2021      | Casual Contact       | Albury          | Whitehouse Motorcycles523 Young Street | 2:35pm to 3:45pm on Thursday 14 October 20213:15pm to 4:15pm on Thursday 14 October 20214:15pm to 5:15pm on Wednesday 13 October 2021 |
+| 29/10/2021      | Casual Contact       | Albury          | Universal AlburyMyer Centrepoint Plaza, 3/525 David Street | 1:15pm to 2pm on Thursday 14 October 2021                    |
 | 28/10/2021      | Casual Contact       | Woonona         | Woonona Bowling and Recreation Club5-9 Greta Street | 11am to 2:30pm on Sunday 24 October 2021                     |
 | 28/10/2021      | Casual Contact       | Orange          | Subway Orange210 Summer Street | 1:15pm to 1:30pm on Friday 22 October 202112:25pm to 12:35pm on Friday 22 October 2021 |
 | 28/10/2021      | Casual Contact       | Orange          | Dan Murphy's Orange86 Summer Street | 6:55pm to 7:20pm on Friday 22 October 2021                   |
@@ -96,25 +98,16 @@
 | 22/10/2021      | Casual Contact       | Lavington       | Terry White Pharmacy LavingtonLavington Square, 351 Griffith Road | 2:45pm to 3:30pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | Lavington Square351 Griffith Road | 10:10am to 12:20pm on Friday 15 October 2021                 |
 | 22/10/2021      | Casual Contact       | Lavington       | KFC Lavington359/361 Wagga Road | 8:45am to 10:25am on Friday 15 October 202111:45am to 9:!5pm on Thursday 14 October 20212:35pm to 11:45pm on Wednesday 13 October 20212:35pm to 11:45pm on Tuesday 12 October 2021 |
-| 22/10/2021      | Casual Contact       | Lavington       | Deli InternationalLavington Square, 351 Griffith Road | 11:20am to 11:55am on Friday 15 October 2021                 |
-| 22/10/2021      | Casual Contact       | Lavington       | Coles LavingtonUrana Road and Griffith Road | 10am to 11am on Monday 18 October 202111:15am to 11:55am on Saturday 16 October 20213:30pm to 4:30pm on Saturday 16 October 202110:25pm to 11pm on Thursday 14 October 20219am to 11:45am on Thursday 14 October 20211pm to 1:15pm on Monday 11 October 20218:15pm to 9:15pm on Sunday 10 October 2021 |
-| 22/10/2021      | Casual Contact       | Lavington       | Bakers Delight LavingtonLavington Square, 351 Griffith Road | 10:10am to 11:10am on Friday 15 October 2021                 |
-| 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 20213:45pm to 5:15pm on Thursday 14 October 2021 |
+| 22/10/2021      | Casual Contact       | Lavington       | ALDI Lavington385/387 Wagga Road | 5:45pm to 6:35pm on Monday 18 October 2021                   |
 | 22/10/2021      | Casual Contact       | Kempsey         | Coles KempseyPacific Highway and Belgrave Street | 9:30pm to 9:55pm on Sunday 17 October 2021                   |
-| 22/10/2021      | Casual Contact       | Albury          | Woolworths AlburyCorner of Swift Street and David Street | 4:15pm to 5:45pm on Sunday 17 October 2021                   |
 | 22/10/2021      | Casual Contact       | Albury          | Urban Graze3/557 Dean Street | 10:45am to 1:45pm on Saturday 16 October 2021                |
-| 22/10/2021      | Casual Contact       | Albury          | Super Cheap Auto Albury5/94 Borella Road | 2:50pm to 3:45pm on Wednesday 20 October 2021                |
 | 22/10/2021      | Casual Contact       | Albury          | Service NSW Albury520 Smollett Street | 4:15pm to 5pm on Friday 15 October 20212:45pm to 3:35pm on Wednesday 13 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | SS and A Albury570-582 Olive Street | 2:10pm to 4:40pm on Saturday 16 October 2021                 |
-| 22/10/2021      | Casual Contact       | Albury          | Mad Mex AlburyShop SP002 West End Plaza, 487 Kiewa Street | 8:15pm to 9:15pm on Friday 15 October 2021                   |
 | 22/10/2021      | Casual Contact       | Albury          | Lifeline Shop Albury6/429 Wilson Street | 7:15am to 12:15[m on Monday 18 October 20218:50am to 2:50pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | KFC AlburyWest End Plaza, 487 Kiewa Street | 7am to 10:15am on Monday 18 October 20217am to 1:15pm on Friday 15 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Harris Farm Markets Albury614 Young Street | 4:20pm to 5:20pm on Saturday 16 October 20218am to 10am on Thursday 14 October 20218am to 4pm on Wednesday 13 October 20218am to 4pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 5:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
-| 22/10/2021      | Casual Contact       | Albury          | First Choice Liquor Albury417 Dean Street | 3:30pm to 4:30pm on Tuesday 19 October 2021                  |
-| 22/10/2021      | Casual Contact       | Albury          | Dominos Albury1/492 Townsend Street | 4:25pm to 5:15pm on Sunday 17 October 2021                   |
 | 22/10/2021      | Casual Contact       | Albury          | Albury Central Hotel473 Young Street | 12am (midnight) to 9:45am on Tuesday 19 October 20219:15pm to 11:59pm on Monday 18 October 2021 |
-| 22/10/2021      | Casual Contact       | Albury          | ALDI Albury617-621 Young Street | 10:15am to 11:15am on Sunday 17 October 2021                 |
 | 21/10/2021      | Casual Contact       | Yamba           | Priceline Pharmacy YambaYamba Fair, 1/3 Treelands Drive | 9am to 9:15am on Saturday 16 October 2021                    |
 | 21/10/2021      | Casual Contact       | Yamba           | Coles YambaYamba Fair, 1/3 Treelands Drive | 9:05am to 9:50am on Saturday 16 October 2021                 |
 | 21/10/2021      | Casual Contact       | Wollombi        | Australia Post Wollombi2886 Wollombi Road | 1pm to 2pm on Friday 15 October 20211pm to 3pm on Wednesday 13 October 2021 |
@@ -127,7 +120,6 @@
 | 21/10/2021      | Casual Contact       | Albury          | Regent Cinemas Albury456 Dean Street | 6:30pm to 9pm on Sunday 17 October 2021                      |
 | 21/10/2021      | Casual Contact       | Albury          | Cafe Dalchini451 Dean Street | 5:25pm to 6:55pm on Sunday 17 October 2021                   |
 | 20/10/2021      | Casual Contact       | Wyong           | Grand Hotel WyongHely Street | 1:50pm to 3:40pm on Monday 18 October 2021                   |
-| 20/10/2021      | Casual Contact       | Lavington       | Muffin Break LavingtonLavington Square, 351 Griffith Road | 4:35pm to 5:10pm on Friday 15 October 2021                   |
 | 20/10/2021      | Casual Contact       | Cardiff         | K&D Auto Repairs6/30 Munibung Road | 7:30am to 4:30pm on Saturday 16 October 20217:30am to 4:30pm on Friday 15 October 20217:30am to 4:30pm on Thursday 14 October 20217:30am to 4:30pm on Wednesday 13 October 2021 |
 | 19/10/2021      | Casual Contact       | Woy Woy         | Woolworths Woy WoyPeninsula Plaza, 63 Blackwall Road | 5:40m to 6:25pm on Friday 15 October 2021                    |
 | 19/10/2021      | Casual Contact       | Wellington      | Smart Dollar Wellington120-122 Percy Street | 10:50am to 11:35am on Saturday 16 October 2021               |
@@ -144,5 +136,4 @@
 | 19/10/2021      | Casual Contact       | Albion Park     | Woolworths Albion Park2527/1 Corner of Terry and Russell Street | 10:05am to 10:30am on Saturday 16 October 2021               |
 | 19/10/2021      | Casual Contact       | Albion Park     | The Reject Shop Albion ParkShop 1, Albion Park Shopping Village, 93 Terry Street | 3:35pm to 3:45pm on Saturday 16 October 2021                 |
 | 17/10/2021      | Casual Contact       | Nowra           | Coles NowraKinghorne Street and Junction Street | 5pm to 6pm on Friday 15 October 202110:50am to 11:20am on Friday 8 October 2021 |
-| 16/10/2021      | Casual Contact       | Lavington       | Big W LavingtonLavington Square, 351 Griffith Road | 10:40am to 11:45am on Friday 15 October 20218:40am to 9:45am on Monday 11 October 2021 |
 | 15/10/2021      | Casual Contact       | Dubbo           | Bunnings DubboSheraton Road | 9:45am to 10:45am on Thursday 21 October 202110:55am to 11:30am on Wednesday 13 October 20213:30pm to 5:30pm on Monday 11 October 202111:40am to 12:40pm on Sunday 10 October 2021 |
