@@ -5,12 +5,9 @@
 | 30/10/2021      | Casual Contact       | East Albury     | Newmarket Hotel200 Borella Road | 8:40pm to 9:55pm on Wednesday 20 October 2021                |
 | 30/10/2021      | Casual Contact       | Albury          | The Hair Artistry Establishment393 North Street | 1pm to 4pm on Friday 22 October 2021                         |
 | 30/10/2021      | Casual Contact       | Albury          | SS&A Albury570-582 Olive Street | 11am to 6pm on Sunday 17 October 2021                        |
-| 30/10/2021      | Casual Contact       | Albury          | Genesis (formerly) Ignite Health Club557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 2021                  |
+| 30/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 20215:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
 | 30/10/2021      | Casual Contact       | Albury          | Beatz Dance Studio545 Smollett Street | 4:30pm to 5:30pm on Thursday 14 October 2021                 |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
-| 29/10/2021      | Casual Contact       | Oberon          | St. Ignatius' Parish OberonQueen Street | 7:50am to 9:10am on Sunday 24 October 2021                   |
-| 29/10/2021      | Casual Contact       | Oberon          | St Vincent de Paul Society Oberon173 Oberon Street | 10am to 4pm on Tuesday 26 October 202110am to 12pm on Saturday 23 October 2021 |
-| 29/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 11:30am to 12:40am on Monday 25 October 2021                 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Subway Nambucca Heads2/14-18 Bowra Street | 12:05pm to 12:20pm on Wednesday 20 October 2021              |
@@ -131,7 +128,6 @@
 | 22/10/2021      | Casual Contact       | Albury          | Lifeline Shop Albury6/429 Wilson Street | 7:15am to 12:15[m on Monday 18 October 20218:50am to 2:50pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | KFC AlburyWest End Plaza, 487 Kiewa Street | 7am to 10:15am on Monday 18 October 20217am to 1:15pm on Friday 15 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Harris Farm Markets Albury614 Young Street | 4:20pm to 5:20pm on Saturday 16 October 20218am to 10am on Thursday 14 October 20218am to 4pm on Wednesday 13 October 20218am to 4pm on Tuesday 12 October 2021 |
-| 22/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 5:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Albury Central Hotel473 Young Street | 12am (midnight) to 9:45am on Tuesday 19 October 20219:15pm to 11:59pm on Monday 18 October 2021 |
 | 21/10/2021      | Casual Contact       | Yamba           | Priceline Pharmacy YambaYamba Fair, 1/3 Treelands Drive | 9am to 9:15am on Saturday 16 October 2021                    |
 | 21/10/2021      | Casual Contact       | Yamba           | Coles YambaYamba Fair, 1/3 Treelands Drive | 9:05am to 9:50am on Saturday 16 October 2021                 |

@@ -7,8 +7,7 @@
 | 30/10/2021      | Casual Contact       | Albury          | Beatz Dance Studio545 Smollett Street | 4:30pm to 5:30pm on Thursday 14 October 2021                 |
 | 21/10/2021      | Casual Contact       | Albury          | Cafe Dalchini451 Dean Street | 5:25pm to 6:55pm on Sunday 17 October 2021                   |
 | 19/10/2021      | Casual Contact       | Albury          | Chemist Warehouse Albury483 Olive Street | 10:30am to 12:30pm on Saturday 16 October 2021               |
-| 30/10/2021      | Casual Contact       | Albury          | Genesis (formerly) Ignite Health Club557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 2021                  |
-| 22/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 5:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
+| 30/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 20215:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Harris Farm Markets Albury614 Young Street | 4:20pm to 5:20pm on Saturday 16 October 20218am to 10am on Thursday 14 October 20218am to 4pm on Wednesday 13 October 20218am to 4pm on Tuesday 12 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | KFC AlburyWest End Plaza, 487 Kiewa Street | 7am to 10:15am on Monday 18 October 20217am to 1:15pm on Friday 15 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Lifeline Shop Albury6/429 Wilson Street | 7:15am to 12:15[m on Monday 18 October 20218:50am to 2:50pm on Tuesday 12 October 2021 |
@@ -110,9 +109,6 @@
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
-| 29/10/2021      | Casual Contact       | Oberon          | Mawhood's SUPA IGA Plus Liquor Oberon141 Oberon Street | 11:30am to 12:40am on Monday 25 October 2021                 |
-| 29/10/2021      | Casual Contact       | Oberon          | St Vincent de Paul Society Oberon173 Oberon Street | 10am to 4pm on Tuesday 26 October 202110am to 12pm on Saturday 23 October 2021 |
-| 29/10/2021      | Casual Contact       | Oberon          | St. Ignatius' Parish OberonQueen Street | 7:50am to 9:10am on Sunday 24 October 2021                   |
 | 27/10/2021      | Casual Contact       | Orange          | Alpine Country MeatsShop 4/175 Dalton Street | 4:05pm to 4:15pm on Thursday 21 October 2021                 |
 | 27/10/2021      | Casual Contact       | Orange          | BP Orange56-60 Bathurst Road | 12:55pm to 1pm on Friday 22 October 2021                     |
 | 27/10/2021      | Casual Contact       | Orange          | BWS Orange129 Bathurst Road | 4pm to 5pm on Thursday 21 October 2021                       |
