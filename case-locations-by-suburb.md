@@ -126,6 +126,7 @@
 | 26/10/2021      | Casual Contact       | Perthville      | Metro Petroleum Perthville11-13 Vale Road |  3:15pm to 4pm on Friday 22 October 2021 9:35am to 9:40am on Thursday 21 October 2021 |
 | 25/10/2021      | Casual Contact       | Perthville      | Perthville Feed and Rural Supplies11/13 Vale Road | 12:50pm to 1pm on Friday 22 October 2021                     |
 | 30/10/2021      | Casual Contact       | Shellharbour    | Anytime Fitness Shellharbour1/3 Range Road |  8:25am to 9:40am on Friday 22 October 2021                  |
+| 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
 | 24/10/2021      | Casual Contact       | South Nowra     | Earnest Arthur171 Princes Highway | 2:40pm to 3:50pm on Saturday 16 October 2021                 |
 | 22/10/2021      | Casual Contact       | Sutton Forest   | Eaglehawk Hotel1226 Federal Highway Service Road | 1:15pm to 4:45pm on Saturday 16 October 2021                 |

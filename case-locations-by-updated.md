@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
+| 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |
 | 30/10/2021      | Casual Contact       | Shellharbour    | Anytime Fitness Shellharbour1/3 Range Road |  8:25am to 9:40am on Friday 22 October 2021                  |
 | 30/10/2021      | Casual Contact       | Lavington       | Fresh NailsLavington Square Shopping Centre, 34/351 Griffith Road | 9am to 5:15pm on Friday 22 October 20219am to 7pm on Thursday 21 October 2021 |
 | 30/10/2021      | Casual Contact       | East Albury     | Newmarket Hotel200 Borella Road | 8:40pm to 9:55pm on Wednesday 20 October 2021                |
