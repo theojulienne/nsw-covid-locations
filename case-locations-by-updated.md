@@ -1,7 +1,9 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 31/10/2021      | Casual Contact       | Nowra           | Bakers Delight Nowra Fair32/60 East Street | 3:35pm to 3:40pm on Monday 25 October 2021                   |
 | 31/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2pm to 2:25pm on Wednesday 27 October 20212:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
+| 31/10/2021      | Casual Contact       | Berkeley        | Berkeley Hotel7 Devon Street | 11:30am to 8pm on Friday 29 October 2021                     |
 | 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
 | 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |

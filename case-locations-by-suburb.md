@@ -39,6 +39,7 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm (noon) on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
+| 31/10/2021      | Casual Contact       | Berkeley        | Berkeley Hotel7 Devon Street | 11:30am to 8pm on Friday 29 October 2021                     |
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
 | 23/10/2021      | Casual Contact       | Botany          | BadmintonWorxUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
@@ -94,6 +95,7 @@
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Subway Nambucca Heads2/14-18 Bowra Street | 12:05pm to 12:20pm on Wednesday 20 October 2021              |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
+| 31/10/2021      | Casual Contact       | Nowra           | Bakers Delight Nowra Fair32/60 East Street | 3:35pm to 3:40pm on Monday 25 October 2021                   |
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
