@@ -1,6 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 31/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2pm to 2:25pm on Wednesday 27 October 20212:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
+| 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
+| 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
 | 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |
 | 30/10/2021      | Casual Contact       | Shellharbour    | Anytime Fitness Shellharbour1/3 Range Road |  8:25am to 9:40am on Friday 22 October 2021                  |
@@ -30,7 +32,6 @@
 | 29/10/2021      | Casual Contact       | Casino          | Soul Pattinson Chemist - Scrivener and Webb89 Walker Street | 10:10am to 10:25am on Wednesday 27 October 2021              |
 | 29/10/2021      | Casual Contact       | Casino          | Pets Domain Casino127 Walker Street | 1:30pm to 1:40pm on Tuesday 26 October 20213:20pm to 3:35pm on Tuesday 26 October 2021 |
 | 29/10/2021      | Casual Contact       | Casino          | Country Crumbs Bakery8/136 Johnston Street | 10:20am to 10:25am on Tuesday 26 October 2021                |
-| 29/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 2021 |
 | 28/10/2021      | Casual Contact       | Woonona         | Woonona Bowling and Recreation Club5-9 Greta Street | 11am to 2:30pm on Sunday 24 October 2021                     |
 | 28/10/2021      | Casual Contact       | Orange          | Subway Orange210 Summer Street | 1:15pm to 1:30pm on Friday 22 October 202112:25pm to 12:35pm on Friday 22 October 2021 |
 | 28/10/2021      | Casual Contact       | Orange          | Dan Murphy's Orange86 Summer Street | 6:55pm to 7:20pm on Friday 22 October 2021                   |

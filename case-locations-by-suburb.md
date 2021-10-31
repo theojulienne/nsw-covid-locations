@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 22/10/2021      | Casual Contact       | Albury          | Albury Central Hotel473 Young Street | 12am (midnight) to 9:45am on Tuesday 19 October 20219:15pm to 11:59pm on Monday 18 October 2021 |
+| 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
 | 30/10/2021      | Casual Contact       | Albury          | Beatz Dance Studio545 Smollett Street | 4:30pm to 5:30pm on Thursday 14 October 2021                 |
 | 21/10/2021      | Casual Contact       | Albury          | Cafe Dalchini451 Dean Street | 5:25pm to 6:55pm on Sunday 17 October 2021                   |
 | 30/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 20215:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
@@ -38,7 +39,7 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street |  11:40am to 12pm (noon) on Thursday 21 October 2021 3:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
-| 29/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 2021 |
+| 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
 | 23/10/2021      | Casual Contact       | Botany          | BadmintonWorxUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
