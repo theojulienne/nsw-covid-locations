@@ -2,13 +2,9 @@
 | --- | --- | --- | --- | --- |
 | 22/10/2021      | Casual Contact       | Albury          | Albury Central Hotel473 Young Street | 12am (midnight) to 9:45am on Tuesday 19 October 20219:15pm to 11:59pm on Monday 18 October 2021 |
 | 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
-| 30/10/2021      | Casual Contact       | Albury          | Beatz Dance Studio545 Smollett Street | 4:30pm to 5:30pm on Thursday 14 October 2021                 |
-| 21/10/2021      | Casual Contact       | Albury          | Cafe Dalchini451 Dean Street | 5:25pm to 6:55pm on Sunday 17 October 2021                   |
 | 30/10/2021      | Casual Contact       | Albury          | Geniuses Gym (Also known as Ignite) Albury557 Young Street | 4:40pm to 5:50pm on Tuesday 19 October 20215:15am to 6:45am on Tuesday 19 October 20213pm to 4:45pm on Sunday 17 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | KFC AlburyWest End Plaza, 487 Kiewa Street | 7am to 10:15am on Monday 18 October 20217am to 1:15pm on Friday 15 October 2021 |
 | 22/10/2021      | Casual Contact       | Albury          | Lifeline Shop Albury6/429 Wilson Street | 7:15am to 12:15[m on Monday 18 October 20218:50am to 2:50pm on Tuesday 12 October 2021 |
-| 21/10/2021      | Casual Contact       | Albury          | Regent Cinemas Albury456 Dean Street | 6:30pm to 9pm on Sunday 17 October 2021                      |
-| 30/10/2021      | Casual Contact       | Albury          | SS and A Albury570-582 Olive Street | 11am to 6pm on Sunday 17 October 20212:10pm to 4:40pm on Saturday 16 October 2021 |
 | 30/10/2021      | Casual Contact       | Albury          | The Hair Artistry Establishment393 North Street | 1pm to 4pm on Friday 22 October 2021                         |
 | 26/10/2021      | Casual Contact       | Bathurst        | ALDI Bathurst128 Russell Street |  12:40pm to 1:05pm on Wednesday 20 October 2021              |
 | 26/10/2021      | Casual Contact       | Bathurst        | Ally Fashion BathurstShop 025, Bathurst City Centre, 210 Howick Street | 3:45pm to 4:15pm on Thursday 21 October 20213:45pm to 4:15pm on Thursday 21 October 2021 |
@@ -41,7 +37,6 @@
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
 | 31/10/2021      | Casual Contact       | Berkeley        | Berkeley Hotel7 Devon Street | 11:30am to 8pm on Friday 29 October 2021                     |
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
-| 23/10/2021      | Casual Contact       | Botany          | BadmintonWorxUnit 2/30 Sir Joseph Banks Street | 7pm to 9:30pm on Sunday 17 October 2021                      |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 25/10/2021      | Casual Contact       | Buronga         | IGA Midway Plus Liquor Buronga143 Hendy Road | 8:50am to 2:30pm on Thursday 21 October 20214pm to 7pm on Wednesday 20 October 2021 |
@@ -78,7 +73,6 @@
 | 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 26/10/2021      | Casual Contact       | Kelso           | The Good Guys Kelso8 Stockland Drive |  3:50pm to 4pm on Thursday 21 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
-| 22/10/2021      | Casual Contact       | Kempsey         | Coles KempseyPacific Highway and Belgrave Street | 9:30pm to 9:55pm on Sunday 17 October 2021                   |
 | 29/10/2021      | Casual Contact       | Kyogle          | McKid Medical Centre199 Summerland Way | 12:20pm to 12:50pm on Tuesday 26 October 2021                |
 | 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
@@ -88,6 +82,7 @@
 | 25/10/2021      | Casual Contact       | Lightning Ridge | Service NSW Lightning RidgeShop 2/3 Morilla Street | 11:40am to 12pm (noon) on Wednesday 20 October 2021          |
 | 25/10/2021      | Casual Contact       | Lightning Ridge | The Busy Bee Cafe and Catering23 Opal Street | 9am to 9:30am on Wednesday 20 October 2021                   |
 | 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
+| 01/11/2021      | Casual Contact       | Mount Hutton    | Mount Hutton Medical Practice46 Wilsons Road | 12pm (noon) to 1pm on Tuesday 26 October 2021                |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Bellwood Cafe42 Riverside Drive | 3:40pm to 3:55pm on Tuesday 19 October 20219am to 9:15am on Monday 18 October 2021 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Discount Drug Store24 Ridge Street | 11:35am to 11:50am on Wednesday 20 October 2021              |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Nambucca Heads Newsagency26 Bowra Street | 11:45am to 12pm on Wednesday 20 October 2021                 |
