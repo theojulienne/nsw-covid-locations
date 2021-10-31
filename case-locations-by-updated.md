@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 31/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2pm to 2:25pm on Wednesday 27 October 20212:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
 | 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |
 | 30/10/2021      | Casual Contact       | Shellharbour    | Anytime Fitness Shellharbour1/3 Range Road |  8:25am to 9:40am on Friday 22 October 2021                  |
@@ -51,7 +52,6 @@
 | 27/10/2021      | Casual Contact       | Dubbo           | Talbragar St Newsagency93-95 Talbragar Street | 8:15am to 8:25am on Thursday 21 October 2021                 |
 | 27/10/2021      | Casual Contact       | Dubbo           | Sussan Dubbo139 Macquarie Street | 12:30pm to 1:15pm on Wednesday 20 October 2021               |
 | 27/10/2021      | Casual Contact       | Dubbo           | Harriet + Kay Boutique2/46 Wingewarra Street | 2:05pm to 2:15pm on Tuesday 19 October 2021                  |
-| 27/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane |  2pm to 8:25pm on Wednesday 27 October 20212:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |
 | 27/10/2021      | Casual Contact       | Cowra           | Royce's Homestyle Cakes40 Kendal Street | 12:05pm to 12:20pm on Friday 22 October 202111:30am to 11:40am on Wednesday 20 October 2021 |
 | 27/10/2021      | Casual Contact       | Cowra           | Hong Kong Chinese Restaurant130 Kendal Street | 7:25pm to 7:40pm on Monday 18 October 2021                   |
 | 27/10/2021      | Casual Contact       | Cowra           | Caltex Woolworths13 Railway Lane | 2:30pm to 2:45pm on Tuesday 19 October 20213:25pm to 3:45pm on Sunday 17 October 2021 |
