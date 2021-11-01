@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 01/11/2021      | Casual Contact       | Mount Hutton    | Mount Hutton Medical Practice46 Wilsons Road | 12pm (noon) to 1pm on Tuesday 26 October 2021                |
+| 01/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 4:35pm to 5:50pm on Tuesday 26 October 2021                  |
 | 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |
 | 31/10/2021      | Casual Contact       | Nowra           | Bakers Delight Nowra Fair32/60 East Street | 3:35pm to 3:40pm on Monday 25 October 2021                   |
 | 31/10/2021      | Casual Contact       | Cowra           | Woolworths Cowra3 Railway Lane | 2pm to 2:25pm on Wednesday 27 October 20212:45pm to 3:10pm on Monday 25 October 20216:15pm to 6:45pm on Monday 25 October 20217:25pm to 7:50pm on Sunday 24 October 20211:10pm to 1:50pm on Saturday 23 October 20212:25pm to 3:05pm on Saturday 23 October 20211:50pm to 2:35pm on Tuesday 19 October 20213:45pm to 4:05pm on Monday 18 October 20213:10pm to 3:35pm on Sunday 17 October 2021 |

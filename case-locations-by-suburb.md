@@ -74,6 +74,7 @@
 | 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 26/10/2021      | Casual Contact       | Kelso           | The Good Guys Kelso8 Stockland Drive |  3:50pm to 4pm on Thursday 21 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
+| 01/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 4:35pm to 5:50pm on Tuesday 26 October 2021                  |
 | 29/10/2021      | Casual Contact       | Kyogle          | McKid Medical Centre199 Summerland Way | 12:20pm to 12:50pm on Tuesday 26 October 2021                |
 | 21/10/2021      | Casual Contact       | Lakehaven       | Terry White Chemist Lake HavenShop 113, Lakehaven Drive | 8:15am to 10:15pm on Thursday 21 October 20218:45am to 4:30pm on Wednesday 20 October 20218:15am to 4:30pm on Tuesday 19 October 202110:30am to 4:45pm on Monday 18 October 20219:45am to 4pm on Sunday 17 October 20218:15am to 5:15pm on Saturday 16 October 2021 |
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
