@@ -37,6 +37,7 @@
 | 19/10/2021      | Casual Contact       | Belmont         | Coles BelmontMacquarie Street | 8:10am to 8:45am on Monday 18 October 2021                   |
 | 31/10/2021      | Casual Contact       | Berkeley        | Berkeley Hotel7 Devon Street | 11:30am to 8pm on Friday 29 October 2021                     |
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
+| 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 25/10/2021      | Casual Contact       | Buronga         | IGA Midway Plus Liquor Buronga143 Hendy Road | 8:50am to 2:30pm on Thursday 21 October 20214pm to 7pm on Wednesday 20 October 2021 |
