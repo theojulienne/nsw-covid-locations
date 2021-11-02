@@ -3,8 +3,11 @@
 | 02/11/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street] | 4:50pm to 5:10pm on Monday 18 October 2021                   |
 | 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
 | 02/11/2021      | Casual Contact       | Nowra           | Repco Nowra13 East Street | 4:25pm to 4:40pm on Tuesday 26 October 2021                  |
+| 02/11/2021      | Casual Contact       | Kelso           | Rosannas Streetfood1/13 Marsden Lane | 7:25am to 7:35pm on Friday 29 October 2021                   |
+| 02/11/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 20217:20pm to 7:25pm on Friday 29 October 2021 |
 | 02/11/2021      | Casual Contact       | Broken Hill     | The Broken Hill Pub400 Argent Street | 9:55am to 2:35pm on Sunday 31 October 20214:25pm to 10:05pm on Saturday 30 October 20219:55am to 2:35pm on Saturday 30 October 2021 |
 | 02/11/2021      | Casual Contact       | Bathurst        | Service NSW BathurstMitchell Highway | 3pm to 4pm on Tuesday 26 October 2021                        |
+| 02/11/2021      | Casual Contact       | Bathurst        | Dotti BathurstShop 31, Armada Bathurst Shopping Centre, 40 William Street | 10:30am to 10:35am on Saturday 30 October 2021               |
 | 01/11/2021      | Casual Contact       | Mount Hutton    | Mount Hutton Medical Practice46 Wilsons Road | 12pm (noon) to 1pm on Tuesday 26 October 2021                |
 | 01/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 4:35pm to 5:50pm on Tuesday 26 October 2021                  |
 | 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |
@@ -105,7 +108,6 @@
 | 25/10/2021      | Casual Contact       | Lightning Ridge | BP Lightning RidgeOpal Street | 12pm (noon) to 12:30pm on Wednesday 20 October 2021          |
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
-| 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
 | 25/10/2021      | Casual Contact       | Dubbo           | The Auctioneer Cafe and Bar46 Wingewarra Street | 11:25am to 11:30am on Wednesday 20 October 202111:05am to 11:10am on Tuesday 19 October 2021 |
 | 25/10/2021      | Casual Contact       | Buronga         | IGA Midway Plus Liquor Buronga143 Hendy Road | 8:50am to 2:30pm on Thursday 21 October 20214pm to 7pm on Wednesday 20 October 2021 |
 | 25/10/2021      | Casual Contact       | Bathurst        | Sushia Bathurst64 William Street | 12pm (noon) to 12:10pm on Thursday 21 October 2021           |

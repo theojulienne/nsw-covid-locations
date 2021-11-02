@@ -18,6 +18,7 @@
 | 25/10/2021      | Casual Contact       | Bathurst        | Bras N Things BathurstShop 32 Stockland Mall, 121 Howick Street | 3:30pm to 3:45pm on Thursday 21 October 2021                 |
 | 26/10/2021      | Casual Contact       | Bathurst        | Caltex Bathurst53 Durham Street |  12:10pm to 12:25pm on Wednesday 20 October 2021             |
 | 27/10/2021      | Casual Contact       | Bathurst        | Coles BathurstChase Shopping Centre, 47 William Street |  6:50pm to 7pm on Thursday 21 October 20219:35am to 11:50am on Tuesday 19 October 2021 |
+| 02/11/2021      | Casual Contact       | Bathurst        | Dotti BathurstShop 31, Armada Bathurst Shopping Centre, 40 William Street | 10:30am to 10:35am on Saturday 30 October 2021               |
 | 26/10/2021      | Casual Contact       | Bathurst        | EyeQ Optometrists Bathurst175 Howick Street |  9am to 9:45am on Wednesday 20 October 2021                  |
 | 25/10/2021      | Casual Contact       | Bathurst        | Intersport Bathurst59 William Street | 3:50pm to 4:10pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Jay Jays Bathurst11/121 Howick Street | 2:45pm to 2:55pm on Thursday 21 October 2021                 |
@@ -73,7 +74,8 @@
 | 29/10/2021      | Casual Contact       | Geneva          | Daleys Fruit Tree Nursery 36 Daleys Lane | 11:50am to 12:05pm on Tuesday 26 October 2021                |
 | 28/10/2021      | Casual Contact       | Kelso           | 7-Eleven Kelso64-68 Sydney Road | 6:50am to 7:05am on Tuesday 19 October 20216:45am to 7am on Monday 18 October 20218pm to 8:05pm on Sunday 17 October 2021 |
 | 26/10/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street |  1:30pm to 2:15pm on Tuesday 19 October 2021                 |
-| 25/10/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 2021                |
+| 02/11/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 5:05pm to 5:20pm on Wednesday 20 October 20217:20pm to 7:25pm on Friday 29 October 2021 |
+| 02/11/2021      | Casual Contact       | Kelso           | Rosannas Streetfood1/13 Marsden Lane | 7:25am to 7:35pm on Friday 29 October 2021                   |
 | 26/10/2021      | Casual Contact       | Kelso           | The Good Guys Kelso8 Stockland Drive |  3:50pm to 4pm on Thursday 21 October 2021                   |
 | 25/10/2021      | Casual Contact       | Kelso           | Trinity News and Gifts7/13 Marsden Lane | 5pm to 5:05pm on Wednesday 20 October 2021                   |
 | 01/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 4:35pm to 5:50pm on Tuesday 26 October 2021                  |
