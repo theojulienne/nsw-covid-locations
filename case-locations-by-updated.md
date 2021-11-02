@@ -1,5 +1,10 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 02/11/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street] | 4:50pm to 5:10pm on Monday 18 October 2021                   |
+| 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
+| 02/11/2021      | Casual Contact       | Nowra           | Repco Nowra13 East Street | 4:25pm to 4:40pm on Tuesday 26 October 2021                  |
+| 02/11/2021      | Casual Contact       | Broken Hill     | The Broken Hill Pub400 Argent Street | 9:55am to 2:35pm on Sunday 31 October 20214:25pm to 10:05pm on Saturday 30 October 20219:55am to 2:35pm on Saturday 30 October 2021 |
+| 02/11/2021      | Casual Contact       | Bathurst        | Service NSW BathurstMitchell Highway | 3pm to 4pm on Tuesday 26 October 2021                        |
 | 01/11/2021      | Casual Contact       | Mount Hutton    | Mount Hutton Medical Practice46 Wilsons Road | 12pm (noon) to 1pm on Tuesday 26 October 2021                |
 | 01/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 4:35pm to 5:50pm on Tuesday 26 October 2021                  |
 | 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |

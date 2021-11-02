@@ -27,6 +27,7 @@
 | 26/10/2021      | Casual Contact       | Bathurst        | Priceline BathurstShop 4C/121 Howick Street |  3:20pm to 3:30pm on Thursday 21 October 2021                |
 | 26/10/2021      | Casual Contact       | Bathurst        | Reliance Bank Bathurst203-209 Russell Street | 12:30pm to 12:40pm on Wednesday 20 October 2021              |
 | 26/10/2021      | Casual Contact       | Bathurst        | Sanity BathurstShop 32/33/81/83 Bentinck Street | 2:55pm to 3:10pm on Friday 22 October 2021                   |
+| 02/11/2021      | Casual Contact       | Bathurst        | Service NSW BathurstMitchell Highway | 3pm to 4pm on Tuesday 26 October 2021                        |
 | 27/10/2021      | Casual Contact       | Bathurst        | Shell Coles Express Bathurst West298 Stewart Street (Corner of Rocket Street) | 6:30am to 6:45am on Tuesday 19 October 2021                  |
 | 25/10/2021      | Casual Contact       | Bathurst        | Silly Sollys BathurstShop 2/39 William Street | 3:25pm to 3:50pm on Friday 22 October 2021                   |
 | 23/10/2021      | Casual Contact       | Bathurst        | St George Bathurst155 Howick Street | 9:40am to 9:50am on Wednesday 20 October 2021                |
@@ -39,6 +40,7 @@
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
 | 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
+| 02/11/2021      | Casual Contact       | Broken Hill     | The Broken Hill Pub400 Argent Street | 9:55am to 2:35pm on Sunday 31 October 20214:25pm to 10:05pm on Saturday 30 October 20219:55am to 2:35pm on Saturday 30 October 2021 |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 25/10/2021      | Casual Contact       | Buronga         | IGA Midway Plus Liquor Buronga143 Hendy Road | 8:50am to 2:30pm on Thursday 21 October 20214pm to 7pm on Wednesday 20 October 2021 |
 | 29/10/2021      | Casual Contact       | Casino          | Country Crumbs Bakery8/136 Johnston Street | 10:20am to 10:25am on Tuesday 26 October 2021                |
@@ -93,6 +95,8 @@
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
 | 31/10/2021      | Casual Contact       | Nowra           | Bakers Delight Nowra Fair32/60 East Street | 3:35pm to 3:40pm on Monday 25 October 2021                   |
+| 02/11/2021      | Casual Contact       | Nowra           | Repco Nowra13 East Street | 4:25pm to 4:40pm on Tuesday 26 October 2021                  |
+| 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
 | 23/10/2021      | Casual Contact       | Oak Flats       | IGA Oak Flats76 Central Avenue | 9:55am to 10:05am on Monday 18 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 23/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Newsagency74B Central Avenue | 9:50am to 10am on Monday 18 October 2021                     |
@@ -118,6 +122,7 @@
 | 27/10/2021      | Casual Contact       | Tuggerah        | Foot Locker TuggerahShop 1-M3/50 Wyong Road | 10:55pm to 11:05am on Monday 18 October 2021                 |
 | 26/10/2021      | Casual Contact       | Tuggerah        | Fresh Nails and Beauty TuggerahWestfield Tuggerah, 50 Wyong Road | 9am to 5:30pm on Tuesday 19 October 2021                     |
 | 24/10/2021      | Casual Contact       | Umina Beach     | Bunnings UminaCorner of West Street and South Street | 7:30am to 9:15am on Monday 18 October 2021                   |
+| 02/11/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street] | 4:50pm to 5:10pm on Monday 18 October 2021                   |
 | 24/10/2021      | Casual Contact       | Warrawong       | Liquorland WarrawongShop 2-2A Bayview Centre, Cowper Street | 3:50pm to 4:05pm on Friday 22 October 2021                   |
 | 24/10/2021      | Casual Contact       | Warrawong       | Shell Coles Express Warrawong26/30 King Street | 7:40pm to 7:50pm on Thursday 21 October 2021                 |
 | 25/10/2021      | Casual Contact       | Windale         | Windale Community Medical Centre33 Lake Street | 4:10pm to 4:55pm on Wednesday 20 October 2021                |
