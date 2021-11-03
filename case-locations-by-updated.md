@@ -1,5 +1,17 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 03/11/2021      | Casual Contact       | Wollongong      | McDonald's WollongongShop 022/174, 200 Crown Street | 8:30am to 11am on Monday 18 October 2021                     |
+| 03/11/2021      | Casual Contact       | Warrawong       | Coles WarrawongWarrawong Plaza, Cowper Street | 4:55pm to 5:10pm on Friday 15 October 2021                   |
+| 03/11/2021      | Casual Contact       | Thirroul        | Thirroul Surf Life Saving ClubCliff Parade | 4:15pm to 7:30pm on Sunday 31 October 2021                   |
+| 03/11/2021      | Casual Contact       | South Nowra     | Shoalhaven Shooting Supplies2/17 Bellevue Street | 10:50am to 11:05am on Wednesday 27 October 2021              |
+| 03/11/2021      | Casual Contact       | Queanbeyan      | Queanbeyan GP Super Clinic23 Antill Street | 12:50pm to 2:30pm on Thursday 28 October 2021                |
+| 03/11/2021      | Casual Contact       | Kembla Grange   | Bunnings Kembla Grange640 Northcliffe Drive | 12:25pm to 1:25pm on Saturday 16 October 20212:15pm to 4:55pm on Saturday 16 October 202111:40am to 12:10pm on Thursday 14 October 2021 |
+| 03/11/2021      | Casual Contact       | Dubbo           | Bunnings Bathurst21 Great Western Highway | 4:55pm to 5:25pm on Saturday 30 October 2021                 |
+| 03/11/2021      | Casual Contact       | Berkeley        | Coles BerkeleyShopping Centre, 65 Winnima Way | 12:55pm to 1:20pm on Thursday 14 October 2021                |
+| 03/11/2021      | Casual Contact       | Bathurst        | Metro Cinemas Bathurst144 Piper Street | 12:10pm to 2:15pm on Sunday 31 October 2021                  |
+| 03/11/2021      | Casual Contact       | Bathurst        | Manning Aquatic Centre BathurstElizabeth Street | 9:30am to 11:30am on Saturday 30 October 2021                |
+| 03/11/2021      | Casual Contact       | Bathurst        | Dedicated to Fitness Bathurst21 Bradwardine Road | 5:50pm to 7pm on Friday 29 October 2021                      |
+| 03/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 2021               |
 | 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
 | 02/11/2021      | Casual Contact       | Nowra           | Repco Nowra13 East Street | 4:25pm to 4:40pm on Tuesday 26 October 2021                  |
 | 02/11/2021      | Casual Contact       | Kelso           | Rosannas Streetfood1/13 Marsden Lane | 7:25am to 7:35pm on Friday 29 October 2021                   |
@@ -62,7 +74,7 @@
 | 27/10/2021      | Casual Contact       | Cowra           | Bunnings Cowra22 Redfern Street | 12:15pm to 12:40pm on Wednesday 20 October 2021              |
 | 27/10/2021      | Casual Contact       | Broken Hill     | Woolworths Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Broken Hill     | BWS Broken HillWestside Plaza, 7 Galena Street | 6:15pm to 7:15pm on Friday 22 October 2021                   |
-| 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 11:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
+| 27/10/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 10:50am to 11:40am on Sunday 31 October 202110:45am to 11:05am on Saturday 30 October 202111:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Moodies Pharmacy Bathurst165 Howick Street | 4:20pm to 6:25pm on Wednesday 20 October 20219:25am to 9:35am on Tuesday 19 October 2021 |
 | 27/10/2021      | Casual Contact       | Bathurst        | Kmart BathurstArmada Bathurst Shopping Centre, 38 William Street | 10:55am to 11:35am on Thursday 21 October 20212:45pm to 3:20pm on Thursday 21 October 2021 |
