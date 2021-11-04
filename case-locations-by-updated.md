@@ -1,7 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 04/11/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 6:55pm to 7:10pm on Friday 29 October 2021                   |
-| 04/11/2021      | Casual Contact       | Spring Hill     | Revolution Laser Arena Spring Hill1/2 Drummond Street | 2pm to 5pm on Saturday 30 October 2021                       |
+| 04/11/2021      | Close Contact        | Thirroul        | Thirroul Surf Life Saving Club - function roomCliff Parade | 4:15pm to 7:30pm on Sunday 31 October 2021                   |
+| 04/11/2021      | Close Contact        | Spring Hill     | Revolution Laser Arena Spring Hill1/2 Drummond Street | 2pm to 5pm on Saturday 30 October 2021                       |
 | 04/11/2021      | Casual Contact       | Inverell        | BEST Community Connections Inverell89 Vivian Street | All day on Monday 1 November 202112am (midnight) to 5pm on Sunday 31 October 2021All day on Sunday 31 October 2021All day on Saturday 30 October 2021All day on Saturday 30 October 20212:30pm to 12am (midnight) on Friday 29 October 2021All day on Friday 29 October 2021All day on Thursday 28 October 2021All day on Wednesday 27 October 2021All day on Tuesday 26 October 2021All day on Monday 25 October 2021 |
 | 04/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst City Centre210 Howick Street | 1:25pm to 1:55pm on Sunday 31 October 2021                   |
 | 04/11/2021      | Casual Contact       | Bathurst        | Novia Massage BathurstBathurst City Centre, 210 Howick Street | 4pm to 5pm on Sunday 31 October 2021                         |

@@ -99,7 +99,8 @@
 | 30/10/2021      | Casual Contact       | Singleton Heights | Singleton Heights Medical Practice108 Blaxland Avenue | 11:15am to 11:45am on Saturday 23 October 2021               |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
 | 03/11/2021      | Casual Contact       | South Nowra     | Shoalhaven Shooting Supplies2/17 Bellevue Street | 10:50am to 11:05am on Wednesday 27 October 2021              |
-| 04/11/2021      | Casual Contact       | Spring Hill     | Revolution Laser Arena Spring Hill1/2 Drummond Street | 2pm to 5pm on Saturday 30 October 2021                       |
+| 04/11/2021      | Close Contact        | Spring Hill     | Revolution Laser Arena Spring Hill1/2 Drummond Street | 2pm to 5pm on Saturday 30 October 2021                       |
+| 04/11/2021      | Close Contact        | Thirroul        | Thirroul Surf Life Saving Club - function roomCliff Parade | 4:15pm to 7:30pm on Sunday 31 October 2021                   |
 | 03/11/2021      | Casual Contact       | Thirroul        | Thirroul Surf Life Saving ClubCliff Parade | 4:15pm to 7:30pm on Sunday 31 October 2021                   |
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
 | 26/10/2021      | Casual Contact       | Tocumwal        | Amavi Hair by Jayde32 Hill Street | 2pm to 3pm on Thursday 21 October 2021                       |
