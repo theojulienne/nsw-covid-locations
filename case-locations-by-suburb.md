@@ -10,7 +10,7 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | BWS Bathurst210 Howick Street | 5:35pm to 5:55pm on Friday 22 October 2021                   |
 | 04/11/2021      | Casual Contact       | Bathurst        | Bathurst Library70-78 Keppel Street | 12:40pm to 1:20pm on Sunday 31 October 2021                  |
 | 04/11/2021      | Casual Contact       | Bathurst        | Best&Less BathurstBathurst City Centre Bentinck Street and Howick Street | 4:55pm to 5:20pm on Wednesday 27 October 2021                |
-| 04/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20213pm to 3:15pm on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
+| 05/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20219:35am to 9:40am on Friday 29 October 20213pm to 3:15pm on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
 | 03/11/2021      | Casual Contact       | Bathurst        | Bunnings Bathurst21 Great Western Highway | 4:55pm to 5:25pm on Saturday 30 October 2021                 |
 | 04/11/2021      | Casual Contact       | Bathurst        | Commonwealth Bank BathurstShop 1/80-84 William Street | 5:40pm to 5:55pm on Wednesday 27 October 2021                |
 | 03/11/2021      | Casual Contact       | Bathurst        | Dedicated to Fitness Bathurst21 Bradwardine Road | 5:50pm to 7pm on Friday 29 October 2021                      |
@@ -28,7 +28,7 @@
 | 25/10/2021      | Casual Contact       | Bathurst        | Silly Sollys BathurstShop 2/39 William Street | 3:10pm to 4:05pm on Friday 29 October 20214:50pm to 5:15pm on Monday 25 October 20213:25pm to 3:50pm on Friday 22 October 2021 |
 | 27/10/2021      | Casual Contact       | Bathurst        | The Reject Shop BathurstShop MM5, Bathurst City Centre, 210 Howick Street | 3:05pm to 3:20pm on Friday 22 October 2021                   |
 | 04/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst City Centre210 Howick Street | 1:25pm to 1:55pm on Sunday 31 October 2021                   |
-| 03/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 10:50am to 11:40am on Sunday 31 October 20215:05pm to 5:30pm on Sunday 31 October 202110:45am to 11:05am on Saturday 30 October 20214:40pm to 5pm on Monday 25 October 202111:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
+| 05/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 10:50am to 11:40am on Sunday 31 October 20215:05pm to 5:30pm on Sunday 31 October 202110:45am to 11:05am on Saturday 30 October 20219:40am to 10:05am on Friday 29 October 20214:40pm to 5pm on Monday 25 October 202111:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 31/10/2021      | Casual Contact       | Berkeley        | Berkeley Hotel7 Devon Street | 11:30am to 8pm on Friday 29 October 2021                     |
 | 31/10/2021      | Casual Contact       | Bondi Junction  | Tea Gardens Hotel2-4 Bronte Road | 12am (midnight) to 2am on Sunday 24 October 20217pm to 12am (midnight) on Saturday 23 October 20215pm to 10pm on Wednesday 20 October 2021 |
 | 01/11/2021      | Casual Contact       | Boolaroo        | Boolaroo Medical Practice33 Main Road | 10:30am to 11:15am on Thursday 28 October 2021               |
@@ -54,6 +54,7 @@
 | 29/10/2021      | Casual Contact       | Geneva          | Daleys Fruit Tree Nursery36 Daleys Lane | 11:50am to 12:05pm on Tuesday 26 October 2021                |
 | 04/11/2021      | Casual Contact       | Inverell        | BEST Community Connections Inverell89 Vivian Street | All day on Monday 1 November 202112am (midnight) to 5pm on Sunday 31 October 2021All day on Sunday 31 October 2021All day on Saturday 30 October 2021All day on Saturday 30 October 20212:30pm to 12am (midnight) on Friday 29 October 2021All day on Friday 29 October 2021All day on Thursday 28 October 2021All day on Wednesday 27 October 2021All day on Tuesday 26 October 2021All day on Monday 25 October 2021 |
 | 02/11/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 7:20pm to 7:25pm on Friday 29 October 20215:05pm to 5:20pm on Wednesday 20 October 2021 |
+| 05/11/2021      | Casual Contact       | Kelso           | McDonalds KelsoCorner Pat O'Leary Drive and Great Western Highway | 12:05pm to 12:30pm on Monday 1 November 2021                 |
 | 02/11/2021      | Casual Contact       | Kelso           | Rosannas Streetfood1/13 Marsden Lane | 7:25am to 7:35pm on Friday 29 October 2021                   |
 | 03/11/2021      | Casual Contact       | Kooringal       | Inspire Church Wagga555 Kooringal Road | 10:45am to 12:30pm on Sunday 31 October 2021                 |
 | 03/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 12pm to 1pm on Tuesday 26 October 20214:35pm to 5:50pm on Tuesday 26 October 2021 |
@@ -66,12 +67,15 @@
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Pelicans Landing Garden Centre2 Riverside Drive | 12:20pm to 12:30pm on Monday 25 October 2021                 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Woolworths Nambucca HeadsCorner Fraser and Back Streets | 3:50pm to 4:35pm on Sunday 24 October 2021                   |
+| 05/11/2021      | Casual Contact       | North Orange    | Woolworths North Orange9 Telopea Way | 8:35am to 8:50am on Monday 1 November 2021                   |
 | 31/10/2021      | Casual Contact       | Nowra           | Bakers Delight NowraNowra Fair, 32/60 East Street | 3:35pm to 3:40pm on Monday 25 October 2021                   |
 | 02/11/2021      | Casual Contact       | Nowra           | Repco Nowra13 East Street | 4:25pm to 4:40pm on Tuesday 26 October 2021                  |
 | 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 27/10/2021      | Casual Contact       | Orange          | BP Orange56-60 Bathurst Road | 12:55pm to 1pm on Friday 22 October 2021                     |
+| 05/11/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner Northern Distributor Road and Leeds Parade | 8:15am to 8:35am on Monday 1 November 2021                   |
 | 28/10/2021      | Casual Contact       | Orange          | Dan Murphy's Orange86 Summer Street | 6:55pm to 7:20pm on Friday 22 October 2021                   |
+| 05/11/2021      | Casual Contact       | Orange          | Metro Petroleum Bathurst68 Bathurst Road | 8:15am to 8:20am on Monday 1 November 2021                   |
 | 27/10/2021      | Casual Contact       | Orange          | Orange Baby Kingdom110 Summer Street | 12am (midnight) to 3:05pm on Saturday 23 October 20212:50am to 3:10pm on Thursday 21 October 2021 |
 | 27/10/2021      | Casual Contact       | Orange          | Shell Coles Express OrangeSummer Street and Sale Street | 7:05pm to 7:25pm on Friday 22 October 2021                   |
 | 28/10/2021      | Casual Contact       | Orange          | Subway Orange210 Summer Street | 1:15pm to 1:30pm on Friday 22 October 202112:25pm to 12:35pm on Friday 22 October 2021 |
@@ -90,4 +94,5 @@
 | 30/10/2021      | Casual Contact       | Thurgoona       | Thurgoona Country Club Resort1 Evesham Place | 5pm to 6:15pm on Saturday 23 October 2021                    |
 | 24/10/2021      | Casual Contact       | Warrawong       | Liquorland WarrawongShop 2-2A Bayview Centre, Cowper Street | 3:50pm to 4:05pm on Friday 22 October 2021                   |
 | 04/11/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 6:55pm to 7:10pm on Friday 29 October 2021                   |
+| 05/11/2021      | Casual Contact       | Wellington      | D'Aquino's Liquor Wellington126 Percy Street | 4:35pm to 4:40pm on Monday 1 November 2021                   |
 | 28/10/2021      | Casual Contact       | Woonona         | Woonona Bowling and Recreation Club5-9 Greta Street | 11am to 2:30pm on Sunday 24 October 2021                     |

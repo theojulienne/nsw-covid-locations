@@ -1,9 +1,16 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 05/11/2021      | Casual Contact       | Wellington      | D'Aquino's Liquor Wellington126 Percy Street | 4:35pm to 4:40pm on Monday 1 November 2021                   |
 | 05/11/2021      | Casual Contact       | Thirroul        | Toro Sushiya1/369 Lawrence Hargrave Drive | 12:55pm to 2pm on Sunday 31 October 2021                     |
 | 05/11/2021      | Casual Contact       | Thirroul        | Madam ChoiShop 5/291-301 Lawrence Hargrave Drive | 5:55pm to 7:30pm on Saturday 30 October 2021                 |
+| 05/11/2021      | Casual Contact       | Orange          | Metro Petroleum Bathurst68 Bathurst Road | 8:15am to 8:20am on Monday 1 November 2021                   |
+| 05/11/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner Northern Distributor Road and Leeds Parade | 8:15am to 8:35am on Monday 1 November 2021                   |
+| 05/11/2021      | Casual Contact       | North Orange    | Woolworths North Orange9 Telopea Way | 8:35am to 8:50am on Monday 1 November 2021                   |
 | 05/11/2021      | Casual Contact       | Lavington       | Holy Spirit Church550 Prune Street | 8am to 9am on Sunday 31 October 20219am to 9:50am on Saturday 30 October 2021 |
+| 05/11/2021      | Casual Contact       | Kelso           | McDonalds KelsoCorner Pat O'Leary Drive and Great Western Highway | 12:05pm to 12:30pm on Monday 1 November 2021                 |
 | 05/11/2021      | Casual Contact       | Coledale        | Sketch at Coledale748 Lawrence Hargrave Drive | 1:10pm to 2:15pm on Saturday 30 October 2021                 |
+| 05/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 10:50am to 11:40am on Sunday 31 October 20215:05pm to 5:30pm on Sunday 31 October 202110:45am to 11:05am on Saturday 30 October 20219:40am to 10:05am on Friday 29 October 20214:40pm to 5pm on Monday 25 October 202111:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
+| 05/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20219:35am to 9:40am on Friday 29 October 20213pm to 3:15pm on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
 | 05/11/2021      | Close Contact        | Armidale        | TG's Child Care Armidale11 Samuelson Crescent | All day on Wednesday 3 November 2021All day on Tuesday 2 November 2021All day on Monday 1 November 2021 |
 | 04/11/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 6:55pm to 7:10pm on Friday 29 October 2021                   |
 | 04/11/2021      | Close Contact        | Thirroul        | Thirroul Surf Life Saving Club - function roomCliff Parade | 4:15pm to 7:30pm on Sunday 31 October 2021                   |
@@ -14,7 +21,6 @@
 | 04/11/2021      | Casual Contact       | Bathurst        | News N More BathurstShop 19 Stockland Shopping Centre, 46-52 William Street | 3:05pm to 3:20pm on Friday 29 October 2021                   |
 | 04/11/2021      | Casual Contact       | Bathurst        | NAB Bathurst103 William Street | 2:35pm to 2:55pm on Thursday 28 October 2021                 |
 | 04/11/2021      | Casual Contact       | Bathurst        | Commonwealth Bank BathurstShop 1/80-84 William Street | 5:40pm to 5:55pm on Wednesday 27 October 2021                |
-| 04/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20213pm to 3:15pm on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
 | 04/11/2021      | Casual Contact       | Bathurst        | Best&Less BathurstBathurst City Centre Bentinck Street and Howick Street | 4:55pm to 5:20pm on Wednesday 27 October 2021                |
 | 04/11/2021      | Casual Contact       | Bathurst        | Bathurst Library70-78 Keppel Street | 12:40pm to 1:20pm on Sunday 31 October 2021                  |
 | 04/11/2021      | Casual Contact       | Bathurst        | ALDI Bathurst128 Russell Street | 1:10pm to 1:35pm on Sunday 31 October 2021                   |
@@ -24,7 +30,6 @@
 | 03/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 12pm to 1pm on Tuesday 26 October 20214:35pm to 5:50pm on Tuesday 26 October 2021 |
 | 03/11/2021      | Casual Contact       | Kooringal       | Inspire Church Wagga555 Kooringal Road | 10:45am to 12:30pm on Sunday 31 October 2021                 |
 | 03/11/2021      | Casual Contact       | Coolah          | Coolah Veterinary Clinic113 Binnia Street | 4pm to 5:30pm on Friday 29 October 2021                      |
-| 03/11/2021      | Casual Contact       | Bathurst        | Woolworths Bathurst121 Howick Street | 10:50am to 11:40am on Sunday 31 October 20215:05pm to 5:30pm on Sunday 31 October 202110:45am to 11:05am on Saturday 30 October 20214:40pm to 5pm on Monday 25 October 202111:40am to 12pm (noon) on Thursday 21 October 20213:20pm to 3:40pm on Thursday 21 October 20218:05pm to 8:30pm on Thursday 21 October 2021 |
 | 03/11/2021      | Casual Contact       | Bathurst        | Metro Cinemas Bathurst144 Piper Street | 12:10pm to 2:15pm on Sunday 31 October 2021                  |
 | 03/11/2021      | Casual Contact       | Bathurst        | Manning Aquatic Centre BathurstElizabeth Street | 9:30am to 11:30am on Saturday 30 October 2021                |
 | 03/11/2021      | Casual Contact       | Bathurst        | Dedicated to Fitness Bathurst21 Bradwardine Road | 5:50pm to 7pm on Friday 29 October 2021                      |
