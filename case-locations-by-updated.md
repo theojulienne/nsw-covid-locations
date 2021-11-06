@@ -1,5 +1,6 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 07/11/2021      | Close Contact        | Inverell        | •	Best Community Connections Disability and Respite Care92 Vivien Street | 9:30am to 2:30pm on Thursday 28 October 20219:30am to 2:30pm on Friday 29 October 20218:30am to 3:30pm on Monday 1 November 20218:30am to 3:30pm on Tuesday 2 November 2021 |
 | 06/11/2021      | Test (isolate w/ symptoms) | Wellington      | The Grand Hotel - Dining Room111-113 Lee Street | 12:30pm to 3:30pm on Tuesday 2 November 2021                 |
 | 06/11/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street | 3:20pm to 3:25pm on Thursday 4 November 2021                 |
 | 06/11/2021      | Casual Contact       | Dubbo           | Dubbo RSL Memorial Club178 Brisbane Street | 5pm to 8pm on Wednesday 3 November 2021                      |
