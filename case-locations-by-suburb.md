@@ -2,7 +2,6 @@
 | --- | --- | --- | --- | --- |
 | 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am (midnight) to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
 | 30/10/2021      | Casual Contact       | Albury          | The Hair Artistry Establishment393 North Street | 1pm to 4pm on Friday 22 October 2021                         |
-| 05/11/2021      | Close Contact        | Armidale        | TG's Child Care Armidale11 Samuelson Crescent | All day on Wednesday 3 November 2021All day on Tuesday 2 November 2021All day on Monday 1 November 2021 |
 | 04/11/2021      | Casual Contact       | Bathurst        | ALDI Bathurst128 Russell Street | 1:10pm to 1:35pm on Sunday 31 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Annies Old Fashioned Ice Cream Parlour82/86 George Street | 4:15pm to 4:40pm on Friday 22 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | Australian Red Cross Bathurst65 William Street | 3:15pm to 3:25pm on Friday 22 October 2021                   |
@@ -10,7 +9,7 @@
 | 27/10/2021      | Casual Contact       | Bathurst        | BWS Bathurst210 Howick Street | 5:35pm to 5:55pm on Friday 22 October 2021                   |
 | 04/11/2021      | Casual Contact       | Bathurst        | Bathurst Library70-78 Keppel Street | 12:40pm to 1:20pm on Sunday 31 October 2021                  |
 | 04/11/2021      | Casual Contact       | Bathurst        | Best&Less BathurstBathurst City Centre Bentinck Street and Howick Street | 4:55pm to 5:20pm on Wednesday 27 October 2021                |
-| 05/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20219:35am to 9:40am on Friday 29 October 20213pm to 3:15pm on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
+| 05/11/2021      | Casual Contact       | Bathurst        | Blooms The Chemist Bathurst121 Howick Street | 10:35am to 10:50am on Saturday 30 October 20213pm to 3:15pm on Friday 29 October 20219:35am to 9:40am on Friday 29 October 20215:10pm to 5:25pm on Wednesday 27 October 2021 |
 | 03/11/2021      | Casual Contact       | Bathurst        | Bunnings Bathurst21 Great Western Highway | 4:55pm to 5:25pm on Saturday 30 October 2021                 |
 | 04/11/2021      | Casual Contact       | Bathurst        | Commonwealth Bank BathurstShop 1/80-84 William Street | 5:40pm to 5:55pm on Wednesday 27 October 2021                |
 | 03/11/2021      | Casual Contact       | Bathurst        | Dedicated to Fitness Bathurst21 Bradwardine Road | 5:50pm to 7pm on Friday 29 October 2021                      |
