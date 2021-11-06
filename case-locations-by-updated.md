@@ -1,5 +1,8 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 06/11/2021      | Test (isolate w/ symptoms) | Wellington      | The Grand Hotel (Dining room)111-113 Lee Street | 12:30pm to 3:30pm on Tuesday 2 November 2021                 |
+| 06/11/2021      | Casual Contact       | Dubbo           | Dubbo RSL Memorial Club178 Brisbane Street | 5pm to 8pm on Wednesday 3 November 2021                      |
+| 06/11/2021      | Casual Contact       | Bathurst        | Bathurst Corner Store216 William Street | 4:30pm to 4:40pm on Sunday 31 October 2021                   |
 | 05/11/2021      | Casual Contact       | Wellington      | D'Aquino's Liquor Wellington126 Percy Street | 4:35pm to 4:40pm on Monday 1 November 2021                   |
 | 05/11/2021      | Casual Contact       | Thirroul        | Toro Sushiya1/369 Lawrence Hargrave Drive | 12:55pm to 2pm on Sunday 31 October 2021                     |
 | 05/11/2021      | Casual Contact       | Thirroul        | Madam ChoiShop 5/291-301 Lawrence Hargrave Drive | 5:55pm to 7:30pm on Saturday 30 October 2021                 |
