@@ -1,6 +1,7 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
 | 31/10/2021      | Close Contact        | Albury          | Albury Tigers ClubWodonga Place | 12am (midnight) to 12:30am on Sunday 24 October 20217pm to 11:59pm on Saturday 23 October 2021 |
+| 07/11/2021      | Casual Contact       | Alstonville     | Alstonville Family DentalThe Plaza, Shop 37/8-20 Robertson Street | All day on Wednesday 3 November 2021All day on Tuesday 2 November 2021All day on Monday 1 November 2021All day on Friday 29 October 2021 |
 | 04/11/2021      | Casual Contact       | Bathurst        | ALDI Bathurst128 Russell Street | 1:10pm to 1:35pm on Sunday 31 October 2021                   |
 | 27/10/2021      | Casual Contact       | Bathurst        | BIG W BathurstHowick Street and Bentinck Street | 5:10pm to 5:35pm on Wednesday 27 October 20212:05pm to 2:40pm on Thursday 21 October 2021 |
 | 06/11/2021      | Casual Contact       | Bathurst        | Bathurst Corner Store216 William Street | 4:30pm to 4:40pm on Sunday 31 October 2021                   |
@@ -40,7 +41,9 @@
 | 06/11/2021      | Casual Contact       | Dubbo           | Dubbo RSL Memorial Club178 Brisbane Street | 5pm to 8pm on Wednesday 3 November 2021                      |
 | 29/10/2021      | Casual Contact       | Geneva          | Daleys Fruit Tree Nursery36 Daleys Lane | 11:50am to 12:05pm on Tuesday 26 October 2021                |
 | 04/11/2021      | Casual Contact       | Inverell        | BEST Community Connections Inverell89 Vivian Street | All day on Monday 1 November 202112am (midnight) to 5pm on Sunday 31 October 2021All day on Sunday 31 October 2021All day on Saturday 30 October 2021All day on Saturday 30 October 20212:30pm to 12am (midnight) on Friday 29 October 2021All day on Friday 29 October 2021All day on Thursday 28 October 2021All day on Wednesday 27 October 2021All day on Tuesday 26 October 2021All day on Monday 25 October 2021 |
-| 07/11/2021      | Close Contact        | Inverell        | •	Best Community Connections Disability and Respite Care92 Vivien Street | 9:30am to 2:30pm on Thursday 28 October 20219:30am to 2:30pm on Friday 29 October 20218:30am to 3:30pm on Monday 1 November 20218:30am to 3:30pm on Tuesday 2 November 2021 |
+| 07/11/2021      | Close Contact        | Inverell        | BEST Community Connections Inverell89 Vivien Street | 8:30am to 3:30pm on Tuesday 2 November 20218:30am to 3:30pm on Monday 1 November 20219:30am to 2:30pm on Friday 29 October 20219:30am to 2:30pm on Thursday 28 October 2021 |
+| 07/11/2021      | Casual Contact       | Ivanhoe         | Ivanhoe Hotel Motel10 Columbus Street | 1:20pm to 1:35pm on Wednesday 3 November 20214:30pm to 5:30pm on Tuesday 2 November 2021 |
+| 07/11/2021      | Casual Contact       | Ivanhoe         | Ivanhoe Petrol Station28 Columbus Street | 11am to 12pm on Tuesday 2 November 2021                      |
 | 06/11/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street | 3:20pm to 3:25pm on Thursday 4 November 2021                 |
 | 02/11/2021      | Casual Contact       | Kelso           | IGA Trinity Heights13 Marsden Lane | 7:20pm to 7:25pm on Friday 29 October 20215:05pm to 5:20pm on Wednesday 20 October 2021 |
 | 05/11/2021      | Casual Contact       | Kelso           | McDonalds KelsoCorner of Pat O'Leary Drive and Great Western Highway | 12:05pm to 12:30pm on Monday 1 November 2021                 |
@@ -48,6 +51,7 @@
 | 03/11/2021      | Casual Contact       | Kooringal       | Inspire Church Wagga555 Kooringal Road | 10:45am to 12:30pm on Sunday 31 October 2021                 |
 | 03/11/2021      | Casual Contact       | Kurri Kurri     | Family Medical Centre Kurri Kurri312 Lang Street | 12pm (noon) to 1pm on Tuesday 26 October 20214:35pm to 5:50pm on Tuesday 26 October 2021 |
 | 29/10/2021      | Casual Contact       | Kyogle          | McKid Medical Centre199 Summerland Way | 12:20pm to 12:50pm on Tuesday 26 October 2021                |
+| 07/11/2021      | Casual Contact       | Lakemba         | Iqra Youth Welfare Centre24 Ernest Street | 12:55pm to 2:05pm on Friday 5 November 2021                  |
 | 25/10/2021      | Casual Contact       | Lambton         | Elder Street Practice92 Elder Street | 12am (midnight) to 2:50pm on Sunday 24 October 2021All day on Saturday 23 October 2021All day on Friday 22 October 2021All day on Thursday 21 October 20212:20pm to 2:50pm on Wednesday 20 October 2021 |
 | 05/11/2021      | Casual Contact       | Lavington       | Holy Spirit Church550 Prune Street | 8am to 9am on Sunday 31 October 20219am to 9:50am on Saturday 30 October 2021 |
 | 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
@@ -61,6 +65,7 @@
 | 02/11/2021      | Casual Contact       | Nowra           | Wan Long Oriental Store Nowra86 Worrigee Street | 4:05pm to 4:20pm on Tuesday 26 October 2021                  |
 | 27/10/2021      | Casual Contact       | Oak Flats       | Oak Flats Hot Bread Shop1/69 Central Avenue | 9:40am to 9:50am on Sunday 24 October 2021                   |
 | 05/11/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner of Northern Distributor Road and Leeds Parade | 8:15am to 8:35am on Monday 1 November 2021                   |
+| 07/11/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street | 6:10pm to 6:15pm on Wednesday 3 November 2021                |
 | 05/11/2021      | Casual Contact       | Orange          | Metro Petroleum Bathurst68 Bathurst Road | 8:15am to 8:20am on Monday 1 November 2021                   |
 | 03/11/2021      | Casual Contact       | Queanbeyan      | Queanbeyan GP Super Clinic23 Antill Street | 12:50pm to 2:30pm on Thursday 28 October 2021                |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
