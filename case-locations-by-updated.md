@@ -1,5 +1,9 @@
 | Last updated    | Type                 | Suburb          | Venue                     | Date and time of exposure                                    |
 | --- | --- | --- | --- | --- |
+| 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Check-in hall, security screening and departure lounge facilities1 Williamtown Drive | 1:13pm to 2:01pm on Monday 1 November 2021                   |
+| 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Arrivals hall and male toilets1 Williamtown Drive | 1:08pm to 1:12pm on Wednesday 3 November 2021                |
+| 08/11/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Performing Arts1a Hibbard Drive | 9am to 10:30am on Monday 1 November 2021                     |
+| 08/11/2021      | Casual Contact       | Moree           | Post Office Hotel33 Frome Street | 12am (midnight) to 2am on Sunday 31 October 202111pm to 12am (midnight) on Saturday 30 October 2021 |
 | 07/11/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street | 6:10pm to 6:15pm on Wednesday 3 November 2021                |
 | 07/11/2021      | Casual Contact       | Lakemba         | Iqra Youth Welfare Centre24 Ernest Street | 12:55pm to 2:05pm on Friday 5 November 2021                  |
 | 07/11/2021      | Casual Contact       | Ivanhoe         | Ivanhoe Petrol Station28 Columbus Street | 11am to 12pm (noon) on Tuesday 2 November 2021               |

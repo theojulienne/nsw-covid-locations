@@ -54,6 +54,7 @@
 | 07/11/2021      | Casual Contact       | Lakemba         | Iqra Youth Welfare Centre24 Ernest Street | 12:55pm to 2:05pm on Friday 5 November 2021                  |
 | 05/11/2021      | Casual Contact       | Lavington       | Holy Spirit Church550 Prune Street | 8am to 9am on Sunday 31 October 20219am to 9:50am on Saturday 30 October 2021 |
 | 29/10/2021      | Casual Contact       | Macksville      | Local Liquor Macksville17 Cooper Street | 4:20pm to 4:35pm on Wednesday 27 October 2021                |
+| 08/11/2021      | Casual Contact       | Moree           | Post Office Hotel33 Frome Street | 12am (midnight) to 2am on Sunday 31 October 202111pm to 12am (midnight) on Saturday 30 October 2021 |
 | 01/11/2021      | Casual Contact       | Mount Hutton    | Mount Hutton Medical Practice46 Wilsons Road | 12pm (noon) to 1pm on Tuesday 26 October 2021                |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | Pelicans Landing Garden Centre2 Riverside Drive | 12:20pm to 12:30pm on Monday 25 October 2021                 |
 | 29/10/2021      | Casual Contact       | Nambucca Heads  | The Reject Shop Nambucca HeadsNambucca Plaza, Shop 1A/8 Pacific Highway | 2:05pm to 2:20pm on Monday 25 October 2021                   |
@@ -64,6 +65,7 @@
 | 05/11/2021      | Casual Contact       | Orange          | Bunnings OrangeCorner of Northern Distributor Road and Leeds Parade | 8:15am to 8:35am on Monday 1 November 2021                   |
 | 07/11/2021      | Casual Contact       | Orange          | Chemist Warehouse Orange158-160 Summer Street | 6:10pm to 6:15pm on Wednesday 3 November 2021                |
 | 05/11/2021      | Casual Contact       | Orange          | Metro Petroleum Bathurst68 Bathurst Road | 8:15am to 8:20am on Monday 1 November 2021                   |
+| 08/11/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Performing Arts1a Hibbard Drive | 9am to 10:30am on Monday 1 November 2021                     |
 | 03/11/2021      | Casual Contact       | Queanbeyan      | Queanbeyan GP Super Clinic23 Antill Street | 12:50pm to 2:30pm on Thursday 28 October 2021                |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
 | 03/11/2021      | Casual Contact       | South Nowra     | Shoalhaven Shooting Supplies2/17 Bellevue Street | 10:50am to 11:05am on Wednesday 27 October 2021              |
@@ -75,3 +77,5 @@
 | 04/11/2021      | Casual Contact       | Wellington      | Coles Wellington128/140 Percy Street | 6:55pm to 7:10pm on Friday 29 October 2021                   |
 | 05/11/2021      | Casual Contact       | Wellington      | D'Aquino's Liquor Wellington126 Percy Street | 4:35pm to 4:40pm on Monday 1 November 2021                   |
 | 06/11/2021      | Test (isolate w/ symptoms) | Wellington      | The Grand Hotel - Dining Room111-113 Lee Street | 12:30pm to 3:30pm on Tuesday 2 November 2021                 |
+| 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Arrivals hall and male toilets1 Williamtown Drive | 1:08pm to 1:12pm on Wednesday 3 November 2021                |
+| 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Check-in hall, security screening and departure lounge facilities1 Williamtown Drive | 1:13pm to 2:01pm on Monday 1 November 2021                   |
