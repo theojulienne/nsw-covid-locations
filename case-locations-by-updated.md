@@ -5,6 +5,7 @@
 | 07/11/2021      | Casual Contact       | Ivanhoe         | Ivanhoe Petrol Station28 Columbus Street | 11am to 12pm on Tuesday 2 November 2021                      |
 | 07/11/2021      | Casual Contact       | Ivanhoe         | Ivanhoe Hotel Motel10 Columbus Street | 1:20pm to 1:35pm on Wednesday 3 November 20214:30pm to 5:30pm on Tuesday 2 November 2021 |
 | 07/11/2021      | Close Contact        | Inverell        | BEST Community Connections Inverell89 Vivien Street | 8:30am to 3:30pm on Tuesday 2 November 20218:30am to 3:30pm on Monday 1 November 20219:30am to 2:30pm on Friday 29 October 20219:30am to 2:30pm on Thursday 28 October 2021 |
+| 07/11/2021      | Close Contact        | Bondi Beach     | The Pacific Club Bondi Beach182 Campbell Parade | 1pm to 5pm on Tuesday 2 November 2021                        |
 | 07/11/2021      | Casual Contact       | Alstonville     | Alstonville Family DentalThe Plaza, Shop 37/8-20 Robertson Street | All day on Wednesday 3 November 2021All day on Tuesday 2 November 2021All day on Monday 1 November 2021All day on Friday 29 October 2021 |
 | 06/11/2021      | Test (isolate w/ symptoms) | Wellington      | The Grand Hotel - Dining Room111-113 Lee Street | 12:30pm to 3:30pm on Tuesday 2 November 2021                 |
 | 06/11/2021      | Casual Contact       | Kelso           | FoodWorks Kelso8/56 Boyd Street | 3:20pm to 3:25pm on Thursday 4 November 2021                 |
