@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Check-in hall, security screening and departure lounge facilities1 Williamtown Drive | 1:13pm to 2:01pm on Monday 1 November 2021                   |
 | 08/11/2021      | Casual Contact       | Williamtown     | Newcastle Airport - Arrivals hall and male toilets1 Williamtown Drive | 1:08pm to 1:12pm on Wednesday 3 November 2021                |
+| 08/11/2021      | Casual Contact       | Tolland         | Funeral Service TollandChambers Park | All day on Friday 5 November 2021                            |
 | 08/11/2021      | Casual Contact       | South Kempsey   | East Kempsey Cemetery (Graveyard service)Naiooka Street | 11am to 1pm on Wednesday 3 November 2021                     |
 | 08/11/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Performing Arts1a Hibbard Drive | 9am to 10:30am on Monday 1 November 2021                     |
 | 08/11/2021      | Casual Contact       | Moree           | Post Office Hotel33 Frome Street | 12am (midnight) to 2am on Sunday 31 October 202111pm to 12am (midnight) on Saturday 30 October 2021 |
