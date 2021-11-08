@@ -68,6 +68,7 @@
 | 08/11/2021      | Casual Contact       | Port Macquarie  | Port Macquarie Performing Arts1a Hibbard Drive | 9am to 10:30am on Monday 1 November 2021                     |
 | 03/11/2021      | Casual Contact       | Queanbeyan      | Queanbeyan GP Super Clinic23 Antill Street | 12:50pm to 2:30pm on Thursday 28 October 2021                |
 | 29/10/2021      | Casual Contact       | South Grafton   | United Petrol Station South Grafton48 Schwinghammer Street | 3:15pm to 3:20pm on Monday 25 October 2021                   |
+| 08/11/2021      | Casual Contact       | South Kempsey   | East Kempsey Cemetery (Graveyard service)Naiooka Street | 11am to 1pm on Wednesday 3 November 2021                     |
 | 03/11/2021      | Casual Contact       | South Nowra     | Shoalhaven Shooting Supplies2/17 Bellevue Street | 10:50am to 11:05am on Wednesday 27 October 2021              |
 | 04/11/2021      | Close Contact        | Spring Hill     | Revolution Laser Arena Spring Hill1/2 Drummond Street | 2pm to 5pm on Saturday 30 October 2021                       |
 | 05/11/2021      | Casual Contact       | Thirroul        | Madam ChoiShop 5/291-301 Lawrence Hargrave Drive | 5:55pm to 7:30pm on Saturday 30 October 2021                 |
